@@ -1,0 +1,5 @@
+baseURL = "https://nils.moe/"
+languageCode = "en-us"
+title = "Nils' Website"
+theme = "nalsai"
+enableGitInfo = true

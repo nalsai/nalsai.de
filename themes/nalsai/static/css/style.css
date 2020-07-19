@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Quicksand';
+    src: local('Quicksand');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sawarabi Gothic';
+    src: local('Sawarabi Gothic');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    font-family: Quicksand, 'Sawarabi Gothic', sans-serif;
+}

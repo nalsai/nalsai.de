@@ -1,0 +1,7 @@
+{{ $date := now }}
+<footer class="container py-3">
+    <hr class="featurette-divider py-3">
+    <p class="float-right"><a href="#">Back to top</a></p>
+    <p>&copy; 2018-{{ $date.Year }} Nils Fürniß &middot; <a href="/impressum">Impressum</a> &middot; <a href="/datenschutz">Datenschutzerklärung</a></p>
+    <p>Built with <a href="https://gohugo.io">Hugo {{ hugo.Version }}</a>{{ if .GitInfo }} from commit <a href="https://git.nalsai.de/Nalsai/nalsai.de/commit/{{ .GitInfo.Hash }}">{{ .GitInfo.AbbreviatedHash }}</a>{{ end }} on {{ $date.Format "2006-01-02 15:04" }}</p>
+</footer>

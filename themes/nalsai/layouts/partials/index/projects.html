@@ -1,0 +1,22 @@
+<section class="py-3 py-md-5">
+    <div class="card-deck">
+        {{ range first 3 .Site.Menus.projects }}
+        <div class="card">
+            <div class="view overlay">
+                <a href="{{ .URL }}">
+                    <img class="card-img-top" src="/.png" alt="{{ .Name }} Thumbnail">
+                    <div class="mask rgba-white-slight"></div>
+                </a>
+            </div>
+            <div class="card-body">
+                <a href="{{ .URL }}">
+                    <h4 class="card-title">{{ .Name }}</h4>
+                </a>
+                <p class="card-text">
+                    {{ .Page.Description }}
+                </p>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</section>
