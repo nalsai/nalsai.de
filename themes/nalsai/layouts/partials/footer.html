@@ -3,5 +3,5 @@
     <hr class="featurette-divider py-3">
     <p class="float-right ml-4"><a href="#" onclick="document.body.scrollTop=0;document.documentElement.scrollTop=0;event.preventDefault()">{{ i18n "top" }}</a></p>
     <p>&copy; 2018-{{ $date.Year }} Nils Fürniß {{ range .Site.Menus.footer }} &middot; <a href="{{ .URL }}">{{ .Title }}</a>{{ end }}</p>
-    <p>Built with <a href="https://gohugo.io">Hugo {{ hugo.Version }}</a>{{ if .GitInfo }} from commit <a href="https://git.nalsai.de/Nalsai/nalsai.de/commit/{{ .GitInfo.Hash }}">{{ .GitInfo.AbbreviatedHash }}</a>{{ end }} on {{ $date.Format "2006-01-02 15:04" }}</p>
+    <p>Built with <a href="https://gohugo.io">Hugo {{ hugo.Version }}</a>{{ if .GitInfo }} from commit <a href="https://git.nalsai.de/dev.nalsai.de/commit/{{ .GitInfo.Hash }}">{{ .GitInfo.AbbreviatedHash }}</a>{{ end }} on {{ $date.Format "2006-01-02 15:04" }}</p>
 </footer>
