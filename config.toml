@@ -1,5 +1,39 @@
 baseURL = "https://nils.moe/"
-languageCode = "en-us"
 title = "Nils' Website"
 theme = "nalsai"
 enableGitInfo = true
+
+DefaultContentLanguage = "en"
+languageCode = "en-us"
+
+[languages]
+  	[languages.en]
+		languageName = "English"
+    	contentDir = "content/en"
+		title = "Nils' Website"
+		weight = 1
+		[languages.en.params]
+	#      linkedin = "https://linkedin.com/whoever"
+	[languages.de]
+		languageName = "Deutsch"
+    	contentDir = "content/de"
+		title = "Nils' Webseite"
+		weight = 2
+	    [languages.de.params]
+#      linkedin = "https://linkedin.com/de/whoever"
+#      [languages.de.params.navigation]
+#        help = "Hilfe"
+
+[privacy]
+	[privacy.disqus]
+		disable = true
+	[privacy.googleAnalytics]
+		disable = true
+	[privacy.instagram]
+		disable = true
+	[privacy.twitter]
+		disable = true
+	[privacy.vimeo]
+	    disable = true
+	[privacy.youtube]
+	    disable = true

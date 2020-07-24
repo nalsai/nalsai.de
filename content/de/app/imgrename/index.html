@@ -1,0 +1,47 @@
+---
+title: "ImgReName"
+description: "Ein von Open Source C# Programm um fotografierte Bilder zu organisieren."
+menu: ["main", "projects"]
+draft: false
+weight: 2
+---
+
+<a class="btn btn-primary animated fadeInLeft" href="download/Setup.exe">Download (für Windows)</a>&nbsp;
+<a href="https://github.com/Nalsai/ImgReName/" target="_blank" rel="noopener" class="btn btn-primary animated fadeInLeft">Auf GitHub anzeigen</a>&nbsp;
+<hr />
+<div class="row animated fadeInUp">
+    <div class="col-md-6 col-12">
+        <p class="text-justify">
+            ImgReName verschiebt die ausgewählten Bilder/Videos automatisch in Ordner, die nach dem Aufnhamedatum im Format
+            <kbd>yyyy-MM-dd</kbd>
+            benannt sind und bennent sie nach ihrem Aufnahmezeitpunkt. Es gibt zwei Dateibenennungsmethoden zur Auswahl:
+            <div class="row">
+                <div class="col-5">
+                    <div class="list-group" id="list-tab" role="tablist">
+                        <a class="list-group-item list-group-item-action active" id="list-OrigImgRename-list" data-toggle="list" href="#list-OrigImgRename" role="tab">Original ImgRename von Michael</a>
+                        <a class="list-group-item list-group-item-action" id="list-Img_Datum_Uhrzeit-list" data-toggle="list" href="#list-Img_Datum_Uhrzeit" role="tab">IMG_Datum_Uhrzeit</a>
+                    </div>
+                </div>
+                <div class="col-7">
+                    <div class="tab-content" id="nav-tabContent">
+                        <div class="tab-pane fade show active" id="list-OrigImgRename">
+                            Bennent die Dateien indem es aus dem Jahr und dem Monat einen Buchstabe macht
+                            (2000=A ,2001=B, ...) (Januar=A, Februar=B, ...) und diese hintereinander schreibt.
+                            Falls der Monatstag kleiner oder gleich 9 ist schreibt es die Nummer dafür dahinter,
+                            wenn das nicht der Fall ist, macht es daraus auch einen Buchtaben (10=A, 11=B,...).
+                            Dahinter schreibt es dann das Ergebnis von Stunde * 3600 + Minute * 60 + Sekunde.
+                            Bei Videos schreibt es an den Anfang des Namens zusätzlich <kbd>VID_</kbd>.
+                        </div>
+                        <div class="tab-pane fade" id="list-Img_Datum_Uhrzeit">
+                            Bennent die Dateien nach dem Schema <kbd>IMG_yyyyMMdd_HHmmss</kbd>.
+                            Bei Videos schreibt es an den Anfang des Namens <kbd>VID</kbd> anstelle von <kbd>IMG</kbd>.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </p>
+    </div>
+    <div class="col-md-6 col-12 text-center">
+        <img class="img-fluid" src="img/ImgReName.png" alt="ImgReName Demo Bild">
+    </div>
+</div>

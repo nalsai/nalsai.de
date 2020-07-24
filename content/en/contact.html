@@ -1,0 +1,25 @@
+---
+title: "Contact"
+menu: "main"
+type: "containered"
+draft: false
+weight: 6
+---
+
+<h1 class="my-4">Contact</h1>
+<form name="contact" method="POST" action="/contact-success/" netlify>
+    <input type="text" name="Name" class="form-control mb-4" placeholder="Name" required autocomplete="name">
+    <input type="email" name="E-Mail" class="form-control mb-4" placeholder="E-Mail" required autocomplete="email">
+    <input type="text" name="Betreff" class="form-control mb-4" placeholder="Betreff" required>
+    <div class="form-group">
+        <textarea name="Nachricht" class="form-control rounded-1" rows="4" placeholder="Nachricht" required></textarea>
+    </div>
+    <div class="custom-control custom-checkbox mb-4">
+        <input type="checkbox" class="custom-control-input" id="ContactFormGDPR" required>
+        <label class="custom-control-label" for="ContactFormGDPR">
+            Ich habe die <a href="/datenschutz">Datenschutzerklärung</a> zur Kenntnis genommen und stimme zu, dass
+            meine Angaben elektronisch gespeichert werden.
+        </label>
+    </div>
+    <button class="btn btn-lg btn-primary btn-block" type="submit">Absenden</button>
+</form>

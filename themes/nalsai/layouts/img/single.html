@@ -1,0 +1,12 @@
+{{ define "main" }}
+<main>
+    {{ .Content }}
+    <hr>
+    hi
+    {{ with .Resources.ByType "image" }}
+    {{ range . }}
+    {{ .RelPermalink }}
+    {{ end }}
+    {{ end }}
+</main>
+{{ end }}

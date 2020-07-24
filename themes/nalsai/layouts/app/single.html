@@ -1,17 +1,9 @@
-<!DOCTYPE html>
-<html lang="{{ .Site.Language.Lang }}">
-
-<head>
-    {{ partial "head" . }}
-</head>
-
-<body>
-    {{ partial "navbar" . }}
-    <div class="container">
+{{ define "main" }}
+<div class="container">
+    <main>
+        <h1 class="my-4">{{ .Title }}</h1>
+        <p class="lead text-justify">{{ .Description }}</p>
         {{ .Content }}
-    </div>
-    {{ partial "footer" . }}
-</body>
-{{ partial "insertAfterBody" . }}
-
-</html>
+    </main>
+</div>
+{{ end }}

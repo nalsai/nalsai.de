@@ -1,0 +1,26 @@
+<section class="py-4">
+    <div class="card-deck">
+        {{ range .Site.Menus.projects }}
+        <div class="card">
+            {{ if .Page.Resources.GetMatch "img/thumb*" }}
+            {{- $image := .Page.Resources.GetMatch "img/thumb*" -}}
+            <!--{{ $image := $image.Resize "600x" }}-->
+            <div class="view overlay">
+                <a href="{{ .URL }}">
+                    <img class="card-img-top" src="{{ $image.Permalink }}" alt="{{ .Title }} Thumbnail">
+                    <div class="mask rgba-white-slight"></div>
+                </a>
+            </div>
+            {{ end }}
+            <div class="card-body">
+                <a href="{{ .URL }}">
+                    <h4 class="card-title">{{ .Title }}</h4>
+                </a>
+                <p class="card-text">
+                    {{ .Page.Description }}
+                </p>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</section>

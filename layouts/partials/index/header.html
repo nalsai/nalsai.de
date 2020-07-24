@@ -1,0 +1,52 @@
+<style> 
+    #intro {
+        background: url("/img/TH969382.jpg") no-repeat center center fixed;
+        background-size: cover;
+        padding: 8rem 4rem;
+    }
+</style>
+<header id="intro" class="text-center bg-dark mb-5">
+    <div class="col-lg-10 col-xl-8 p-lg-5 mx-auto my-5">
+        <h1 class="display-3 font-weight-normal pb-3 pt-5">{{ .Site.Title }}</h1>
+        <p id="QuotesEtc" class="lead font-weight-normal pb-5 pt-3 mb-5">I see that you don't have JavaScript enabled...</p>
+    </div>
+</header>
+
+<script>
+    var d = new Date();
+    var n = d.getDay();
+    var Mo = d.getMonth();
+    var Da = d.getDate();
+    if (Mo == 11 && Da == 13) {
+        $("#QuotesEtc").html("Ich habe Geburtstag!");
+    }
+    else if (Mo == 11 && Da == 24 || Mo == 11 && Da == 25 || Mo == 11 && Da == 26) {
+        quotes = [];
+        quotes[0] = "Frohe Weihnachten";
+        quotes[1] = "Merry Christmas";
+        quotes[2] = "メリークリスマス";
+        index = Math.floor(Math.random() * quotes.length);
+        $("#QuotesEtc").html(quotes[index]);
+    }
+    else if (Mo == 11 && Da == 31 || Mo == 0 && Da == 1) {
+        $("#QuotesEtc").html("Frohes neues Jahr!");
+    }
+    else {
+        quotes = [];
+        quotes[0] = "&nbsp;";
+        quotes[1] = "Why do Java Developers need glasses? Because they can't C#.";
+        quotes[2] = "„Das Problem mit Zitaten im Internet ist, dass man nie weiß, ob sie echt sind.“ - Goethe";
+        quotes[3] = "seven ate nine";
+        quotes[4] = "Fall.net";
+        quotes[5] = "Have a nice trip, see you next fall!";
+        quotes[6] = "Illuminati confirmed!";
+        quotes[7] = "お前はもう死んでいる";
+        quotes[8] = "ちゅんちゅんまる";
+        quotes[9] = "え アタシ！？";
+        quotes[10] = "分かんない";
+        if (n == 3)
+            quotes[quotes.length++] = "It's wednesday my dudes!";
+        index = Math.floor(Math.random() * quotes.length);
+        $("#QuotesEtc").html(quotes[index]);
+    }
+</script>

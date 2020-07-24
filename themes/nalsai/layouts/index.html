@@ -1,20 +1,3 @@
-<!DOCTYPE html>
-<html lang="{{ .Site.Language.Lang }}">
-
-<head>
-    {{ partial "head" . }}
-</head>
-
-<body>
-    {{ partial "navbar" . }}
-    {{ partial "index/header" . }}
-    <div class="container">
-    {{ partial "index/about" . }}
-    {{ partial "index/sns" . }}
-    {{ partial "index/projects" . }}
-    </div>
-    {{ partial "footer" . }}
-</body>
-{{ partial "insertAfterBody" . }}
-
-</html>
+{{ define "main" }}
+{{ .Content }}
+{{ end }}
