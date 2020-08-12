@@ -1,5 +1,6 @@
 ---
 title: "Datenschutz"
+slug: "datenschutz"
 menu: "footer"
 weight: 2
 type: "containered"

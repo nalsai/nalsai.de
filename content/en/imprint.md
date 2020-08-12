@@ -6,32 +6,26 @@ type: "containered"
 draft: false
 ---
 
-# Impressum (TODO: translate)
+# Imprint
 
-## Angaben gemäß § 5 TMG:
+## Service Provider
 
 Nils Fürniß  
-Waldstraße 47a  
+Waldstrasse 47a  
 76351 Linkenheim-Hochstetten  
-E-Mail: kontakt@nalsai.de  
-Telefon: 07247 9342949
+Germany
 
-## Haftung für Inhalte
+## Contact Options
 
-Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
+**Email address:** [contact@nalsai.de](mailto:contact@nalsai.de)  
+**Phone:** 07247 9342949
 
-Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
+## Liability and property rights notices
 
-## Haftung für Links
+**Disclaimer**: The content of this online offer was created carefully and according to our current state of knowledge, but is only for information and does not have a legally binding effect unless it is legally binding information (e.g. the imprint, the data protection declaration, terms and conditions or mandatory Instructions from consumers). We reserve the right to change or delete the content in whole or in part, insofar as contractual obligations remain unaffected. All offers are non-binding.
 
-Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar.
+**Links to external websites**: Contents of external websites to which we refer directly or indirectly are outside our area of ​​responsibility and we do not adopt them as our own. The provider of the linked websites is solely responsible for all content, and in particular for damage resulting from the use of the information available on the linked websites.
 
-Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
+**Indications of legal violations**: If you notice any legal violations on our website, please let us know. We will remove illegal content and links immediately after becoming aware of them.
 
-## Urheberrecht
-
-Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.
-
-Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
-
-Quelle: [eRecht24](https://www.erecht24.de)
+[Translated from German version created with free Datenschutz-Generator.de by Dr. Thomas Schwenke](https://datenschutz-generator.de/?l=de "Legal text from Dr. Schwenke - please click for further information.")

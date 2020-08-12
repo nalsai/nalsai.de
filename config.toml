@@ -4,25 +4,20 @@ theme = "nalsai"
 enableGitInfo = true
 
 DefaultContentLanguage = "en"
-languageCode = "en-us"
 
 [languages]
   	[languages.en]
+    	baseURL = "https://en.nalsai.de"
 		languageName = "English"
     	contentDir = "content/en"
 		title = "Nils' Website"
-		weight = 1
-		[languages.en.params]
-	#      linkedin = "https://linkedin.com/whoever"
+		weight = 2
 	[languages.de]
+    	baseURL = "https://dev.nalsai.de"
 		languageName = "Deutsch"
     	contentDir = "content/de"
 		title = "Nils' Webseite"
-		weight = 2
-	    [languages.de.params]
-#      linkedin = "https://linkedin.com/de/whoever"
-#      [languages.de.params.navigation]
-#        help = "Hilfe"
+		weight = 1
 
 [privacy]
 	[privacy.disqus]
