@@ -1,11 +1,11 @@
----
-title: "Datenschutz"
-slug: "datenschutz"
-menu: "footer"
-weight: 2
-type: "containered"
-draft: false
----
++++
+title = "Datenschutz"
+slug = "datenschutz"
+menu = "footer"
+weight = 2
+type = "containered"
+draft = false
++++
 
 # Datenschutzerklärung
 

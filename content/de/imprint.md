@@ -1,11 +1,11 @@
----
-title: "Impressum"
-slug: "impressum"
-menu: "footer"
-weight: 1
-type: "containered"
-draft: false
----
++++
+title = "Impressum"
+slug = "impressum"
+menu = "footer"
+weight = 1
+type = "containered"
+draft = false
++++
 
 # Impressum
 

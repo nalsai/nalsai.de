@@ -1,10 +1,10 @@
----
-title: "Imprint"
-menu: "footer"
-weight: 1
-type: "containered"
-draft: false
----
++++
+title = "Imprint"
+menu = "footer"
+weight = 1
+type = "containered"
+draft = false
++++
 
 # Imprint
 

@@ -1,10 +1,10 @@
----
-title: "Privacy Policy"
-menu: "footer"
-weight: 2
-type: "containered"
-draft: false
----
++++
+title = "Privacy Policy"
+menu = "footer"
+weight = 2
+type = "containered"
+draft = false
++++
 
 # Datenschutzerklärung (TODO: translate)
 

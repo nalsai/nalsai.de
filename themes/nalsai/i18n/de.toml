@@ -1,2 +1,11 @@
 [top]
 other = "Zurück nach oben"
+
+[built]
+other = "Erstellt mit "
+
+[commit]
+other = " aus Commit "
+
+[on]
+other = " am "
