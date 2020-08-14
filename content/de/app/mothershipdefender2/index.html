@@ -6,17 +6,6 @@ draft = false
 weight = 4
 +++
 
-<div class="btn-group animated fadeInLeft">
-    <a class="btn btn-primary" href="https://play.google.com/store/apps/details?id=com.Nalsai.MothershipDefender2">Download (für Android)</a>
-    <button type="button" class="btn btn-primary dropdown-toggle px-3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></button>
-    <div class="dropdown-menu">
-        <a class="dropdown-item black-text" href="https://github.com/Nalsai/MothershipDefender2/releases/download/v2.2.4/MothershipDefender2_v2.2.4_x64.zip">Für Windows (64bit)</a>
-        <a class="dropdown-item black-text" href="https://github.com/Nalsai/MothershipDefender2/releases/download/v2.2.4/MothershipDefender2_v2.2.4_x86.zip">Für Windows (32bit)</a>
-    </div>
-</div>&nbsp;
-<a class="btn btn-primary animated fadeInLeft" href="https://github.com/Nalsai/MothershipDefender2/" rel="noopener">Auf GitHub anzeigen</a>&nbsp;
-<a class="btn btn-primary animated fadeInLeft" id="WebGLsmall" href="WebGL/small">Im Browser spielen</a>
-<a class="btn btn-primary animated fadeInLeft" id="WebGL" href="WebGL">Im Browser spielen</a>
 <style>
     #WebGL {
         display: none;
@@ -41,8 +30,40 @@ weight = 4
         }
     }
 </style>
-<hr>
-<div class="row animated fadeInUp">
+<button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-download" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+        <path fill-rule="evenodd" d="M.5 8a.5.5 0 0 1 .5.5V12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V8.5a.5.5 0 0 1 1 0V12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V8.5A.5.5 0 0 1 .5 8z"/>
+        <path fill-rule="evenodd" d="M5 7.5a.5.5 0 0 1 .707 0L8 9.793 10.293 7.5a.5.5 0 1 1 .707.707l-2.646 2.647a.5.5 0 0 1-.708 0L5 8.207A.5.5 0 0 1 5 7.5z"/>
+        <path fill-rule="evenodd" d="M8 1a.5.5 0 0 1 .5.5v8a.5.5 0 0 1-1 0v-8A.5.5 0 0 1 8 1z"/>
+    </svg>
+    Download
+</button>
+<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+    <a class="dropdown-item black-text" href="https://play.google.com/store/apps/details?id=com.Nalsai.MothershipDefender2" target="_blank" rel="noopener">Für Android (Google Play)</a>
+    <a class="dropdown-item black-text" href="#" target="_blank" rel="noopener">Für Android (APK)</a>
+    <a class="dropdown-item black-text" href="https://github.com/Nalsai/MothershipDefender2/releases/download/v2.2.4/MothershipDefender2_v2.2.4_x64.zip" target="_blank" rel="noopener">Für Windows (64bit)</a>
+    <a class="dropdown-item black-text" href="https://github.com/Nalsai/MothershipDefender2/releases/download/v2.2.4/MothershipDefender2_v2.2.4_x86.zip" target="_blank" rel="noopener">Für Windows (32bit)</a>
+</div>
+<a class="btn btn-primary" href="https://github.com/Nalsai/MothershipDefender2/" target="_blank" rel="noopener">
+    <svg width="1em" height="1em" fill="currentColor" viewBox="0 0 128 125" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+        <path d="M63.994.152C28.66.152 0 28.806 0 64.158c0 28.272 18.336 52.26 43.768 60.726 3.2.586 4.37-1.392 4.37-3.084 0-1.52-.06-5.544-.092-10.888-17.8 3.87-21.56-8.576-21.56-8.576-2.906-7.394-7.102-9.364-7.102-9.364-5.812-3.972.44-3.888.44-3.888 6.424.452 9.8 6.592 9.8 6.592 5.712 9.784 14.984 6.96 18.63 5.32.58-4.14 2.234-6.96 4.06-8.56-14.21-1.612-29.15-7.104-29.15-31.63 0-6.984 2.494-12.7 6.588-17.172-.66-1.62-2.856-8.12.628-16.932 0 0 5.374-1.72 17.6 6.56 5.104-1.42 10.58-2.128 16.02-2.152 5.44.024 10.914.734 16.024 2.154 12.22-8.28 17.58-6.56 17.58-6.56 3.496 8.81 1.3 15.316.64 16.936 4.104 4.476 6.58 10.19 6.58 17.174 0 24.586-14.966 30-29.22 31.58 2.296 1.98 4.34 5.88 4.34 11.854 0 8.556-.076 15.46-.076 17.56 0 1.706 1.154 3.7 4.4 3.074C109.68 116.396 128 92.42 128 64.156 128 28.808 99.344.152 63.994.152z"/>
+    </svg>
+    Auf GitHub anzeigen
+</a>
+<a class="btn btn-primary" id="WebGLsmall" href="WebGL/small"> 
+    <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-play-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+        <path d="M11.596 8.697l-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"/>
+    </svg>
+    Im Browser spielen
+</a>
+<a class="btn btn-primary" id="WebGL" href="WebGL">
+    <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-play-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+        <path d="M11.596 8.697l-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"/>
+    </svg>
+    Im Browser spielen
+</a>
+<hr class="py-1">
+<div class="row">
     <div class="col-md-6 col-12">
         <p class="text-justify">
             Hier steht irgendein Text, den hoffentlich sowieso niemand liest, denn ich weiß nicht so recht, was ich hier tolles hin
@@ -50,19 +71,15 @@ weight = 4
             des Spiels. Aktuell sieht es besser aus.
         </p>
     </div>
-    <div class="col-md-6 col-12 text-center">
-        <img class="img-fluid" src="img/Promotional.jpg" alt="MothershipDefender2 Demo Bild">
+    <div class="col-md-6 col-12">
+        <img class="img-fluid" src="img/promotional.jpg" alt="MothershipDefender2 Demo Bild">
     </div>
-
-    <div class="col-12 clearfix">
-        <br>
-    </div>
-
-    <div class="col-md-6 col-12 text-center">
-        <img class="img-fluid" src="img/Play.jpg" alt="MothershipDefender2 Demo Bild">
+    <div class="col-12 py-2"></div>
+    <div class="col-md-6 col-12">
+        <img class="img-fluid" src="img/play.jpg" alt="MothershipDefender2 Demo Bild">
         <span>&nbsp;</span> <!-- Adds space for mobile view -->
     </div>
-    <div class="col-md-6 col-12 text-center">
-        <img class="img-fluid" src="img/Screenshot.jpg" alt="MothershipDefender2 Demo Bild">
+    <div class="col-md-6 col-12">
+        <img class="img-fluid" src="img/screenshot.jpg" alt="MothershipDefender2 Demo Bild">
     </div>
 </div>

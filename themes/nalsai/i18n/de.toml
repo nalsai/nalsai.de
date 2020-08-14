@@ -5,7 +5,7 @@ other = "Zurück nach oben"
 other = "Erstellt mit "
 
 [commit]
-other = " aus Commit "
+other = "aus Commit"
 
 [on]
-other = " am "
+other = "am"

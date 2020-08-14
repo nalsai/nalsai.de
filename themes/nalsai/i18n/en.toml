@@ -2,10 +2,10 @@
 other = "Back to top"
 
 [built]
-other = "Built with "
+other = "Built with"
 
 [commit]
-other = " from commit "
+other = "from commit"
 
 [on]
-other = " on "
+other = "on"
