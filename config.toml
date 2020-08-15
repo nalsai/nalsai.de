@@ -13,7 +13,7 @@ DefaultContentLanguage = "en"
 		title = "Nils' Website"
 		weight = 2
 	[languages.de]
-    	baseURL = "https://dev.nalsai.de"
+    	baseURL = "https://nalsai.de"
 		languageName = "Deutsch"
     	contentDir = "content/de"
 		title = "Nils' Webseite"
