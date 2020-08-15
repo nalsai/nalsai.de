@@ -1,8 +1,8 @@
 @font-face {
     font-family: 'Sawarabi Gothic';
     src: local('Sawarabi Gothic')
-        url('/fonts/SawarabiGothic-Regular.woff2') format('woff2'),
-        url('/fonts/SawarabiGothic-Regular.woff') format('woff');
+        url('fonts/SawarabiGothic-Regular.woff2') format('woff2'),
+        url('fonts/SawarabiGothic-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -11,8 +11,8 @@
 @font-face {
     font-family: 'Quicksand';
     src: local('Quicksand Regular')
-        url('/fonts/Quicksand-Regular.woff2') format('woff2'),
-        url('/fonts/Quicksand-Regular.woff') format('woff');
+        url('fonts/Quicksand-Regular.woff2') format('woff2'),
+        url('fonts/Quicksand-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
