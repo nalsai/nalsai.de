@@ -1,5 +1,6 @@
 +++
 title = "Mothership Defender 2"
+url = "/mothershipdefender2"
 description = "Ein Remake des ersten Mothership Defender in Unity für Windows, Android und den Browser."
 menu = ["main", "projects"]
 draft = false
@@ -10,23 +11,9 @@ weight = 4
     #WebGL {
         display: none;
     }
-    #WebGLsmall {
-        display: none;
-    }
-    @media screen and (min-width: 960px) and (max-height: 820px) {
-        #WebGLsmall {
-            display: inline-block;
-        }
-        #WebGL {
-            display: none;
-        }
-    }
-    @media screen and (min-width: 960px) and (min-height: 820px) {
+    @media screen and (min-width: 960px) and (min-height: 640px) {
         #WebGL {
             display: inline-block;
-        }
-        #WebGLsmall {
-            display: none;
         }
     }
 </style>
@@ -40,9 +27,7 @@ weight = 4
 </button>
 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
     <a class="dropdown-item black-text" href="https://play.google.com/store/apps/details?id=com.Nalsai.MothershipDefender2" target="_blank" rel="noopener">Für Android (Google Play)</a>
-    <a class="dropdown-item black-text" href="#" target="_blank" rel="noopener">Für Android (APK)</a>
-    <a class="dropdown-item black-text" href="https://github.com/Nalsai/MothershipDefender2/releases/download/v2.2.4/MothershipDefender2_v2.2.4_x64.zip" target="_blank" rel="noopener">Für Windows (64bit)</a>
-    <a class="dropdown-item black-text" href="https://github.com/Nalsai/MothershipDefender2/releases/download/v2.2.4/MothershipDefender2_v2.2.4_x86.zip" target="_blank" rel="noopener">Für Windows (32bit)</a>
+    <a class="dropdown-item black-text" href="https://github.com/Nalsai/MothershipDefender2/releases/download/v2.3.0/MothershipDefender2_v2.3.0.zip" target="_blank" rel="noopener">Für Windows (64bit)</a>
 </div>
 <a class="btn btn-primary" href="https://github.com/Nalsai/MothershipDefender2/" target="_blank" rel="noopener">
     <svg width="1em" height="1em" fill="currentColor" viewBox="0 0 128 125" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
@@ -50,13 +35,7 @@ weight = 4
     </svg>
     Auf GitHub anzeigen
 </a>
-<a class="btn btn-primary" id="WebGLsmall" href="WebGL/small"> 
-    <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-play-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-        <path d="M11.596 8.697l-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"/>
-    </svg>
-    Im Browser spielen
-</a>
-<a class="btn btn-primary" id="WebGL" href="WebGL">
+<a class="btn btn-primary" id="WebGL" href="WebGL/" target="_blank" rel="noopener">
     <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-play-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
         <path d="M11.596 8.697l-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"/>
     </svg>

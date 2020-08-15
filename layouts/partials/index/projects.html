@@ -4,7 +4,7 @@
         <div class="card">
             {{ if .Page.Resources.GetMatch "img/thumb*" }}
             {{- $image := .Page.Resources.GetMatch "img/thumb*" -}}
-            <!--{{ $image := $image.Resize "600x" }}-->
+            {{ $image := $image.Resize "480x360" }}
             <div class="view overlay">
                 <a href="{{ .URL }}">
                     <img class="card-img-top" src="{{ $image.Permalink }}" alt="{{ .Title }} Thumbnail">
@@ -14,7 +14,7 @@
             {{ end }}
             <div class="card-body">
                 <a href="{{ .URL }}">
-                    <h4 class="card-title">{{ .Title }}</h4>
+                    <p class="card-title h4">{{ .Title }}</p>
                 </a>
                 <p class="card-text">
                     {{ .Page.Description }}

@@ -16,7 +16,7 @@ Waldstrasse 47a
 76351 Linkenheim-Hochstetten  
 Deutschland  
 Telefon: 07247 9342949  
-E-Mail: kontakt@nalsai.de
+E-Mail: contact@nalsai.de
 
 
 ## Haftungsausschluss:
