@@ -9,153 +9,101 @@ draft = false
 
 # Datenschutzerklärung
 
-Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) im Rahmen der Erbringung unserer Leistungen sowie innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepräsenzen, wie z.B. unser Social Media Profile auf (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).  
+## Datenschutz
 
-### Verantwortlicher
+Wir haben diese Datenschutzerklärung verfasst, um Ihnen gemäß der Vorgaben der [Datenschutz-Grundverordnung (EU) 2016/679](https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=celex%3A32016R0679&tid=311203132) zu erklären, welche Informationen wir sammeln, wie wir Daten verwenden und welche Entscheidungsmöglichkeiten Sie als Besucher dieser Webseite haben.
 
-Nils Fürniß  
-Waldstraße 47a  
-76351 Linkenheim-Hochstetten  
-E-Mail: kontakt@nalsai.de  
-Telefon: 07247 9342949
+Leider liegt es in der Natur der Sache, dass diese Erklärungen sehr technisch klingen, wir haben uns bei der Erstellung jedoch bemüht die wichtigsten Dinge so einfach und klar wie möglich zu beschreiben.
 
-### Arten der verarbeiteten Daten
+## Automatische Datenspeicherung
 
-- Bestandsdaten (z.B., Personen-Stammdaten, Namen oder Adressen).  
-- Kontaktdaten (z.B., E-Mail, Telefonnummern).  
-- Inhaltsdaten (z.B., Texteingaben, Fotografien, Videos).  
-- Nutzungsdaten (z.B., besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten).  
-- Meta-/Kommunikationsdaten (z.B., Geräte-Informationen, IP-Adressen).
+Wenn Sie heutzutage Webseiten besuchen, werden gewisse Informationen automatisch erstellt und gespeichert, so auch auf dieser Webseite.
 
-### Kategorien betroffener Personen
+Wenn Sie unsere Webseite so wie jetzt gerade besuchen, speichert unser Webserver (Computer auf dem diese Webseite gespeichert ist) automatisch Daten wie
 
-Besucher und Nutzer des Onlineangebotes (Nachfolgend bezeichnen wir die betroffenen Personen zusammenfassend auch als „Nutzer“).  
+*   die Adresse (URL) der aufgerufenen Webseite
+*   Browser und Browserversion
+*   das verwendete Betriebssystem
+*   die Adresse (URL) der zuvor besuchten Seite (Referrer URL)
+*   den Hostname und die IP-Adresse des Geräts von welchem aus zugegriffen wird
+*   Datum und Uhrzeit
 
-### Zweck der Verarbeitung
+in Dateien (Webserver-Logfiles).
 
-- Zurverfügungstellung des Onlineangebotes, seiner Funktionen und Inhalte.
-- Beantwortung von Kontaktanfragen und Kommunikation mit Nutzern.
-- Sicherheitsmaßnahmen.
-- Reichweitenmessung/Marketing
+In der Regel werden Webserver-Logfiles zwei Wochen gespeichert und danach automatisch gelöscht. Wir geben diese Daten nicht weiter, können jedoch nicht ausschließen, dass diese Daten beim Vorliegen von rechtswidrigem Verhalten eingesehen werden.
 
-### Verwendete Begrifflichkeiten
+## Speicherung persönlicher Daten
 
-„Personenbezogene Daten“ sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (im Folgenden „betroffene Person“) beziehen; als identifizierbar wird eine natürliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung (z.B. Cookie) oder zu einem oder mehreren besonderen Merkmalen identifiziert werden kann, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind.  
+Persönliche Daten, die Sie uns auf dieser Website elektronisch übermitteln, wie zum Beispiel Name, E-Mail-Adresse, Adresse oder andere persönlichen Angaben im Rahmen der Übermittlung eines Formulars oder Kommentaren im Blog, werden von uns gemeinsam mit dem Zeitpunkt und der IP-Adresse nur zum jeweils angegebenen Zweck verwendet, sicher verwahrt und nicht an Dritte weitergegeben.
 
-„Verarbeitung“ ist jeder mit oder ohne Hilfe automatisierter Verfahren ausgeführte Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit personenbezogenen Daten. Der Begriff reicht weit und umfasst praktisch jeden Umgang mit Daten.  
+Wir nutzen Ihre persönlichen Daten somit nur für die Kommunikation mit jenen Besuchern, die Kontakt ausdrücklich wünschen und für die Abwicklung der auf dieser Webseite angebotenen Dienstleistungen und Produkte. Wir geben Ihre persönlichen Daten ohne Zustimmung nicht weiter, können jedoch nicht ausschließen, dass diese Daten beim Vorliegen von rechtswidrigem Verhalten eingesehen werden.
 
-„Pseudonymisierung“ die Verarbeitung personenbezogener Daten in einer Weise, dass die personenbezogenen Daten ohne Hinzuziehung zusätzlicher Informationen nicht mehr einer spezifischen betroffenen Person zugeordnet werden können, sofern diese zusätzlichen Informationen gesondert aufbewahrt werden und technischen und organisatorischen Maßnahmen unterliegen, die gewährleisten, dass die personenbezogenen Daten nicht einer identifizierten oder identifizierbaren natürlichen Person zugewiesen werden.  
+Wenn Sie uns persönliche Daten per E-Mail schicken – somit abseits dieser Webseite – können wir keine sichere Übertragung und den Schutz Ihrer Daten garantieren. Wir empfehlen Ihnen, vertrauliche Daten niemals unverschlüsselt per E-Mail zu übermitteln.
 
-„Profiling“ jede Art der automatisierten Verarbeitung personenbezogener Daten, die darin besteht, dass diese personenbezogenen Daten verwendet werden, um bestimmte persönliche Aspekte, die sich auf eine natürliche Person beziehen, zu bewerten, insbesondere um Aspekte bezüglich Arbeitsleistung, wirtschaftliche Lage, Gesundheit, persönliche Vorlieben, Interessen, Zuverlässigkeit, Verhalten, Aufenthaltsort oder Ortswechsel dieser natürlichen Person zu analysieren oder vorherzusagen.  
+Die Rechtsgrundlage besteht nach [Artikel 6 Absatz 1 a DSGVO](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679&from=DE&tid=311203132) (Rechtmäßigkeit der Verarbeitung) darin, dass Sie uns die Einwilligung zur Verarbeitung der von Ihnen eingegebenen Daten geben. Sie können diesen Einwilligung jederzeit widerrufen – eine formlose E-Mail reicht aus, Sie finden unsere Kontaktdaten im Impressum.
 
-Als „Verantwortlicher“ wird die natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet, bezeichnet.  
+## Rechte laut Datenschutzgrundverordnung
 
-„Auftragsverarbeiter“ eine natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die personenbezogene Daten im Auftrag des Verantwortlichen verarbeitet.  
+Ihnen stehen laut den Bestimmungen der DSGVO grundsätzlich die folgende Rechte zu:
 
-### Maßgebliche Rechtsgrundlagen
+*   Recht auf Berichtigung (Artikel 16 DSGVO)
+*   Recht auf Löschung („Recht auf Vergessenwerden“) (Artikel 17 DSGVO)
+*   Recht auf Einschränkung der Verarbeitung (Artikel 18 DSGVO)
+*   Recht auf Benachrichtigung – Mitteilungspflicht im Zusammenhang mit der Berichtigung oder Löschung personenbezogener Daten oder der Einschränkung der Verarbeitung (Artikel 19 DSGVO)
+*   Recht auf Datenübertragbarkeit (Artikel 20 DSGVO)
+*   Widerspruchsrecht (Artikel 21 DSGVO)
+*   Recht, nicht einer ausschließlich auf einer automatisierten Verarbeitung — einschließlich Profiling — beruhenden Entscheidung unterworfen zu werden (Artikel 22 DSGVO)
 
-Nach Maßgabe des Art. 13 DSGVO teilen wir Ihnen die Rechtsgrundlagen unserer Datenverarbeitungen mit. Für Nutzer aus dem Geltungsbereich der Datenschutzgrundverordnung (DSGVO), d.h. der EU und des EWG gilt, sofern die Rechtsgrundlage in der Datenschutzerklärung nicht genannt wird, Folgendes:  
-Die Rechtsgrundlage für die Einholung von Einwilligungen ist Art. 6 Abs. 1 lit. a und Art. 7 DSGVO;  
-Die Rechtsgrundlage für die Verarbeitung zur Erfüllung unserer Leistungen und Durchführung vertraglicher Maßnahmen sowie Beantwortung von Anfragen ist Art. 6 Abs. 1 lit. b DSGVO;  
-Die Rechtsgrundlage für die Verarbeitung zur Erfüllung unserer rechtlichen Verpflichtungen ist Art. 6 Abs. 1 lit. c DSGVO;  
-Für den Fall, dass lebenswichtige Interessen der betroffenen Person oder einer anderen natürlichen Person eine Verarbeitung personenbezogener Daten erforderlich machen, dient Art. 6 Abs. 1 lit. d DSGVO als Rechtsgrundlage.  
-Die Rechtsgrundlage für die erforderliche Verarbeitung zur Wahrnehmung einer Aufgabe, die im öffentlichen Interesse liegt oder in Ausübung öffentlicher Gewalt erfolgt, die dem Verantwortlichen übertragen wurde ist Art. 6 Abs. 1 lit. e DSGVO.  
-Die Rechtsgrundlage für die Verarbeitung zur Wahrung unserer berechtigten Interessen ist Art. 6 Abs. 1 lit. f DSGVO.  
-Die Verarbeitung von Daten zu anderen Zwecken als denen, zu denen sie ehoben wurden, bestimmt sich nach den Vorgaben des Art 6 Abs. 4 DSGVO.  
-Die Verarbeitung von besonderen Kategorien von Daten (entsprechend Art. 9 Abs. 1 DSGVO) bestimmt sich nach den Vorgaben des Art. 9 Abs. 2 DSGVO.  
+Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche sonst in einer Weise verletzt worden sind, können Sie sich an die [Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI)](https://www.bfdi.bund.de) wenden.
 
-### Sicherheitsmaßnahmen
+## Auswertung des Besucherverhaltens
 
-Wir treffen nach Maßgabe der gesetzlichen Vorgabenunter Berücksichtigung des Stands der Technik, der Implementierungskosten und der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten natürlicher Personen, geeignete technische und organisatorische Maßnahmen, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten.  
+In der folgenden Datenschutzerklärung informieren wir Sie darüber, ob und wie wir Daten Ihres Besuchs dieser Website auswerten. Die Auswertung der gesammelten Daten erfolgt in der Regel anonym und wir können von Ihrem Verhalten auf dieser Website nicht auf Ihre Person schließen.
 
-Zu den Maßnahmen gehören insbesondere die Sicherung der Vertraulichkeit, Integrität und Verfügbarkeit von Daten durch Kontrolle des physischen Zugangs zu den Daten, als auch des sie betreffenden Zugriffs, der Eingabe, Weitergabe, der Sicherung der Verfügbarkeit und ihrer Trennung. Des Weiteren haben wir Verfahren eingerichtet, die eine Wahrnehmung von Betroffenenrechten, Löschung von Daten und Reaktion auf Gefährdung der Daten gewährleisten. Ferner berücksichtigen wir den Schutz personenbezogener Daten bereits bei der Entwicklung, bzw. Auswahl von Hardware, Software sowie Verfahren, entsprechend dem Prinzip des Datenschutzes durch Technikgestaltung und durch datenschutzfreundliche Voreinstellungen.  
+Mehr über Möglichkeiten dieser Auswertung der Besuchsdaten zu widersprechen erfahren Sie in der folgenden Datenschutzerklärung.
 
-### Zusammenarbeit mit Auftragsverarbeitern, gemeinsam Verantwortlichen und Dritten
+## TLS-Verschlüsselung mit https
 
-Sofern wir im Rahmen unserer Verarbeitung Daten gegenüber anderen Personen und Unternehmen (Auftragsverarbeitern, gemeinsam Verantwortlichen oder Dritten) offenbaren, sie an diese übermitteln oder ihnen sonst Zugriff auf die Daten gewähren, erfolgt dies nur auf Grundlage einer gesetzlichen Erlaubnis (z.B. wenn eine Übermittlung der Daten an Dritte, wie an Zahlungsdienstleister, zur Vertragserfüllung erforderlich ist), Nutzer eingewilligt haben, eine rechtliche Verpflichtung dies vorsieht oder auf Grundlage unserer berechtigten Interessen (z.B. beim Einsatz von Beauftragten, Webhostern, etc.).  
+Wir verwenden https um Daten abhörsicher im Internet zu übertragen (Datenschutz durch Technikgestaltung [Artikel 25 Absatz 1 DSGVO](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679&from=DE&tid=311203132)). Durch den Einsatz von TLS (Transport Layer Security), einem Verschlüsselungsprotokoll zur sicheren Datenübertragung im Internet können wir den Schutz vertraulicher Daten sicherstellen. Sie erkennen die Benutzung dieser Absicherung der Datenübertragung am kleinen Schloßsymbol links oben im Browser und der Verwendung des Schemas https (anstatt http) als Teil unserer Internetadresse.
 
-Sofern wir Daten anderen Unternehmen unserer Unternehmensgruppe offenbaren, übermitteln oder ihnen sonst den Zugriff gewähren, erfolgt dies insbesondere zu administrativen Zwecken als berechtigtes Interesse und darüberhinausgehend auf einer den gesetzlichen Vorgaben entsprechenden Grundlage.  
+## Cloudflare Datenschutzerklärung
 
-### Übermittlungen in Drittländer
+Wir verwenden auf dieser Webseite Cloudflare der Firma Cloudflare, Inc. (101 Townsend St., San Francisco, CA 94107, USA), um unsere Webseite schneller und sicherer zu machen. Dabei verwendet Cloudflare Cookies und verarbeitet User-Daten. Cloudflare, Inc. ist eine amerikanische Firma, die ein Content Delivery Network und diverse Sicherheitsdienste bereitstellt. Diese Dienste befinden sich zwischen dem User und unserem Hosting-Anbieter und fungieren als [Reverse Proxy](https://de.wikipedia.org/wiki/Reverse_Proxy) für Webseiten. Was das alles genau bedeutet, versuchen wir im Folgenden genauer zu erläutern.
 
-Sofern wir Daten in einem Drittland (d.h. außerhalb der Europäischen Union (EU), des Europäischen Wirtschaftsraums (EWR) oder der Schweizer Eidgenossenschaft) verarbeiten oder dies im Rahmen der Inanspruchnahme von Diensten Dritter oder Offenlegung, bzw. Übermittlung von Daten an andere Personen oder Unternehmen geschieht, erfolgt dies nur, wenn es zur Erfüllung unserer (vor)vertraglichen Pflichten, auf Grundlage Ihrer Einwilligung, aufgrund einer rechtlichen Verpflichtung oder auf Grundlage unserer berechtigten Interessen geschieht. Vorbehaltlich gesetzlicher oder vertraglicher Erlaubnisse, verarbeiten oder lassen wir die Daten in einem Drittland nur beim Vorliegen der gesetzlichen Voraussetzungen. D.h. die Verarbeitung erfolgt z.B. auf Grundlage besonderer Garantien, wie der offiziell anerkannten Feststellung eines der EU entsprechenden Datenschutzniveaus (z.B. für die USA durch das „Privacy Shield“) oder Beachtung offiziell anerkannter spezieller vertraglicher Verpflichtungen.
+### Was ist Cloudflare?
 
-### Rechte der betroffenen Personen
+Ein Content Delivery Network (CDN), wie es die Firma Cloudflare bereitstellt, ist nichts anderes als ein Netzwerk aus über das Internet verbundenen Servern. Cloudflare hat auf der ganzen Welt solche Server verteilt, um Webseiten schneller auf Ihren Bildschirm zu bringen. Ganz einfach gesagt, legt Cloudflare Kopien unserer Website an und platziert sie auf ihren eigenen Servern. Wenn Sie jetzt unsere Webseite besuchen, stellt ein System der Lastenverteilung sicher, dass die größten Teile unserer Webseite von jenem Server ausgeliefert werden, der Ihnen unsere Webseite am schnellsten anzeigen kann. Die Strecke der Datenübertragung zu Ihrem Browser wird durch ein CDN deutlich verkürzt. Somit wird Ihnen der Content unserer Webseite durch Cloudflare nicht nur von unserem Hosting-Server geliefert, sondern von Servern aus der ganzen Welt. Besonders hilfreich wird der Einsatz von Cloudflare für User aus dem Ausland, da hier die Seite von einem Server in der Nähe ausgeliefert werden kann. Neben dem schnellen Ausliefern von Webseiten bietet Cloudflare auch diverse Sicherheitsdienste, wie den DDoS-Schutz oder die Web Application Firewall an.
 
-Sie haben das Recht, eine Bestätigung darüber zu verlangen, ob betreffende Daten verarbeitet werden und auf Auskunft über diese Daten sowie auf weitere Informationen und Kopie der Daten entsprechend den gesetzlichen Vorgaben.  
+### Warum wir Cloudflare auf unserer Website verwenden?
 
-Sie haben entsprechend. den gesetzlichen Vorgaben das Recht, die Vervollständigung der Sie betreffenden Daten oder die Berichtigung der Sie betreffenden unrichtigen Daten zu verlangen.  
+Natürlich wollen wir Ihnen mit unserer Webseite das bestmögliche Service bieten. Cloudflare hilft uns dabei, unsere Webseite schneller und sicherer zu machen. Cloudflare bietet uns sowohl Web-Optimierungen als auch Sicherheitsdienste, wie DDoS-Schutz und Web-Firewall, an. Dazu gehören auch ein [Reverse-Proxy](https://de.wikipedia.org/wiki/Reverse_Proxy) und das Content-Verteilungsnetzwerk (CDN). Cloudflare blockiert Bedrohungen und begrenzt missbräuchliche Bots und Crawler, die unsere Bandbreite und Serverressourcen verschwenden. Durch das Speichern unserer Webseite auf lokalen Datenzentren und das Blockieren von Spam-Software ermöglicht Cloudflare, unsere Bandbreitnutzung etwa um 60% zu reduzieren. Das Bereitstellen von Inhalten über ein Datenzentrum in Ihrer Nähe und einiger dort durchgeführten Web-Optimierungen reduziert die durchschnittliche Ladezeit einer Website etwa um die Hälfte. Durch die Einstellung „I´m Under Attack Mode“ („Ich werde angegriffen“-Modus) können laut Cloudflare weitere Angriffe abgeschwächt werden, indem eine JavaScript-Rechenaufgabe angezeigt wird, die man lösen muss, bevor ein User auf eine Webseite zugreifen kann. Insgesamt wird dadurch unsere Website deutlich leistungsstärker und weniger anfällig auf Spam oder andere Angriffe.
 
-Sie haben nach Maßgabe der gesetzlichen Vorgaben das Recht zu verlangen, dass betreffende Daten unverzüglich gelöscht werden, bzw. alternativ nach Maßgabe der gesetzlichen Vorgaben eine Einschränkung der Verarbeitung der Daten zu verlangen.  
+### Welche Daten werden von Cloudflare gespeichert?
 
-Sie haben das Recht zu verlangen, dass die Sie betreffenden Daten, die Sie uns bereitgestellt haben nach Maßgabe der gesetzlichen Vorgaben zu erhalten und deren Übermittlung an andere Verantwortliche zu fordern.  
+Cloudflare leitet im Allgemeinen nur jene Daten weiter, die von Websitebetreibern gesteuert werden. Die Inhalte werden also nicht von Cloudflare bestimmt, sondern immer vom Websitebetreiber selbst. Zudem erfasst Cloudflare unter Umständen bestimmte Informationen zur Nutzung unserer Webseite und verarbeitet Daten, die von uns versendet werden oder für die Cloudflare entsprechende Anweisungen erhalten hat. In den meisten Fällen erhält Cloudflare Daten wie Kontaktinformationen, IP-Adressen, Sicherheitsfingerabdrücke, DNS-Protokolldaten und Leistungsdaten für Webseiten, die aus der Browseraktivitäten abgeleitet werden. Protokolldaten helfen Cloudflare beispielsweise dabei, neue Bedrohungen zu erkennen. So kann Cloudflare einen hohen Sicherheitsschutz für unsere Webseite gewährleisten. Cloudflare verarbeitet diese Daten im Rahmen der Services unter Einhaltung der geltenden Gesetze. Dazu zählt natürlich auch die Datenschutzgrundverordnung (DSGVO).
 
-Sie haben ferner nach Maßgabe der gesetzlichen Vorgaben das Recht, eine Beschwerde bei der zuständigen Aufsichtsbehörde einzureichen.  
+Aus Sicherheitsgründen verwendet Cloudflare auch ein Cookie. Das Cookie (__cfduid) wird verwendet, um einzelne User hinter einer gemeinsam genutzten IP-Adresse zu identifizieren und Sicherheitseinstellungen für jeden einzelnen User anzuwenden. Sehr nützlich wird dieses Cookie beispielweise, wenn Sie unsere Webseite aus einem Lokal benutzen, in dem sich eine Reihe infizierter Computer befinden. Wenn aber Ihr Computer vertrauenswürdig ist, können wir dies anhand des Cookies erkennen. So können Sie, trotz infizierter PCs im Umfeld, ungehindert durch unsere Webseite surfen. Wichtig zu wissen ist auch noch, dass dieses Cookie keine personenbezogenen Daten speichert. Dieses Cookie ist für die Cloudflare-Sicherheitsfunktionen unbedingt erforderlich und kann nicht deaktiviert werden.
 
-### Widerrufsrecht
+### Cookies von Cloudflare
 
-Sie haben das Recht, erteilte Einwilligungen mit Wirkung für die Zukunft zu widerrufen.
+*   __cfduid
+    *   Ablaufzeit: 1 Jahr
+    *   Verwendung: Sicherheitseinstellungen für jeden einzelnen Besucher
+    *   Beispielhafter Wert: d798bf7df9c1ad5b7583eda5cc5e78311203132
 
-### Widerspruchsrecht
+Cloudflare arbeitet auch mit Drittanbietern zusammen. Diese dürfen personenbezogene Daten nur unter Anweisung der Firma Cloudflare und in Übereinstimmung mit den Datenschutzrichtlinien und anderer Vertraulichkeits- und Sicherheitsmaßnahmen verarbeiten. Ohne explizite Einwilligung von uns gibt Cloudflare keine personenbezogenen Daten weiter.
 
-**Sie können der künftigen Verarbeitung der Sie betreffenden Daten nach Maßgabe der gesetzlichen Vorgaben jederzeit widersprechen. Der Widerspruch kann insbesondere gegen die Verarbeitung für Zwecke der Direktwerbung erfolgen.**
+### Wie lange und wo werden die Daten gespeichert?
 
-### Cookies und Widerspruchsrecht bei Direktwerbung
+Cloudflare speichert Ihre Informationen hauptsächlich in den USA und im Europäischen Wirtschaftsraum. Cloudflare kann die oben beschriebenen Informationen aus der ganzen Welt übertragen und darauf zugreifen. Im Allgemeinen speichert Cloudflare Daten auf User-Ebene für Domains in den Versionen Free, Pro und Business für weniger als 24 Stunden. Für Enterprise Domains, die Cloudflare Logs (früher Enterprise LogShare oder ELS) aktiviert haben, können die Daten bis zu 7 Tage gespeichert werden. Wenn allerdings IP-Adressen bei Cloudflare Sicherheitswarnungen auslösen, kann es zu Ausnahmen der oben angeführten Speicherungsdauer kommen.
 
-Als „Cookies“ werden kleine Dateien bezeichnet, die auf Rechnern der Nutzer gespeichert werden. Innerhalb der Cookies können unterschiedliche Angaben gespeichert werden. Ein Cookie dient primär dazu, die Angaben zu einem Nutzer (bzw. dem Gerät auf dem das Cookie gespeichert ist) während oder auch nach seinem Besuch innerhalb eines Onlineangebotes zu speichern. Als temporäre Cookies, bzw. „Session-Cookies“ oder „transiente Cookies“, werden Cookies bezeichnet, die gelöscht werden, nachdem ein Nutzer ein Onlineangebot verlässt und seinen Browser schließt. In einem solchen Cookie kann z.B. der Inhalt eines Warenkorbs in einem Onlineshop oder ein Login-Status gespeichert werden. Als „permanent“ oder „persistent“ werden Cookies bezeichnet, die auch nach dem Schließen des Browsers gespeichert bleiben. So kann z.B. der Login-Status gespeichert werden, wenn die Nutzer diese nach mehreren Tagen aufsuchen. Ebenso können in einem solchen Cookie die Interessen der Nutzer gespeichert werden, die für Reichweitenmessung oder Marketingzwecke verwendet werden. Als „Third-Party-Cookie“ werden Cookies bezeichnet, die von anderen Anbietern als dem Verantwortlichen, der das Onlineangebot betreibt, angeboten werden (andernfalls, wenn es nur dessen Cookies sind spricht man von „First-Party Cookies“).  
+### Wie kann ich meine Daten löschen bzw. die Datenspeicherung verhindern?
 
-Wir können temporäre und permanente Cookies einsetzen und klären hierüber im Rahmen unserer Datenschutzerklärung auf.  
+Cloudflare bewahrt Daten-Protokolle nur solange wie nötig auf und diese Daten werden auch in den meisten Fällen innerhalb von 24 Stunden wieder gelöscht. Cloudflare speichert auch keine personenbezogenen Daten, wie beispielsweise Ihre IP-Adresse. Es gibt allerdings Informationen, die Cloudflare als Teil seiner permanenten Protokolle auf unbestimmte Zeit speichert, um so die Gesamtleistung von Cloudflare Resolver zu verbessern und etwaige Sicherheitsrisiken zu erkennen. Welche permanenten Protokolle genau speichert werden, können Sie auf [https://www.cloudflare.com/application/privacypolicy/](https://www.cloudflare.com/application/privacypolicy/) nachlesen. Alle Daten, die Cloudflare sammelt (temporär oder permanent), werden von allen personenbezogenen Daten bereinigt. Alle permanenten Protokolle werden zudem von Cloudflare anonymisiert.
 
-Falls die Nutzer nicht möchten, dass Cookies auf ihrem Rechner gespeichert werden, werden sie gebeten die entsprechende Option in den Systemeinstellungen ihres Browsers zu deaktivieren. Gespeicherte Cookies können in den Systemeinstellungen des Browsers gelöscht werden. Der Ausschluss von Cookies kann zu Funktionseinschränkungen dieses Onlineangebotes führen.  
+Cloudflare geht in ihrer Datenschutzerklärung darauf ein, dass sie für die Inhalte, die sie erhalten nicht verantwortlich sind. Wenn Sie beispielsweise bei Cloudflare anfragen, ob sie Ihre Inhalte aktualisieren oder löschen können, verweist Cloudflare grundsätzlich auf uns als Websitebetreiber. Sie können auch die gesamte Erfassung und Verarbeitung Ihrer Daten durch Cloudflare komplett unterbinden, indem Sie die Ausführung von Script-Code in Ihrem Browser deaktivieren oder einen Script-Blocker in Ihren Browser einbinden.
 
-Ein genereller Widerspruch gegen den Einsatz der zu Zwecken des Onlinemarketing eingesetzten Cookies kann bei einer Vielzahl der Dienste, vor allem im Fall des Trackings, über die US-amerikanische Seite [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/) oder die EU-Seite [http://www.youronlinechoices.com/](http://www.youronlinechoices.com/) erklärt werden. Des Weiteren kann die Speicherung von Cookies mittels deren Abschaltung in den Einstellungen des Browsers erreicht werden. Bitte beachten Sie, dass dann gegebenenfalls nicht alle Funktionen dieses Onlineangebotes genutzt werden können.
+Cloudflare ist aktiver Teilnehmer beim EU-U.S. Privacy Shield Framework wodurch der korrekte und sichere Datentransfer persönlicher Daten geregelt wird. Mehr Informationen dazu finden Sie auf [https://www.privacyshield.gov/participant?id=a2zt0000000GnZKAA0](https://www.privacyshield.gov/participant?id=a2zt0000000GnZKAA0&tid=311203132).  
+Mehr Informationen zum Datenschutz bei Cloudflare finden Sie auf [https://www.cloudflare.com/de-de/privacypolicy/](https://www.cloudflare.com/de-de/privacypolicy/?tid=311203132)
 
-### Löschung von Daten
-
-Die von uns verarbeiteten Daten werden nach Maßgabe der gesetzlichen Vorgaben gelöscht oder in ihrer Verarbeitung eingeschränkt. Sofern nicht im Rahmen dieser Datenschutzerklärung ausdrücklich angegeben, werden die bei uns gespeicherten Daten gelöscht, sobald sie für ihre Zweckbestimmung nicht mehr erforderlich sind und der Löschung keine gesetzlichen Aufbewahrungspflichten entgegenstehen.  
-
-Sofern die Daten nicht gelöscht werden, weil sie für andere und gesetzlich zulässige Zwecke erforderlich sind, wird deren Verarbeitung eingeschränkt. D.h. die Daten werden gesperrt und nicht für andere Zwecke verarbeitet. Das gilt z.B. für Daten, die aus handels- oder steuerrechtlichen Gründen aufbewahrt werden müssen.
-
-### Änderungen und Aktualisierungen der Datenschutzerklärung
-
-Wir bitten Sie sich regelmäßig über den Inhalt unserer Datenschutzerklärung zu informieren. Wir passen die Datenschutzerklärung an, sobald die Änderungen der von uns durchgeführten Datenverarbeitungen dies erforderlich machen. Wir informieren Sie, sobald durch die Änderungen eine Mitwirkungshandlung Ihrerseits (z.B. Einwilligung) oder eine sonstige individuelle Benachrichtigung erforderlich wird.
-
-### Kontaktaufnahme
-
-Bei der Kontaktaufnahme mit uns (z.B. per Kontaktformular, E-Mail, Telefon oder via sozialer Medien) werden die Angaben des Nutzers zur Bearbeitung der Kontaktanfrage und deren Abwicklung gem. Art. 6 Abs. 1 lit. b. (im Rahmen vertraglicher-/vorvertraglicher Beziehungen), Art. 6 Abs. 1 lit. f. (andere Anfragen) DSGVO verarbeitet.. Die Angaben der Nutzer können in einem Customer-Relationship-Management System ("CRM System") oder vergleichbarer Anfragenorganisation gespeichert werden.  
-
-Wir löschen die Anfragen, sofern diese nicht mehr erforderlich sind. Wir überprüfen die Erforderlichkeit alle zwei Jahre; Ferner gelten die gesetzlichen Archivierungspflichten.
-
-### Hosting und E-Mail-Versand
-
-Die von uns in Anspruch genommenen Hosting-Leistungen dienen der Zurverfügungstellung der folgenden Leistungen: Infrastruktur- und Plattformdienstleistungen, Rechenkapazität, Speicherplatz und Datenbankdienste, E-Mail-Versand, Sicherheitsleistungen sowie technische Wartungsleistungen, die wir zum Zwecke des Betriebs dieses Onlineangebotes einsetzen.  
-
-Hierbei verarbeiten wir, bzw. unser Hostinganbieter Bestandsdaten, Kontaktdaten, Inhaltsdaten, Vertragsdaten, Nutzungsdaten, Meta- und Kommunikationsdaten von Kunden, Interessenten und Besuchern dieses Onlineangebotes auf Grundlage unserer berechtigten Interessen an einer effizienten und sicheren Zurverfügungstellung dieses Onlineangebotes gem. Art. 6 Abs. 1 lit. f DSGVO i.V.m. Art. 28 DSGVO (Abschluss Auftragsverarbeitungsvertrag).
-
-### Erhebung von Zugriffsdaten und Logfiles
-
-Wir, bzw. unser Hostinganbieter, erhebt auf Grundlage unserer berechtigten Interessen im Sinne des Art. 6 Abs. 1 lit. f. DSGVO Daten über jeden Zugriff auf den Server, auf dem sich dieser Dienst befindet (sogenannte Serverlogfiles). Zu den Zugriffsdaten gehören Name der abgerufenen Webseite, Datei, Datum und Uhrzeit des Abrufs, übertragene Datenmenge, Meldung über erfolgreichen Abruf, Browsertyp nebst Version, das Betriebssystem des Nutzers, Referrer URL (die zuvor besuchte Seite), IP-Adresse und der anfragende Provider.  
-
-Logfile-Informationen werden aus Sicherheitsgründen (z.B. zur Aufklärung von Missbrauchs- oder Betrugshandlungen) für die Dauer von maximal 7 Tagen gespeichert und danach gelöscht. Daten, deren weitere Aufbewahrung zu Beweiszwecken erforderlich ist, sind bis zur endgültigen Klärung des jeweiligen Vorfalls von der Löschung ausgenommen.
-
-### Content-Delivery-Network von Cloudflare
-
-Wir setzen ein so genanntes "Content Delivery Network" (CDN), angeboten von Cloudflare, Inc., 101 Townsend St, San Francisco, CA 94107, USA, ein. Cloudflare ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäische Datenschutzrecht einzuhalten ([https://www.privacyshield.gov/participant?id=a2zt0000000GnZKAA0&status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000GnZKAA0&status=Active)).  
-
-Ein CDN ist ein Dienst, mit dessen Hilfe Inhalte unseres Onlineangebotes, insbesondere große Mediendateien, wie Grafiken oder Skripte mit Hilfe regional verteilter und über das Internet verbundener Server, schneller ausgeliefert werden. Die Verarbeitung der Daten der Nutzer erfolgt alleine zu den vorgenannten Zwecken und der Aufrechterhaltung der Sicherheit und Funktionsfähigkeit des CDN.  
-
-Die Nutzung erfolgt auf Grundlage unserer berechtigten Interessen, d.h. Interesse an einer sicheren und effizienten Bereitstellung, Analyse sowie Optimierung unseres Onlineangebotes gem. Art. 6 Abs. 1 lit. f. DSGVO.  
-
-Weitere Informationen erhalten Sie in der Datenschutzerklärung von Cloudflare: [https://www.cloudflare.com/security-policy](https://www.cloudflare.com/security-policy).
-
-### Einbindung von Diensten und Inhalten Dritter
-
-Wir setzen innerhalb unseres Onlineangebotes auf Grundlage unserer berechtigten Interessen (d.h. Interesse an der Analyse, Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes im Sinne des Art. 6 Abs. 1 lit. f. DSGVO) Inhalts- oder Serviceangebote von Drittanbietern ein, um deren Inhalte und Services, wie z.B. Videos oder Schriftarten einzubinden (nachfolgend einheitlich bezeichnet als “Inhalte”).  
-
-Dies setzt immer voraus, dass die Drittanbieter dieser Inhalte, die IP-Adresse der Nutzer wahrnehmen, da sie ohne die IP-Adresse die Inhalte nicht an deren Browser senden könnten. Die IP-Adresse ist damit für die Darstellung dieser Inhalte erforderlich. Wir bemühen uns nur solche Inhalte zu verwenden, deren jeweilige Anbieter die IP-Adresse lediglich zur Auslieferung der Inhalte verwenden. Drittanbieter können ferner so genannte Pixel-Tags (unsichtbare Grafiken, auch als "Web Beacons" bezeichnet) für statistische oder Marketingzwecke verwenden. Durch die "Pixel-Tags" können Informationen, wie der Besucherverkehr auf den Seiten dieser Website ausgewertet werden. Die pseudonymen Informationen können ferner in Cookies auf dem Gerät der Nutzer gespeichert werden und unter anderem technische Informationen zum Browser und Betriebssystem, verweisende Webseiten, Besuchszeit sowie weitere Angaben zur Nutzung unseres Onlineangebotes enthalten, als auch mit solchen Informationen aus anderen Quellen verbunden werden.
-
-### Youtube
-
-Wir binden die Videos der Plattform “YouTube” des Anbieters Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, ein. Datenschutzerklärung: [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/), Opt-Out: [https://adssettings.google.com/authenticated](https://adssettings.google.com/authenticated).
-
-[Erstellt mit Datenschutz-Generator.de von RA Dr. Thomas Schwenke](https://datenschutz-generator.de)
+Erstellt mit dem [Datenschutz Generator](https://www.adsimple.de/datenschutz-generator/) von AdSimple
