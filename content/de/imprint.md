@@ -12,7 +12,7 @@ draft = false
 Angaben gemäß § 5 TMG
 
 Nils Fürniß  
-Waldstrasse 47a  
+Waldstraße 47a  
 76351 Linkenheim-Hochstetten  
 Deutschland  
 Telefon: 07247 9342949  

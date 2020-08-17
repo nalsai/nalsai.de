@@ -10,11 +10,11 @@ draft = false
 
 According to § 5 TMG
 
-Nils Fürniß  
+Nils Fuerniss  
 Waldstrasse 47a  
 76351 Linkenheim-Hochstetten  
 Germany  
-Phone: 07247 9342949  
+Phone: +49 7247 9342949  
 E-Mail: contact@nalsai.de
 
 
