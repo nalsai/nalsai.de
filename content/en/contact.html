@@ -7,14 +7,15 @@ weight = 6
 +++
 
 <h1 class="my-4">Contact</h1>
-<form name="contact" method="POST" action="/contact-success/"  netlify-honeypot="message" data-netlify="true">
+<form name="contact" method="POST" action="/contact-success/" data-netlify-recaptcha="true" netlify-honeypot="message" data-netlify="true">
     <input type="text" name="Name" class="form-control mb-4" placeholder="Name" required autocomplete="name">
     <input type="email" name="E-Mail" class="form-control mb-4" placeholder="Email" required autocomplete="email">
     <input type="text" name="Betreff" class="form-control mb-4" placeholder="Subject" required>
+    <input class="d-none" name="message" placeholder="message"/>
     <div class="form-group">
         <textarea name="Nachricht" class="form-control rounded-1" rows="4" placeholder="Message" required></textarea>
     </div>
-    <input class="d-none" name="message" placeholder="message"/>
+    <div data-netlify-recaptcha="true"></div>
     <div class="custom-control custom-checkbox mb-4">
         <input type="checkbox" class="custom-control-input" id="ContactFormGDPR" required>
         <label class="custom-control-label" for="ContactFormGDPR">
