@@ -1,1 +1,1 @@
-/img/      https://bilder.nalsai.de/
+/img/*      https://bilder.nalsai.de/:splat 200!
