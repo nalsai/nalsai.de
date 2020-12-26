@@ -1,11 +1,15 @@
+<script src="/hanabi.js"></script>
 <style> 
+    body {
+        overflow-x: hidden;
+    }
     #intro {
         background: url("/img/TH969382.jpg") no-repeat center center fixed;
         background-size: cover;
         padding: 8rem 4rem;
     }
 </style>
-<header id="intro" class="text-center bg-dark mb-5">
+<header id="intro" class="text-center bg-dark">
     <div class="col-lg-10 col-xl-8 p-lg-5 mx-auto my-5">
         <h1 class="d-none d-sm-block display-3 font-weight-normal pb-3">{{ .Site.Title }}</h1>
         <h1 class="d-block d-sm-none font-weight-normal pb-3">{{ .Site.Title }}</h1>
@@ -29,8 +33,17 @@
         index = Math.floor(Math.random() * quotes.length);
         $("#QuotesEtc").html(quotes[index]);
     }
-    else if (Mo == 11 && Da == 31 || Mo == 0 && Da == 1) {
-        $("#QuotesEtc").html("Frohes neues Jahr!");
+    else if (Mo == 11 && Da == 31) {
+        $("#intro").before("<canvas id=\"hanabi\"><\/canvas>");     // https://codepen.io/judag/pen/XmXMOL
+    }
+    else if (Mo == 0 && Da == 1) {
+        quotes = [];
+        quotes[0] = "Frohes neues Jahr!";
+        quotes[1] = "Happy new year";
+        quotes[2] = "明けましておめでとうございます。";
+        index = Math.floor(Math.random() * quotes.length);
+        $("#QuotesEtc").html(quotes[index]);
+        $("#intro").after("<canvas id=\"hanabi\"><\/canvas>");     // https://codepen.io/judag/pen/XmXMOL
     }
     else {
         quotes = [];
