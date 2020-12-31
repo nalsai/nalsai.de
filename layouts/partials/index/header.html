@@ -34,6 +34,12 @@
         $("#QuotesEtc").html(quotes[index]);
     }
     else if (Mo == 11 && Da == 31) {
+        quotes = [];
+        quotes[0] = "Frohes neues Jahr!";
+        quotes[1] = "Happy new year";
+        quotes[2] = "明けましておめでとうございます。";
+        index = Math.floor(Math.random() * quotes.length);
+        $("#QuotesEtc").html(quotes[index]);
         $("#intro").before("<canvas id=\"hanabi\"><\/canvas>");     // https://codepen.io/judag/pen/XmXMOL
     }
     else if (Mo == 0 && Da == 1) {
