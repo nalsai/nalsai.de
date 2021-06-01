@@ -1,6 +1,6 @@
 <footer class="container py-1">
     <hr class="featurette-divider my-4">
-    <p class="float-right ml-4"><a href="#" onclick="document.body.scrollTop=0;document.documentElement.scrollTop=0;event.preventDefault()">{{ i18n "top" }}</a></p>
+    <p class="float-end ml-4"><a href="#" onclick="document.body.scrollTop=0;document.documentElement.scrollTop=0;event.preventDefault()">{{ i18n "top" }}</a></p>
     <p>&copy; 2018-{{ now.Year }} Nils Fürniß {{ range .Site.Menus.footer }} &middot; <a href="{{ .URL }}">{{ .Title }}</a>{{ end }}</p>
     <p>{{ i18n "built" }} <a href="https://gohugo.io">Hugo {{ hugo.Version }}</a>{{ if .GitInfo }} {{ i18n "commit" }} <a href="https://git.nalsai.de/nalsai.de/commit/{{ .GitInfo.Hash }}">{{ .GitInfo.AbbreviatedHash }}</a>{{ end }} {{ i18n "on" }} {{ now.UTC.Format "2006-01-02 15:04 UTC" }}</p>
 </footer>
