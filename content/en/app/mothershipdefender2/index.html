@@ -11,23 +11,9 @@ weight = 4
     #WebGL {
         display: none;
     }
-    #WebGLsmall {
-        display: none;
-    }
-    @media screen and (min-width: 960px) and (max-height: 820px) {
-        #WebGLsmall {
-            display: inline-block;
-        }
-        #WebGL {
-            display: none;
-        }
-    }
-    @media screen and (min-width: 960px) and (min-height: 820px) {
+    @media screen and (min-width: 960px) and (min-height: 640px) {
         #WebGL {
             display: inline-block;
-        }
-        #WebGLsmall {
-            display: none;
         }
     }
 </style>
@@ -40,8 +26,25 @@ weight = 4
     Download
 </button>
 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-    <a class="dropdown-item black-text" href="https://play.google.com/store/apps/details?id=com.Nalsai.MothershipDefender2" target="_blank" rel="noopener">For Android (Google Play)</a>
-    <a class="dropdown-item black-text" href="https://github.com/Nalsai/MothershipDefender2/releases/download/v2.2.4/MothershipDefender2_v2.2.4_x64.zip" target="_blank" rel="noopener">For Windows (64bit)</a>
+    <a class="dropdown-item black-text" href="https://play.google.com/store/apps/details?id=com.Nalsai.MothershipDefender2" target="_blank" rel="noopener">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-phone" viewBox="0 0 16 16">
+            <path d="M11 1a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1h6zM5 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H5z"/>
+            <path d="M8 14a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+        </svg>
+        For Android
+    </a>
+    <a class="dropdown-item black-text" href="https://github.com/Nalsai/MothershipDefender2/releases/download/v2.3.1/MothershipDefender2_v2.3.1.zip" target="_blank" rel="noopener">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-windows" viewBox="0 0 16 16">
+            <path d="M6.555 1.375 0 2.237v5.45h6.555V1.375zM0 13.795l6.555.933V8.313H0v5.482zm7.278-5.4.026 6.378L16 16V8.395H7.278zM16 0 7.33 1.244v6.414H16V0z"/>
+        </svg>
+        For Windows
+    </a>
+    <a class="dropdown-item black-text" href="https://github.com/Nalsai/MothershipDefender2/releases/download/v2.3.1/MothershipDefender2_v2.3.1.tar.xz" target="_blank" rel="noopener">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-box" viewBox="0 0 16 16">
+            <path d="M8.186 1.113a.5.5 0 0 0-.372 0L1.846 3.5 8 5.961 14.154 3.5 8.186 1.113zM15 4.239l-6.5 2.6v7.922l6.5-2.6V4.24zM7.5 14.762V6.838L1 4.239v7.923l6.5 2.6zM7.443.184a1.5 1.5 0 0 1 1.114 0l7.129 2.852A.5.5 0 0 1 16 3.5v8.662a1 1 0 0 1-.629.928l-7.185 2.874a.5.5 0 0 1-.372 0L.63 13.09a1 1 0 0 1-.63-.928V3.5a.5.5 0 0 1 .314-.464L7.443.184z"/>
+        </svg>
+        For Linux
+    </a>
 </div>
 <a class="btn btn-primary" href="https://github.com/Nalsai/MothershipDefender2/" target="_blank" rel="noopener">
     <svg width="1em" height="1em" fill="currentColor" viewBox="0 0 128 125" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
@@ -49,13 +52,7 @@ weight = 4
     </svg>
     View on GitHub
 </a>
-<a class="btn btn-primary" id="WebGLsmall" href="WebGL/small"> 
-    <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-play-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-        <path d="M11.596 8.697l-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"/>
-    </svg>
-    Play in the Browser
-</a>
-<a class="btn btn-primary" id="WebGL" href="WebGL">
+<a class="btn btn-primary" id="WebGL" href="WebGL/" target="_blank" rel="noopener">
     <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-play-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
         <path d="M11.596 8.697l-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"/>
     </svg>
@@ -66,23 +63,20 @@ weight = 4
     <div class="col-md-6 col-12">
         <p class="text-justify">
             Here is some text that hopefully nobody will read anyway, because I don't really know what I should write here, 
-            but somehow I have to make the text longer. Funfact: The pictures are from an early version
-            of the game. It looks better now.
+            but somehow I have to make the text longer. Fun fact: The pictures were once from an early version
+            of the game. Now they are only one version behind. 
         </p>
     </div>
-    <div class="col-md-6 col-12 text-center">
-        <img class="img-fluid" src="img/promotional.jpg" alt="MothershipDefender2 Demo Image">
+    <div class="col-md-6 col-12">
+        <img class="img-fluid" src="img/promotional.jpg" alt="MothershipDefender2 Demo Bild">
     </div>
-
-    <div class="col-12 clearfix">
-        <br>
-    </div>
-
-    <div class="col-md-6 col-12 text-center">
-        <img class="img-fluid" src="img/play.jpg" alt="MothershipDefender2 Demo Image">
+    <div class="col-12 py-2"></div>
+    <div class="col-md-6 col-12">
+        <img class="img-fluid" src="img/play.jpg" alt="MothershipDefender2 Demo Bild">
         <span class="d-block d-md-none">&nbsp;</span> <!-- Adds space for mobile view -->
     </div>
-    <div class="col-md-6 col-12 text-center">
-        <img class="img-fluid" src="img/screenshot.jpg" alt="MothershipDefender2 Demo Image">
+    <div class="col-md-6 col-12">
+        <img class="img-fluid" src="img/screenshot.jpg" alt="MothershipDefender2 Demo Bild">
     </div>
 </div>
+
