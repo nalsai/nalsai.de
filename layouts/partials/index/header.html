@@ -23,9 +23,9 @@
     }
     else if (Mo == 11 && Da == 24 || Mo == 11 && Da == 25 || Mo == 11 && Da == 26) {
         quotes = [];
-        quotes[0] = "Frohe Weihnachten";
-        quotes[1] = "Merry Christmas";
-        quotes[2] = "メリークリスマス";
+        quotes[0] = "<a href=\"https://www.youtube.com/watch?v=dQ_d_VKrFgM\">Frohe Weihnachten<\a>";
+        quotes[1] = "<a href=\"https://www.youtube.com/watch?v=dQ_d_VKrFgM\">Merry Christmas<\a>";
+        quotes[2] = "<a href=\"https://www.youtube.com/watch?v=dQ_d_VKrFgM\">メリークリスマス<\a>";
         index = Math.floor(Math.random() * quotes.length);
         document.getElementById("QuotesEtc").innerHTML = quotes[index];
     }
@@ -52,6 +52,8 @@
         quotes[10] = "分かんない";
         if (n == 3)
             quotes[quotes.length++] = "It's wednesday my dudes!";
+        if (Mo == 10 | Mo == 11)
+            quotes[quotes.length++] = "<a href=\"https://www.youtube.com/watch?v=efdN69QscAg\">hashire sori yo kaze no you ni tsukimihara wo padoru padoru<\a>";
         index = Math.floor(Math.random() * quotes.length);
         document.getElementById("QuotesEtc").innerHTML = quotes[index];
     }
