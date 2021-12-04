@@ -8,3 +8,8 @@
 
 [context.deploy-preview.environment]
     HUGO_VERSION = "0.87.0"
+
+[[headers]]
+  for = "/mothershipdefender2/webgl/Build/*.br"
+  [headers.values]
+    Content-Encoding = "br"
