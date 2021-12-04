@@ -13,3 +13,6 @@
   for = "/mothershipdefender2/webgl/Build/*.br"
   [headers.values]
     Content-Encoding = "br"
+  for = "/mothershipdefender2/webgl/Build/*.wasm*"
+  [headers.values]
+    Content-Type = "application/wasm"
