@@ -19,7 +19,7 @@
     var Mo = d.getMonth();
     var Da = d.getDate();
     if (Mo == 11 && Da == 13) {
-        $("#QuotesEtc").html("Ich habe Geburtstag!");
+        document.getElementById("QuotesEtc").innerHTML = "Ich habe Geburtstag!";
     }
     else if (Mo == 11 && Da == 24 || Mo == 11 && Da == 25 || Mo == 11 && Da == 26) {
         quotes = [];
