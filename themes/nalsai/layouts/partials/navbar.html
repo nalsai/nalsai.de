@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary {{ if .IsHome }}fixed-top nav-at-top{{else}}sticky-top{{ end }}" id="main-nav">
     <div class="container-fluid">
         <a class="navbar-brand" href="{{ .Site.Home.Permalink }}">
             <img src="/img/Avatar400.png" width="30" height="30" class="d-inline-block align-top" alt="Nils' Avatar">

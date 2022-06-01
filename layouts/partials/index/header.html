@@ -2,18 +2,68 @@
     #intro {
         background: url("/img/TH969381.jpg") no-repeat center center fixed;
         background-size: cover;
-        padding: 8rem 4rem;
+        position: relative;
+        width: 100%;
+        height: 100vh;
+        overflow: hidden;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #main-nav {
+        transition: background .6s;
+    }
+
+    .nav-at-top {
+        background-color: transparent !important;
+        transition: background .6s;
+    }
+
+    .bottom-svg {
+        position: absolute;
+        right: 0;
+        bottom: -50px;
+        left: 0;
+        z-index: 6;
+        width: 100%;
+        height: auto;
+        display: none;
+    }
+
+    @media screen and (min-width: 1400px) {
+        .bottom-svg {
+            display: block;
+        }
+        #intro-text{
+            transform: translateY(-20%)
+        }
     }
 </style>
+
 <header id="intro" class="text-center bg-dark text-white">
-    <div class="col-lg-10 col-xl-8 p-lg-5 mx-auto my-5">
+    <div class="col-lg-10 col-xl-8 p-lg-5 mx-auto" id="intro-text">
         <h1 class="d-none d-sm-block display-3 font-weight-normal pb-3">{{ .Site.Title }}</h1>
         <h1 class="d-block d-sm-none font-weight-normal pb-3">{{ .Site.Title }}</h1>
-        <p id="QuotesEtc" class="lead font-weight-normal pb-5 pt-3 mb-5">I see that you don't have JavaScript enabled...</p>
+        <p id="QuotesEtc" class="lead font-weight-normal py-3 mb-5">I see that you don't have JavaScript enabled...</p>
     </div>
+    <img src="/img/header-wave.svg" class="bottom-svg">
 </header>
 
 <script>
+    // make navbar opaque/transparent on scroll
+    let o = document.getElementById("main-nav");
+    window.addEventListener("scroll", (function (e) {
+        var scrollPos = window.scrollY || window.scrollTop || document.getElementsByTagName("html")[0].scrollTop;
+        scrollPos > 120 ? o.classList.remove("nav-at-top") : o.classList.add("nav-at-top")
+    }))
+
+    // change to daytime image between 10 and 20 o'clock
+    if(new Date().getHours() > 9 && new Date().getHours() < 20) {
+        document.getElementById("intro").style.backgroundImage = "url('/img/TH969382.jpg')";
+    }
+
+    // random quotes
     var d = new Date();
     var n = d.getDay();
     var Mo = d.getMonth();
