@@ -5,8 +5,8 @@
         <p>{{ .Description }}</p>
         {{ if .Date }}
         <p class="small">
-            Published <time datetime="{{ .Date.Format "2006-01-02" }}" itemprop="datePublished">{{ dateFormat (default "2006-01-02" .Site.Params.dateFormat) .Date }}</time>
-            {{ if .Params.author }} by {{ .Params.author }}{{ end }}
+            {{ i18n "Published" }} {{ i18n "on" }} <time datetime="{{ .Date.Format "2006-01-02" }}" itemprop="datePublished">{{ dateFormat (default "2006-01-02" .Site.Params.dateFormat) .Date }}</time>
+            {{ if .Params.author }} {{ i18n "by" }} {{ .Params.author }}{{ end }}
         </p>
         {{ end }}
         {{ with .Params.tags }}{{ range $tag := . }}

@@ -9,3 +9,15 @@ other = "from commit"
 
 [on]
 other = "on"
+
+[by]
+other = "by"
+
+[with]
+other = "with"
+
+[Pages]
+other = "Pages"
+
+[Published]
+other = "Published"
