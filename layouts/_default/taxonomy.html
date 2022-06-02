@@ -1,0 +1,22 @@
+
+
+{{ define "main" }}
+<!--{{ partial "blog/header.html" . }}-->
+<main class="container">
+    {{ .Content }}
+    {{ partial "blog/intro.html" . }}
+    <ul class="contents post-list">
+    {{ range .Paginator.Pages }}
+        {{ partial "blog/post-stub.html" . }}
+        <!--<li>{{.Title}}
+        </li>-->
+    {{ end }}
+    </ul>
+    TODO show things nicely (probably just a basic list with title and link)
+    TODO move to global theme
+    <div class="post-navigation">
+        {{ partial "blog/pagination.html" . }}
+    </div>
+</main>
+<!--{{ partial "blog/footer.html" . }}-->
+{{ end }}

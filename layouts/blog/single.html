@@ -1,0 +1,13 @@
+{{ define "main" }}
+
+<div class="container">
+    <article class="post-container" itemscope="" itemtype="http://schema.org/BlogPosting">
+        {{ partial "blog/post-header.html" . }}
+
+        {{ partial "blog/post-content.html" . }}
+
+        {{ partial "blog/post-footer.html" . }}
+    </article>
+</div>
+
+{{ end }}
