@@ -1,0 +1,18 @@
+{{ define "main" }}
+<main class="container">
+    <header class="mb-5">
+        <h1 class="mt-4">{{ .Title }}</h1>
+        <p>{{ .Description }}</p>
+        {{ if .Date }}
+        <p class="small">
+            {{ i18n "Published" }} {{ i18n "on" }} <time datetime="{{ .Date.Format "2006-01-02" }}" itemprop="datePublished">{{ dateFormat (default "Monday 2006-01-02" .Site.Params.dateFormat) .Date }}</time>
+            {{ if .Params.author }} {{ i18n "by" }} {{ .Params.author }}{{ end }}
+        </p>
+        {{ end }}
+        {{ with .Params.tags }}{{ range $tag := . }}
+        <a class="badge rounded-pill bg-primary text-decoration-none" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}/">{{ . }}</a>
+        {{ end }}{{ end }}
+    </header>
+    {{ .Content }}
+</main>
+{{ end }}
