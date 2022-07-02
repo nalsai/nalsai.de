@@ -19,16 +19,7 @@ DefaultContentLanguage = "en"
 		title = "Nils' Webseite"
 		weight = 1
 
-[privacy]
-	[privacy.disqus]
-		disable = true
-	[privacy.googleAnalytics]
-		disable = true
-	[privacy.instagram]
-		disable = true
-	[privacy.twitter]
-		disable = true
-	[privacy.vimeo]
-	    disable = true
-	[privacy.youtube]
-	    disable = true
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
