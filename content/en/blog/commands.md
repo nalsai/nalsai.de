@@ -137,3 +137,18 @@ $HOME/.local/share/applications
 /usr/share/fonts
 $HOME/.local/share/fonts
 ```
+
+## Fun command-line programms
+
+```bash
+aafire
+asciiquarium
+cbonsai
+cmatrix
+cowsay
+figlet
+fortune
+hollywood
+docker run -it --rm jess/hollywood
+sl
+```
