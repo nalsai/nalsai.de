@@ -28,7 +28,7 @@ description = "(Most commands work on any platform, but some may require Bash an
 # simple encoding in modern codecs (opus & h265), more compatible codecs (aac & h264), or prores and pcm (for editing)
 ffmpeg -i in.mov -c:v libx265 -crf 20 -preset slow -pix_fmt yuv420p10le -c:a libopus -b:a 128k out.mkv
 ffmpeg -i in.mov -c:v libx264 -crf 18 -preset slow -pix_fmt yuv420p -c:a libfdk_aac -b:a 128k out.mkv
-ffmpeg -i in.mov -c:v prores_ks -profile:v 3 -qscale:v 3 -c:a pcm_s16le out.mkv
+ffmpeg -i in.mov -c:v prores_ks -profile:v 3 -qscale:v 3 -c:a pcm_s16le out.mov
 
 
 # cut
