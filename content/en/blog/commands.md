@@ -82,6 +82,18 @@ for i in *.jpg; do waifu2x-ncnn-vulkan -i "$i" -o "2x/${i%.*}.jpg"; done
 
 # convert png/svg to ico using ImageMagick
 convert -density 256x256 -background transparent in.png -define icon:auto-resize -colors 256 out.ico
+
+# shift all JPG image dates by 1 year, 12 month, 28 days, 14 hours, 54 minutes, 32 seconds
+exiftool "-AllDates+=1:12:28 14:54:32" -verbose *.jpg
+
+# rename all images in current folder
+exiftool -r -d "%Y%m%d%H%M%S" '-filename<${Exif:CreateDate} %f $Model.%e' ./
+
+# set exif CreateDate, DateTimeOriginal, DateCreated and TimeCreated to FileCreateDate for all images in current folder
+exiftool "-CreateDate<FileCreateDate" "-DateTimeOriginal<FileCreateDate" "-DateCreated<FileCreateDate" "-TimeCreated<FileCreateDate" ./
+
+# set exif TimeZone
+exiftool "-TimeZone=+02:00" ./
 ```
 
 ## Documents
