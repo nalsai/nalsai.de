@@ -128,8 +128,9 @@ find . -empty -type f -delete
 # delete empty folders
 find . -empty -type d -delete
 
-# rename to md5sum (doesn't work with names containing spaces)
+# rename to md5sum or crc32 (doesn't work with names containing spaces)
 md5sum * | sed -e 's/\([^ ]*\) \(.*\(\..*\)\)$/mv -v \2 \1\3/e'
+crc32 * | sed -e "s/^\(\S*\)\s*\(.*\(\..*\)\)$/mv -v \2 \1\3/e"
 
 # rsync custom ssh port
 rsync -e 'ssh -p 2022' -avh user@server:path ./ --delete
