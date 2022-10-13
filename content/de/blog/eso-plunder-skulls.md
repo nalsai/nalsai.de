@@ -1,0 +1,1 @@
+../../en/blog/eso-plunder-skulls.md
