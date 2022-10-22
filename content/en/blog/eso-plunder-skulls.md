@@ -16,7 +16,7 @@ This checklist will save your selection to help you track which Dremora Plunder 
     </li>
     <li class="list-group-item">
         <input class="form-check-input me-1 save-cb-state" type="checkbox" id="insurgent">
-        <label class="form-check-label" for="insurgent">Invasion Bosses (Dolmen etc.)<span class="text-muted"> - Daggers and Gloves</span></label>
+        <label class="form-check-label" for="insurgent">Incursion Bosses (Dolmen etc.)<span class="text-muted"> - Daggers and Gloves</span></label>
     </li>
     <li class="list-group-item">
         <input class="form-check-input me-1 save-cb-state" type="checkbox" id="world">
@@ -28,7 +28,7 @@ This checklist will save your selection to help you track which Dremora Plunder 
     </li>
     <li class="list-group-item">
         <input class="form-check-input me-1 save-cb-state" type="checkbox" id="public">
-        <label class="form-check-label" for="public">Public Dungeon, Sweeper and Quest Bosses<span class="text-muted"> - Shields and Boots</span></label>
+        <label class="form-check-label" for="public">Public Dungeon & Sweeper Bosses<span class="text-muted"> - Shields and Boots</span></label>
     </li>
     <li class="list-group-item">
         <input class="form-check-input me-1 save-cb-state" type="checkbox" id="arena">
@@ -37,6 +37,10 @@ This checklist will save your selection to help you track which Dremora Plunder 
     <li class="list-group-item">
         <input class="form-check-input me-1 save-cb-state" type="checkbox" id="trial">
         <label class="form-check-label" for="trial">Trial Final Bosses<span class="text-muted"> - Swords and Chests</span></label>
+    </li>
+    <li class="list-group-item">
+        <input class="form-check-input me-1 save-cb-state" type="checkbox" id="trial">
+        <label class="form-check-label" for="trial">Crowborne Horror<span class="text-muted"></span></label>
     </li>
 </ul>
 
