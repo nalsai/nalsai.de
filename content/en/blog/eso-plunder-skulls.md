@@ -39,8 +39,8 @@ This checklist will save your selection to help you track which Dremora Plunder 
         <label class="form-check-label" for="trial">Trial Final Bosses<span class="text-muted"> - Swords and Chests</span></label>
     </li>
     <li class="list-group-item">
-        <input class="form-check-input me-1 save-cb-state" type="checkbox" id="trial">
-        <label class="form-check-label" for="trial">Crowborne Horror<span class="text-muted"></span></label>
+        <input class="form-check-input me-1 save-cb-state" type="checkbox" id="crow">
+        <label class="form-check-label" for="crow">Crowborne Horror<span class="text-muted"></span></label>
     </li>
 </ul>
 

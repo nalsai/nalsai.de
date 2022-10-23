@@ -39,8 +39,8 @@ Diese Checkliste speichert die Auswahl, damit man nachverfolgen kann, welche Dre
         <label class="form-check-label" for="trial">Prüfung Endbosse<span class="text-muted"> - Schwerter und Bruststücke</span></label>
     </li>
     <li class="list-group-item">
-        <input class="form-check-input me-1 save-cb-state" type="checkbox" id="trial">
-        <label class="form-check-label" for="trial">Krähengeborenes Grauen<span class="text-muted"></span></label>
+        <input class="form-check-input me-1 save-cb-state" type="checkbox" id="crow">
+        <label class="form-check-label" for="crow">Krähengeborenes Grauen<span class="text-muted"></span></label>
     </li>
 </ul>
 
