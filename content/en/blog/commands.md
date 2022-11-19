@@ -83,6 +83,12 @@ for i in *.jpg; do waifu2x-ncnn-vulkan -i "$i" -o "2x/${i%.*}.jpg"; done
 # convert png/svg to ico using ImageMagick
 convert -density 256x256 -background transparent in.png -define icon:auto-resize -colors 256 out.ico
 
+# resize all jpg images to up to 4096x4096 and compress them
+for i in *.jpg; do convert $i -auto-orient -quality "71%" -resize 4096x4096\> -interlace Plane -sampling-factor 4:2:0 -gaussian-blur 0.05x0.4 -define jpeg:dct-method=float -colorspace sRGB -strip $i; done;
+
+# set exif DateTimeOriginal
+exiftool "-DateTimeOriginal=2021:08:22 01:58" img.jpg
+
 # shift all JPG image dates by 1 year, 12 month, 28 days, 14 hours, 54 minutes, 32 seconds
 exiftool "-AllDates+=1:12:28 14:54:32" -verbose *.jpg
 
