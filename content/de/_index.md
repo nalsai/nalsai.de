@@ -1,6 +1,6 @@
 +++
 title = "Startseite"
-menu = "main"
-draft = false
-weight = 1
+[menu]
+    [menu.main]
+        weight = 1
 +++

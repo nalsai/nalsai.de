@@ -1,0 +1,73 @@
+<script>
+    // make navbar opaque/transparent on scroll
+    let o = document.getElementById("main-nav");
+    window.addEventListener("scroll", (function (e) {
+        var scrollPos = window.scrollY || window.scrollTop || document.getElementsByTagName("html")[0].scrollTop;
+        scrollPos > 120 ? o.classList.remove("nav-at-top") : o.classList.add("nav-at-top")
+    }))
+
+    // get date 
+    var d = new Date();
+    var Year = d.getFullYear();
+    var Month = d.getMonth();
+    var DayOfWeek = d.getDay();
+    var DayOfMonth = d.getDate();
+    var Hours = d.getHours();
+
+    // change to daytime image between 10 and 20 o'clock
+    if (Hours > 9 && Hours < 20) {
+        document.getElementById("intro").style.backgroundImage = "url('/img/TH969382.jpg')";
+    }
+
+    // update age
+    var birthDate = new Date("2002-12-13");
+    var age = Year - birthDate.getFullYear();
+    var m = Month - birthDate.getMonth();
+    if (m < 0 || (m === 0 && DayOfMonth < birthDate.getDate())) {
+        age--;
+    }
+    document.getElementById("age").innerHTML = age;
+
+    // random quotes
+    if (Month === 11 && DayOfMonth === 13) {
+        document.getElementById("QuotesEtc").innerHTML = "Ich habe Geburtstag!";
+    }
+    else if (Month === 11 && DayOfMonth === 24 || Month === 11 && DayOfMonth === 25 || Month === 11 && DayOfMonth === 26) {
+        quotes = [];
+        quotes[0] = "<a href=\"https://www.youtube.com/watch?v=dQ_d_VKrFgM\" target=\"_blank\" rel=\"noopener\">Frohe Weihnachten<\a>";
+        quotes[1] = "<a href=\"https://www.youtube.com/watch?v=dQ_d_VKrFgM\" target=\"_blank\" rel=\"noopener\">Merry Christmas<\a>";
+        quotes[2] = "<a href=\"https://www.youtube.com/watch?v=dQ_d_VKrFgM\" target=\"_blank\" rel=\"noopener\">メリークリスマス<\a>";
+        quotes[3] = "<a href=\"https://www.youtube.com/watch?v=efdN69QscAg\" target=\"_blank\" rel=\"noopener\">hashire sori yo kaze no you ni tsukimihara wo padoru padoru<\a>";
+        index = Math.floor(Math.random() * quotes.length);
+        document.getElementById("QuotesEtc").innerHTML = quotes[index];
+    }
+    else if (Month === 11 && DayOfMonth === 31 || Month === 0 && DayOfMonth === 1) {
+        quotes = [];
+        quotes[0] = "Frohes neues Jahr!";
+        quotes[1] = "Happy new year";
+        quotes[2] = "明けましておめでとうございます。";
+        index = Math.floor(Math.random() * quotes.length);
+        document.getElementById("QuotesEtc").innerHTML = quotes[index];
+    }
+    else {
+        quotes = [];
+        quotes[0] = "&nbsp;";
+        quotes[1] = "Why do Java Developers need glasses? Because they can't C#.";
+        quotes[2] = "„Das Problem mit Zitaten im Internet ist, dass man nie weiß, ob sie echt sind.“ - Goethe";
+        quotes[3] = "seven ate nine";
+        quotes[4] = "Fall.net";
+        quotes[5] = "Have a nice trip, see you next fall!";
+        quotes[6] = "Illuminati confirmed!";
+        quotes[7] = "お前はもう死んでいる";
+        quotes[8] = "ちゅんちゅんまる";
+        quotes[9] = "え アタシ！？";
+        quotes[10] = "分かんない";
+        quotes[11] = "<a href=\"https://www.youtube.com/watch?v=dQw4w9WgXcQ\" target=\"_blank\" rel=\"noopener\">https://www.youtube.com/watch?v=dQw4w9WgXcQ</a>";
+        if (DayOfWeek === 3)
+            quotes[quotes.length++] = "It's wednesday my dudes!";
+        if (Month === 10 | Month === 11)
+            quotes[quotes.length++] = "<a href=\"https://www.youtube.com/watch?v=efdN69QscAg\" target=\"_blank\" rel=\"noopener\">hashire sori yo kaze no you ni tsukimihara wo padoru padoru<\a>";
+        index = Math.floor(Math.random() * quotes.length);
+        document.getElementById("QuotesEtc").innerHTML = quotes[index];
+    }
+</script>
