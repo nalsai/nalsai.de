@@ -3,6 +3,7 @@ type= "blog/japanische-literatur-vormoderne"
 draft = false
 
 weight = 3
+slug = "manyoshu"
 title = "Man'yōshū"
 #short = ""
 japanese = "万葉集"

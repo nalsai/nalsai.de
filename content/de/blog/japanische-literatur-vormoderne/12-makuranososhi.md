@@ -3,6 +3,7 @@ type= "blog/japanische-literatur-vormoderne"
 draft = false
 
 weight = 12
+slug = "makuranososhi"
 title = "Makura no sōshi"
 #short = ""
 japanese = "枕草子"

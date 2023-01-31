@@ -3,6 +3,7 @@ type= "blog/japanische-literatur-vormoderne"
 draft = false
 
 weight = 5
+slug = "Nihonryoiki"
 title = "Nihon ryōiki"
 #short = ""
 japanese = "日本霊異記"

@@ -2,6 +2,7 @@
 type= "blog/japanische-literatur-vormoderne"
 draft = false
 
+slug = "kaifuso"
 weight = 4
 title = "Kaifūsō"
 #short = ""

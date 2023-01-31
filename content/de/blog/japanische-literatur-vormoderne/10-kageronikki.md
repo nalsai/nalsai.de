@@ -3,6 +3,7 @@ type= "blog/japanische-literatur-vormoderne"
 draft = false
 
 weight = 10
+slug = "kageronikki"
 title = "Kagerō nikki"
 #short = ""
 japanese = "蜻蛉日記"

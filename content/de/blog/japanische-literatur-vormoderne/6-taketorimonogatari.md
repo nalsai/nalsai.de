@@ -3,6 +3,7 @@ type= "blog/japanische-literatur-vormoderne"
 draft = false
 
 weight = 6
+slug = "taketorimonogatari"
 title = "Taketori monogatari"
 #short = ""
 japanese = "竹取物語"

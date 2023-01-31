@@ -3,6 +3,7 @@ type= "blog/japanische-literatur-vormoderne"
 draft = false
 
 weight = 2
+slug = "nihonshoki"
 title = "Nihon shoki"
 short = "Nihongi 日本紀"
 japanese = "日本書紀"

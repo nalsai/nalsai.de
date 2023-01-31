@@ -3,6 +3,7 @@ type= "blog/japanische-literatur-vormoderne"
 draft = false
 
 weight = 13
+slug = "sarashinanikki"
 title = "Sarashina nikki"
 #short = ""
 japanese = "更級日記"
