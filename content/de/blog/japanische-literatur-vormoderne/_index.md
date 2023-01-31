@@ -1,9 +1,10 @@
 +++
 title = "Vormoderne japanische Literatur"
-description = "Kurze Übersicht bedeutender Werke. (Japanologie Heidelberg: Proseminar Japanische Literatur I)"
+description = "Kurze Übersicht bedeutender Werke."
 type = "blog/japanische-literatur-vormoderne"
 tags = [
-    "Japanologie"
+    "Japanologie",
+    "Literatur"
 ]
 date = 2023-01-18
 +++

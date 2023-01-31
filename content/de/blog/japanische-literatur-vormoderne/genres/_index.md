@@ -2,6 +2,11 @@
 title = "Vormoderne japanische Literatur"
 description = "Genres"
 type = "blog/japanische-literatur-vormoderne/genres"
+tags = [
+    "Japanologie",
+    "Literatur"
+]
+date = 2023-01-18
 +++
 
 <a href="{{< relref "../">}}"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-book" viewBox="0 0 16 16">
