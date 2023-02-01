@@ -8,8 +8,8 @@ title = "Torikaebaya monogatari"
 #short = ""
 japanese = "とりかへばや物語"
 #description = ""
-#author = ""
-genre = "tsukuri monogatari"
+#authors = [""]
+genres = ["tsukuri monogatari"]
 release = "späte Heian-Zeit (794 bis 1185)"
 +++
 

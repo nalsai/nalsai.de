@@ -8,8 +8,8 @@ title = "Tsurezuregusa"
 #short = ""
 japanese = "徒然草"
 #description = ""
-author = "Yoshida Kenkō"
-genre = "zuihitsu"
+authors = ["Yoshida Kenkō"]
+genres = ["zuihitsu"]
 release = "1330"
 +++
 

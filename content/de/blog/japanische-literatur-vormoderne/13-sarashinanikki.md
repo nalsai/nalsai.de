@@ -8,8 +8,8 @@ title = "Sarashina nikki"
 #short = ""
 japanese = "更級日記"
 #description = ""
-author = "Sugawara no Takasue no musume"
-genre = "nikki"
+authors = ["Sugawara no Takasue no musume"]
+genres = ["nikki"]
 release = "ca. 1060"
 +++
 

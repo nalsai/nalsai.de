@@ -8,8 +8,8 @@ title = "Hōjōki"
 #short = ""
 japanese = "方丈記"
 #description = ""
-author = "Kamo no Chōmei"
-genre = "zuihitsu, ki"
+authors = ["Kamo no Chōmei"]
+genres = ["zuihitsu", "ki"]
 release = "ca. 1212"
 +++
 

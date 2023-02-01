@@ -8,8 +8,8 @@ title = "Kagerō nikki"
 #short = ""
 japanese = "蜻蛉日記"
 description = "älteste Autobiografie einer Frau"
-author = "Fujiwara no Michitsuna no haha"
-genre = "nikki"
+authors = ["Fujiwara no Michitsuna no haha"]
+genres = ["nikki"]
 release = "974"
 +++
 

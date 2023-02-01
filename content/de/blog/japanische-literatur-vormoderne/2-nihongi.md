@@ -13,3 +13,13 @@ description = "Reichschronik/Kaiserabstammung"
 release = "720"
 +++
 
+- das zweitälteste noch existierende Geschichtswerk Japans
+- erste der sechs offiziellen Reichsgeschichten (*Rikkokushi*)
+- in klassischem Chinesisch
+
+| Kojiki  |  Nihongi  |
+|---------|-----------|
+| mythischer  | sachlicher und historiografischer, aber beinhaltet trotzdem religiöses und mythologisches Material  |
+| für das eigene Land geschrieben  | Ausland (China)  |
+| Japanisch  | komplett in Chinesisch  |
+|   | an chinesischen Reichsannalen (Dynastische Annalen) angelehnt |

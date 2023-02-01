@@ -8,8 +8,8 @@ title = "Genji monogatari"
 #short = ""
 japanese = "源氏物語"
 #description = ""
-author = "Murasaki Shikibu"
-genre = "tsukuri monogatari"
+authors = ["murasaki shikibu"]
+genres = ["tsukuri monogatari"]
 release = "ca. 1010"
 +++
 
