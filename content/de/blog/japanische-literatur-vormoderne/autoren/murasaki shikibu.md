@@ -4,7 +4,7 @@ draft = false
 
 weight = 2
 title = "Murasaki Shikibu"
-#japanese = "清 少納言"
+japanese = "紫式部"
 translation = ""
 #occupation = "Hofdame"
 works = [

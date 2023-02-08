@@ -9,8 +9,8 @@ deutsch = "Tagebuch"
 translation = ""
 description = ""
 works = [
-  "Tosa Nikki",
-  "Kagerō Nikki",
+  "9-tosanikki",
+  "10-kageronikki",
   "Murasaki Shikibu Nikki"
 ]
 +++

@@ -74,7 +74,7 @@ body {
         </div>
     </div>
     <div class="row">
-        <div class="col-lg-8 mx-auto">
+        <div class="col-lg-8 mx-auto mb-4 pb-2">
             <ul class="timeline">
                 {{ range .RegularPages }}
                 {{ $page := . }}
@@ -102,7 +102,6 @@ body {
                             {{ end }}
                         </span>
                         <p class="text-small mt-2 font-weight-light">{{ if .Description }}{{ .Description }}{{ end }}</p>
-
                     </li>
                 </a>
                 {{ end }}

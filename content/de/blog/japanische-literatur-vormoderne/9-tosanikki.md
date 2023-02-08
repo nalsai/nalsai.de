@@ -8,8 +8,8 @@ title = "Tosa nikki"
 #short = ""
 japanese = "土佐日記"
 #description = ""
-author = "Ki no Tsurayuki"
-genre = "nikki, kikō"
+authors = ["Ki no Tsurayuki"]
+genres = ["nikki", "kikō"]
 release = "ca. 935"
 +++
 

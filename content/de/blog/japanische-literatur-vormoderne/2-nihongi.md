@@ -19,7 +19,8 @@ release = "720"
 
 | Kojiki  |  Nihongi  |
 |---------|-----------|
-| mythischer  | sachlicher und historiografischer, aber beinhaltet trotzdem religiöses und mythologisches Material  |
+|712|720|
+| Mythologisch/mythischer  | sachlicher und historiografischer, aber beinhaltet trotzdem religiöses und mythologisches Material  |
 | für das eigene Land geschrieben  | Ausland (China)  |
 | Japanisch  | komplett in Chinesisch  |
 |   | an chinesischen Reichsannalen (Dynastische Annalen) angelehnt |

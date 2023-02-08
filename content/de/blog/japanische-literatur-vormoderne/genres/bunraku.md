@@ -2,14 +2,13 @@
 type= "blog/japanische-literatur-vormoderne/genres"
 draft = false
 
-weight = 1
-title = "Gedichtsammlung"
+weight = 49
+title = "Bunraku"
 japanese = ""
 deutsch = ""
 translation = ""
 description = ""
 works = []
-unlisted = true
 +++
 
-siehe [waka](../waka)?
+siehe auch [joruri](../joruri)
