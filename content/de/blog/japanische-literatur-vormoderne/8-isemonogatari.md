@@ -12,3 +12,5 @@ genres = ["uta monogatari"]
 release = "ca. 925"
 +++
 
+rund 125 kurze lyrische Episoden
+

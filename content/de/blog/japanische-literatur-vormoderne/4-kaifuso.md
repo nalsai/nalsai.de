@@ -5,11 +5,11 @@ draft = false
 slug = "kaifuso"
 weight = 4
 title = "Kaifūsō"
-#short = ""
 japanese = "懐風藻"
 #description = ""
-#author = ""
-#genre = ""
+#authors = [""]
+#genres = [""]
 release = "ca. 751"
 +++
 
+kanshi (chinesisch)

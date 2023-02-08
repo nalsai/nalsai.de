@@ -2,7 +2,7 @@
 type= "blog/japanische-literatur-vormoderne/autoren"
 draft = false
 
-weight = 5
+weight = 3
 title = "Ki no Tsurayuki"
 japanese = "紀 貫之"
 #translation = ""
