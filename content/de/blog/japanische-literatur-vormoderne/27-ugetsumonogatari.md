@@ -40,3 +40,14 @@ Chrysanthemen, Geister, Blutrache, Schwur/Verbrüderung
 
 - Gehobener Sprachstil / lyrisch anmutende Prosa aber dennoch realistische Sprechweise -> Menschen sprechen ihrem Stand und der Zeit entsprechend
 - Geschichten haben belehrende Tendenz
+
+
+
+
+Kikka no chigiri
+Mann und samurai werden freunde
+Machtsturz
+Verspricht am chrysanthmenfest wieder zu treffen
+Bringt sich um schwur nicht zu brechen und kommt
+
+

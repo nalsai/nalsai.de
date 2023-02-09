@@ -14,3 +14,11 @@ release = "ca. 925"
 
 rund 125 kurze lyrische Episoden
 
+
+
+Ise
+Ariwara no narihira
+Romanzen
+Veile Tanaka
+Autor unbekannt
+Lyrik im Vordergrund 

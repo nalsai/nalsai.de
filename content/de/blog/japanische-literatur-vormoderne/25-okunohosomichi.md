@@ -15,3 +15,12 @@ release = "1689, Erstdruck: 1702"
 +++
 
 - kikō (ein Reisetagebuch), im haibun-Stil verfasst -> komplexe Sprache
+
+
+
+Oku no hosomichi
+Haibun stil
+Poetisches Reisetagebuch
+Im text viele Haiku
+
+

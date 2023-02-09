@@ -53,3 +53,19 @@ der Begriff assoziiert?
 - Schriftsystem, das chinesische Schriftzeichen nicht nach ihrer semantischen, sondern phonetischen
 Eigenschaft nutzt, um die Japanische Sprache zu verschriftlichen
 - Man’yōshū ist in Man’yōgana verfasst
+
+
+Manyoshu
+Große Themenvielfalt (auch Armut)
+
+Kotobagaki: lange Überschrift, die of Inhalt schon vorweg nimmt, Kontext oder Entstehung erklärt 
+
+Kakinomoto no Hitomaro
+Hofdichter unter 3 Tenno
+Auch persönliche Gedichte
+Shinto geprägt
+
+Yamanoue no Okura
+Hofdichter, China-Fachmann
+Man vermutet, dass er Koreaner ist
+Eher buddhistisch geprägt

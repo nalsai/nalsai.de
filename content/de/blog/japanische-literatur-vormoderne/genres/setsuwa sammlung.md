@@ -3,13 +3,13 @@ type= "blog/japanische-literatur-vormoderne/genres"
 draft = false
 
 weight = 1
-title = "Gedichtsammlung"
+title = "Setsuwa-Sammlung"
 japanese = ""
 deutsch = ""
 translation = ""
 description = ""
-works = []
+works = ["15-konjakumonogatari"]
 unlisted = true
 +++
 
-siehe [waka](../waka)
+siehe [setsuwa](../setsuwa)

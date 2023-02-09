@@ -34,4 +34,12 @@ Beine) -> schwarz gekleidet sollen die Puppenspieler mit dem Hintergrund verschm
 die Puppen ohne Ablenkung wahrnimmt
 
 
+Joruri
+Bedeutet ursprünglich Rezitationskunst
+Gesang + Shamisen
+- wurde im 16. jh. Verbudnen (/kombiniert)
+
+
+
+
 siehe [bunraku](../bunraku)

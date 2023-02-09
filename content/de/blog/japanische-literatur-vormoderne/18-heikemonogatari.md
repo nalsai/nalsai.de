@@ -26,3 +26,13 @@ belegbar; es können jedoch auch fiktionale Elemente miteinfließen
 mit Kriegen befassen
 
 
+
+
+Heike monogatari
+12 Bücher + 1 Epilog
+Rekishi monogatari - geschichtlicher/historischer epos
+Gunki Monogatari - Kriegsepos
+Wakan konkobun
+
+
+Heike - Schauplätze oft Schlachtfelder

@@ -28,3 +28,13 @@ Himmelsfee (wie im Taketori monogatari), Trauer, Rührung
 ## Thema
 
 Natur der Menschen (Fischer unterstellt ihr, ohne zu tanzen zurückzukehren -> das würde vielleicht ein Mensch tun aber kein Himmelswesen) + Veränderung ist möglich
+
+
+
+
+Hagoromo
+Fischer findet
+Federkleid von Himmelswesen
+Tanz
+Will erst nicht wiedergeben, weil er denkt dass dann fortfliegt, will erst tanz sehen - braucht federkleid für tanz
+Die Himmelswesen sind so nicht

@@ -15,3 +15,9 @@ release = "ca. 822"
 
 - enthält 116 frühbuddhistische Legenden
 - im klassischen Kanbun geschrieben
+
+
+Nihon ryoiki 
+116 Geschichten
+Teilweise ōjōden - Berichte von der Wiedergeburt in das reine Land
+Japanisch chinesischer Mischstil

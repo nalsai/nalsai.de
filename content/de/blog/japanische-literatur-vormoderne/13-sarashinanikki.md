@@ -29,3 +29,17 @@ Sprache und stilistischen Besonderheiten:
 - Intertextualität -> Bezüge zum Genji monogatari, Ise monogatari und zum Kokinshû
 - tiefe Einblicke in die Gedanken und Gefühlswelt der Autorin (gefühlsbetontes Schreiben)
 - enthält viele meishô und utamakura
+
+
+
+
+Sarshina 
+Autorin nichte von fujiwara...
+Sehnsucht
+Möchte Mann wie Genji finden
+Reist viel - Beschreibungen
+V.a. Als Kind 
+Wird Erwachsen, muss aufgeben
+Amida buddha erscheint in träumen
+
+

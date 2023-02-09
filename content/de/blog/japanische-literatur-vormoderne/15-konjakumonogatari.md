@@ -13,3 +13,7 @@ genres = ["setsuwa sammlung"]
 release = "12. Jh."
 +++
 
+
+Konjaku monogatari shū
+Buddhistische und sekulare Themen
+Mischung aus phantastischem und realistischem

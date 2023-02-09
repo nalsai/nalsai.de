@@ -33,3 +33,12 @@ normalen Bürgertum kommt und sozial weit aufsteigt
 - sozialer Aufstieg durch besondere Talente und da seine Kinder mōshigo (Wunderkinder) sind ->
 wird auf Karma zurückgeführt
 
+
+
+Bunsho soshi
+Bunta salz
+Töchter
+Heiraten letztendlich 
+Erhält rang am hof
+Shussemono aufstiegsgeschichten 
+

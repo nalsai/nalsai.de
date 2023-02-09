@@ -15,3 +15,12 @@ release = "1399"
 +++
 
 ein tarōkaja-Stück
+
+
+
+Busu
+Damiyo gibt vasallen kästchen gift (Zucker) zum aufbewahren
+Essen es
+Zerstören andere Sachen, sagen wollten gift essen um sich umzubringen
+
+

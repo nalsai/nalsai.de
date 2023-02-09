@@ -14,3 +14,9 @@ release = "974"
 +++
 
 ein frühes Frauentagebuch
+
+
+
+Kagero
+Leben der Autorin, Beziehung zu Kanei
+Von Trauer geprägt

@@ -28,3 +28,15 @@ Literatur zu erkennen, daher Annäherung an das ursprünglich aus China stammend
 - behandelt mujō; die Vergänglichkeit und die Loslösung vom irdischen/materiellen (aber auch
 kritische Betrachtung von ihm selbst -> er mag seine Hütte sehr)
 - buddh. Konzept des mappô
+
+
+Hojoki
+Autobiografisch geprägt
+Katastrophen in heiankyo
+Baut sich eine Hütte an einem abgelegenen ort
+Ist buddhistischer Mönch
+Endzeitstimmung
+Abwendung von der irdischen welt
+Mag dann die hütte aber gerne, schafft es nicht richtig sich loszulösen
+Ki - bericht
+

@@ -27,4 +27,13 @@ Jahreszeiten, Sei Shōnagons Alltag und allgemein Gedanken zu verschiedenen Them
 
 5. Was bedeutet der Begriff okashi をかし?
 - „reizvoll, elegant, ästhetisch anspruchsvoll“
--> „intellektueller Reiz“ im Gegensatz zu aware („emotionaler Reiz“) !
+-> „intellektueller Reiz“ im Gegensatz zu aware („emotionaler Reiz“)
+
+
+Makura no sohi
+Eindrücke der Autorin
+Manchmal auch einfache Listen
+Essayartigen Eindrücke
+Keinen roten faden
+Leben am hof
+Freundschaft zu Fujiwara no teishi

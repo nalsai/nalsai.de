@@ -17,3 +17,9 @@ release = "ca. 903-914"
 von Kaiser Uda (reg. 887–897) in Auftrag gegeben
 
 Kompilatoren der Anthologie waren vier Hofdichter, geführt von Ki no Tsurayuki
+
+
+
+Kokinshu 
+20 Bände nach Thema sortiert
+Autoren nur Höflinge
