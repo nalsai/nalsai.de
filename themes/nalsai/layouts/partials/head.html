@@ -1,7 +1,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>{{ .Title }} @ {{ .Site.Title }} </title>
-<meta name="description" content="{{ .Title }}">
+<title>{{ .Title }} @ {{ .Site.Title }}</title>
+{{ if .Description }}<meta name="description" content="{{ .Description }}">{{ end }}
 <link rel="stylesheet" href="/css/bootstrap.min.css">
 <link rel="stylesheet" href="/css/style.css">
 <link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://cdn.nalsai.de/mystuff/1.0/icons/apple-touch-icon-57x57.png">
@@ -17,7 +17,7 @@
 <link rel="icon" type="image/png" href="https://cdn.nalsai.de/mystuff/1.0/icons/favicon-16x16.png" sizes="16x16">
 <link rel="icon" type="image/png" href="https://cdn.nalsai.de/mystuff/1.0/icons/favicon-128.png" sizes="128x128">
 <link rel="icon" type="image/png" href="https://cdn.nalsai.de/mystuff/1.0/icons/favicon-196x196.png" sizes="196x196">
-<meta name="application-name" content="Nils' Webseite">
+<meta name="application-name" content="{{ .Site.Title }}">
 <meta name="msapplication-TileColor" content="#0094FF">
 <meta name="msapplication-TileImage" content="https://cdn.nalsai.de/mystuff/1.0/icons/mstile-144x144.png">
 <meta name="msapplication-square70x70logo" content="https://cdn.nalsai.de/mystuff/1.0/icons/mstile-70x70.png">
