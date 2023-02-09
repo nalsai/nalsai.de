@@ -25,6 +25,9 @@ release = "720"
 | Japanisch  | komplett in Chinesisch  |
 |   | an chinesischen Reichsannalen (Dynastische Annalen) angelehnt |
 
+Kojiki: diente primär zur Legitimation des Kaisers und seiner göttlichen Abstammung in Japan
+Nihongi: Außenwahrnehmung war wichtig, man möchte sich vor China gut präsentieren
+-> dennoch beide sind politische Herrschaftslegitimationen
 
 
 Kojiki:

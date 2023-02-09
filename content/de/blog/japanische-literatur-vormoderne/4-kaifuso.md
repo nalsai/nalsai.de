@@ -13,3 +13,7 @@ release = "ca. 751"
 +++
 
 kanshi (chinesisch)
+
+- Sammlung von kanshi, kompiliert ca. 751 von Mitgliedern am Hof (also ungefähr zeitgleich mit dem
+Man’yôshû)
+
