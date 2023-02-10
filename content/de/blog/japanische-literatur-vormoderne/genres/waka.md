@@ -46,14 +46,56 @@ Angeblich soll Susanoo no mikoto (<dfn title="Gottheit">Kami</dfn> des Windes un
 
 ## Stilmittel
 
-### Makurakotoba „Kopfkissenwort“
+### Engo 縁語 „assoziatives Wort“
 
-Fixes Attribut mit 5 Silben, das einem anderen Wort zugeordnet wird
--> yakumotatsu ist das Attribut zu izumo  
--> liest man irgendwo yakumotatsu, erweckt dies sofort die Assoziation zu izumo
+Assoziationen auf verbaler Ebene
 
-### Kakekotoba „Schanierwort“
+meistens eine Reihe von Wörtern in einem Gedicht, die aus dem gleichen Wortfeld kommen, oder Kollokationen sind
 
-Wortspiel  
-Stilmittlel, welches Homophone nutzt um ein Wort von beiden Seite mit unterschiedlicher Bedeutung einzubauen  
-z.B. matsu - Pinie, warten
+Beispiele: kawa (Fluss), se (Strom), fuchi (Tiefe, Schlucht), nagareru (fließen);  
+&nbsp; nagisa (Küste, Strand), nami (Welle), urami (Grollen)
+
+### Honkadori 本歌取り
+
+Indirekte Anspielung in einem Gedicht an ein älteres Gedicht, was zum großen Teil von den potentiellen Lesern der Zeit erkannt wurde  
+Neues Gedicht kann auf Ästhetik des alten Gedichts aufbauen
+
+### Jokotoba 序詞 „Geleitwort / attributives Schmuckwort“
+
+Leitet ein bestimmtes Thema attributiv ein  
+Hat aber (anders als das makurakotoba) 6 oder mehr Silben und kein festgelegtes Attribut  
+Wird entweder durch Zusammenhang in der Bedeutung, oder durch ähnlichen Klang zweier Wörter gebildet  
+Beispiel: hanagatsumi- katsu mi (ru)
+
+### Kakekotoba 掛詞 „Scharnierwort“
+
+Nutzt die Doppeldeutigkeit von Homophonen, um ein Wort von beiden Seite mit unterschiedlicher Bedeutung einzubauen  
+Beispiel: matsu - Pinie, warten
+
+Nicht immer ist das ganze kakekotoba ein Homophon — manchmal bezieht sich die Doppeldeutigkeit nur auf einen Teil des Wortes
+[matsumushi > matsu (warten) und matsumushi (Kieferngrille)]
+
+### Kigo 季語 „Jahreszeitenwort“
+
+Wort das assoziativ eine bestimmte Jahreszeit impliziert  
+Die Jahreszeit selbst muss dafür nicht explizit genannt werden
+
+- Frühling: sakura (Kirschlüte), hana (Blumen), nurumu (Wärme),...
+- Sommer: semi (Zikaden), atsusa (Hitze),...
+- Herbst: momiji (rotes Herbstlaub), hahaso (Eichenlaub), tsuki (Mond), mushi (Käfer),...
+- Winter: shirayuki (weißer Schnee), kōri (Eis),...
+
+### Kotobagaki 詞書
+
+Kurze Einleitung, Vorwort, Überschrift zu Gedicht  
+Beinhaltet Angaben zum Inhalt (Entstehungszeit, Ort, Dichter)
+
+### Makurakotoba 枕詞 „Kopfkissenwort“
+
+Fixes Attribut mit 5 Silben, welches einem feststehenden Wort zugeordnet wird und diesem voraus geht  
+Beispiel: yakumotatsu izumo
+
+### Utamakura 歌枕 „Liedkopfkissen“
+
+Berühmte Orte, die immer wieder „besungen“ werden, und in vielen Gedichten vorkommen  
+Beispiele: Sumidagawa, Berg Fuji, Yoshino

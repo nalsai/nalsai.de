@@ -28,7 +28,8 @@ Darunter fallen die [waka]({{< relref "waka" >}}) und die kanshi.
 - z.T. Metrik oder Reimschemata
 - freiere Formen
 
----
-
-uta awase - heian, kagero
+<!--
+uta awase
 Gedichtswettbewerb (->waka; häufig am Hof in Heian-Zeit)
+kommt u.a. im kagero nikki vor
+-->

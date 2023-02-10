@@ -13,3 +13,4 @@ genres = ["yomihon"]
 release = "1814–42"
 +++
 
+konfuzianische Tugenden personifiziert als 8 Kriegerhunde

@@ -19,3 +19,5 @@ release = "1689, Erstdruck: 1702"
 
 Poetisches Reisetagebuch
 Im text viele Haiku
+
+Prosa Wetk im haibun-Stil
