@@ -14,12 +14,38 @@ authors = [
     "Kakinomoto no Hitomaro",
 	"Yamanoue no Okura",
     "..."]
-#genres = [""]
+genres = ["Gedichtsammlung", "waka"]
 release = "nach 750"
 +++
 
-
 - erste Gedichtanthologie
+- Gedichtarten: tanka, chōka, sedōka
+
+## Sprache
+
+in man’yōgana
+chinesisches Vorwort
+
+## Besonderheiten
+
+- in 20 Bücher unterteilt
+- Aufteilung nach verschiedenen
+Gruppen von Gedichten (nach
+Inhalt)
+zōka (vermischte Lieder wie
+Reisegedichte,
+Glückwunschgedichte)
+sōmonka (meist Liebesgedichte –
+Frage und Antwort)
+banka (Gedichte über den Tod,
+häufig den Tod von Mitgliedern
+der kaiserlichen Familie)
+- enorme Vielfalt an Themen und
+geografischer Herkunft der
+Dichter, Verfasser*innen aus
+verschiedenen Schichten
+
+
 - sprachliche Besonderheit: Man’yôgana
 - umfasst ca. 4500 Gedichte, diese sind unterteilt in 20 Bücher mit 3 Themen
 - Dichter*innen kamen aus allen sozialen Schichten!

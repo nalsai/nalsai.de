@@ -2,14 +2,12 @@
 type= "blog/japanische-literatur-vormoderne/genres"
 draft = false
 
-weight = 1
-title = "Setsuwa-Sammlung"
+weight = 99
+title = "ukiyozōshi"
 japanese = ""
 deutsch = ""
 translation = ""
 description = ""
-works = ["15-konjakumonogatari"]
-unlisted = true
+works = []
 +++
 
-siehe [setsuwa](../setsuwa)

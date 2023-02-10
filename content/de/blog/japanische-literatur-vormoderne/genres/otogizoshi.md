@@ -2,8 +2,8 @@
 type= "blog/japanische-literatur-vormoderne/genres"
 draft = false
 
-weight = 47
-title = "Otogizōshi"
+weight = 15
+title = "otogizōshi"
 japanese = "御伽草子"
 deutsch = ""
 translation = ""
@@ -24,3 +24,16 @@ Guten, Bestrafung des Bösen)
 - eher zum Vorlesen bestimmt: Techniken und Stilmittel der mündlichen "Literatur"
 -> Wiederholungen, erzählerische Grundmuster, formelhafte Wendungen, stereotype Attribute der
 Charaktere -> kaum ästhetische Beschreibungen oder Stilmittel
+
+
+
+2. Otogizōshi
+Kurzprosa der Muromachi-Zeit
+Bücher, keine Rollen 300-400 aus muromachi Zeit überliefert
+Edo Zeit Wandlung zu Unterhaltungsliteratur
+Sarugenji
+Autor (meistens) unbekannt
+
+
+3. Shussemono
+Aufstiegsgeschichten - Wunderkinder

@@ -2,7 +2,7 @@
 type= "blog/japanische-literatur-vormoderne/autoren"
 draft = false
 
-weight = 51
+weight = 16
 title = "Matsuo Bashō"
 japanese = "松尾 芭蕉"
 translation = ""

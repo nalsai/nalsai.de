@@ -6,14 +6,12 @@ slug = "kaifuso"
 weight = 4
 title = "Kaifūsō"
 japanese = "懐風藻"
+translation = ""
 #description = ""
 #authors = [""]
-#genres = [""]
+genres = ["gedichtsammlung", "kanshi"]
 release = "ca. 751"
 +++
 
-kanshi (chinesisch)
-
-- Sammlung von kanshi, kompiliert ca. 751 von Mitgliedern am Hof (also ungefähr zeitgleich mit dem
-Man’yôshû)
-
+- Sammlung von kanshi
+- Von Mitgliedern am Hof ungefähr zeitgleich mit dem Man’yôshû kompiliert

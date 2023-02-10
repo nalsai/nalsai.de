@@ -5,8 +5,8 @@ draft = false
 weight = 13
 slug = "sarashinanikki"
 title = "Sarashina nikki"
-#short = ""
 japanese = "更級日記"
+translation = ""
 #description = ""
 authors = ["Sugawara no Takasue no musume"]
 genres = ["nikki"]
@@ -43,3 +43,13 @@ Wird Erwachsen, muss aufgeben
 Amida buddha erscheint in träumen
 
 
+
+8. Sarashina nikki + Geistiger Inhalt
+nikki
+"Sarashina Tagebuch" ca. 1060
+Verfasserin: ?
+Name aus letztem Gedicht des Werks
+Sugawara no ? no musume
+Erwachsenwerden, Einsamkeit, Verlust, Tod
+Sehnsucht nach Erzählungen ([genji] monogatari), religiöse Träume, Hoffnung, Trauer etc.
+Buddhismus nimmt zentrale Rolle ein (Reinkarnation, Karma, Amida Buddha, Paradisvorstellung), Shintoismus, Aberglaube

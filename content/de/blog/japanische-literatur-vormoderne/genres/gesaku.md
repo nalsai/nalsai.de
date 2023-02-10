@@ -2,8 +2,8 @@
 type= "blog/japanische-literatur-vormoderne/genres"
 draft = false
 
-weight = 1
-title = "Gesaku"
+weight = 20
+title = "gesaku"
 japanese = ""
 deutsch = ""
 translation = "im Scherz geschrieben"

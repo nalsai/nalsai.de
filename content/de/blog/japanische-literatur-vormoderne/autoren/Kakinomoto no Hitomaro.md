@@ -20,4 +20,3 @@ Hofdichter am Kaiserhof unter Temmu, Jitō und Mommu
 Schrieb auch Lobpreisungen Kaiser
 
 gilt als einer der vier größten Dichter der japanischen Geschichte, zusammen mit Fujiwara no Teika, Sōgi und Bashō
-

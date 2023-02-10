@@ -2,8 +2,8 @@
 type= "blog/japanische-literatur-vormoderne/genres"
 draft = false
 
-weight = 45
-title = "Nō"
+weight = 10
+title = "nō"
 japanese = "能"
 deutsch = ""
 translation = ""

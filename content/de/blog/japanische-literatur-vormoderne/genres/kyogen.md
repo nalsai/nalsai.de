@@ -2,8 +2,8 @@
 type= "blog/japanische-literatur-vormoderne/genres"
 draft = false
 
-weight = 46
-title = "Kyōgen"
+weight = 11
+title = "kyōgen"
 japanese = "狂言"
 deutsch = ""
 translation = ""

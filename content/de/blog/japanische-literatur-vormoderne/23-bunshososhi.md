@@ -5,8 +5,8 @@ draft = false
 weight = 23
 slug = "bunshososhi"
 title = "Bunshō Sōshi"
-#short = ""
 japanese = "文正草子"
+translation = ""
 #description = ""
 #authors = [""]
 genres = ["otogizoshi"]
@@ -34,11 +34,10 @@ normalen Bürgertum kommt und sozial weit aufsteigt
 wird auf Karma zurückgeführt
 
 
+---
 
-Bunsho soshi
 Bunta salz
 Töchter
 Heiraten letztendlich 
 Erhält rang am hof
 Shussemono aufstiegsgeschichten 
-

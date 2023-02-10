@@ -5,11 +5,11 @@ draft = false
 weight = 26
 slug = "sonezakishinju"
 title = "Sonezaki shinjū"
-#short = ""
-japanese = ""
+japanese = "曾根崎心中"
+translation = ""
 #description = ""
 authors = ["chikamatsu monzaemon"]
-genres = ["joruri", "sewamono"] #bunraku
+genres = ["bunraku", "sewamono"] #bunraku
 release = "1703"
 +++
 
@@ -19,8 +19,8 @@ release = "1703"
 
 
 
-Sonezaki Shinju 
-Liebestod in 
+Sonezaki Shinju
+Liebestod in
 Konflikt giri - ninjo
 Konnten nicht zusammen sein
 Doppelselbstmord

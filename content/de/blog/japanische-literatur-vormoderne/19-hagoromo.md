@@ -5,9 +5,8 @@ draft = false
 weight = 19
 slug = "hagoromo"
 title = "Hagoromo"
+japanese = "羽衣"
 transaltion = "Das Federkleid / Federgewand"
-#short = ""
-japanese = ""
 #description = ""
 #authors = [""]
 genres = ["No"]
@@ -30,9 +29,7 @@ Himmelsfee (wie im Taketori monogatari), Trauer, Rührung
 Natur der Menschen (Fischer unterstellt ihr, ohne zu tanzen zurückzukehren -> das würde vielleicht ein Mensch tun aber kein Himmelswesen) + Veränderung ist möglich
 
 
-
-
-Hagoromo
+---
 Fischer findet
 Federkleid von Himmelswesen
 Tanz

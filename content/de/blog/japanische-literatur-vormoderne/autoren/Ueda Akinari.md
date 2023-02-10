@@ -2,13 +2,13 @@
 type= "blog/japanische-literatur-vormoderne/autoren"
 draft = false
 
-weight = 51
+weight = 19
 title = "Ueda Akinari"
 japanese = "上田 秋成"
 translation = ""
 occupation = "Autor und Dichter der Edo-Zeit"
 works = [
-  "24-ugetsumonogatari"
+  "27-ugetsumonogatari"
 ]
 description = ""
 +++

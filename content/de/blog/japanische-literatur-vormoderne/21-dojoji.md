@@ -5,9 +5,8 @@ draft = false
 weight = 21
 slug = "dojoji"
 title = "Dōjōji"
-transaltion = ""
-#short = ""
 japanese = "道成寺"
+translation = ""
 #description = ""
 authors = ["Kan’ami oder Kanze Nobumitsu (nicht eindeutig)"]
 genres = ["No"]
@@ -35,4 +34,6 @@ war, führten sie einen Exorzismus durch, um den Schlangendämon, in den sich di
 Tänzerin verwandelt hatte zu bannen.
 
 ## Besonderheiten
-- einziges Nō-Stück mit Bühnenrequisite (Glocke) und besonderer Tanz (ranbyōshi)
+
+- Einziges Nō-Stück mit Bühnenrequisite (Glocke)
+- Besonderer Tanz (ranbyōshi)

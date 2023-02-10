@@ -40,3 +40,20 @@ Abwendung von der irdischen welt
 Mag dann die hütte aber gerne, schafft es nicht richtig sich loszulösen
 Ki - bericht
 
+9. Hōjōki + Genre + was kann man diesbezüglich problematisieren
+Hōjōki (ca. 1212)
+zuihitsu
+wenig miszellenartige Textfragmente
+Unterscheidet sich von Stil Sarah von anderen zuihitsu
+Hat eine Handlung, andere sind nur einzelne Impressionen aus Alltag
+starker Einfluss des aus China stammenden 記 ki
+Auszeichnungen aus 3x3m²
+Buddhist: Loslösung von Materiellem, findet aber Hütte toll
+
+
+10. buddhistische Konzept mujō Epoche + ein Werk
+Vergänglichkeit und Loslösung vom irdischen/materiellen
+Hōjōki Anfang Kamakura-Zeit, Heike monogatari (G enpei Krieg -> Untergang der Taira)
+
+wakan konkôbun
+  Japanisch-Chinesicher Mischstil

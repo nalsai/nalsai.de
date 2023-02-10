@@ -5,10 +5,11 @@ draft = false
 weight = 29
 slug = "nansosatomihakkenden"
 title = "Nansō Satomi Hakkenden"
-japanese = ""
+japanese = "南総里見八犬伝"
+translation = ""
 #description = ""
 authors = ["Kyokutei Bakin"]
-genres = []
+genres = ["yomihon"]
 release = "1814–42"
 +++
 

@@ -14,7 +14,7 @@
                     <path fill-rule="evenodd" d="M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z"/>
                 </svg> Zur Übersicht der Werke
             </a>
-            <h1 class="mb-4 mt-3">{{ .Title }}</h1>
+            <h1 class="mb-4 mt-3">{{ .Title }} {{ .Params.japanese }} {{ if .Params.short }}<br>(kurz: {{ .Params.short }}){{ end }}</h1>
             {{ if .Description }}<p class="lead text-justify">{{ .Description }}</p>{{ end }}
             <!--<hr class="my-4">-->
             {{ if .Params.release }}

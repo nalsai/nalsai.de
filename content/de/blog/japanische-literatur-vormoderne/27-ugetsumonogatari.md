@@ -5,9 +5,8 @@ draft = false
 weight = 27
 slug = "ugetsumonogatari"
 title = "Ugetsu monogatari (Kikka no chigiri)"
+japanese = "雨月物語"
 translation = "Unter dem Regenmond"
-#short = ""
-japanese = ""
 #description = ""
 authors = ["ueda akinari"]
 genres = ["yomihon"]
@@ -42,12 +41,9 @@ Chrysanthemen, Geister, Blutrache, Schwur/Verbrüderung
 - Geschichten haben belehrende Tendenz
 
 
+---
 
-
-Kikka no chigiri
 Mann und samurai werden freunde
 Machtsturz
 Verspricht am chrysanthmenfest wieder zu treffen
 Bringt sich um schwur nicht zu brechen und kommt
-
-

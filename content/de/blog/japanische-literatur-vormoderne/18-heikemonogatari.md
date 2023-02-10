@@ -6,9 +6,10 @@ weight = 18
 slug = "heikemonogatari"
 title = "Heike monogatari"
 japanese = "平家物語"
+translation = ""
 #description = ""
 #authors = [""]
-genres = ["rekishi monogatari", "gunki monogatari"]
+genres = ["monogatari", "rekishi monogatari", "gunki monogatari"]
 release = "1371 (heutige Version)"
 +++
 
@@ -27,7 +28,6 @@ mit Kriegen befassen
 
 
 
-
 Heike monogatari
 12 Bücher + 1 Epilog
 Rekishi monogatari - geschichtlicher/historischer epos
@@ -36,3 +36,62 @@ Wakan konkobun
 
 
 Heike - Schauplätze oft Schlachtfelder
+
+wakan konkôbun
+  Japanisch-Chinesicher Mischstil
+
+---
+
+## Zielgruppe
+
+Normales Bürgertum / u.a. Kriegeradel
+
+## Schauplätze
+
+verschiedene Schauplätze
+-> eher außen (Schlachtfeld, zur
+See)
+
+## Erzählte Zeit
+
+ca. 40 Jahre
+
+## Protagonisten
+
+Personen aus den Familien der
+Taira/Heike und der
+Minamoto/Genji
+
+## Erzähler/Erzählperspektive/Fokalisierung
+
+auktorialer Erzähler
+(Nullfokalisierung), wenig
+Innenschau; es wird viel von
+außen beschrieben (externe
+Fokalisierung)
+Krieger stellen sich teils selbst
+vor (naming one’s name) + Wert
+wird auf Erscheinung der Krieger
+gelegt (dressing the hero)
+
+## Darstellung der Figuren
+
+typologisierend, nicht so
+differenziert, nicht
+dreidimensional
+
+## Hintergrund
+
+historisch belegbare Figuren
+
+## Aufbau
+
+12 Kapitel
+
+## Hauptmotiv
+
+mujō
+
+## Sprache/ Stil
+
+wakan konkôbun

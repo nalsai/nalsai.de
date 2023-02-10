@@ -3,16 +3,32 @@ type= "blog/japanische-literatur-vormoderne/genres"
 draft = false
 
 weight = 1
-title = "Uta"
+title = "uta"
 japanese = "歌"
 deutsch = ""
-translation = ""
+translation = "Geditcht/Lied"
 description = ""
 works = []
 +++
 
+Ganz generell vormoderner Begriff, unter den jegliche Form der Lyrik fällt, die in Japan, auf Japanisch oder von einem Japaner verfasst wurde
 
-- uta: „Gedicht“ oder „Lied“; ganz generell vormoderner Begriff, unter den jegliche Form der Lyrik
-fällt, die in Japan, auf Japanisch oder von einem Japaner (!) verfasst worden ist
-- darunter fallen die waka (japanische Gedichte in jap. Sprache) und die kanshi (japanische Gedichte
-in chin. Sprache)
+Darunter fallen die [waka]({{< relref "waka" >}}) und die kanshi.
+
+## Waka 和歌
+
+- Gedichte in japanischer Sprache
+- keine Metrik oder Reimschemata
+- Silbenabfolge der Verse wird streng eingehalten, enthält übliche Stilmittel
+- Siehe [waka]({{< relref "waka" >}})
+
+## Kanshi 漢詩
+
+- Gedichte in chinesischer Sprache
+- z.T. Metrik oder Reimschemata
+- freiere Formen
+
+---
+
+uta awase - heian, kagero
+Gedichtswettbewerb (->waka; häufig am Hof in Heian-Zeit)

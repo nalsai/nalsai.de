@@ -2,8 +2,8 @@
 type= "blog/japanische-literatur-vormoderne/genres"
 draft = false
 
-weight = 50
-title = "Kabuki"
+weight = 12
+title = "kabuki"
 japanese = ""
 deutsch = ""
 translation = ""

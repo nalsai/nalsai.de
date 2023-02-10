@@ -2,11 +2,11 @@
 type= "blog/japanische-literatur-vormoderne/genres"
 draft = false
 
-weight = 1
-title = "Nikki"
+weight = 5
+title = "nikki"
 japanese = "日記"
-deutsch = "Tagebuch"
-translation = ""
+deutsch = ""
+translation = "Tagebuch"
 description = ""
 works = [
   "9-tosanikki",
@@ -15,3 +15,24 @@ works = [
 ]
 +++
 
+
+|                 | nikki (nach ursprünglicher Bedeutung)                                                | nikki / nikki bungaku                                       |
+| --------------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------- |
+| Wer?            | Männer                                                                               | Frauen                                                      |
+| Schrift/Sprache | Chinesisch                                                                           | *Kana*                                                      |
+| Thema/Zweck     | trockene Aufzeichnung von Fakten und täglichen Ereignissen; kein literarischer Zweck | Prosaliteratur mit literarischem Zweck                      |
+| Struktur        | tägliche Einträge, mit Angabe des Datums; chronologisch erzählt                      | mit Lyrik verwoben; nicht so streng chronologisch           |
+| Erzählfigur     | 1. Person                                                                            | 1. Person (homodiegetisch), manchmal auch aus der 3. Person |
+| Umfang          | sehr detailreich; jede kleinste Begebenheit wird festgehalten                        | weniger detailreich; kann fiktionale Elemente enthalten     |
+| Biografisch     | immer autobiografisch                                                                | oft autobiografisch; kann aber auch fiktional sein          |
+
+---
+
+## kikō
+
+- Reisetagebuch
+- erst eine Unterkategorie der nikki, entwickelte sich mit der Zeit zum eigenen Genre
+- Reise in Vordergrund
+- Zusammenspiel aus Prosa und Lyrik
+- Landschaftliche Beschreibungen im Vordergrund
+- Beispiel: [Tosa nikki]({{< relref "9-tosanikki" >}})

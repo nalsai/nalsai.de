@@ -2,7 +2,7 @@
 type= "blog/japanische-literatur-vormoderne/autoren"
 draft = false
 
-weight = 50
+weight = 18
 title = "Ihara Saikaku"
 japanese = "井原 西鶴"
 translation = ""

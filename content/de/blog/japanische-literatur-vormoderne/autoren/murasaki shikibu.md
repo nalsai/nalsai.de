@@ -8,7 +8,7 @@ japanese = "紫式部"
 translation = ""
 #occupation = "Hofdame"
 works = [
-  "11-genjimonogatari",
+  "12-genjimonogatari",
   "Murasaki Shikibu nikki"
 
 ]

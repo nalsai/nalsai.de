@@ -24,3 +24,8 @@ body {
     max-width: 100%;
     height: auto;
 }
+
+dfn {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}

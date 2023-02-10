@@ -2,7 +2,7 @@
 type= "blog/japanische-literatur-vormoderne/autoren"
 draft = false
 
-weight = 40
+weight = 15
 title = "Kamo no Chōmei"
 japanese = "鴨 長明"
 translation = ""

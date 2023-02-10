@@ -2,52 +2,58 @@
 type= "blog/japanische-literatur-vormoderne/genres"
 draft = false
 
-weight = 1
-title = "Waka"
+weight = 2
+title = "waka"
 japanese = "和歌"
 deutsch = ""
-translation = ""
+translation = "japanisches Gedicht"
 description = ""
 works = []
 +++
 
+## Arten
 
-- tanka, chōka, hanka, sedōka
-- diese unterscheiden sich in ihrer Silbenanzahl und Folge
-- tanka: 31 Silben; 5-7-5-7-7
-- chōka: unbestimmte Silbenanzahl; 5-7-5-7-5-7 ~ 7-7
-- hanka: formal wie ein tanka; steht jedoch immer unter einem chōka und kommentiert dieses
-- sedōka: 38 Silben; 5-7-7 // 5-7-7; beinhaltet volksnahe Themen, im Man’yôshû die seltenste
-Gedichtsform
+unterscheiden sich in ihrer Silbenanzahl und Folge
 
+### tanka 短歌
 
-7. Welches ist das angeblich erste waka bzw. tanka 短歌, in welchem Werk findet es sich und wem
-wird es zugeschrieben?
-- tanka beginnt mit „yakumotatsu izumo“
-- findet sich im Kojiki
-- angeblich soll Susanoo no mikoto das Gedicht geschrieben haben
+- „Kurzgedicht“
+- 31 Silben
+- 5-7-5-7-7
 
-8. Welche Stilmittel, die für die japanische Lyrik typisch sind, finden sich in diesem Gedicht?
-- makurakotoba [Kopfkissenwort]: fixes Attribut mit 5 Silben, das einem anderen Wort zugeordnet
-wird (dt. Epitheton ornans)
--> yakumotatsu ist das Attribut zu izumo
+Das erste tanka findet sich im Kojiki. Es beginnt mit „yakumotatsu izumo“.  
+Angeblich soll Susanoo no mikoto (<dfn title="Gottheit">Kami</dfn> des Windes und des Meeres und Bruder der Sonnengöttin Amaterasu und des Mondgottes Tsukuyomi no Mikoto) das Gedicht geschrieben haben
+
+### chōka
+
+- „Langedicht“
+- Silbenanzahl unbestimmte
+- 5-7-5-7-5-...-7-7
+
+### hanka
+
+- „Gegengedicht“
+- Formal wie ein tanka
+- Steht unter einem chōka und kommentiert dieses
+
+### sedōka
+
+- „Gedicht mit wiederholtem Kopf“
+- 38 Silben
+- 5-7-7 5-7-7
+
+---
+
+## Stilmittel
+
+### Makurakotoba „Kopfkissenwort“
+
+Fixes Attribut mit 5 Silben, das einem anderen Wort zugeordnet wird
+-> yakumotatsu ist das Attribut zu izumo  
 -> liest man irgendwo yakumotatsu, erweckt dies sofort die Assoziation zu izumo
 
+### Kakekotoba „Schanierwort“
 
-Uta:
--waka
--kanshi
-
-Tanka 31
-57577
-Stilmittel
-
-Chhōka: Silbenzahl nicht festgelegt
-57575....77
-
-Hanka am ende von choka form wie tanka
-  Fasst inhalt zusammen/kommentiert
-
-Sedōka 38
-577577
-
+Wortspiel  
+Stilmittlel, welches Homophone nutzt um ein Wort von beiden Seite mit unterschiedlicher Bedeutung einzubauen  
+z.B. matsu - Pinie, warten

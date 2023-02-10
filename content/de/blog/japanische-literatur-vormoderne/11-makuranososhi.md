@@ -2,11 +2,11 @@
 type= "blog/japanische-literatur-vormoderne"
 draft = false
 
-weight = 12
+weight = 11
 slug = "makuranososhi"
 title = "Makura no sōshi"
-#short = ""
 japanese = "枕草子"
+translation = ""
 #description = ""
 authors = ["sei shonagon"]
 genres = ["zuihitsu"]
@@ -37,3 +37,7 @@ Essayartigen Eindrücke
 Keinen roten faden
 Leben am hof
 Freundschaft zu Fujiwara no teishi
+
+
+okashi: "intellektueller Reiz" ästhetisch anspruchsvoll
+  Makura no sōshi - Sei Shōnagon (ca. 1000)
