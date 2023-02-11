@@ -13,3 +13,4 @@ works = [
 description = ""
 +++
 
+Wurde auch oranda saikaku genannt da sein Stil als exotisch/fremd galt

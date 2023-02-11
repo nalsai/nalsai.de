@@ -20,6 +20,8 @@ unterscheiden sich in ihrer Silbenanzahl und Folge
 - „Kurzgedicht“
 - 31 Silben
 - 5-7-5-7-7
+- Oberstollen (5-7-5) und Unterstollen (7-7)
+- bekannteste Form des waka (spätestens seit dem Kokinshū)
 
 Das erste tanka findet sich im Kojiki. Es beginnt mit „yakumotatsu izumo“.  
 Angeblich soll Susanoo no mikoto (<dfn title="Gottheit">Kami</dfn> des Windes und des Meeres und Bruder der Sonnengöttin Amaterasu und des Mondgottes Tsukuyomi no Mikoto) das Gedicht geschrieben haben
@@ -27,8 +29,9 @@ Angeblich soll Susanoo no mikoto (<dfn title="Gottheit">Kami</dfn> des Windes un
 ### chōka
 
 - „Langedicht“
-- Silbenanzahl unbestimmte
+- Silbenanzahl unbestimmt
 - 5-7-5-7-5-...-7-7
+- Unter dem chôka findet man vor allem im Man‘yōshū ein hanka 反歌
 
 ### hanka
 

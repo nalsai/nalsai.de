@@ -4,7 +4,7 @@ draft = false
 
 weight = 18
 title = "haikai"
-japanese = ""
+japanese = "俳諧"
 deutsch = ""
 translation = ""
 description = ""

@@ -2,17 +2,19 @@
 type= "blog/japanische-literatur-vormoderne/genres"
 draft = false
 
-weight = 20
+weight = 21
 title = "yomihon"
 japanese = "読本"
 deutsch = ""
 translation = "Lesebuch"
 description = ""
-works = []
+works = ["29-nansosatomihakkenden"]
 +++
 
-anspruchsvolle „Lesebücher“ mit vielen Anspielungen auf historische Personen (Ueda
-lässt Handlung in historisch belegbarem Rahmen stattfinden), idealisierte Charaktere (Treue, wahre
-Freundschaft), Zitate aus Klassikern
-
-Yomihon - ehon
+- Gegenbegriff zum ezōshi & ehon (Bilderbuch)
+- Wörtl.: „Lesebuch“ -> Text im Vordergrund
+- z.B. [Nansō Satomi hakkenden]({{< relref "29-nansosatomihakkenden" >}})
+- Erste Form der Massenliteratur  
+  -> durch Einführung des Druckes mit beweglichen Lettern konnten hohe Auflagen gedruckt werden
+- Eher abenteuerliche, unwahrscheinliche Geschichten die nach heutigen Standards schwer nachvollziehbar sind
+- Häufig Verwendung von Allegorien (Verkörperungen von Werten und Tugenden) statt dreidimensionalen Figuren

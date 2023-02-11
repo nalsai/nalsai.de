@@ -6,14 +6,14 @@ weight = 2
 title = "Yamanoue no Okura"
 japanese = "山上 憶良"
 translation = ""
-occupation = ""
+occupation = "Hofdichter, China-Fachmann"
 works = [
   "3-manyoshu"
 ]
 description = ""
 +++
 
-Chinaexperte
-starken chinesischen Einfluss. Im Gegensatz zu anderen japanischen Dichtern seiner Zeit vertritt er Moralvorstellungen auf Basis der Lehren des Konfuzius
-
-Buddhismus
+- Chinaexperte
+- Starker chinesischer Einfluss
+- Eher buddhistisch geprägt
+- Man vermutet, dass er Koreaner ist

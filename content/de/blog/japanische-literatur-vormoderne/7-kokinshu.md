@@ -14,90 +14,65 @@ genres = ["Gedichtsammlung", "waka"]
 release = "ca. 903-914"
 +++
 
-
-- erste poetologische Ansätze (Ki no Tsurayuki /dichtungstheoretische Schrift!)
-- Gedichtarten: hauptsächlich tanka (über 1111)
-
 ## Sprache
 
-Japanisch
-japanisches Vorwort Kanajo (Kana, ganz
-wenige Kanji)
-chinesiches Vorwort Manajo
+- Japanisch
+- Japanisches Vorwort Kanajo (Kana, ganz wenige Kanji)
+- Chinesisches Vorwort Manajo
 
 ## Besonderheiten
 
-- nicht vom Kaiserhaus in Auftrag
-gegeben!- vom Kaiserhaus in Auftrag gegeben
-(chokusenshū)
-- eines der 21 kaiserlichen Sammlungen
-(nijūichidaishū)
+- Von Kaiser Uda (reg. 887–897) in Auftrag gegeben
+- Kompilatoren der Anthologie waren vier Hofdichter, geführt von Ki no Tsurayuki
+- Eines der 21 kaiserlichen Sammlungen (nijūichidaishū)
+- Enthält hauptsächlich tanka (über 1111)
+- In 20 Bücher unterteilt (nach Inhalt)
+  1. und 2. über den Frühling (春哥 haru no uta),
+  3. über den Sommer (夏哥 natsu no uta),
+  4. bis 5. Herbst (秋哥 aki no uta),
+  6. Winter (冬哥 fuyu no uta),
+  7. Gratulationen (賀哥 ga no uta),
+  8. Abschied (離列哥 wakare no uta),
+  9. Reisen (羈旅哥 tabi no uta),
+  19. Namen (物名 mono no na),
+  11. bis 15. Liebe (恋哥 koi no uta),
+  16. Klagen (哀傷哥 aishō no uta),
+  17. und 18. Verschiedenes (雑哥 kusagusa no uta),
+  19. Verschiedenes (雑体哥 zattai no uta) und
+  20. hauptsächlich traditionelle und rituelle Gedichte vom Büro für Poesie (大哥所御哥 ōutadokoro no on’uta).
+- Galt als Standard für jede weitere Dichtung
+- Drängte Man’yōshū in den Hintergrund
+- Verfasser der Gedichte stammten aus der Oberschicht
+- -> weniger Vielfalt
+- Stilmittel kigo „Jahreszeitenwort“
+- kotobagaki 詞書 kurze Einleitung/Überschrift zum Gedicht
+  - beinhaltet Angaben zum Inhalt, der Entstehungszeit, dem Entstehungsort, dem Dichter oder Ähnlichem
 
-- auch in 20 Bücher unterteilt, streng
-thematische Gliederung
-- Aufteilung nach verschiedenen
-Gruppen: Buch 1-6: Jahreszeiten (1
-Buch nur für Frühling etc.),
-1 zu: Glückwunschgedichte,
-1 zu: Abschiedsgedichte,
-1 zu: Liebesgedichte
-- galt nach Fertigstellung als Standard
-für jede weitere Dichtung, drängt
-Man’yōshū in den Hintergrund
-(Dichtkunst galt im Man’yōshū als noch
-nicht so entwickelt)
-- Verfasser der Gedichte aus der
-Oberschicht!
--> weniger Vielfalt
+## Zwei Vorworte
 
+- Enthalten poetologische Ansätze
+- Setzen Normen für ein gelungenes Gedicht
+  - Dichter muss gut mit Stilmitteln umgehen können und sich streng an die Regeln der waka-Dichtung halten (Originalität und Komplexität waren weniger wichtig)
+  - Sechs Prinzipien (Suasive, Description, Comparison, Evocative Imagery, Elegantia, Eulogies) definieren das “Wesen” der jap. Lyrik
 
+### Kanajo
 
-von Kaiser Uda (reg. 887–897) in Auftrag gegeben
+- Japanisches Vorwort (Kana)
+- Verfasst von Ki no Tsurayuki
+- Poetologischer Text, Literaturkritik (viele Beispiele)
+- Bezug auf die Götter/den Ursprung
+- Sechs Prinzipien, „Wesen“ der jap. Lyrik
+- Eher „poetisch“
+- Zielgruppe: Inland
 
-Kompilatoren der Anthologie waren vier Hofdichter, geführt von Ki no Tsurayuki
+### Manajo
 
-
-
-Kokinshu 
-20 Bände nach Thema sortiert
-Autoren nur Höflinge
-
-
-
-2. Welches Stilmittel hat seit dem Kokinshū eine herausragende Stellung in der tanka-Dichtung?
-Nenne die deutsche Bedeutung des japanischen Begriffs und ein paar Beispiele.
-- kigo, ein „Jahreszeitenwort“
-- sakura, hana (Frühling), semi, atsusa (Sommer), momiji, tsuki, mushi (Herbst), shirayuki, kôri
-(Winter) usw.
-3. Was ist ein kotobagaki 詞書 und in welchem Werk findet man es?
-- kurze Einleitung/Überschrift zum Gedicht (tanka, chōka, sedōka) im Kokinshū
-- beinhaltet Angaben zum Inhalt, der Entstehungszeit, dem Entstehungsort, dem Dichter oder
-Ähnlichem
-4. Nenne die zwei Vorworte des Kokinshū. In welchem zentralen Aspekt unterscheiden sie sich
-voneinander, wer hat jeweils die Vorworte verfasst und welche Bedeutung haben sie für das Kokinshū
-als Gedichtanthologie?
-- Kanajo & Manajo
-- Kanajo ist das japanische Vorwort, verfasst von Ki no Tsurayuki
-- Manajo ist das chinesische Vorwort, verfasst von Ki no Yoshimochi
-- enthalten poetologische Ansätze (Kritik an Lyrik) und setzen Normen für ein gelungenes Gedicht
-5. Wie ist der Aufbau des Manajo 真名所? Worin unterscheidet er sich von dem Aufbau des anderen
-Vorworts? Weshalb könnte es zwei Vorworte geben?
-- Einleitung, 6 Prinzipien, göttlicher Ursprung von Gedichten, Entwicklung der verschiedenen Sorten
-japanischer Lyrik, Literaturkritik
--> jedoch ohne Beispiele!
-- erwähnt außerdem den Import von chin. Schriftzeichen, als negative Beeinflussung der jap. Lyrik
-- verschiedene Zielgruppen (Inland <-> Ausland)
-6. Was macht ein Gedicht laut den Vorworten gut? Welche Kriterien nennen die Autoren?
-- Dichter muss gut mit Stilmitteln umgehen können und sich streng an die Regeln der waka-Dichtung
-halten
-- Originalität und Komplexität waren weniger wichtig
-
-
-3. Kanajo im Kokin wakashū „The seeds of Japanese poetry lie in the human heart and grow into leaves of ten thousand words.“
-Kanajo - japanisches Vorwort (Kana)
-Entwicklung eigener japanische Literatur, Dichtung 
-Zurückführung auf menschliche Gefühle
-erste poetologische Ansätze
-ten thousand words -> many'yōshū - erste japanische Gedichtsammlung
-Abgrenzung von anderer Lyrik, Findung eigener Identität
-Verfasser: Ki no Tsurayuki - Heian Zeit
+- Chinesisches Vorwort
+- Verfasst von Ki no Yoshimochi
+- Literaturkritik (keine Beispiele)
+- Bezug auf die Götter/den Ursprung
+- Sechs Prinzipien, „Wesen“ der jap. Lyrik
+- Erwähnung des Imports der Kanji
+- -> Schuld am „Niedergang“ der jap. Lyrik
+- Nicht „poetisch“ verfasst
+- Zielgruppe: Ausland

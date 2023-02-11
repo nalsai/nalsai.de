@@ -4,7 +4,7 @@ draft = false
 
 weight = 20
 title = "gesaku"
-japanese = ""
+japanese = "戯作"
 deutsch = ""
 translation = "im Scherz geschrieben"
 description = ""
@@ -12,6 +12,10 @@ works = [
 ]
 +++
 
-- ist ein Oberbegriff für die Unterhaltungsliteratur der späten Edo-Zeit
-- Zielgruppe: chônin
-- darunter fallen Gattungen wie kusazôshi, sharebon & yomihon
+- Oberbegriff für die Unterhaltungsliteratur der späten Edo-Zeit
+- Fiktionale Erzählprosa (ähnlich wie monogatari aber andere Themen und Zielgruppe)
+- Populärliteratur der späten Edo-Zeit (um 1750-1880 vorherrschend)
+- Zielgruppe: chōnin
+- Darunter fallen Gattungen wie [kusazōshi]({{< relref "kusazoshi" >}}), [sharebon]({{< relref "sharebon" >}}) & [yomihon]({{< relref "yomihon" >}})
+
+TODO

@@ -4,7 +4,7 @@ draft = false
 
 weight = 29
 slug = "nansosatomihakkenden"
-title = "Nansō Satomi Hakkenden"
+title = "Nansō Satomi hakkenden"
 japanese = "南総里見八犬伝"
 translation = ""
 #description = ""

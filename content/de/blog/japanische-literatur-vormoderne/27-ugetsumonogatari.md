@@ -26,24 +26,30 @@ Neunteiligen Kurzgeschichtensammlung
 - Handlung spielt ca. 1486 -> Figuren sind nicht historisch belegbar aber historisiert
 - Es werden Werte wie Treue, Loyalität, Brüderlichkeit und wahre Freundschaft im Kontrast zu „unwahren Freunden“ (vor denen auch im Vorwort gewarnt wird) vermittelt
 
+TODO: Inhalt
+    Mann und samurai werden freunde
+    Machtsturz
+    Verspricht am chrysanthmenfest wieder zu treffen
+    Bringt sich um schwur nicht zu brechen und kommt
+
 ### Motive
 
 Chrysanthemen, Geister, Blutrache, Schwur/Verbrüderung
 
 ### Themen
 
-- Treue, wahre Freundschaft
+- Ehre, Loyalität, Treue, wahre Freundschaft
 - Beziehungen zwischen Eltern-Kind, Freund-Freund, Herr-Diener -> konfuzianischer Einfluss
+
+### Geistiger Inhalt
+
+Konfuzianismus -> Beziehungen: Loyalität zum Daimyō, Eltern-Kind, Freund-Freund
+
+## Stoff
+
+Chinesische Vorlage von Fan Chu-ch‘ing -> Geschichte wurde in ein japanisches Setting „gepackt“
 
 ### Stilistischen Besonderheiten
 
 - Gehobener Sprachstil / lyrisch anmutende Prosa aber dennoch realistische Sprechweise -> Menschen sprechen ihrem Stand und der Zeit entsprechend
 - Geschichten haben belehrende Tendenz
-
-
----
-
-Mann und samurai werden freunde
-Machtsturz
-Verspricht am chrysanthmenfest wieder zu treffen
-Bringt sich um schwur nicht zu brechen und kommt

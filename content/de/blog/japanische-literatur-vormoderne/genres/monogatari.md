@@ -6,7 +6,7 @@ weight = 4
 title = "monogatari"
 japanese = "物語"
 translation = "Erzählung von Dingen"
-deutsch = ""
+deutsch = "Roman"
 description = ""
 works = [
     "6-taketorimonogatari",
@@ -17,7 +17,8 @@ works = [
 ]
 +++
 
-- beschreibt fiktive Erzählprosa, kann allerdings auch Gedichte beinhalten
+- beschreibt fiktive Erzählprosa
+- kann auch Gedichte beinhalten
 - Fiktionalisierungsgrad variiert je nach Untergattung
 
 ## Untergattungen

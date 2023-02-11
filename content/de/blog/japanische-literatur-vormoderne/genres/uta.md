@@ -13,6 +13,10 @@ works = []
 
 Ganz generell vormoderner Begriff, unter den jegliche Form der Lyrik fällt, die in Japan, auf Japanisch oder von einem Japaner verfasst wurde
 
+–> zunächst keine Unterscheidung zwischen Lied, Gedicht etc.  
+-> poetische Texte mit Silbenschema  
+-> 31-silbiges Kurzgedicht hieß früher uta, bevor neue Wörter wie waka und tanka entstanden
+
 Darunter fallen die [waka]({{< relref "waka" >}}) und die kanshi.
 
 ## Waka 和歌

@@ -14,7 +14,8 @@ works = [
 ]
 +++
 
-- Kurzprosa (4-30 Seiten) der Muromachi-Zeit (ca. 300 bis 400 Erzählungen)
+- Kurzprosa (4-30 Seiten) der Muromachi-Zeit (1338 – 1573)
+- etwa 300-400 meist anonyme Geschichten
 - Merkmale: Pluralität der genutzten Quellen; starke Diskrepanz zwischen Erzählzeit und erzählter
 Zeit; handlungsorientierte Erzählweise; belehrende Intention, volksnahe Literatur
 - ursp. nur sog. Shibukawa-Sammlung (23 Erzählungen); wurde in der Edo-Zeit veröffentlicht; galt
@@ -25,15 +26,11 @@ Guten, Bestrafung des Bösen)
 -> Wiederholungen, erzählerische Grundmuster, formelhafte Wendungen, stereotype Attribute der
 Charaktere -> kaum ästhetische Beschreibungen oder Stilmittel
 
-
-
-2. Otogizōshi
-Kurzprosa der Muromachi-Zeit
-Bücher, keine Rollen 300-400 aus muromachi Zeit überliefert
-Edo Zeit Wandlung zu Unterhaltungsliteratur
-Sarugenji
-Autor (meistens) unbekannt
-
-
-3. Shussemono
+Shussemono:
 Aufstiegsgeschichten - Wunderkinder
+
+Überlieferungsformen:
+
+- emaki
+- Nara-ehon
+- Drucke

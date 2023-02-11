@@ -6,47 +6,44 @@ weight = 9
 slug = "tosanikki"
 title = "Tosa nikki"
 japanese = "土佐日記"
-translation = ""
-#description = ""
+translation = "Das Tosa Tagebuch"
+description = "erstes nikki"
 authors = ["Ki no Tsurayuki"]
 genres = ["nikki", "kikō"]
 release = "ca. 935"
 +++
 
 
-Tosa nikki
-Heimreise nach Heian-kyō
-Autobiografisch, aber fiktional
-Im Nachhinein geschrieben
-In Kana aus Sicht einer Frau geschrieben 
-Von Trauer überschattet (Tochter des Stadthalters ist an Krankheit verstorben)
+- Das erste der nikki
+- Sprache: Japanisch, *onnade*
+- Aufbau: chronologisch nach Ablauf der Reise; jeder Tag hat einen Eintrag
+- Stoff: Von 930 bis 934 war Ki no Tsurayuki Statthalter der Provinz Tosa (Shikoku); die 55-tägige Rückreise nach Ablauf der Amtszeit dient als Stoff
+- Heimreise von Tosa nach Heian-kyō
+- Von Trauer überschattet (Tochter des Stadthalters ist an Krankheit verstorben)
+- --> es wird vermutet, dass ein Kind von Ki no Tsurayuki verstorben ist
+- Verarbeitet des Todes
 
+## Motive, Topoi, Thema
 
+Reise als Metapher für das Leben; Endgültigkeit des Todes  
+Feuchte Ärmel; Kiefern (Unendlichkeit); Mond  
+*mono no aware*; kugai (buddh. Welt des Leidens);  
+Vergänglichkeit und Beständigkeit
 
-Tosa nikki
-Von tosa nach Kyoto heian kyo
-Verarbeitet tod der tochter
+## Stil
 
+Prosa und tanka (egal wer im Werk dichtet, alle Gedichte stammen von Ki no Tsurayuki)  
+Einfacher, schmuckloser (aber dennoch differenzierter) Sprachstil -> Trendsetter für Hofdamenliteratur  
+Viele makurakotoba (typisch für kikō) / utamakura ???? TODO
 
-- ca. 935
-- Ki no Tsurayuki
-- chronologischer Ablauf; Tagebuchartige tägliche Einträge in denen das Erlebte der Protagonistin
-festgehalten wird
-- berichtet von der Reise von Tosa nach Heian-kyō
+## Rezeptions- und Wirkungsgeschichte
 
+Wurde zum Vorbild für spätere Hofdamen Tagebücher  
+Einfluss auf Bashōs Werk Oku no hosomichi (おくのほそ道) bzw. generell die Reisetagebücher der Edo-Zeit
 
-8. In welcher Sprache bzw. in welchem Stil wurde der Text verfasst und was ist daran eventuell
-ungewöhnlich?
-- Hiragana!
-- Tagebücher von Männern sind in der Regel auf Chinesisch verfasst worden-> hier wurde mit den
-Gebräuchen klassischer Männertagebücher gebrochen, indem 1. aus Sicht einer Frau geschrieben
-wurde und 2. Hiragana verwendet wurde
-9. Welche Besonderheiten weist der Text auf? Welche Funktion erfüllen die tanka innerhalb des
-Textes?
-- Sichtweise der Frau ermöglicht emotionales Schreiben, wirkt dadurch authentisch, obwohl der Autor
-ein Mann ist
-- Landschaftsbeschreibungen und Erfahrungen der Reisenden werden in Prosa geschildert, Ausdrücke
-der Gefühlswelt und emotionale Höhepunkte in tanka
-- wurde zum Vorbild für spätere Hofdamen Tagebücher, da es stilistische Tradition der nikki
-durchbricht
-- utamakura als häufiges Stilmittel
+## Besonderheiten
+
+- Doppelt fiktionalisierter Text: täuscht eine weibliche Perspektive vor, obwohl der Autor ein Mann ist + täuscht das tägliche Festhalten von Ereignissen fest, obwohl der Text im Rückblick geschrieben wurde
+- Tagebücher von Männern sind in der Regel auf Chinesisch verfasst worden-> hier wurde mit den Gebräuchen klassischer Männertagebücher gebrochen, indem 1. aus Sicht einer Frau geschrieben wurde und 2. Hiragana verwendet wurde
+- Sichtweise der Frau ermöglicht emotionales Schreiben, wirkt dadurch authentisch, obwohl der Autor ein Mann ist
+- Landschaftsbeschreibungen und Erfahrungen der Reisenden werden in Prosa geschildert, Ausdrücke der Gefühlswelt und emotionale Höhepunkte in tanka

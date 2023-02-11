@@ -4,8 +4,8 @@ draft = false
 
 weight = 12
 title = "kabuki"
-japanese = ""
-deutsch = ""
+japanese = "歌舞伎"
+deutsch = "Kabuki-Theater"
 translation = ""
 description = ""
 works = []
@@ -20,3 +20,5 @@ Männer durften Kabuki spielen
 - enge Verbindung zum jōruri
 - jidaimono (historische Spiele), sewamono (bürgerliche Spiele), shosagoto (Tanzstücke)
 - Aufbau wie im Nō: jo-ha-kyū
+
+<!--TODO: Bild Bühne-->
