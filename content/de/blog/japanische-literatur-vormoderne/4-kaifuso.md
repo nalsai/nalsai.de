@@ -14,4 +14,4 @@ release = "ca. 751"
 +++
 
 - Sammlung von kanshi
-- Von Mitgliedern am Hof ungefähr zeitgleich mit dem Man’yôshû kompiliert
+- Von Mitgliedern am Hof ungefähr zeitgleich mit dem Man’yōshû kompiliert

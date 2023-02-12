@@ -42,7 +42,7 @@ Fallen der Kirschblüte (桜散る sakurachiru) -> Vergänglichkeit
 ## Zeitliche Einhordnung
 
 - Heian-Zeit (794 -1185)
-- Verlegung der Hauptstadt nach Heiankyô
+- Verlegung der Hauptstadt nach Heiankyō
 - Literarisierung des höfischen Lebens
 - Zunehmende Verwendung Kana
 

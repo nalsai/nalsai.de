@@ -31,13 +31,13 @@ release = "974"
     1. 954-968
     2. 968-971
     3. 972-974
-- Prosa und waka (tanka und chôka)
+- Prosa und waka (tanka und chōka)
 
 ## Topoi
 
 captatio benevolentiae (Bescheidenheitstopos)
 
-- Zu Beginn des Kagerô nikki beschreibt sich die Erzählerin selbst als klein und unbedeutend
+- Zu Beginn des Kagerō nikki beschreibt sich die Erzählerin selbst als klein und unbedeutend
 - -> Sie zeigt dadurch Bescheidenheit, die den Leser mit der Protagonistin sympathisieren lassen soll
 - Auch der Titel verweist bereits auf diese Bescheidenheit (Autorin als „Eintagsfliege“)
 

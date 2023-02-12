@@ -6,38 +6,61 @@ weight = 11
 slug = "makuranososhi"
 title = "Makura no sōshi"
 japanese = "枕草子"
-translation = ""
+translation = "Kopfkissenheft"
 #description = ""
 authors = ["sei shonagon"]
 genres = ["zuihitsu"]
 release = "ca. 1000"
 +++
 
-- ca. 1000, war relativ bekannt am Heian-Hof
-- Sei Shônagon
-- „Kopfkissen-Heft“
+- Bedeutung des Titels: „Kopfkissenheft“  
+  -> Anekdote im Werk: Fujiwara no Teishi bekommt einen Stapel unbeschriebener Papiere, weiß damit jedoch nichts anzufangen; Sei Shōnagon schlägt vor, die Papiere als Kopfkissen (jap. makura) zu benutzen; bekommt daraufhin die Papiere geschenkt und nutzt diese, um ihr Werk niederzuschreiben  
+  -> wahrscheinlich nicht die wörtliche Übersetzung von makura, sondern Metapher für private Aufschriebe, die man evtl. unter dem Kopfkissen aufbewahrte
+- Veröffentlichung: ca. 1000; durch den damaligen Gouverneur Minamoto no Tsunefusa nach dem Fund eines Teils des Textes (Sei Shōnagon war gegen die Veröffentlichung), Original ging verloren
 
-- Japanisch, onnade
-- beschäftigt sich mit dem Leben am Heian-Hof; Beobachtungen bezüglich Adeliger am Hof,
-Jahreszeiten, Sei Shōnagons Alltag und allgemein Gedanken zu verschiedenen Themen
+## Sprache und Stil
 
-- Themen: Leben (vor allem von Frauen) am kaiserlichen Hof; Suche nach Wertschätzung und Liebe
-- Motive: okashi をかし; Reichtum/Armut; Bildung/Unwissenheit; Schönheit/Hässlichkeit; Liebe
-- Topoi: zeitweise captatio benevolentiae; die üblichen (Mond, nasse Ärmel etc.)
+Japanisch, onnade  
+Verfasserin schwankt zwischen einem eleganten und burschikosen Schreibstil (hebt sich von der damaligen Frauenliteratur ab); bei Erzählungen wird nicht unnötig weit ausgeholt; häufige Verwendung der Suspensiv-Form (て) für das finale Prädikat, was dem Text Leichtigkeit und Flüssigkeit verpasst; viele Ellipsen wie 夏は夜
 
-5. Was bedeutet der Begriff okashi をかし?
-- „reizvoll, elegant, ästhetisch anspruchsvoll“
--> „intellektueller Reiz“ im Gegensatz zu aware („emotionaler Reiz“)
+## Aufbau
 
+Kapitel lassen sich in drei verschiedene Kategorien einteilen:
 
-Makura no sohi
-Eindrücke der Autorin
-Manchmal auch einfache Listen
-Essayartigen Eindrücke
-Keinen roten faden
-Leben am hof
-Freundschaft zu Fujiwara no teishi
+### 1. nikkiteki shōdan 日記的章段
 
+- alle Einträge, die dem Stil und Inhalt eines Tagebuches gleichen
+- Erinnerungen und Erlebnisse von Sei Shōnagons Leben am Hof
 
-okashi: "intellektueller Reiz" ästhetisch anspruchsvoll
-  Makura no sōshi - Sei Shōnagon (ca. 1000)
+### 2. zuisōteki shōdan 随想的章段
+
+- alle Einträge, die einen essayartigen Stil besitzen
+- Gedanken und analysierende Beobachtungen über Menschen und Natur
+
+### 3. ruijūteki shōdan 類聚的章段
+
+- alle Einträge, die listenartige Aufzählungen darstellen
+- Kapitelnamen beschreiben das Thema, über das Gedanken gesammelt und niedergeschrieben werden
+- die Aufzählungen werden lyrisch mit utakotoba (歌詞) geschmückt
+
+## Stoff
+
+Sei Shōnagon Zeit am Hof
+
+## Inhalt
+
+Zusammentragung von Gedankengängen, Naturbeobachtungen, Anekdoten und listenartigen Aufzählungen (politische Ereignisse werden kaum geschildert)
+
+Freundschaft der Erzählerin zu Fujiwara no Teishi
+
+Kontrast zwischen Menschenleben am Hof und Naturerlebnissen
+
+Widersprüchlichkeit des Charakters der Erzählerin entsteht durch die ungehemmte Ehrlichkeit
+
+## Motive
+
+Hauptmotiv ist okashi をかし „reizvoll, elegant, ästhetisch anspruchsvoll, zufriedenstellend“  
+-> „intellektueller Reiz“ im Gegensatz zu aware („emotionaler Reiz“) !
+
+aware あはれ  
+nakase 情 (Mitleid, basierend auf aware)

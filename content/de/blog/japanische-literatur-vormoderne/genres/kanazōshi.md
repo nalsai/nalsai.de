@@ -1,0 +1,21 @@
++++
+type= "blog/japanische-literatur-vormoderne/genres"
+draft = false
+
+weight = 6
+slug = "kanazoshi"
+title = "kanazōshi"
+japanese = "仮名草子"
+deutsch = ""
+translation = "Heftchen"
+description = ""
+works = []
++++
+
+- „Heftchen" (zôshi steht für gebundene Geschichten)
+- konnten sein: Essays, Reiseberichten, Kurzgeschichten, militärische Chroniken, etc.  
+  -> keine vereinenden Merkmale
+- „Übergangsgenre“ -> Anfang der „Heftkultur“
+- Sprache: Kana
+- wurden handschriftlich abgeschrieben und zu Heften gebunden
+- entwickelten sich aus den otogizôshi

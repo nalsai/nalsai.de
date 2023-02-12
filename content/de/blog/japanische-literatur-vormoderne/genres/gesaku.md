@@ -17,5 +17,3 @@ works = [
 - Populärliteratur der späten Edo-Zeit (um 1750-1880 vorherrschend)
 - Zielgruppe: chōnin
 - Darunter fallen Gattungen wie [kusazōshi]({{< relref "kusazoshi" >}}), [sharebon]({{< relref "sharebon" >}}) & [yomihon]({{< relref "yomihon" >}})
-
-TODO

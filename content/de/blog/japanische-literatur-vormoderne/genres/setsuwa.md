@@ -24,7 +24,7 @@ works = [
 - -> Vermutlich wurden sie vom buddhistischen Klerus erfunden, um sie bei Predigten zu verwenden
 - -> Zuerst wurden sie mündlich tradiert, bis zwischen 800 und 1300 mehrere Sammlungen von setsuwa zusammengestellt wurden
 - Sprache: direkt, wenig beschönigend, es gibt Dialoge und direkte Rede
-- Meist in wakan konkôbun 和漢混交文 (Chinesisch-Japanischer Mischstil)
+- Meist in wakan konkōbun 和漢混交文 (Chinesisch-Japanischer Mischstil)
   - Es werden weiterhin chinesische Lesungen benutzt, jedoch werden japanische Partikeln und grammatikalische Endungen hinzugefügt sowie chinesische Lehnwörter benutzt
   - Entstand aus *kanbun kundoku* 漢文訓読
   - Findet sich erstmals gegen Ende der Heian-Zeit im Konjaku monogatari
@@ -32,7 +32,7 @@ works = [
 
 ## Aufbau
 
-- Lange Überschrift - man weiß schon was passiert
-- Einleitung - Vorstellung der Personen, Zeit... (Es werden konkrete Personen genannt und Daten angegeben, sodass es real wirkt)
-- Höhepunkt
-- Ende - Moral
+1. (lange) Überschrift, die das Geschehen zusammenfasst
+2. Einführung in das Setting (Wann und wo?)
+3. Narrativer Teil
+4. Zusammenfassung/Schlussfolgerung/Wiederholung des didaktischen Mehrwerts

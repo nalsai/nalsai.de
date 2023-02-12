@@ -16,6 +16,7 @@ release = "12. Jh."
 - ⅔ der Texte sind buddhistisch motiviert und handeln von karmischer Retribution
 - Stark didaktischer Unterton
 - Sprache: wakan konkōbun (Chinesisch-Japanischer Mischstil)
+- sezoku setsuwa 世俗説話 („Geschichten aus der Welt und aus dem Leben“)
 
 ## Aufbau
 

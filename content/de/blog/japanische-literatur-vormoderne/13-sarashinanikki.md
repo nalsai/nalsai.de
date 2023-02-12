@@ -13,43 +13,19 @@ genres = ["nikki"]
 release = "ca. 1060"
 +++
 
-- ca. 1060
-- Sugawara no Takasue no musume (Nichte von Fujiwara no Michitsuna no haha/der Autorin des
-Kagerô nikki)
-- nikki, hat Elemente eines kikō (ausführliche Landschaftsbeschreibungen bei ihren Reisen)
-
-
-- Themen: Erwachsenwerden, Einsamkeit, Verlust, Tod etc.
+- Titel bezieht sich auf ein Gedicht am Ende des Werkes (Obasute-Berg, der im Kreis Sarashina der alten Provinz Shinano liegt)
+- Verfassering: Sugawara no Takasue no musume (1008 – ?), Nichte der Verfasserin des Kagerō nikki
+- Genre: nikki, hat Elemente eines kikō (ausführliche Landschaftsbeschreibungen bei ihren Reisen)
+- Aufbau: Erzählung ohne Abschnitte, unregelmäßige Zeitangaben
+- Stoff: eigene Erlebnisse
 - Motive: Sehnsucht nach Erzählungen (monogatari), religiöse Träume, Hoffnung, Trauer etc.
-- Geistiger Inhalt: Buddhismus nimmt zentrale Rolle ein (Reinkarnation, Karma, Amida Buddha,
-Paradisvorstellung), Shintoismus, Aberglaube
+- Themen: Erwachsenwerden, Umgang mit eigenen Wunschvorstellungen, Einsamkeit, Verlust, Tod etc.
+- Geistiger Inhalt: Buddhismus nimmt zentrale Rolle ein (Reinkarnation, Karma, Amida Buddha, Paradisvorstellung), Shintoismus, Aberglaube
 
-Sprache und stilistischen Besonderheiten:
+## Sprache und stilistischen Besonderheiten
+
 - Japanisch, onnade
-- Intertextualität -> Bezüge zum Genji monogatari, Ise monogatari und zum Kokinshû
+- Stil: Prosatext mit waka, Beschreibung ohne Beschönigungen und Ausschmückungen
+- Intertextualität -> Bezüge zum Genji monogatari, Ise monogatari und zum Kokinshū
 - tiefe Einblicke in die Gedanken und Gefühlswelt der Autorin (gefühlsbetontes Schreiben)
-- enthält viele meishô und utamakura
-
-
-
-
-Sarshina 
-Autorin nichte von fujiwara...
-Sehnsucht
-Möchte Mann wie Genji finden
-Reist viel - Beschreibungen
-V.a. Als Kind 
-Wird Erwachsen, muss aufgeben
-Amida buddha erscheint in träumen
-
-
-
-8. Sarashina nikki + Geistiger Inhalt
-nikki
-"Sarashina Tagebuch" ca. 1060
-Verfasserin: ?
-Name aus letztem Gedicht des Werks
-Sugawara no ? no musume
-Erwachsenwerden, Einsamkeit, Verlust, Tod
-Sehnsucht nach Erzählungen ([genji] monogatari), religiöse Träume, Hoffnung, Trauer etc.
-Buddhismus nimmt zentrale Rolle ein (Reinkarnation, Karma, Amida Buddha, Paradisvorstellung), Shintoismus, Aberglaube
+- enthält viele meishō und utamakura

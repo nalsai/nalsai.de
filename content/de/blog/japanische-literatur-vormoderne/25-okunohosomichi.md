@@ -13,11 +13,19 @@ genres = ["kikō", "haikai"]
 release = "1689, Erstdruck: 1702"
 +++
 
-- kikō (ein Reisetagebuch)
-- im haibun-Stil verfasst -> komplexe Sprache
+kikō im haibun-Stil (= poetisches Reisetagebuch)
 
+## Inhalt und Aufbau
 
-Poetisches Reisetagebuch
-Im text viele Haiku
+Fünf-monatige Reise Bashōs durch den Norden Honshūs
 
-Prosa Wetk im haibun-Stil
+- Besuch literarisch bedeutender Orte
+- Menschliches Leben wird mit einer Reise gleichgesetzt
+- Autor stilisiert sich hoch zum "weltabgewandten, wandernden Poeten“
+- Viele Bezüge auf frühere japanische und chinesische Dichter
+- Ursprünglich keine Kapiteleinteilung; heute ca. 36 Kapitel (je nach Fassung), die sich auf einen ausgesuchten Ort beziehen
+
+## Sprache
+
+haibun-Stil -> Prosa in einem lockeren Stil, der für die haikai-Dichtung als typisch galt  
+trotzdem komplexe und lyrische Sprache mit eingearbeiteten haiku
