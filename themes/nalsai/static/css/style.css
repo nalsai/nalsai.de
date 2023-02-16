@@ -24,3 +24,9 @@ body {
     max-width: 100%;
     height: auto;
 }
+
+.bi {
+    vertical-align: -.125em;
+    width: 1em;
+    height: 1em;
+}
