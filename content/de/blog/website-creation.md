@@ -2,9 +2,9 @@
 title = "Wann wurde diese Website erstellt?"
 description = "Die Geschichte meiner Webseite und wie ich HTML gelernt habe."
 tags = [
-    "HTML",
-    "Geschichte",
-    "Software"
+  "HTML",
+  "Geschichte",
+  "Software"
 ]
 date = 2022-11-17
 +++

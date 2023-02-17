@@ -6,18 +6,18 @@ enableGitInfo = true
 DefaultContentLanguage = "en"
 
 [languages]
-  	[languages.en]
-    	baseURL = "https://en.nalsai.de"
-		languageName = "English"
-    	contentDir = "content/en"
-		title = "Nils' Website"
-		weight = 2
-	[languages.de]
-    	baseURL = "https://nalsai.de"
-		languageName = "Deutsch"
-    	contentDir = "content/de"
-		title = "Nils' Webseite"
-		weight = 1
+  [languages.en]
+    baseURL = "https://en.nalsai.de"
+    languageName = "English"
+    contentDir = "content/en"
+    title = "Nils' Website"
+    weight = 2
+  [languages.de]
+    baseURL = "https://nalsai.de"
+    languageName = "Deutsch"
+    contentDir = "content/de"
+    title = "Nils' Webseite"
+    weight = 1
 
 [markup]
   [markup.goldmark]

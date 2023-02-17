@@ -1,6 +1,12 @@
 [top]
 other = "Zurück nach oben"
 
+[404]
+other = "404 Nicht Gefunden"
+
+[back-home]
+other = "Zurück zur Startseite"
+
 [built]
 other = "Generiert mit"
 
@@ -15,6 +21,9 @@ other = "von"
 
 [with]
 other = "mit"
+
+[tag]
+other = "Tag"
 
 [Pages]
 other = "Seiten"
