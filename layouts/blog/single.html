@@ -5,7 +5,7 @@
         <p>{{ .Description }}</p>
         {{ if .Date }}
         <p class="small">
-            {{ i18n "Published" }} {{ i18n "on" }} <time datetime="{{ .Date.Format "2006-01-02" }}" itemprop="datePublished">{{ dateFormat (default "Monday 2006-01-02" .Site.Params.dateFormat) .Date }}</time>
+            {{ i18n "Published" }} {{ i18n "on" }} <time datetime="{{ .Date.Format "2006-01-02" }}">{{ dateFormat (default "Monday 2006-01-02" .Site.Params.dateFormat) .Date }}</time>
             {{ if .Params.author }} {{ i18n "by" }} {{ .Params.author }}{{ end }}
         </p>
         {{ end }}

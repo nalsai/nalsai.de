@@ -1,28 +1,24 @@
-<section class="py-4">
-    <div class="row gy-3">
-        {{ range .Site.Menus.projects }}
-        <div class="col-sm">
-            <div class="card">
-                {{ if .Page.Resources.GetMatch "img/thumb*" }}
-                {{- $image := .Page.Resources.GetMatch "img/thumb*" -}}
-                {{ $image := $image.Resize "480x360" }}
-                <div class="view overlay">
-                    <a href="{{ .URL }}">
-                        <img class="card-img-top" src="{{ $image.Permalink }}" alt="{{ .Title }} Thumbnail">
-                        <div class="mask rgba-white-slight"></div>
-                    </a>
-                </div>
-                {{ end }}
-                <div class="card-body">
-                    <a href="{{ .URL }}">
-                        <p class="card-title h4">{{ .Title }}</p>
-                    </a>
-                    <p class="card-text">
-                        {{ .Page.Description }}
-                    </p>
-                </div>
+<div class="row py-4 gy-3">
+    {{ range .Site.Menus.projects }}
+    <div class="col-sm">
+        <div class="card">
+            {{ if $image := .Page.Resources.GetMatch "img/thumb*" }}
+            <div class="view overlay">
+                <a href="{{ .URL }}">
+                    <img class="card-img-top" src="{{ $image.Permalink }}" alt="{{ .Title }} Thumbnail">
+                    <div class="mask rgba-white-slight"></div>
+                </a>
+            </div>
+            {{ end }}
+            <div class="card-body">
+                <a href="{{ .URL }}">
+                    <p class="card-title h4">{{ .Title }}</p>
+                </a>
+                <p class="card-text">
+                    {{ .Page.Description }}
+                </p>
             </div>
         </div>
-        {{ end }}
     </div>
-</section>
+    {{ end }}
+</div>

@@ -2,8 +2,8 @@
 title = "Cleaning Document Photos"
 description = "How to clean up a photo of a document for printing, using GIMP."
 tags = [
-    "school",
-    "photo",
+  "Documents",
+  "Photos",
 ]
 date = 2022-10-12
 +++

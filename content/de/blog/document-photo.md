@@ -1,9 +1,9 @@
 +++
 title = "Fotos von Dokumenten zum Drucken bereinigen"
-description = "So bereinigen Sie ein Foto eines Dokuments zum Drucken mit GIMP."
+description = "So bereinigt man ein Foto eines Dokuments zum Drucken mit GIMP."
 tags = [
-    "school",
-    "photo",
+  "Dokumente",
+  "Fotos",
 ]
 date = 2022-10-12
 +++
