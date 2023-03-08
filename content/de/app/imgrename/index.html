@@ -27,31 +27,31 @@ weight = 3
             ImgReName verschiebt die ausgewählten Bilder/Videos automatisch in Ordner, die nach dem Aufnhamedatum im Format
             <kbd>yyyy-MM-dd</kbd>
             benannt sind und bennent sie nach ihrem Aufnahmezeitpunkt. Es gibt zwei Benennungsmethoden zur Auswahl:
-            <div class="row">
-                <div class="col-5">
-                    <div class="list-group" id="list-tab" role="tablist">
-                        <a class="list-group-item list-group-item-action active" id="list-OrigImgRename-list" data-bs-toggle="list" href="#list-OrigImgRename" role="tab">Original ImgRename von Michael</a>
-                        <a class="list-group-item list-group-item-action" id="list-Img_Datum_Uhrzeit-list" data-bs-toggle="list" href="#list-Img_Datum_Uhrzeit" role="tab">IMG_Datum_Uhrzeit</a>
-                    </div>
+        </p>
+        <div class="row">
+            <div class="col-5">
+                <div class="list-group" id="list-tab" role="tablist">
+                    <a class="list-group-item list-group-item-action active" id="list-OrigImgRename-list" data-bs-toggle="list" href="#list-OrigImgRename" role="tab">Original ImgRename von Michael</a>
+                    <a class="list-group-item list-group-item-action" id="list-Img_Datum_Uhrzeit-list" data-bs-toggle="list" href="#list-Img_Datum_Uhrzeit" role="tab">IMG_Datum_Uhrzeit</a>
                 </div>
-                <div class="col-7">
-                    <div class="tab-content" id="nav-tabContent">
-                        <div class="tab-pane fade show active" id="list-OrigImgRename">
-                            Bennent die Dateien indem es aus dem Jahr und dem Monat einen Buchstabe macht
-                            (2000=A ,2001=B, ...) (Januar=A, Februar=B, ...) und diese hintereinander schreibt.
-                            Falls der Tag des Monats kleiner oder gleich 9 ist schreibt es die Nummer dafür dahinter.
-                            Wenn das nicht der Fall ist macht es daraus auch einen Buchtaben (10=A, 11=B,...).
-                            Dahinter schreibt es dann das Ergebnis von Stunde * 3600 + Minute * 60 + Sekunde.
-                            Bei Videos schreibt es an den Anfang des Namens zusätzlich <kbd>VID_</kbd>.
-                        </div>
-                        <div class="tab-pane fade" id="list-Img_Datum_Uhrzeit">
-                            Bennent die Dateien nach dem Format <kbd>IMG_yyyyMMdd_HHmmss</kbd>.
-                            Bei Videos schreibt es an den Anfang des Namens <kbd>VID</kbd> anstelle von <kbd>IMG</kbd>.
-                        </div>
+            </div>
+            <div class="col-7">
+                <div class="tab-content" id="nav-tabContent">
+                    <div class="tab-pane fade show active" id="list-OrigImgRename">
+                        Bennent die Dateien indem es aus dem Jahr und dem Monat einen Buchstabe macht
+                        (2000=A ,2001=B, ...) (Januar=A, Februar=B, ...) und diese hintereinander schreibt.
+                        Falls der Tag des Monats kleiner oder gleich 9 ist schreibt es die Nummer dafür dahinter.
+                        Wenn das nicht der Fall ist macht es daraus auch einen Buchtaben (10=A, 11=B,...).
+                        Dahinter schreibt es dann das Ergebnis von Stunde * 3600 + Minute * 60 + Sekunde.
+                        Bei Videos schreibt es an den Anfang des Namens zusätzlich <kbd>VID_</kbd>.
+                    </div>
+                    <div class="tab-pane fade" id="list-Img_Datum_Uhrzeit">
+                        Bennent die Dateien nach dem Format <kbd>IMG_yyyyMMdd_HHmmss</kbd>.
+                        Bei Videos schreibt es an den Anfang des Namens <kbd>VID</kbd> anstelle von <kbd>IMG</kbd>.
                     </div>
                 </div>
             </div>
-        </p>
+        </div>
     </div>
     <div class="col-md-6 col-12">
         <img class="img-fluid" src="img/screenshot.png" alt="ImgReName Demo Bild">

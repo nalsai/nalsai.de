@@ -26,32 +26,32 @@ weight = 3
         <p class="text-justify">
             ImgReName automatically moves the selected images/videos into folders that are named according to the format 
             <kbd>yyyy-MM-dd</kbd>
-            and names each image after the time it was taken. There are two naming methods to choose from::
-            <div class="row">
-                <div class="col-lg-5">
-                    <div class="list-group" id="list-tab" role="tablist">
-                        <a class="list-group-item list-group-item-action active" id="list-OrigImgRename-list" data-bs-toggle="list" href="#list-OrigImgRename" role="tab">Original ImgRename von Michael</a>
-                        <a class="list-group-item list-group-item-action" id="list-Img_Datum_Uhrzeit-list" data-bs-toggle="list" href="#list-Img_Datum_Uhrzeit" role="tab">IMG_Datum_Uhrzeit</a>
-                    </div>
+            and names each image after the time it was taken. There are two naming methods to choose from:
+        </p>
+        <div class="row">
+            <div class="col-lg-5">
+                <div class="list-group" id="list-tab" role="tablist">
+                    <a class="list-group-item list-group-item-action active" id="list-OrigImgRename-list" data-bs-toggle="list" href="#list-OrigImgRename" role="tab">Original ImgRename von Michael</a>
+                    <a class="list-group-item list-group-item-action" id="list-Img_Datum_Uhrzeit-list" data-bs-toggle="list" href="#list-Img_Datum_Uhrzeit" role="tab">IMG_Datum_Uhrzeit</a>
                 </div>
-                <div class="col-lg-7">
-                    <div class="tab-content" id="nav-tabContent">
-                        <div class="tab-pane fade show active" id="list-OrigImgRename">
-                            Names the files by making the year and month a letter
-                            (2000=A ,2001=B, ...) (January=A, February=B, ...) and writing them in succession.
-                            If the day of the month is less than or equal to 9, it writes the corresponding number after it.
-                            If that is not the case, it also turns it into a letter (10=A, 11=B,...).
-                            After that it writes the result of hour * 3600 + minute * 60 + second.
-                            For videos, it also writes <kbd>VID_</kbd> at the beginning of the name.
-                        </div>
-                        <div class="tab-pane fade" id="list-Img_Datum_Uhrzeit">
-                            Names the files according to the format <kbd>IMG_yyyyMMdd_HHmmss</kbd>.
-                            For videos it writes <kbd>VID</kbd> at the beginning of the name instead of <kbd>IMG</kbd>.
-                        </div>
+            </div>
+            <div class="col-lg-7">
+                <div class="tab-content" id="nav-tabContent">
+                    <div class="tab-pane fade show active" id="list-OrigImgRename">
+                        Names the files by making the year and month a letter
+                        (2000=A ,2001=B, ...) (January=A, February=B, ...) and writing them in succession.
+                        If the day of the month is less than or equal to 9, it writes the corresponding number after it.
+                        If that is not the case, it also turns it into a letter (10=A, 11=B,...).
+                        After that it writes the result of hour * 3600 + minute * 60 + second.
+                        For videos, it also writes <kbd>VID_</kbd> at the beginning of the name.
+                    </div>
+                    <div class="tab-pane fade" id="list-Img_Datum_Uhrzeit">
+                        Names the files according to the format <kbd>IMG_yyyyMMdd_HHmmss</kbd>.
+                        For videos it writes <kbd>VID</kbd> at the beginning of the name instead of <kbd>IMG</kbd>.
                     </div>
                 </div>
             </div>
-        </p>
+        </div>
     </div>
     <div class="col-md-6 col-12 text-center">
         <img class="img-fluid" src="img/screenshot.png" alt="ImgReName Demo Image">

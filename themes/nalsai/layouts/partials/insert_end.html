@@ -1,0 +1,4 @@
+<script src="/js/bootstrap.bundle.min.js"></script>
+{{ if not .Site.IsServer }}
+    {{ with .Site.Params.umami }}<script async defer data-website-id="{{ .id }}" src="{{ .src }}"></script>{{ end }}
+{{ end }}

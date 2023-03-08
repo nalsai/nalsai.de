@@ -1,9 +1,12 @@
+{{ define "head" }}
+    {{ partial "index/head" . }}
+{{ end }}
 {{ define "main" }}
-{{ partial "index/header" . }}
-<div class="container mt-5">
-    {{ partial "index/about.de" . }}
-    {{ partial "index/projects" . }}
-    {{ partial "index/sns" . }}
-</div>
-{{ partial "index/js" . }}
+    {{ partial "index/header" . }}
+    <div class="container mt-5">
+        {{ partial "index/about.de" . }}
+        {{ partial "index/projects" . }}
+        {{ partial "index/sns" . }}
+    </div>
+    {{ partial "index/js" . }}
 {{ end }}

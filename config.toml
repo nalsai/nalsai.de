@@ -25,4 +25,9 @@ DefaultContentLanguage = "en"
       unsafe = true
 
 [taxonomies]
-  tag = 'tags'
+  tag = "tags"
+
+[params]
+  [params.umami]
+    id = "b0d36943-ce3a-42e9-ae7e-c3c7209594db"
+    src = "https://umami.nils.moe/umami.js"
