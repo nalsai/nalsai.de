@@ -1,23 +1,13 @@
 [build]
-  #publish = "public"     # set in netlify to public/de for nalsai.de and public/en for en.nalsai.de
-  command = "hugo --gc --minify"
+  #publish = "public"  # set in netlify to public/de for nalsai.de and public/en for en.nalsai.de
+  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
-[context.production.environment]
-  HUGO_VERSION = "0.109.0"
-  HUGO_ENV = "production"
+[build.environment]
+  HUGO_VERSION = "0.111.2"
   HUGO_ENABLEGITINFO = "true"
 
 [context.deploy-preview]
   command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
-
-[context.deploy-preview.environment]
-  HUGO_VERSION = "0.109.0"
-
-[context.branch-deploy]
-  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
-
-[context.branch-deploy.environment]
-  HUGO_VERSION = "0.109.0"
 
 [[headers]]
   for = "/*/webgl/build/*.br"
