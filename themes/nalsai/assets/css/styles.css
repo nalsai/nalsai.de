@@ -30,3 +30,7 @@ body {
     width: 1em;
     height: 1em;
 }
+
+.w-fit-content {
+    width: fit-content;
+}
