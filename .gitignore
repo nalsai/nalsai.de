@@ -1,4 +1,5 @@
-# Generated files by hugo
 /public/
-/resources/_gen/
-.hugo_build.lock
+/resources/
+/assets/jsconfig.json
+/hugo_stats.json
+/.hugo_build.lock

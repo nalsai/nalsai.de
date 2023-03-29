@@ -20,12 +20,22 @@ body {
     font-family: 'Quicksand', 'Sawarabi Gothic', sans-serif;
 }
 
+dfn {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
 .container img {
     max-width: 100%;
     height: auto;
 }
 
-dfn {
-    text-decoration: underline;
-    text-decoration-style: dotted;
+.bi {
+    vertical-align: -.125em;
+    width: 1em;
+    height: 1em;
+}
+
+.w-fit-content {
+    width: fit-content;
 }

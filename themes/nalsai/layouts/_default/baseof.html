@@ -3,14 +3,14 @@
 
 <head>
     {{ partial "head" . }}
+    {{ block "head" . }}{{ end }}
 </head>
 
 <body>
     {{ partial "navbar" . }}
-    {{ block "main" . }}
-    {{ end }}
+    {{ block "main" . }}{{ end }}
     {{ partial "footer" . }}
-    {{ partial "insertEnd" . }}
+    {{ partial "insert_end" . }}
 </body>
 
 </html>

@@ -83,8 +83,13 @@ for i in *.jpg; do waifu2x-ncnn-vulkan -i "$i" -o "2x/${i%.*}.jpg"; done
 # convert png/svg to ico using ImageMagick
 convert -density 256x256 -background transparent in.png -define icon:auto-resize -colors 256 out.ico
 
-# resize all jpg images to up to 4096x4096 and compress them
-for i in *.jpg; do convert $i -auto-orient -quality "71%" -resize 4096x4096\> -interlace Plane -sampling-factor 4:2:0 -gaussian-blur 0.05x0.4 -define jpeg:dct-method=float -colorspace sRGB -strip $i; done;
+# resize and compress jpg images
+# https://gist.github.com/Nalsai/a2060570308192312e542f7de808c445
+convert img.jpg -auto-orient -quality 90% -resize 2048x2048\> -interlace Plane -sampling-factor 4:2:0 -gaussian-blur 0.05x0.2 -define jpeg:dct-method=float -colorspace sRGB -strip img-out.jpg
+for i in *.jpg; do convert $i -auto-orient -quality 90% -resize 2048x2048\> -interlace Plane -sampling-factor 4:2:0 -gaussian-blur 0.05x0.2 -define jpeg:dct-method=float -colorspace sRGB -strip out/$i; done;
+
+# optimize png images
+optipng -o7 *.png
 
 # set exif DateTimeOriginal
 exiftool "-DateTimeOriginal=2021:08:22 01:58" img.jpg

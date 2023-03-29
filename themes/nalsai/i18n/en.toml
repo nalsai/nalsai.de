@@ -1,6 +1,12 @@
 [top]
 other = "Back to top"
 
+[404]
+other = "404 Not Found"
+
+[back-home]
+other = "Back to the home page"
+
 [built]
 other = "Built with"
 
@@ -15,6 +21,9 @@ other = "by"
 
 [with]
 other = "with"
+
+[tag]
+other = "tag"
 
 [Pages]
 other = "Pages"

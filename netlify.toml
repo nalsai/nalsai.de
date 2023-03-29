@@ -1,20 +1,20 @@
-[context.production.environment]
-    HUGO_VERSION = "0.101.0"
-    HUGO_ENV = "production"
-    HUGO_ENABLEGITINFO = "true"
+[build]
+  #publish = "public"  # set in netlify to public/de for nalsai.de and public/en for en.nalsai.de
+  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
-[context.branch-deploy.environment]
-    HUGO_VERSION = "0.101.0"
+[build.environment]
+  HUGO_VERSION = "0.111.2"
+  HUGO_ENABLEGITINFO = "true"
 
-[context.deploy-preview.environment]
-    HUGO_VERSION = "0.101.0"
+[context.deploy-preview]
+  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 
 [[headers]]
-  for = "/mothershipdefender2/webgl/Build/*.br"
+  for = "/*/webgl/build/*.br"
   [headers.values]
     Content-Encoding = "br"
 
 [[headers]]
-  for = "/mothershipdefender2/webgl/Build/*.wasm*"
+  for = "/*/webgl/build/*.wasm*"
   [headers.values]
     Content-Type = "application/wasm"

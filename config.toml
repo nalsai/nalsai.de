@@ -6,20 +6,28 @@ enableGitInfo = true
 DefaultContentLanguage = "en"
 
 [languages]
-  	[languages.en]
-    	baseURL = "https://en.nalsai.de"
-		languageName = "English"
-    	contentDir = "content/en"
-		title = "Nils' Website"
-		weight = 2
-	[languages.de]
-    	baseURL = "https://nalsai.de"
-		languageName = "Deutsch"
-    	contentDir = "content/de"
-		title = "Nils' Webseite"
-		weight = 1
+  [languages.en]
+    baseURL = "https://en.nalsai.de"
+    languageName = "English"
+    contentDir = "content/en"
+    title = "Nils' Website"
+    weight = 2
+  [languages.de]
+    baseURL = "https://nalsai.de"
+    languageName = "Deutsch"
+    contentDir = "content/de"
+    title = "Nils' Webseite"
+    weight = 1
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[taxonomies]
+  tag = "tags"
+
+[params]
+  [params.umami]
+    id = "b0d36943-ce3a-42e9-ae7e-c3c7209594db"
+    src = "https://umami.nils.moe/umami.js"

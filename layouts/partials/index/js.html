@@ -1,12 +1,12 @@
 <script>
-    // make navbar opaque/transparent on scroll
+    // make navbar opaque/transparent depending on scroll position
     let o = document.getElementById("main-nav");
     window.addEventListener("scroll", (function (e) {
         var scrollPos = window.scrollY || window.scrollTop || document.getElementsByTagName("html")[0].scrollTop;
         scrollPos > 120 ? o.classList.remove("nav-at-top") : o.classList.add("nav-at-top")
     }))
 
-    // get date 
+    // get date
     var d = new Date();
     var Year = d.getFullYear();
     var Month = d.getMonth();
@@ -16,16 +16,15 @@
 
     // change to daytime image between 10 and 20 o'clock
     if (Hours > 9 && Hours < 20) {
-        document.getElementById("intro").style.backgroundImage = "url('/img/TH969382.jpg')";
+        document.getElementById("intro").style.background = "linear-gradient(rgba(0, 0, 0, 0.30), rgba(0, 0, 0, 0.30)), url('/img/THA45242.jpg') no-repeat center center fixed";
+        document.getElementById("intro").style.backgroundSize = "cover";
     }
 
     // update age
     var birthDate = new Date("2002-12-13");
     var age = Year - birthDate.getFullYear();
     var m = Month - birthDate.getMonth();
-    if (m < 0 || (m === 0 && DayOfMonth < birthDate.getDate())) {
-        age--;
-    }
+    if (m < 0 || (m === 0 && DayOfMonth < birthDate.getDate())) { age--; }
     document.getElementById("age").innerHTML = age;
 
     // random quotes

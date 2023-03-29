@@ -1,51 +1,46 @@
-<section class="py-4">
-    <div class="row">
-        <div class="col-lg-6 mb-4">
-            <div id="Me-Carousel" class="carousel slide" data-bs-ride="carousel">
-                <div class="carousel-inner rounded">
-                    <div class="carousel-item active">
-                        <img class="d-block w-100" src="/img/Me/WDA60132.jpg" alt="Slide 1">
-                    </div>
-                    <div class="carousel-item">
-                        <img class="d-block w-100" src="/img/Me/TH226402.jpg" alt="Slide 2">
-                    </div>
-                    <div class="carousel-item">
-                        <img class="d-block w-100" src="/img/Me/TH644130.jpg" alt="Slide 3">
-                    </div>
-                    <div class="carousel-item">
-                        <img class="d-block w-100" src="/img/Me/SHT38377.jpg" alt="Slide 4">
-                    </div>
-                    <div class="carousel-item">
-                        <img class="d-block w-100" src="/img/Me/UH655009.jpg" alt="Slide 5">
-                    </div>
-                    <div class="carousel-item">
-                        <img class="d-block w-100" src="/img/Me/WDA59455.jpg" alt="Slide 6">
-                    </div>
-                    <div class="carousel-item">
-                        <img class="d-block w-100" src="/img/Me/WDC40705.jpg" alt="Slide 7">
-                    </div>
+<div class="row py-4">
+    <div class="col-lg-6 mb-4">
+        <div id="Me-Carousel" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner rounded">
+                <div class="carousel-item active">
+                    <img class="d-block w-100" src="/img/me/WDA60132.jpg" alt="Slide 1">
                 </div>
-                <button class="carousel-control-prev" type="button" data-bs-target="#Me-Carousel" data-bs-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Previous</span>
-                </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#Me-Carousel" data-bs-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Next</span>
-                </button>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="/img/me/TH226402.jpg" alt="Slide 2">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="/img/me/TH644130.jpg" alt="Slide 3">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="/img/me/UH655009.jpg" alt="Slide 5">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="/img/me/WDA59455.jpg" alt="Slide 6">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="/img/me/WDC40705.jpg" alt="Slide 7">
+                </div>
             </div>
-        </div>
-        <div class="col-lg-6 lead">
-            <p class="mb-3 h3">About Me</p>
-            <p>
-                Hello, I am Nils Fürniß.
-                I am <span id="age">{{ (now.AddDate -2002 -11 -12).Year }}</span>
-                years old and am a student at Heidelberg University. I like to photograph and program (mainly in C# and Rust)
-                and like to write websites.
-            </p>
-            <p>
-                In my spare time I like to play The Elder Scrolls Online and watch anime.
-            </p>
+            <button class="carousel-control-prev" type="button" data-bs-target="#Me-Carousel" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#Me-Carousel" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
         </div>
     </div>
-</section>
+    <div class="col-lg-6 lead">
+        <p class="mb-3 h3">About Me</p>
+        <p>
+            Hello, I am Nils Fürniß.
+            I am <span id="age">{{ (now.AddDate -2002 -11 -12).Year }}</span>
+            years old and am a student at Heidelberg University. I like to photograph and program (mainly in C# and
+            Rust) and like to write websites.
+        </p>
+        <p>
+            In my spare time I like to play The Elder Scrolls Online and watch anime.
+        </p>
+    </div>
+</div>

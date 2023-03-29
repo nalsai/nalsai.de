@@ -2,8 +2,8 @@
 title = "Hello World!"
 description = "I have a blog section on my website now."
 tags = [
-    "meta",
-    "rust",
+  "Meta",
+  "Rust",
 ]
 date = 2022-06-04
 +++
@@ -11,8 +11,6 @@ date = 2022-06-04
 Hey 👋,  
 as you probably just found out, I have a blog section here now.  
 I will try to treat it more like a note collection than a blog, because otherwise I would have too high demands on myself and never publish anything.
-
- 
 
 Anyway, I recently wrote my first program in rust (<https://git.nalsai.de/imgname>), so here is a simple hello world:
 
