@@ -65,3 +65,13 @@ Buddhismus; Konfuzianismus; Daoismus
 
 - vor dem 17. Jhr. jedoch noch wenig Rezeption außerhalb des Hofes und keine Indizien, dass es von den Zeitgenossen Kenkōs gelesen wurde
 - erst in der Edo-Zeit gelangte es zu einer größeren Verbreitung und wurde zum zeitlosen Klassiker
+
+---
+
+- ca. 1330
+- zuihitsu von Yoshida Kenkô
+- „Betrachtungen aus der Stille“
+- Themen: mujô / mono no aware  -> Wandel und Vergänglichkeit  
+-> Loslösung von der materiellen Welt
+
+"It is in their changing with passing occasions that makes everything touch one so."

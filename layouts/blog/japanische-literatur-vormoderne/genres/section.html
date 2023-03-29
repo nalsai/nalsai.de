@@ -6,7 +6,7 @@
 </style>
 
 <main class="container py-5">
-    <div class="row text-center text-white mb-5">
+    <div class="row text-center text-white mb-3">
         <div class="col-lg-10 mx-auto">
             <h1 class="display-4">{{ .Title }}</h1>
             {{ with .Params.tags }}{{ range $tag := . }}<a class="badge rounded-pill bg-primary text-decoration-none my-3" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}/">{{ . }}</a> {{ end }}{{ end }}

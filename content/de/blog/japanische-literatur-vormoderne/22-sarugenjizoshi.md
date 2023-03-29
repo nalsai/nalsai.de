@@ -26,3 +26,15 @@ klassischen Literatur überzeugt er sie jedoch, davon dass er von einem Gedichtw
 Moral: Wichtigkeit der Kenntnisse des uta no michi (Gedichtweg)
 
 -> Gelehrsamkeit und konfuzianistische Werte sind der Weg zum Glück
+
+---
+
+- otogizôshi aus dem frühen 16. Jh.
+- „Der Affen-Genji“
+
+Inhalt:
+
+Sardinenhändler Saru-Genji verliebt sich auf den ersten Blick in die Kurtisane Keiga; als Feudalfürst verkleidet erringt er ihre Gunst, verliert sie jedoch beinahe wieder, als er im Schlaf den Verkaufsruf der Fischhändler ausstößt, was die Dame an seinem adligen Status zweifeln lässt  
+mithilfe seiner intimen Kenntnisse der klassischen Literatur überzeugt er sie jedoch, dass er von einem Gedichtwettstreit geträumt hat; als er sich schließlich offenbart ist sie schon verliebt und sie leben weiter glücklich zusammen
+
+=> Moral: Wichtigkeit der Kenntnisse des uta no michi
