@@ -56,7 +56,7 @@ Unsterblicher Rauch steigt vom Fuji auf. (Der Fuji rauchte um 905 -> macht Datie
 - Gegenüberstellung der menschlichen Welt, eine Welt des Pathos und der Sterblichkeit mit der ewigen gefühllosen Welt des Jenseits.  
   Ist ein unsterbliches Leben die Aufgabe von Gefühlen wert?
 
-## Geistige Inhalt
+## Geistiger Inhalt
 
 - Buddhismus (Transzendenz, Jenseitsvorstellungen, Unsterblichkeit)
 - Konfuzianismus (die fünf Grundtugenden, oyabun-kobun)

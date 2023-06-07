@@ -7,14 +7,11 @@ slug = "koshokugoninonna"
 title = "Kōshoku gonin onna"
 japanese = "好色五人女"
 translation = "Fünf Frauen, die die Liebe lieben"
-#description = ""
+description = "5 Geschichten in denen es um leidenschaftliche Liebe geht (4 enden tragisch)"
 authors = ["ihara saikaku"]
 genres = ["ukiyozoshi"]
 release = "1687"
 +++
-
-- Umfasst 5 Geschichten in denen es immer um leidenschaftliche Liebe geht
-- 4 der 5 Geschichten enden tragisch
 
 ## Geschichte 3: Die Geschichte vom Kalendermacher
 
@@ -22,7 +19,7 @@ Die „vier Himmelskönige“ beobachten/beurteilen zum Zeitvertreib Frauen; ein
 -> sie möchte sich umbringen aber er hält sie ab; sie täuschen ihren eigenen Suizid vor, fliehen und kommen bei Moemons Tante unter; er sagt Osan wäre seine Schwester -> Osan soll dort einen Sohn (Zetaro) heiraten -> sie fliehen erneut  
 -> Moemon kehrt irgendwann alleine aus Kummer in die Hauptstadt zurück und sieht, dass es dort Leute gibt, die von ihnen wissen; Osan und Moemon werden hingerichtet
 
-### Motiv
+### Motive
 
 Doppelselbstmord (wenn auch nur vorgetäuscht)
 *mono no aware*

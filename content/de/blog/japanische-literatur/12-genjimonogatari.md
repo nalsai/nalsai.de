@@ -87,28 +87,6 @@ in einem Werk findet sich ein Verweis auf eine andere Stelle desselben Werks
 in den Kapiteln kann etwa auf vorherige oder nachfolgende Ereignisse und Personen Bezug genommen werden
 -> so entstehen Querbezüge durchs ganze Werk hindurch sowie ein komplexes und konsistentes Beziehungsgefüge zwischen den Figuren
 
-## Kapitel Yūgao (Kapitel 4)
-
-Yūgao, benannt nach den Blumen, die vor ihrem Haus wachsen, lässt dem Prinzen
-Genji ein Gedicht zukommen und weckt so sein Interesse. Er arrangiert ein Treffen mit ihr, da der
-Standesunterschied der beiden zu groß ist, hält er jedoch seine Identität geheim. Um weiter mit ihr
-Zeit verbringen zu können, bringt Genji die Frau in ein verlassenes Haus. Dort wird sie von einem
-Rachegeist (mononoke-Geist) besessen und stirbt.
-
-Genji: talentiert, selbstbewusst, höchster Adelstand, verliebt sich sehr leicht in Frauen  
-Yūgao: kindlich, zurückhaltend, gefügig, sanftmütig, von niederem Adelsstand
-
-## Kapitel Ukifune (Kapitel 51)
-
-Prinz Niou (Genjis Enkel) und Kaoru versuchen beide die Liebe einer Frau
-namens Ukifune zu gewinnen. Die Frau, die abseits des Heian-Hofes in einem abgeschiedenen Ort
-namens Uji lebt, ist zwischen beiden Männern hin- und hergerissen und kann sich zwischen ihnen
-nicht entscheiden. In ihrer wachsenden Verzweiflung versucht sie, Suizid zu begehen. Ihr Versuch,sich im Uji-Fluss zu ertränken scheitert jedoch. Danach beschließt sie, als buddhistische Nonne ein zurückgezogenes Leben zu führen.
-
-Niou: leidenschaftlich, neugierig, „leicht entflammbares“ Herz, verfällt Frauen gleichsam schnell wie sein Großvater  
-Kaoru: ruhig, zurückhaltend, bedacht  
-Ukifune („Treibendes Boot“): schön, elegant und intelligent, sanftmütig
-
 ## Rezeptions- und Wirkungsgeschichte
 
 - das Standardwerk der klassischen japanischen Prosa und Höhepunkt der höfischen monogatari

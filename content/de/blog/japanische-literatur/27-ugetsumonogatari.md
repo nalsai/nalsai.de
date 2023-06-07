@@ -4,18 +4,14 @@ draft = false
 
 weight = 27
 slug = "ugetsumonogatari"
-title = "Ugetsu monogatari (Kikka no chigiri)"
+title = "Ugetsu monogatari (⇨Kikka no chigiri)"
 japanese = "雨月物語"
 translation = "Unter dem Regenmond"
-#description = ""
+description = "Neunteiligen Kurzgeschichtensammlung"
 authors = ["ueda akinari"]
 genres = ["yomihon"]
 release = "1776"
 +++
-
-Neunteiligen Kurzgeschichtensammlung
-
----
 
 ## Kikka no chigiri
 
@@ -24,13 +20,17 @@ Neunteiligen Kurzgeschichtensammlung
 - Ein Teil der neunteiligen Kurzgeschichtensammlung Ugetsu monogatari
 - Figuren sind stark idealisiert (typisch für yomihon -> bis hin zu allegorischen Zügen)
 - Handlung spielt ca. 1486 -> Figuren sind nicht historisch belegbar aber historisiert
-- Es werden Werte wie Treue, Loyalität, Brüderlichkeit und wahre Freundschaft im Kontrast zu „unwahren Freunden“ (vor denen auch im Vorwort gewarnt wird) vermittelt
+- Vermittlung von Werten wie Treue, Loyalität, Brüderlichkeit und wahre Freundschaft im Kontrast zu „unwahren Freunden“
 
-TODO: Inhalt
-    Mann und samurai werden freunde
-    Machtsturz
-    Verspricht am chrysanthmenfest wieder zu treffen
-    Bringt sich um schwur nicht zu brechen und kommt
+### Inhalt
+
+- Samurai erkrankt während Rückkehr von Mission
+- Freundet sich mit Mann an, der ihn gesund pflegt
+- Samurai macht sich auf Heimweg, verspricht Wiedersehen am Chrysanthemenfest
+- Herr des Samurai wurde getötet, Rivale übernahm den Thron
+- Samurai will nicht wie sein Cousin die Seite wechseln und wird gefangen gehalten
+- Bringt sich um, um den Schwur nicht zu brechen und kommt als Geist zum Chrysanthemenfest
+- Freund reist zum Haus der Samurai, hält dem Cousin einen Vortrag über Loyalität und tötet ihm
 
 ### Motive
 
@@ -47,9 +47,10 @@ Konfuzianismus -> Beziehungen: Loyalität zum Daimyō, Eltern-Kind, Freund-Freun
 
 ## Stoff
 
-Chinesische Vorlage von Fan Chu-ch‘ing -> Geschichte wurde in ein japanisches Setting „gepackt“
+Chinesische Geschichte _Fan Chu-ch'ing_
 
-### Stilistischen Besonderheiten
+### Stil
 
-- Gehobener Sprachstil / lyrisch anmutende Prosa aber dennoch realistische Sprechweise -> Menschen sprechen ihrem Stand und der Zeit entsprechend
+- Gehobener Sprachstil
+- lyrisch anmutende Prosa aber realistische Sprechweise
 - Geschichten haben belehrende Tendenz

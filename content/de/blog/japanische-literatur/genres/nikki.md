@@ -28,13 +28,4 @@ works = [
 
 ---
 
-## kikō
-
-- Reisetagebuch
-- Erst eine Unterkategorie der nikki, entwickelte sich mit der Zeit zum eigenen Genre
-- Reise in Vordergrund
-  - strukturierender Rahmen (sowohl zeitlich als auch örtlich)
-  - Inspiration und Anlass für das Schreiben von Gedichten
-- Zusammenspiel aus Prosa und Lyrik
-- Landschaftliche Beschreibungen machen einen großen Anteil aus
-- Beispiel: [Tosa nikki]({{< relref "9-tosanikki" >}})
+-> Reisetagebuch [kikō]({{< relref "kikō" >}})

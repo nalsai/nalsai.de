@@ -2,7 +2,7 @@
 type= "blog/japanische-literatur/genres"
 draft = false
 
-weight = 6
+weight = 8
 title = "zuihitsu"
 japanese = "随筆"
 deutsch = "Miszellenliteratur"

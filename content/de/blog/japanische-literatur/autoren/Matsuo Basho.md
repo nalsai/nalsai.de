@@ -5,7 +5,8 @@ draft = false
 weight = 16
 title = "Matsuo Bashō"
 japanese = "松尾 芭蕉"
-translation = ""
+#translation = ""
+life = "1644–1694"
 occupation = "Autor und Dichter der Edo-Zeit"
 works = [
   "25-okunohosomichi"

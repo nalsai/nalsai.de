@@ -22,7 +22,7 @@ release = "ca. 1060"
 - Themen: Erwachsenwerden, Umgang mit eigenen Wunschvorstellungen, Einsamkeit, Verlust, Tod etc.
 - Geistiger Inhalt: Buddhismus nimmt zentrale Rolle ein (Reinkarnation, Karma, Amida Buddha, Paradisvorstellung), Shintoismus, Aberglaube
 
-## Sprache und stilistischen Besonderheiten
+## Sprache und Stil
 
 - Japanisch, onnade
 - Stil: Prosatext mit waka, Beschreibung ohne Beschönigungen und Ausschmückungen

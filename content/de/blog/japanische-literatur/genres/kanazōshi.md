@@ -2,7 +2,7 @@
 type= "blog/japanische-literatur/genres"
 draft = false
 
-weight = 6
+weight = 7
 slug = "kanazoshi"
 title = "kanazōshi"
 japanese = "仮名草子"
