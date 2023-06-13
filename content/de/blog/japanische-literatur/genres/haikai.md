@@ -65,7 +65,7 @@ Die humoristische Variante
 
 - haijin  
 -> Bezeichnung für haikai-Dichter  
--> die 4 wichtigsten: Matsuo Bashô, Kobayashi Issa, Yosa Buson, Masaoka Shiki
+-> die 4 wichtigsten: Matsuo Bashō, Kobayashi Issa, Yosa Buson, Masaoka Shiki
 
 - haibun  
 -> kurze Prosatexte, die mit einem haiku kombiniert sind

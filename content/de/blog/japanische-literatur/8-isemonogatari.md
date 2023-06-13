@@ -48,7 +48,7 @@ Fallen der Kirschblüte (桜散る sakurachiru) -> Vergänglichkeit
 
 ## Rezeptions- und Wirkungsgeschichte
 
-- 30 der Narihira zugeschriebenen Gedichte tauchen auch im Kokinshû auf
+- 30 der Narihira zugeschriebenen Gedichte tauchen auch im Kokinshū auf
 - Bereits im Genji monogatari als Klassiker bezeichnet
 - Nō-Theater
 

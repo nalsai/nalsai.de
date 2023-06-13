@@ -2,7 +2,7 @@
 type= "blog/japanische-literatur/autoren"
 draft = false
 
-weight = 20
+weight = 25
 title = "Kyokutei Bakin"
 japanese = "曲亭 馬琴"
 #translation = ""

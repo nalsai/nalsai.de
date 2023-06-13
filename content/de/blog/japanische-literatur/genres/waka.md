@@ -11,6 +11,10 @@ description = ""
 works = []
 +++
 
+- Gedichte in japanischer Sprache
+- keine Metrik oder Reimschemata
+- Silbenabfolge der Verse wird streng eingehalten, enthält übliche Stilmittel
+
 ## Arten
 
 unterscheiden sich in ihrer Silbenanzahl und Folge
@@ -31,7 +35,7 @@ Angeblich soll Susanoo no mikoto (<dfn title="Gottheit">Kami</dfn> des Windes un
 - „Langedicht“
 - Silbenanzahl unbestimmt
 - 5-7-5-7-5-...-7-7
-- Unter dem chōka findet man vor allem im Man‘yōshū ein hanka 反歌
+- Unter dem chōka findet man vor allem im Man'yōshū ein hanka 反歌
 
 ### hanka
 

@@ -16,7 +16,7 @@ Ein tanka besteht aus zwei ku 句:
 Oberstollen (kami no ku 上の句)   5 – 7 – 5 Silben  
 Unterstollen (shimo no ku 下の句)     7 – 7 Silben
 
-Bereits seit dem Man‘yôshû gab es die Sitte, ein tanka zu zweit zu dichten:  
+Bereits seit dem Man'yōshū gab es die Sitte, ein tanka zu zweit zu dichten:  
 Person A dichtet den maeku 前句
  
 Person B dichtet daraufhin als Antwort den tsukeku 付句 (Silbenmaß ergänzend zum maeku)  
@@ -45,13 +45,13 @@ Vorschriften, wie oft Begriffe in aufeinanderfolgenden ku, auf einer Seite oder 
 Beispiele:  
 - Frühling darf nur fünfmal hintereinander vorkommen
 - Sommer darf nur dreimal hintereinander vorkommen
-- Die Begriffe harusame (Frühlingsregen), kinô (gestern) oder semi (Zikade) dürfen nur einmal pro renga vorkommen
+- Die Begriffe harusame (Frühlingsregen), kinō (gestern) oder semi (Zikade) dürfen nur einmal pro renga vorkommen
 
 ---
 
 Hekirenshō 僻連抄 (1345)
 
-besser bekannt als Renri hishô 連理秘抄 (überarbeitete Version)
+besser bekannt als Renri hishō 連理秘抄 (überarbeitete Version)
 
 - ältestes erhaltenes renga-Handbuch
 - Formulierung wichtiger Regeln + Hinweise für Anfänger +
@@ -60,14 +60,14 @@ besser bekannt als Renri hishô 連理秘抄 (überarbeitete Version)
 --- 
 
 
-Nijô Yoshimoto (1320-1388)
+Nijō Yoshimoto (1320-1388)
 
 - eigentlich waka-Dichter
 - renga-Theoretiker
 - wurde 1346 zum kanpaku ernannt und war der Kopf der Fujiwara
-- schrieb außerdem das Tsukuba mondô (Fragen und Antworten zu renga) und kompilierte 1356 das Tsukuba shû
+- schrieb außerdem das Tsukuba mondō (Fragen und Antworten zu renga) und kompilierte 1356 das Tsukuba shū
 
-Tsukuba shû 筑波集  
+Tsukuba shū 筑波集  
 -> erste kaiserliche Anthologie von renga mit 20 Bänden  
 -> Bände I – XVIII: 1993 Verspaare (maeku und tsukeku)  
    Band XIX: 24 wakan (chinesisches maeku und japanisches tsukeku)  
@@ -75,11 +75,11 @@ Tsukuba shû 筑波集
 
 ---
 
-Tsukuba mondô 筑波問答
+Tsukuba mondō 筑波問答
 
 - zwischen 1357 und 1372 entstanden
 - beschäftigt sich mit dem Ursprung des renga
-- Aufbau der renga nach jo-ha-kyû
+- Aufbau der renga nach jo-ha-kyū
 
  
 - nicht jedes ku darf außergewöhnlich sein  
@@ -91,16 +91,16 @@ Tsukuba mondô 筑波問答
 ---
 
 
-Yamazaki Sôkan 山崎宗鑑 (?1464 - ?1552)
+Yamazaki Sōkan 山崎宗鑑 (?1464 - ?1552)
 
 - es ist kaum etwas über sein Leben bekannt
-- vermutlich Samurai von Shôgun Yoshihisa
+- vermutlich Samurai von Shōgun Yoshihisa
 - nach dessen Tod 1487 Mönch
-- Möglicherweise Lehrer für Kalligraphie und Dichter in der Nähe von Kyôto
+- Möglicherweise Lehrer für Kalligraphie und Dichter in der Nähe von Kyōto
 - starb vermutlich auf Shikoku -> in Kannonji befindet sich ein Grab, das seines sein soll
 
  
-- er kompilierte das Inu tsukuba shû ⽝筑波集  
+- er kompilierte das Inu tsukuba shū ⽝筑波集  
 -> circa 1514 – 1539; erstmals gedruckt: 1615  
 -> Sammlung humoristischer maeku und tsukeku
 
@@ -128,12 +128,12 @@ eigentlicher Name Taniguchi -> "Yosa" als Pseudonym (Mutter stammte aus der Prov
 
 Leben:
 - Sohn einer wohlhabenden Bauernfamilie
-- mit 20 Jahren von Ôsaka nach Edo: Unterricht in Dichtkunst (Bashô-Schule) und Malerei
-- nach 15-jähriger Wanderschaft Umzug nach Kyôto
+- mit 20 Jahren von ōsaka nach Edo: Unterricht in Dichtkunst (Bashō-Schule) und Malerei
+- nach 15-jähriger Wanderschaft Umzug nach Kyōto
 - 1771: Serie von Landschaftsbildern, basierend auf chinesischen Gedichten (heute Nationalschatz!)
 
 Besonderes:
-- nach Bashô zweiter Höhepunkt der Haiku- und haikai-Dichtung, besucht Orte aus Oku no hosomichi
+- nach Bashō zweiter Höhepunkt der Haiku- und haikai-Dichtung, besucht Orte aus Oku no hosomichi
 - experimentierte mit neuen Gedichtformen
 - vollendete die Kunst des haiga (illustriertes haiku) -> Dichtkunst und Malerei gehen ineinander über
 - Mittelpunkt seines Schaffens: Natur, Wanderschaft, Jahreszeiten

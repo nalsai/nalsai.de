@@ -67,7 +67,7 @@ z.B. dieses Gefühl befällt die Taira nach dem Tode Shigemoris -> bringt mit si
 ## Inhalt
 
 Berühmte Eingangspassage gibt Thema des Werks an:
-„The bell of the Gion Temple tolls into every man‘s heart to warn him that all is vanity and evanescence. The faded flowers of the sâla trees by the Buddha‘s deathbed bear witness to the truth that all who flourish are destined to decay. Yes, pride must have its fall, for it is as unsubstantial as a dream on a spring night. The brave and violent man – he too must die away in the end, like a whirl of dust in the wind.“  
+„The bell of the Gion Temple tolls into every man's heart to warn him that all is vanity and evanescence. The faded flowers of the sāla trees by the Buddha's deathbed bear witness to the truth that all who flourish are destined to decay. Yes, pride must have its fall, for it is as unsubstantial as a dream on a spring night. The brave and violent man – he too must die away in the end, like a whirl of dust in the wind.“  
 -> Unbeständigkeit aller Dinge & selbstverschuldeter Machtverlust und Untergang einer stolzen Familie
 
 Werk kann in drei Teile mit verschiedenen Protagonisten unterteilt werden:  
@@ -144,7 +144,7 @@ tapferer, zum Sterben bereiter Krieger
 
 mujō 無常, Retributionslehre & Karma  
 Vergänglichkeit und Unbeständigkeit des Lebens aber auch z.B. von Ruhm  
-=> Kreislauf der Rache führt dazu, dass das Werk mit der Auslöschung der Taira, dem Zusammenbruch der Minamono, dem Tod des Kindkaisers Antoku und der Trauer Kenreimon‘ins endet
+=> Kreislauf der Rache führt dazu, dass das Werk mit der Auslöschung der Taira, dem Zusammenbruch der Minamono, dem Tod des Kindkaisers Antoku und der Trauer Kenreimon'ins endet
 
 ## Rezeptions- und Wirkungsgeschichte
 

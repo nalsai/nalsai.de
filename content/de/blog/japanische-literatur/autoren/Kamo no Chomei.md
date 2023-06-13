@@ -6,6 +6,7 @@ weight = 15
 title = "Kamo no Chōmei"
 japanese = "鴨 長明"
 translation = ""
+life = "1153/55-1216"
 occupation = ""
 works = [
   "16-hojoki"
@@ -13,7 +14,7 @@ works = [
 description = ""
 +++
 
-Kamo no Chōmei (1153/55-1216) war Dichter und hatte schon früh einen Hofrang inne; als Sohn
+Kamo no Chōmei war Dichter und hatte schon früh einen Hofrang inne; als Sohn
 eines Priesters geboren, war er mit den Lehren und Prinzipien des Buddhismus vertraut; wurde später
 Mönch und zog sich in seinen späteren Jahren in die Berge um die Provinz Mino zurück und baute
 dort eine kleine Hütte, auf die sich auch der Titel Hōjōki 方丈記 („Aufzeichnungen von 3,3m²“)

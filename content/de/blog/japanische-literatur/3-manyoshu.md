@@ -36,5 +36,5 @@ release = "nach 750"
   - banka (Trauerlieder, Gedichte über den Tod, häufig den Tod von Mitgliedern der kaiserlichen Familie)
 - Dichter*innen kamen aus allen sozialen Schichten
 - thematisch, geografisch und zeitlich ebenfalls weit gestreut
-- Gedichtarten: tanka, chôka, hanka, sedôka (siehe [waka]({{< relref "genres/waka" >}}))
+- Gedichtarten: tanka, chōka, hanka, sedōka (siehe [waka]({{< relref "genres/waka" >}}))
 - Großteil der Gedichte stammen aus dem 7. bis 8. Jahrhundert (manche lassen sich aber bis ins 4. Jhr. zurückdatieren)

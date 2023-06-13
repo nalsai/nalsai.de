@@ -6,6 +6,7 @@ weight = 5
 title = "Ki no Tsurayuki"
 japanese = "紀 貫之"
 #translation = ""
+life = "872-945"
 occupation = "Schriftsteller, Dichter und Höfling"
 works = [
   "7-kokinshu",

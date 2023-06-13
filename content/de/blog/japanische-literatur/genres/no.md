@@ -23,14 +23,14 @@ works = [
 
 ## Begründer
 
-Kan‘ami Kiyotsugu 観阿弥清次 (1333 – 1384) -> „Vater des Nō“
+Kan'ami Kiyotsugu 観阿弥清次 (1333 – 1384) -> „Vater des Nō“
 
 und sein Sohn Zeami Motokiyo 世阿弥元清 (1363 – 1443)  
 -> übernahm die Leitung der Theatergruppe seines Vaters (Kanze-Truppe) und reformierte umfassend; wurde Theoretiker des Nō und Verfasser von Nō-Stücken
 
 Kadensho 花傳書: „Überlieferung der Blüte“  
 bzw. Langtitel: Fūshi kaden 風姿花伝: „Überlieferung der Blüte durch Beherrschung der Formen“  
--> Handbuch für Zeamis Nachfolger; philosophische Abhandlung über Kan‘amis Lehren und Zeamis Gedanken zu Nō -> in diesem wurden künstlerische Konzepte entwickelt
+-> Handbuch für Zeamis Nachfolger; philosophische Abhandlung über Kan'amis Lehren und Zeamis Gedanken zu Nō -> in diesem wurden künstlerische Konzepte entwickelt
 
 ## Entwicklung des Nō
 
@@ -58,7 +58,7 @@ monomane  物真似
 -> Mimesis, vollkommene Nachahmung  
 -> nicht äußere Nachahmung, sondern Erfassung des inneren Typus des Wesens einer Sache oder einer Figur
 
-yûgen 幽玄  
+yūgen 幽玄  
 -> „geheimnisvolle/unsichtbare Schönheit“  
 ursprünglich: mystisch, unbegreiflich, unwirklich (buddh. Gebrauch)  
 bei Zeami speziell: „ideale Schönheit“, „Eleganz“

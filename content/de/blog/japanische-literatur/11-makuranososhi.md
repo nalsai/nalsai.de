@@ -8,7 +8,7 @@ title = "Makura no sōshi"
 japanese = "枕草子"
 translation = "Kopfkissenheft"
 #description = ""
-authors = ["sei shonagon"]
+authors = ["Sei Shōnagon"]
 genres = ["zuihitsu"]
 release = "ca. 1000"
 +++

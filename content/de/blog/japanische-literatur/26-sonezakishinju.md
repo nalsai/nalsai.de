@@ -8,7 +8,7 @@ title = "Sonezaki shinjū"
 japanese = "曾根崎心中"
 translation = "Liebestod in Sonezaki"
 #description = ""
-authors = ["chikamatsu monzaemon"]
+authors = ["Chikamatsu Monzaemon"]
 genres = ["bunraku", "sewamono"] #bunraku
 release = "1703 (Uraufführung)"
 +++

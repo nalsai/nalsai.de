@@ -34,7 +34,7 @@ war Sohn eines bushi niederen Ranges aus der Präfektur Mie
 1656 Dienstantritt bei einem daimyō  
 lernte Dichtung zunächst nach den Regeln der Teimon-Schule (konventionell und streng)  
 1672 Umzug nach Edo und Auseinandersetzung mit der Danrin-Schule (liberaler)  
-1677 Gründung einer eigenen Schule -> Shōmon -> typischer Stil der Bashō-Schule: shōfû  
+1677 Gründung einer eigenen Schule -> Shōmon -> typischer Stil der Bashō-Schule: shōfū  
 1697 Anerkennung als haikai-Meister -> etabliert haikai als ernste Literaturform (Abkopplung des hokku als eigenständiges Gedicht)  
 trägt zur Etablierung von haibun bei  
 1680 Umzug ins Bashōan (Bashō ist Künstlername (Bananenstaude)) in Fukugawa / Edo  
@@ -45,8 +45,8 @@ zuerst "sabi" (anmutsvolle Stile, Einsamkeit & Ewigkeit, Schlichtheit und Einfac
 -> versuchte auf seinen Reisen in der Natur sabi zu finden  
 später "karumi" (Leichtheit, Unbeschwertheit)
 
-fueki (das Unendliche) + ryûkō (das Momentane)  
-=> bilden zusammen fûga (wahre Kunst)  
+fueki (das Unendliche) + ryūkō (das Momentane)  
+=> bilden zusammen fūga (wahre Kunst)  
 z.B.  
 tiefe Stille + plötzliches Zikaden-Sirren  
-ein ruhiger Teich + ein Frosch springt rein -> fûga-Momente
+ein ruhiger Teich + ein Frosch springt rein -> fūga-Momente

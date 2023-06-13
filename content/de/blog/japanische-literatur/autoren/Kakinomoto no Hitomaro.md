@@ -6,6 +6,7 @@ weight = 1
 title = "Kakinomoto no Hitomaro"
 japanese = "柿本 人麻呂 oder 柿本 人麿"
 translation = ""
+life = "662-710"
 occupation = "Hofdichter am Kaiserhof unter Temmu, Jitō und Mommu"
 works = [
   "3-manyoshu"

@@ -29,7 +29,7 @@ Moral: Wichtigkeit der Kenntnisse des uta no michi (Gedichtweg)
 
 ---
 
-- otogizôshi aus dem frühen 16. Jh.
+- otogizōshi aus dem frühen 16. Jh.
 - „Der Affen-Genji“
 
 Inhalt:

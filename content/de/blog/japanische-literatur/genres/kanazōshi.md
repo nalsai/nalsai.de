@@ -12,10 +12,10 @@ description = ""
 works = []
 +++
 
-- „Heftchen" (zôshi steht für gebundene Geschichten)
+- „Heftchen" (zōshi steht für gebundene Geschichten)
 - konnten sein: Essays, Reiseberichten, Kurzgeschichten, militärische Chroniken, etc.  
   -> keine vereinenden Merkmale
 - „Übergangsgenre“ -> Anfang der „Heftkultur“
 - Sprache: Kana
 - wurden handschriftlich abgeschrieben und zu Heften gebunden
-- entwickelten sich aus den otogizôshi
+- entwickelten sich aus den otogizōshi

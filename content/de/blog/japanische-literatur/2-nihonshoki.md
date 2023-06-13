@@ -6,7 +6,6 @@ weight = 2
 slug = "nihonshoki"
 title = "Nihon shoki"
 japanese = "日本書紀"
-short = "Nihongi 日本紀"
 translation = "Annalen/Aufzeichnungen Japans"
 description = "Reichschronik/Kaiserabstammung"
 #authors = [""]
@@ -14,8 +13,10 @@ description = "Reichschronik/Kaiserabstammung"
 release = "720"
 +++
 
+Kurz: _Nihongi_ 日本紀
+
 - Zweitältestes noch existierendes Geschichtswerk Japans
-- Erste der sechs offiziellen Reichsgeschichten (Rikkokushi 六国史)
+- Erste der sechs offiziellen Reichsgeschichten (_Rikkokushi_ 六国史)
 - komplett in Chinesisch
 - An chinesischen Reichsannalen (Dynastische Annalen) angelehnt
 
@@ -25,7 +26,7 @@ release = "720"
 
 ## Besonderheiten
 
-- Historisch „akkurater“ und „logischer“ als das [Kojiki]({{< relref "1-kojiki" >}})
+- Historisch „akkurater“ und „logischer“ als das [_Kojiki_]({{< relref "1-kojiki" >}})
 - Versucht möglichst lückenlose historische Aufzeichnung zu erreichen
 - Beinhaltet trotzdem religiöses und mythologisches Material
 - Vom Kaiser in Auftrag gegeben worden

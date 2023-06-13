@@ -9,9 +9,9 @@ japanese = "懐風藻"
 translation = ""
 #description = ""
 #authors = [""]
-genres = ["gedichtsammlung", "kanshi"]
+genres = ["Gedichtsammlung", "kanshi"]
 release = "ca. 751"
 +++
 
 - Sammlung von kanshi
-- Von Mitgliedern am Hof ungefähr zeitgleich mit dem Man’yōshû kompiliert
+- Von Mitgliedern am Hof ungefähr zeitgleich mit dem Man’yōshū kompiliert

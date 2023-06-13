@@ -6,6 +6,7 @@ weight = 10
 title = "Sei Shōnagon"
 japanese = "清 少納言"
 translation = ""
+life = "ca. 966 – 1016"
 occupation = "Schriftstellerin und Hofdame"
 works = [
   "11-makuranososhi"
@@ -13,7 +14,6 @@ works = [
 description = ""
 +++
 
-- ca. 966 – 1016
 - Vater war Kiyohara no Motosuke, der als ein gebildeter Poet bekannt war
 - Vorfahre des Familienklans: Prinz Toneri (Toneri shinnō 舎人親王), der Mitverfasser des Nihongi war
 - Sei Shōnagon hatte eine hohe literarische Bildung und war 10 Jahre lang (991-1001) die Hofdame der Fujiwara no Teishi (Kaiserin)

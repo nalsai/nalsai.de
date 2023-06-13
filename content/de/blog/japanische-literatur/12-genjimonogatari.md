@@ -8,7 +8,7 @@ title = "Genji monogatari"
 japanese = "源氏物語"
 translation = "Geschichte des Prinzen Genji"
 #description = ""
-authors = ["murasaki shikibu"]
+authors = ["Murasaki Shikibu"]
 genres = ["monogatari", "tsukuri monogatari"]
 release = "ca. 1010"
 +++
@@ -39,7 +39,7 @@ insgesamt 54 Kapitel; erzählte Zeit überspannt fast 75 Jahre
 
 ## Stoff
 
-eigene Umgebung, Protagonist des Ise monogatari als Vorbild für Hikaru Genji, Gedichte aus dem Man‘yōshū und dem Kokinshū, Kagerō nikki
+eigene Umgebung, Protagonist des Ise monogatari als Vorbild für Hikaru Genji, Gedichte aus dem Man'yōshū und dem Kokinshū, Kagerō nikki
 
 ## Thema/Geistiger Inhalt
 

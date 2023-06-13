@@ -19,7 +19,7 @@ release = "15. Jahrhundert"
 
 ## Inhalt
 
-shirabyôshi-Tänzerin verwandelt sich während einer Zeremonie um die Weihung der neuen Tempelglocke in einen Schlangendämon
+shirabyōshi-Tänzerin verwandelt sich während einer Zeremonie um die Weihung der neuen Tempelglocke in einen Schlangendämon
 
 
 im Dōjōji soll eine Glocke aufgehängt werden; aus zeremoniellen Gründen erlaubt der Abt während der Weihung keine Frauen im Tempel; eine Shirabyōshi-Tänzerin nähert sich, Priester gewährt ihr Einlass (da sie als Mann gekleidet ist); sie springt unter der Glocke hoch und landet so auf dem Boden, dass die Glocke über ihr zu Boden fällt; Priester erzählen dem Abt was vorgefallen ist -> dieser erzählt von einer jungen Frau (Kiyohime), die sich in einen Priester verliebt hat; dieser hat ihr im Scherz versprochen, sie zu heirten; als Kiyohime die Hochzeit forderte, versteckte sich der Priester in der ehem. Glocke; Frau verwandelte sich in eine feuerspeiende Schlange und umschlang die Glocke bis diese so heiß war, das der Priester starb  

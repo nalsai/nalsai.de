@@ -19,7 +19,7 @@ release = "ca. 1212"
 
 vollendet 1212 (wurde nach seinem Tod in der Hütte gefunden)  
 Hintergrund = späte Heian-Zeit war geprägt von politischen Konflikten (z.B. Genpei-Krieg), der Errichtung des bakufu und Katastrophen (z.B. Erdbeben, Feuersbrünste, Hungersnöte, Raub & Vandalismus) => unruhige Zeiten gelten als Beweis für mappō (es herrschte Endzeitstimmung  
--> Hinwendung zur Erlösung -> Aufschwung des Amida-Buddhismus (Aufsagen des nembutsu reichte für das Eintreten ins Paradis) und der Jōdō-shû „Schule des reinen Landes“)
+-> Hinwendung zur Erlösung -> Aufschwung des Amida-Buddhismus (Aufsagen des nembutsu reichte für das Eintreten ins Paradis) und der Jōdō-shū „Schule des reinen Landes“)
 
 ## Genre
 

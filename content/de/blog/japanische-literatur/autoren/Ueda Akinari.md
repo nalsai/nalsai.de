@@ -2,10 +2,11 @@
 type= "blog/japanische-literatur/autoren"
 draft = false
 
-weight = 19
+weight = 20
 title = "Ueda Akinari"
 japanese = "上田 秋成"
 translation = ""
+life = "1734-1809"
 occupation = "Autor und Dichter der Edo-Zeit"
 works = [
   "27-ugetsumonogatari"

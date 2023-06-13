@@ -6,6 +6,7 @@ weight = 2
 title = "Yamanoue no Okura"
 japanese = "山上 憶良"
 translation = ""
+life = "660-733"
 occupation = "Hofdichter, China-Fachmann"
 works = [
   "3-manyoshu"

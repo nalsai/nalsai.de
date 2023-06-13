@@ -5,7 +5,6 @@ draft = false
 unlisted = true
 +++
 
-<!--<div class=""><div class="col-lg-10 mx-auto">-->
 <div class="mb-5">
     <a href="../" class="btn btn-primary btn-sm mt-4">
         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-left" viewBox="0 0 16 16">
@@ -14,88 +13,106 @@ unlisted = true
     </a>
 </div>
 
-TODO:
+---
 
-- fix û,...
-- genres und japanische begriffe kursiv
-- reg. vor Regentschaftsdaten
-- Zeiten Übersicht?
-- Grafiken
+Falls Sie Fragen, Anmerkungen, weitere Informationen, Literaturverweise o.ä. haben würde ich mich sehr darüber freuen, wenn Sie mir eine [E-Mail schreiben](mailto:contact@nalsai.de), ein [Issue auf GitHub öffnen](https://github.com/nalsai/nalsai.de/issues/new) oder mich auf anderer Weise kontaktieren.
 
 ---
 
-In der Nara-Zeit (710 – 794) entstanden erste zusammenhängende längere Texte
+ 
+## Literarische Texte
 
-Werke ergänzen:
-Fudoki (713): Berichte über Landwirtschaft, Geografie und Besonderheiten verschiedener Regionen
+- Texte, in denen die ästhetische Funktion der Sprache dominiert
+(im Gegensatz z.B. zu referentiellen Texten, die der Informationsvermittlung dienen)
 
-kanbun kundoku: japanisches Lesen chinesischer Schriftzeichen, Verwendung von „Umkehrzeichen“ (kaeriten) und Ergänzung von Endungen, Partikeln etc.
+## Literarischer Kanon
 
-onnade: Hiragana, „Frauenhand“
+- mustergültige/verbindliche Texte einer Kultur
+- in Japan im 17. Jhr. durch die _kokugaku_ 国学 (nationale Schule) festgelegt
+- _kokugaku_ 国学: politisch national, Gedankengut: eigene jap. Wurzeln wieder entdecken, gegen Verfremdung durch China vorgehen  
+  -> haben alte Werke wieder aufgearbeitet, zugänglich gemacht und interpretiert
+
+## Vormoderne japanische Literatur
+
+- _koten bungaku_ (古典文学)
+- alle Literatur von Beginn der schriftlichen Aufzeichnungen bis zum Anbruch der Moderne (Beginn der Meiji-Zeit, 1868)
+
+## Moderne japanische Literatur
+
+- _kindai bungaku_ (近代文学)
+- ab dem Jahr Meiji 1 (1868)  
 
 ---
 
 Ende 9. Jh. Entwicklung der eigenen Kultur,
-Einstellung der Gesandschaften nach China
+Einstellung der Gesandtschaften nach China
 
-Sugawara no Michizane hielt Gesandschaften für nicht mehr nötig, da Japan weit genug entwickelt ist -> Abschaffung (offiziell aufgrund von Unruhen in China)
--> Weiterentwicklung der japansichsprachigen Literatur
-Unabhängigkeit der japanischen Kultur
+Heian-Zeit:
 
-Träger der Literatur:
-Heian-Zeit: Hofadel als Träger der Hochkultur
+- Hofadel als Träger der Kultur
+- aber auch Einfluss des Klerus sichtbar (_setsuwa_)
 
-- aber auch Einfluss des Klerus sichtbar (setsuwa)
-Kamakura-Zeit: zunehmender Einfluss des Buddhismus (Stichwort: mappô und mujô)
+Kamakura-Zeit:
+
+- zunehmender Einfluss des Buddhismus (_mappō_, _mujō_)
 - zunehmender Einfluss des Kriegeradels
 
-Muromachi-Zeit: Schwertadel sind als Träger der Kultur etabliert (Nô entwickelt sich unter dem Schutz der Shôgune)
-- Ansätze einer echten Volksliteratur (shomin bungaku) durch die otogizôshi  und vor allem die shussemono
+Muromachi-Zeit:
+
+- Schwertadel als Träger der Kultur etabliert (_nō_ entwickelt sich unter dem Schutz der _Shōgune_)
+- Ansätze einer echten Volksliteratur (shomin bungaku) durch die otogizōshi  und vor allem die shussemono
 
 ---
 
 Begriffe:
 
-- meisho 名所: berühmte Orte/Sehenswürdigkeiten, die für bestimmte Eigenschaften angepriesen werden -> in der Edo-Zeit entsteht darum eine Reisekultur
-- uta awase 歌合: Gedichtwettstreite am Heian-Hof, die als kulturelles Event und Zeitvertreib dienten
-- (mono no) aware 哀れ: Mitgefühl oder ein „Angerührt“ sein (etwa von der Natur, menschlichen Emotionen etc.) -> Motiv, das sich im Laufe der Heian-Zeit zu einem Ideal entwickelt hat -> aware empfinden zu können galt als Tugend
-- kugai 苦界: „bittere Welt“; buddhistisch geprägtes Weltbild, in dem die irdische Welt im Gegensatz zum Paradies eine Welt des Leidens und des Schmerzes ist
-- jisei (no ku) 辞世 (の句): Klage- oder Trauergedicht, oft über das Bedauern des Todes eines geliebten Menschen
+## kanbun kundoku 漢文訓読
 
-- mujô 無常: buddhistischer Begriff, der Vergänglichkeit beschreibt; „alles was geboren wird, muss unweigerlich auch sterben“ -> beeinflusst japanische Literatur vom 13. - 16. Jhr. sehr stark
-- shôbô 正法: Periode des „Wahren Gesetzes“ (1000 Jahre nach Shakyamunis Tod)
-- zôbô 像法: 1000 Jahre lange Periode des „Verfälschten Gesetzes“
-- mappô 末法: 10.000 Jahre lange Periode des „Letzten Gesetzes“; Ende des buddhistischen Gesetzes, Lehre existiert zwar noch, kann aber nicht mehr verstanden werden; Erleuchtung durch das Praktizieren von buddh. Lehren ist nicht mehr möglich -> buddh. „Endzeit“ (mappô sollte im Jahr 1052 beginnen)
+japanisches Lesen chinesischer Schriftzeichen, Verwendung von „Umkehrzeichen“ (kaeriten) und Ergänzung von Endungen, Partikeln etc.
 
-kanbun kundoku
   erklärendes japanisches Lesen von chinesischen Text
   Hilfszeichen an der Seite um Lesereienfolge und Grammatik zu ergänzen
   Kaeriten, ?
 
-koten bungaku
-  Vormoderne japanische Literatur: alle Literatur von Beginn der schriftlichen Aufzeichnungen bis zum Anbruch der Moderne (Beginn der Meiji-Zeit, 1868)
-  Alles im kurs behandelt
+## onnade 女手
+
+„Frauenhand“ - Hiragana
+
+## meisho 名所
+
+berühmte Orte/Sehenswürdigkeiten, die für bestimmte Eigenschaften angepriesen werden -> in der Edo-Zeit entsteht darum eine Reisekultur
+
+## uta awase 歌合
+
+Gedichtwettstreite am Heian-Hof, die als kulturelles Event und Zeitvertreib dienten
+
+## (mono no) aware 哀れ
+
+Mitgefühl oder ein „Angerührt“ sein (etwa von der Natur, menschlichen Emotionen etc.) -> Motiv, das sich im Laufe der Heian-Zeit zu einem Ideal entwickelt hat -> aware empfinden zu können galt als Tugend
+
+## kugai 苦界
+
+„bittere Welt“; buddhistisch geprägtes Weltbild, in dem die irdische Welt im Gegensatz zum Paradies eine Welt des Leidens und des Schmerzes ist
+
+## jisei (no ku) 辞世 (の句)
+
+Klage- oder Trauergedicht, oft über das Bedauern des Todes eines geliebten Menschen
+
+## mujō 無常
+
+buddhistischer Begriff, der Vergänglichkeit beschreibt; „alles was geboren wird, muss unweigerlich auch sterben“ -> beeinflusst japanische Literatur vom 13. - 16. Jhr. sehr stark
+
+## shōbō 正法
+
+Periode des „Wahren Gesetzes“ (1000 Jahre nach Shakyamunis Tod)
+
+## zōbō 像法
+
+1000 Jahre lange Periode des „Verfälschten Gesetzes“
+## mappō 末法
+
+10.000 Jahre lange Periode des „Letzten Gesetzes“; Ende des buddhistischen Gesetzes, Lehre existiert zwar noch, kann aber nicht mehr verstanden werden; Erleuchtung durch das Praktizieren von buddh. Lehren ist nicht mehr möglich -> buddh. „Endzeit“ (mappō sollte im Jahr 1052 beginnen)
   
-Giri vs ninjo
+## giri 義理 - ninjo 人情
+
 Gesellschaftliche Pflicht vs. Menschliche Gefühle
-
----
-
-Wie könnte man die vormoderne japanische Literatur zeitlich eingrenzen und wie den Begriff
-„Literatur“ definieren? Gehe in diesem Kontext auch auf die Begriffe koten bungaku (古典文学) und
-kindai bungaku (近代文学) ein.
-
-- Vormoderne japanische Literatur: koten bungaku (古典文学) -> alle Literatur von Beginn der
-schriftlichen Aufzeichnungen bis zum Anbruch der Moderne (Beginn der Meiji-Zeit, 1868)
-- kindai bungaku (近代文学): ab dem Jahr Meiji 1 (1868) -> wobei das eine problematische, wenn
-auch in der jap. Literaturwissenschaft gültige Eingrenzung ist
-- Literarische Texte: Texte, in denen die ästhetische Funktion der Sprache dominiert (im Gegensatz
-z.B. zu referentiellen Texten, die der Informationsvermittlung dienen)
-
-2. Was ist ein „literarischer Kanon“? Von wem wurde er in Japan festgelegt?
-
-- mustergültige/verbindliche Texte einer Kultur, in Japan im 17. Jhr. durch die kokugaku 国学
-(nationale Schule) festgelegt
-- kokugaku 国学: politisch national, Gedankengut: eigene jap. Wurzeln wieder entdecken, gegen
-Verfremdung durch China vorgehen
--> haben alte Werke wieder aufgearbeitet, zugänglich gemacht und anders interpretiert

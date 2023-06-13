@@ -69,9 +69,9 @@ Buddhismus; Konfuzianismus; Daoismus
 ---
 
 - ca. 1330
-- zuihitsu von Yoshida Kenkô
+- zuihitsu von Yoshida Kenkō
 - „Betrachtungen aus der Stille“
-- Themen: mujô / mono no aware  -> Wandel und Vergänglichkeit  
+- Themen: mujō / mono no aware  -> Wandel und Vergänglichkeit  
 -> Loslösung von der materiellen Welt
 
 "It is in their changing with passing occasions that makes everything touch one so."

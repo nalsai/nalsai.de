@@ -41,7 +41,7 @@ vÜbersetzung von Kawabata Yasunari, Manga Adaptionen etc.
 - Taishō, später sadaijin: Vater der beiden Halbgeschwister
 - Surigoromo: “Mädchen”, das als Junge aufwächst (später chūnagon)
 - Susukinoho: “Junge”, der als Mädchen aufwächst (später Naishi no Kami)
-- Shinokimi: vierte Tochter des Udaijin, wird Frau vom chûnagon
+- Shinokimi: vierte Tochter des Udaijin, wird Frau vom chūnagon
 - Tsukikusa: Höfling, der sehr hinter Frauen her ist
 
 ---
