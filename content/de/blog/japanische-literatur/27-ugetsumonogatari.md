@@ -17,8 +17,8 @@ release = "1776"
 
 „Verabredung zum Chrysanthemenfest“
 
-- Ein Teil der neunteiligen Kurzgeschichtensammlung Ugetsu monogatari
-- Figuren sind stark idealisiert (typisch für yomihon -> bis hin zu allegorischen Zügen)
+- Ein Teil der neunteiligen Kurzgeschichtensammlung _Ugetsu monogatari_
+- Figuren sind stark idealisiert (typisch für _yomihon_ -> bis hin zu allegorischen Zügen)
 - Handlung spielt ca. 1486 -> Figuren sind nicht historisch belegbar aber historisiert
 - Vermittlung von Werten wie Treue, Loyalität, Brüderlichkeit und wahre Freundschaft im Kontrast zu „unwahren Freunden“
 

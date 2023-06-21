@@ -15,8 +15,7 @@ release = "1689, Erstdruck: 1702"
 
 ## Inhalt und Aufbau
 
-Fünf-monatige Reise Bashōs durch den Norden Honshūs
-
+- Fünf-monatige Reise Bashōs durch den Norden Honshūs
 - Besuch literarisch bedeutender Orte
 - Menschliches Leben wird mit einer Reise gleichgesetzt
 - Autor stilisiert sich hoch zum „weltabgewandten, wandernden Poeten“
@@ -27,5 +26,5 @@ Fünf-monatige Reise Bashōs durch den Norden Honshūs
 ## Sprache
 
 _haibun_-Stil  
--> Prosa in einem lockeren Stil, der für die haikai-Dichtung als typisch galt  
+-> Prosa in einem lockeren Stil, der für die _haikai_-Dichtung als typisch galt  
 trotzdem komplexe und lyrische Sprache mit eingearbeiteten haiku

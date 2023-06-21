@@ -14,13 +14,13 @@ release = "ca. 935"
 +++
 
 
-- Das erste der nikki
-- Sprache: Japanisch, *onnade*
+- Das erste _nikki_
+- Sprache: Japanisch, _onnade_
 - Aufbau: chronologisch nach Ablauf der Reise; jeder Tag hat einen Eintrag
 - Stoff: Von 930 bis 934 war Ki no Tsurayuki Statthalter der Provinz Tosa (Shikoku); die 55-tägige Rückreise nach Ablauf der Amtszeit dient als Stoff
 - Heimreise von Tosa nach Heian-kyō
 - Von Trauer überschattet (Tochter des Stadthalters ist an Krankheit verstorben)
-- --> es wird vermutet, dass ein Kind von Ki no Tsurayuki verstorben ist
+- -> es wird vermutet, dass ein Kind von Ki no Tsurayuki verstorben ist
 - Verarbeitet des Todes
 
 ## Motive, Topoi, Thema

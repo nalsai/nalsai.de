@@ -13,14 +13,13 @@ genres = ["kyogen"]
 release = "1399 (Erstaufführung)"
 +++
 
-- Art: tarōkajamono („Diener-Stücke“) auch genannt shōmyōmono
+- Art: _tarōkajamono_ („Diener-Stücke“), auch genannt _shōmyōmono_
 
 ## Inhalt
 
-Meister muss das Haus verlassen; Taro Kaja und Jiro Kaja sollen das Gift “Busu” bewachen
-Taro Kaja wird neugierig und will sich das Gift anschauen.
-Er isst ein bisschen und findet heraus, dass es sich bei “Busu” um Zucker handelt.
-Taro Kaja und Jiro Kaja essen das Zucker, bis nichts mehr übrig ist.
+Meister muss das Haus verlassen -> Tarō Kaja und Jirō Kaja sollen das Gift „Busu” bewachen.  
+Tarō Kaja wird neugierig und will sich das Gift anschauen. Er isst ein bisschen und findet heraus, dass es sich bei „Busu” um Zucker handelt.
+Tarō Kaja und Jirō Kaja essen den Zucker, bis nichts mehr übrig ist.  
 Um von ihrer Tat abzulenken zerstören sie wertvolle Gegenstände ihres Meisters.
 Als ihr Meister zurückkommt, erzählen sie, dass sie aus versehen die Gegenstände zerstört haben und sich daraufhin mit dem Gift umbringen wollten, was aber nicht geklappt hatte.
 Der Meister wird wütend und jagt seine beiden Diener, während sie weglaufen.
