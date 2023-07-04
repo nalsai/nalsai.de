@@ -20,43 +20,43 @@ release = "ca. 925"
 
 ## Inhalt
 
-- Es geht um einen Kavalier (男) (-> Ariwara no Narihira)
+- Es geht um einen Kavalier (男 _otoko_) (-> Ariwara no Narihira)
   - Berühmter Adeliger und Hofdichter, der auch als großer Liebhaber bekannt war
-  - Es gibt Vermutungen, dass er der Autor des Ise monogatari sei, kann aber nicht belegt werden
-- Sein Leben ist Stoff für das Ise monogatari
+  - Es gibt Vermutungen, dass er der Autor des _Ise monogatari_ sei, kann aber nicht belegt werden
+- Sein Leben ist Stoff für das _Ise monogatari_
 - Werk ist wie Biografie konstruiert
 - -> beginnt mit seinem Eintritt in das Erwachsenenalter
 - -> Hauptinhalt: Liebesaffären (diese brechen auch gesellschaftliche Tabus)
-- -> Endet mit seinem jisei-Gedicht (辞世(の句): Klage- oder Trauergedicht, oft über das Bedauern des Todes eines geliebten Menschen)
+- -> Endet mit seinem _jisei_-Gedicht (辞世): Klage- oder Trauergedicht, oft über das Bedauern des Todes eines geliebten Menschen)
 - Vorbild für Prinzen Genji
 
 ## Motive, Topoi, Thema
 
 Zusammenhang zwischen Vergänglichkeit & Schönheit  
-Fallen der Kirschblüte (桜散る sakurachiru) -> Vergänglichkeit  
-*mono no aware*
+Fallen der Kirschblüte (桜散る _sakurachiru_) -> Vergänglichkeit  
+_mono no aware_
 
 - Motive: Reise, Natur, aware
 - Themen: Liebe, Bedauern, Heimweh
 
 ## Zeitliche Einhordnung
 
-- Heian-Zeit (794 -1185)
+- Heian-Zeit (794-1185)
 - Verlegung der Hauptstadt nach Heiankyō
 - Literarisierung des höfischen Lebens
 - Zunehmende Verwendung Kana
 
 ## Rezeptions- und Wirkungsgeschichte
 
-- 30 der Narihira zugeschriebenen Gedichte tauchen auch im Kokinshū auf
+- 30 der Narihira zugeschriebenen Gedichte tauchen auch im _[Kokinshū]({{< relref "7-kokinshu" >}})_ auf
 - Bereits im Genji monogatari als Klassiker bezeichnet
-- Nō-Theater
+- _nō_-Theater
 
 ## Besonderheiten
 
-Problem des Originals = es gibt verschiedene, teils inhaltlich unterschiedliche Kopien;
-die zuverlässigste Abschrift ist das Den Teika hippon (伝定家筆本) von Fujiwara no Teika/Sadaie
-(藤原定家) aus dem 13. Jhr. (enthält 125 Episoden und 206 Gedichte)
+- es gibt verschiedene, teils inhaltlich unterschiedliche Kopien  
+- die zuverlässigste Abschrift ist das _Den Teika hippon_ (伝定家筆本) von Fujiwara no Teika/Sadaie (藤原定家)
+aus dem 13. Jhr. (enthält 125 Episoden und 206 Gedichte)
 
-Sumidagawa wurde zum utamakura durch das Ise monogatari
-Schwertlilien: 杜若 kakitsubata (oft Muster auf Lack, Kimono, etc.) berühmt gemacht durch Episode 9
+Sumidagawa wurde zum _utamakura_  
+Schwertlilien: 杜若 _kakitsubata_ (oft Muster auf Lack, Kimono, etc.) berühmt durch Episode 9

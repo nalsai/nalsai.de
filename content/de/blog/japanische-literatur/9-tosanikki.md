@@ -13,14 +13,18 @@ genres = ["nikki", "kikō"]
 release = "ca. 935"
 +++
 
-- Das erste _nikki_
+- das erste _nikki_
 - Sprache: Japanisch, _onnade_
 - Aufbau: chronologisch nach Ablauf der Reise; jeder Tag hat einen Eintrag
-- Stoff: Von 930 bis 934 war Ki no Tsurayuki Statthalter der Provinz Tosa (Shikoku); die 55-tägige Rückreise nach Ablauf der Amtszeit dient als Stoff
 - Heimreise von Tosa nach Heian-kyō
-- Von Trauer überschattet (Tochter des Stadthalters ist an Krankheit verstorben)
+- von Trauer überschattet (Tochter des Stadthalters ist an Krankheit verstorben)
 - -> es wird vermutet, dass ein Kind von Ki no Tsurayuki verstorben ist
-- Verarbeitet des Todes
+- Verarbeitung des Todes
+
+## Stoff
+
+- von 930 bis 934 war Ki no Tsurayuki Statthalter der Provinz Tosa (Shikoku)  
+- die 55-tägige Rückreise nach Ablauf der Amtszeit dient als Stoff
 
 ## Motive, Topoi, Thema
 
@@ -31,18 +35,18 @@ Vergänglichkeit und Beständigkeit
 
 ## Stil
 
-Prosa und tanka (egal wer im Werk dichtet, alle Gedichte stammen von Ki no Tsurayuki)  
-Einfacher, schmuckloser (aber dennoch differenzierter) Sprachstil -> Trendsetter für Hofdamenliteratur  
-Viele makurakotoba (typisch für kikō) / utamakura ???? TODO
+- Prosa und _tanka_ (egal wer im Werk dichtet, alle Gedichte stammen von Ki no Tsurayuki)  
+- Einfacher, schmuckloser (aber dennoch differenzierter) Sprachstil -> Trendsetter für Hofdamenliteratur  
+- Viele _makurakotoba_ (typisch für _kikō_), _utamakura_
 
 ## Rezeptions- und Wirkungsgeschichte
 
-Wurde zum Vorbild für spätere Hofdamen Tagebücher  
-Einfluss auf Bashōs Werk Oku no hosomichi (おくのほそ道) bzw. generell die Reisetagebücher der Edo-Zeit
+- Wurde zum Vorbild für spätere Hofdamen Tagebücher  
+- Einfluss auf Bashōs Werk _Oku no hosomichi_ (おくのほそ道) bzw. generell die Reisetagebücher der Edo-Zeit
 
 ## Besonderheiten
 
 - Doppelt fiktionalisierter Text: täuscht eine weibliche Perspektive vor, obwohl der Autor ein Mann ist + täuscht das tägliche Festhalten von Ereignissen fest, obwohl der Text im Rückblick geschrieben wurde
-- Tagebücher von Männern sind in der Regel auf Chinesisch verfasst worden-> hier wurde mit den Gebräuchen klassischer Männertagebücher gebrochen, indem 1. aus Sicht einer Frau geschrieben wurde und 2. Hiragana verwendet wurde
+- Tagebücher von Männern sind in der Regel auf Chinesisch verfasst worden -> hier wurde mit den Gebräuchen klassischer Männertagebücher gebrochen, indem 1. aus Sicht einer Frau geschrieben wurde und 2. Hiragana verwendet wurde
 - Sichtweise der Frau ermöglicht emotionales Schreiben, wirkt dadurch authentisch, obwohl der Autor ein Mann ist
-- Landschaftsbeschreibungen und Erfahrungen der Reisenden werden in Prosa geschildert, Ausdrücke der Gefühlswelt und emotionale Höhepunkte in tanka
+- Landschaftsbeschreibungen und Erfahrungen der Reisenden werden in Prosa geschildert, Ausdrücke der Gefühlswelt und emotionale Höhepunkte in _tanka_

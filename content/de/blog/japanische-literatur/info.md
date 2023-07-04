@@ -19,7 +19,6 @@ Falls Sie Fragen, Anmerkungen, weitere Informationen, Literaturverweise o.ä. ha
 
 ---
 
- 
 ## Literarische Texte
 
 - Texte, in denen die ästhetische Funktion der Sprache dominiert
@@ -109,6 +108,7 @@ Periode des „Wahren Gesetzes“ (1000 Jahre nach Shakyamunis Tod)
 ## zōbō 像法
 
 1000 Jahre lange Periode des „Verfälschten Gesetzes“
+
 ## mappō 末法
 
 10.000 Jahre lange Periode des „Letzten Gesetzes“; Ende des buddhistischen Gesetzes, Lehre existiert zwar noch, kann aber nicht mehr verstanden werden; Erleuchtung durch das Praktizieren von buddh. Lehren ist nicht mehr möglich -> buddh. „Endzeit“ (mappō sollte im Jahr 1052 beginnen)

@@ -13,7 +13,7 @@ genres = ["zuihitsu", "ki"]
 release = "ca. 1212"
 +++
 
-- Titel bezieht sich auf die Hütte -> hō (im Quadrat) + jō (3,3m)
+- Titel bezieht sich auf die Hütte -> _hō_ (im Quadrat) + _jō_ (3,3m)
 
 ## Veröffentlichung
 

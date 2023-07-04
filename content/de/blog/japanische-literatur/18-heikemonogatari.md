@@ -24,15 +24,15 @@ release = "1371 (heutige Version)"
 ---
 
 - zuverlässige Version von 1371 (Kakuichi-Text) -> ursprünglich von umherziehenden Mönchen
-mündlich rezitiert (biwa hōshi) -> Text wird in Yoshida Kenkōs Tsurezuregusa erwähnt
+mündlich rezitiert (_biwa hōshi_) -> Text wird in Yoshida Kenkōs Tsurezuregusa erwähnt
 - es handelt von dem Genpei-Krieg zwischen den Taira/Heike 平家 und den Minamoto/Genji 源氏
 - Kapitel 11 stellt den Höhepunkt des Genpei-Krieges dar und schildert sehr detailliert die Schlacht
 von Dan-no-ura
 
 ## Genre
 
-- rekishi monogatari: historische Erzählprosa; orientiert sich an historischen Ereignissen; Figuren sind belegbar; es können jedoch auch fiktionale Elemente miteinfließen
-- Untegruppe: gunki monogatari: Kriegserzählung, Kriegsepos; monogatari die sich ausschließlich mit Kriegen befassen
+- _rekishi monogatari_: historische Erzählprosa; orientiert sich an historischen Ereignissen; Figuren sind belegbar; es können jedoch auch fiktionale Elemente miteinfließen
+- Untegruppe: _gunki monogatari_: Kriegserzählung, Kriegsepos; monogatari die sich ausschließlich mit Kriegen befassen
 
 ## Sprache und Stil
 
