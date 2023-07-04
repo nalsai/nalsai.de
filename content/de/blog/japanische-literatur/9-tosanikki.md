@@ -13,7 +13,6 @@ genres = ["nikki", "kikō"]
 release = "ca. 935"
 +++
 
-
 - Das erste _nikki_
 - Sprache: Japanisch, _onnade_
 - Aufbau: chronologisch nach Ablauf der Reise; jeder Tag hat einen Eintrag

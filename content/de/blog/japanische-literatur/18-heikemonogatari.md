@@ -100,13 +100,12 @@ Antoku-Tennō: Kaiser zur Zeit des Genpei-Kriegs; starb 1185 im Alter von 7 Jahr
 
 Kenreimon’in: Kiyomoris Tochter, Kaiserin und Mutter Antokus
 
-
 ## Buddhismus
 
 Die buddh. Sicht der Welt hat das Heike monogatari mit zeitgleichen Werken gemeinsam + Popularität des Werkes auch noch vier Jahrhunderte nach seiner Abfassung -> zeigt, wie buddh. geprägt die Gesellschaft war
 
 - wichtige Charaktere des Epos haben z.B. ihr eigenes „Todeskapitel“
-- in diesen werden die Umstände ihres Todes detailliert geschildert 
+- in diesen werden die Umstände ihres Todes detailliert geschildert
 - in einer Szene wird der Protagonist etwa aufgerufen, um eine weniger leidvolle Existenz, vielleicht sogar um Erleuchtung und Befreiung zu bitten
 - am Rande der Verzweiflung rezitiert er aus tiefstem Herzen 南無阿弥陀仏 (namu amida butsu)
 
