@@ -28,8 +28,6 @@ release = "1814–42"
 - Die Hundekrieger sind Personifikationen von konfuzianischen Tugenden  
 -> keine 3-dimensional ausgearbeiteten Figuren
 
-
-
 ## Geistiger Inhalt
 
 - Konfuzianismus, Buddhismus
@@ -39,7 +37,6 @@ release = "1814–42"
 _kanzen chōaku_ 勧善懲悪  
 -> „zum Guten ermahnen, das Schlechte bestrafen“  
 -> konfuzianistisches Prinzip
-
 
 ### Die acht konfuzianischen Tugenden
 
