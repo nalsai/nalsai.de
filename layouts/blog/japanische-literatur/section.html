@@ -1,0 +1,118 @@
+{{ define "main" }}
+<style>
+/* Timeline holder */
+ul.timeline {
+    list-style-type: none;
+    position: relative;
+    padding-left: 2.5rem;
+}
+
+ /* Timeline vertical line */
+ul.timeline::before {
+    content: ' ';
+    background: #fff;
+    display: inline-block;
+    position: absolute;
+    left: 16px;
+    width: 4px;
+    height: 102.4%;
+    z-index: 400;
+    border-radius: 1rem;
+    top: 2rem;
+}
+
+li.timeline-item {
+    margin: 20px 0;
+}
+
+/* Timeline item arrow */
+.timeline-arrow {
+    border-top: 0.5rem solid transparent;
+    border-right: 0.5rem solid #fff;
+    border-bottom: 0.5rem solid transparent;
+    display: block;
+    position: absolute;
+    left: 2rem;
+}
+
+/* Timeline item circle marker */
+li.timeline-item::before {
+    content: ' ';
+    background: #ddd;
+    display: inline-block;
+    position: absolute;
+    border-radius: 50%;
+    border: 3px solid #fff;
+    left: 11px;
+    width: 14px;
+    height: 14px;
+    z-index: 400;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+/*
+body {
+    background: #E8CBC0;
+    background: -webkit-linear-gradient(to right, #E8CBC0, #636FA4);
+    background: linear-gradient(to right, #E8CBC0, #636FA4);
+    min-height: 100vh;
+}
+*/
+
+.bi {
+  vertical-align: sub;
+}
+</style>
+
+<main class="container py-5">
+    <div class="row text-center text-white mb-3">
+        <div class="col-lg-10 mx-auto">
+            <h1 class="display-4">{{ .Title }}</h1>
+            {{ with .Params.tags }}{{ range $tag := . }}<a class="badge rounded-pill bg-primary text-decoration-none my-3" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}/">{{ . }}</a> {{ end }}{{ end }}
+            <p class="lead mb-0">{{ .Description }}</p>
+            <p class="lead">{{ .Content }}</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-8 mx-auto mb-4 pb-2">
+            <ul class="timeline">
+                {{ range (where .RegularPages ".Params.unlisted" "!=" "true") }}
+                {{ $page := . }}
+                <a href="{{ .RelPermalink }}" class="text-black text-decoration-none">
+                    <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
+                        <div class="timeline-arrow"></div>
+                        <h2 class="h5 mb-0">{{ .Title }} {{ .Params.japanese }}</h2>
+                        <span class="small text-muted">
+                            {{ if .Params.release }}
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-calendar4-event" viewBox="0 0 16 16">
+                                    <path d="M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5zM2 2a1 1 0 0 0-1 1v1h14V3a1 1 0 0 0-1-1H2zm13 3H1v9a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V5z"/>
+                                    <path d="M11 7.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1z"/>
+                                </svg>
+                                {{ .Params.release }}
+                                &nbsp;
+                            {{ end }}
+                            {{ if .Params.authors }}
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-circle" viewBox="0 0 16 16">
+                                    <path d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"/>
+                                    <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1z"/>
+                                </svg>
+                                {{ range $i, $e := .Params.authors }}{{ if $i }}, {{ end }}{{ with $page.GetPage (printf "%s%s%s" "autoren/" . ".md" ) }}{{ .Title }}{{ else }}{{ . }}{{ end }}{{ end}}
+                                &nbsp;
+                            {{ end }}
+                            {{ if .Params.genres }}
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-blockquote-left" viewBox="0 0 16 16">
+                                    <path d="M2.5 3a.5.5 0 0 0 0 1h11a.5.5 0 0 0 0-1h-11zm5 3a.5.5 0 0 0 0 1h6a.5.5 0 0 0 0-1h-6zm0 3a.5.5 0 0 0 0 1h6a.5.5 0 0 0 0-1h-6zm-5 3a.5.5 0 0 0 0 1h11a.5.5 0 0 0 0-1h-11zm.79-5.373c.112-.078.26-.17.444-.275L3.524 6c-.122.074-.272.17-.452.287-.18.117-.35.26-.51.428a2.425 2.425 0 0 0-.398.562c-.11.207-.164.438-.164.692 0 .36.072.65.217.873.144.219.385.328.72.328.215 0 .383-.07.504-.211a.697.697 0 0 0 .188-.463c0-.23-.07-.404-.211-.521-.137-.121-.326-.182-.568-.182h-.282c.024-.203.065-.37.123-.498a1.38 1.38 0 0 1 .252-.37 1.94 1.94 0 0 1 .346-.298zm2.167 0c.113-.078.262-.17.445-.275L5.692 6c-.122.074-.272.17-.452.287-.18.117-.35.26-.51.428a2.425 2.425 0 0 0-.398.562c-.11.207-.164.438-.164.692 0 .36.072.65.217.873.144.219.385.328.72.328.215 0 .383-.07.504-.211a.697.697 0 0 0 .188-.463c0-.23-.07-.404-.211-.521-.137-.121-.326-.182-.568-.182h-.282a1.75 1.75 0 0 1 .118-.492c.058-.13.144-.254.257-.375a1.94 1.94 0 0 1 .346-.3z"/>
+                                </svg>
+                                {{ range $i, $e := .Params.genres }}{{ if $i }}, {{ end }}{{ with $page.GetPage (printf "%s%s%s" "genres/" . ".md" ) }}{{ .Title }}{{ else }}{{ . }}{{ end }}{{ end }}
+                                &nbsp;
+                            {{ end }}
+                        </span>
+                        <p class="text-small mt-2 font-weight-light">{{ if .Description }}{{ .Description }}{{ end }}</p>
+                    </li>
+                </a>
+                {{ end }}
+            </ul>
+        </div>
+    </div>
+</main>
+{{ end }}

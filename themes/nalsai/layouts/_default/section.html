@@ -2,7 +2,7 @@
 <main class="container">
     {{ .Content }}
     <div class="border-bottom pt-4"></div>
-    {{ range .Paginator.Pages }}
+    {{ range (.Paginate (union .Sections .Pages)).Pages }}
     <a href="{{ .RelPermalink }}" class="text-decoration-none">
         <div class="d-flex pt-3 mt-2 border-bottom">    
             <p class="pb-2">
