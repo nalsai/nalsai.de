@@ -2,14 +2,14 @@
 type= "blog/japanische-literatur"
 draft = false
 
-weight = 40
-slug = "shosetsushinzui"
-title = "Shōsetsu shinzui"
-japanese = "小説真髄"
-translation = "Das Wesen des Romans"
-description = "der erste literaturtheoretische Text zur Beschaffenheit des Romans"
-authors = ["Tsubouchi Shōyō"]
+weight = 41
+slug = "gakumonnosusume"
+title = "Gakumon no susume"
+japanese = "学問のすゝめ"
+translation = "Empfehlung des Studiums"
+description = ""
+authors = ["Fukuzawa Yukichi"]
 #genres = [""]
-release = "1885/86"
+#release = ""
 +++
 
