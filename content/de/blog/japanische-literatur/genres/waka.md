@@ -28,7 +28,7 @@ unterscheiden sich in ihrer Silbenanzahl und Folge
 - bekannteste Form des waka (spätestens seit dem Kokinshū)
 
 Das erste tanka findet sich im Kojiki. Es beginnt mit „yakumotatsu izumo“.  
-Angeblich soll Susanoo no mikoto (<dfn title="Gottheit">Kami</dfn> des Windes und des Meeres und Bruder der Sonnengöttin Amaterasu und des Mondgottes Tsukuyomi no Mikoto) das Gedicht geschrieben haben
+Angeblich soll Susanoo no mikoto (<abbr title="Gottheit">Kami</abbr> des Windes und des Meeres und Bruder der Sonnengöttin Amaterasu und des Mondgottes Tsukuyomi no Mikoto) das Gedicht geschrieben haben
 
 ### chōka
 
