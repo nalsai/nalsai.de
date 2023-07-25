@@ -2,14 +2,14 @@
 type= "blog/japanische-literatur"
 draft = false
 
-weight = 45
+weight = 35
 slug = "takekurabe"
 title = "Takekurabe"
-japanese = ""
-translation = ""
+japanese = "たけくらべ"
+translation = "Größenvergleich"
 description = ""
 authors = ["Higuchi Ichiō"]
 #genres = [""]
-release = ""
+release = "1895-96"
 +++
 

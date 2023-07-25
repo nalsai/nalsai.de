@@ -2,7 +2,7 @@
 type= "blog/japanische-literatur"
 draft = false
 
-weight = 45
+weight = 40
 slug = "hakai"
 title = "Hakai"
 japanese = "破戒"

@@ -2,14 +2,14 @@
 type= "blog/japanische-literatur"
 draft = false
 
-weight = 45
+weight = 37
 slug = "kawagiri"
 title = "Kawagiri"
-japanese = ""
-translation = ""
+japanese = "河霧"
+translation = "Flussnebel"
 description = ""
 authors = ["Kunikida Doppo"]
 #genres = [""]
-release = ""
+release = "1898"
 +++
 

@@ -2,14 +2,14 @@
 type= "blog/japanische-literatur"
 draft = false
 
-weight = 40
+weight = 33
 slug = "maihime"
 title = "Maihime"
-japanese = ""
-translation = ""
+japanese = "舞姫"
+translation = "Die Tänzerin"
 description = ""
 authors = ["Mori Ōgai"]
 #genres = [""]
-release = ""
+release = "1890"
 +++
 
