@@ -2,14 +2,14 @@
 type= "blog/japanische-literatur"
 draft = false
 
-weight = 45
+weight = 36
 slug = "genoji"
 title = "Gen oji"
-japanese = ""
-translation = ""
+japanese = "源叔父"
+translation = "Der alte Gen"
 description = ""
 authors = ["Kunikida Doppo"]
 #genres = [""]
-release = ""
+release = "1897"
 +++
 

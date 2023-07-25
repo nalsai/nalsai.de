@@ -2,14 +2,14 @@
 type= "blog/japanische-literatur"
 draft = false
 
-weight = 45
+weight = 42
 slug = "kyushi"
 title = "Kyūshi"
-japanese = ""
-translation = ""
+japanese = "窮死"
+translation = "Tod aus Verzweiflung"
 description = ""
 authors = ["Kunikida Doppo"]
 #genres = [""]
-release = ""
+release = "1907"
 +++
 

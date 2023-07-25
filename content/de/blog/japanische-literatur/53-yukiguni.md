@@ -2,14 +2,14 @@
 type= "blog/japanische-literatur"
 draft = false
 
-weight = 50
+weight = 53
 slug = "yukiguni"
 title = "Yukiguni"
-japanese = ""
+japanese = "雪国"
 translation = ""
 description = ""
 authors = ["Kawabata Yasunari"]
 genres = ["", ""]
-release = ""
+release = "1935-37"
 +++
 

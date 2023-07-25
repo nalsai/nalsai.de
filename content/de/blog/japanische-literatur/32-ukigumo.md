@@ -2,7 +2,7 @@
 type= "blog/japanische-literatur"
 draft = false
 
-weight = 43
+weight = 32
 slug = "ukigumo"
 title = "Ukigumo"
 japanese = "浮雲"

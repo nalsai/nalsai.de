@@ -5,11 +5,11 @@ draft = false
 weight = 50
 slug = "yabunonaka"
 title = "Ya no naka"
-japanese = ""
-translation = ""
+japanese = "藪の中"
+translation = "Im Dickicht"
 description = ""
 authors = ["Akutagawa Ryūnosuke"]
 genres = ["", ""]
-release = ""
+release = "1922"
 +++
 

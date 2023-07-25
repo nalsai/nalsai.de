@@ -2,9 +2,9 @@
 type= "blog/japanische-literatur"
 draft = false
 
-weight = 50
+weight = 54
 slug = "onnazaka"
-title = "Onnaaka"
+title = "Onnazaka"
 japanese = "女坂"
 translation = "Die Wartejahre"
 description = ""

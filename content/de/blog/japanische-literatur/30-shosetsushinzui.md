@@ -2,7 +2,7 @@
 type= "blog/japanische-literatur"
 draft = false
 
-weight = 40
+weight = 30
 slug = "shosetsushinzui"
 title = "Shōsetsu shinzui"
 japanese = "小説真髄"
