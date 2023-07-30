@@ -2,7 +2,7 @@
 type= "blog/japanische-literatur/autoren"
 draft = false
 
-weight = 18
+weight = 19
 title = "Chikamatsu Monzaemon"
 japanese = "近松 門左衛門"
 #translation = ""

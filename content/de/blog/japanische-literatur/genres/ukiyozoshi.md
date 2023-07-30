@@ -2,7 +2,7 @@
 type= "blog/japanische-literatur/genres"
 draft = false
 
-weight = 99
+weight = 30
 title = "ukiyozōshi"
 japanese = "浮世草子"
 deutsch = ""

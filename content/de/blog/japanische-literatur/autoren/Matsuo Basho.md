@@ -2,7 +2,7 @@
 type= "blog/japanische-literatur/autoren"
 draft = false
 
-weight = 16
+weight = 18
 title = "Matsuo Bashō"
 japanese = "松尾 芭蕉"
 #translation = ""

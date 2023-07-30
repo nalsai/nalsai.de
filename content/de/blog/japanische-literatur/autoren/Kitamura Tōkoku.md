@@ -2,10 +2,11 @@
 type= "blog/japanische-literatur/autoren"
 draft = false
 
-weight = 30
+weight = 38
+slug = "kitamura-tokoku"
 title = "Kitamura Tōkoku"
 japanese = "北村 透谷"
-life = "1968-1894"
+life = "1868-1894"
 occupation = "Dichter, Literaturkritiker und Essayist der Meiji-Zeit"
 #works = []
 +++

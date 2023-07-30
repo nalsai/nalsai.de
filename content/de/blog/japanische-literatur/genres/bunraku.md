@@ -2,7 +2,7 @@
 type= "blog/japanische-literatur/genres"
 draft = false
 
-weight = 49
+weight = 25
 title = "bunraku"
 japanese = "文楽"
 deutsch = "Puppentheater"

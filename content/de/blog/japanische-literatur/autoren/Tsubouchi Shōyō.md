@@ -1,11 +1,12 @@
 +++
-type= "blog/japanische-literatur-vormoderne/autoren"
+type= "blog/japanische-literatur/autoren"
 draft = false
 
-weight = 30
+weight = 34
+slug = "tsubouchi-shoyo"
 title = "Tsubouchi Shōyō"
 japanese = "坪内 逍遥"
 life = "1859-1935"
 occupation = "Dramatiker, Erzähler und Übersetzer"
-works = ["40-shosetsushinzui"]
+works = ["30-shosetsushinzui"]
 +++

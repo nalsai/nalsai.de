@@ -2,7 +2,7 @@
 type= "blog/japanische-literatur/autoren"
 draft = false
 
-weight = 2
+weight = 1
 title = "Yamanoue no Okura"
 japanese = "山上 憶良"
 translation = ""
