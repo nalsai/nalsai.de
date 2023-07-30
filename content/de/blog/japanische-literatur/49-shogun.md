@@ -9,7 +9,7 @@ japanese = "将軍"
 translation = ""
 description = ""
 authors = ["Akutagawa Ryūnosuke"]
-genres = [""]
+genres = []
 release = "1922"
 +++
 

@@ -13,9 +13,6 @@ genres = ["chōhen shōstesu", "Naturalismus"]
 release = "1906"
 +++
 
-## Inhalt
-
-
 ## Stoff
 
 - Beobachtungen und Erlebnisse in Komoro während seiner Tätigkeit als Lehrer
@@ -23,6 +20,11 @@ release = "1906"
 - Reise von Komoro nach Iiyama 1904
 - Einfluss europäischer Literatur
   - z.B. Hamlet von Shakespeare, „Die Bekenntnisse“ von Rousseau, „Schuld und Sühne“ von Dostojewski
+
+## Themen
+
+- soziale Missstände, Diskriminierung der _burakumin_, Intrigen, Korruption
+- Identitätssuche und innere Konflikte des Protagonisten
 
 ## Motive
 

@@ -39,7 +39,21 @@ Falls Sie Fragen, Anmerkungen, weitere Informationen, Literaturverweise o.ä. ha
 ## Moderne japanische Literatur
 
 - _kindai bungaku_ (近代文学)
-- ab dem Jahr Meiji 1 (1868)  
+- Moderne: ab dem Jahr Meiji 1 (1868)
+- Aber: nicht an einem einzelnen Datum festzumachen, sondern sie ist eine fließende Entwicklung
+- Im Bezug auf die Literatur hat die Moderne verschiedene „Meilensteine“ wie z.B. Shōsetsu shinzui, Ukigumo und Maihime
+
+## Probleme bei der Definition von japanischer Literatur
+
+- keine einheitliche Definition
+- kann anhand des kulturellen Hintergrunds des Autors, der Sprache oder auch dem Land der Veröffentlichung festgemacht werden  
+-> kann sehr weit oder sehr eng gefasst werden
+
+## Literatur
+
+Schriftlich oder mündlich tradierte Texte, die ästhetisch bestimmt sind und sich nicht primär auf ihre informative Funktion herunterbrechen lassen  
+-> Im Japanischen _bungaku_ 文学, was ursprünglich zivile Gelehrsamkeit oder Wissenschaft bedeutete, und ähnlich wie das Wort „Literatur“ eine Bedeutungsverschiebung erfahren hat  
+-> Literatur als sprachliches Kunstwerk
 
 ---
 
@@ -63,9 +77,9 @@ Muromachi-Zeit:
 
 ---
 
-Begriffe:
+## Begriffe
 
-## kanbun kundoku 漢文訓読
+### _kanbun kundoku_ 漢文訓読
 
 japanisches Lesen chinesischer Schriftzeichen, Verwendung von „Umkehrzeichen“ (kaeriten) und Ergänzung von Endungen, Partikeln etc.
 
@@ -73,46 +87,61 @@ japanisches Lesen chinesischer Schriftzeichen, Verwendung von „Umkehrzeichen�
   Hilfszeichen an der Seite um Lesereienfolge und Grammatik zu ergänzen
   Kaeriten, ?
 
-## onnade 女手
+### _onnade_ 女手
 
 „Frauenhand“ - Hiragana
 
-## meisho 名所
+### _meisho_ 名所
 
 berühmte Orte/Sehenswürdigkeiten, die für bestimmte Eigenschaften angepriesen werden -> in der Edo-Zeit entsteht darum eine Reisekultur
 
-## uta awase 歌合
+### _uta awase_ 歌合
 
 Gedichtwettstreite am Heian-Hof, die als kulturelles Event und Zeitvertreib dienten
 
-## (mono no) aware 哀れ
+### _(mono no) aware_ 哀れ
 
 Mitgefühl oder ein „Angerührt“ sein (etwa von der Natur, menschlichen Emotionen etc.) -> Motiv, das sich im Laufe der Heian-Zeit zu einem Ideal entwickelt hat -> aware empfinden zu können galt als Tugend
 
-## kugai 苦界
+### _kugai_ 苦界
 
 „bittere Welt“; buddhistisch geprägtes Weltbild, in dem die irdische Welt im Gegensatz zum Paradies eine Welt des Leidens und des Schmerzes ist
 
-## jisei (no ku) 辞世 (の句)
+### _jisei (no ku)_ 辞世 (の句)
 
 Klage- oder Trauergedicht, oft über das Bedauern des Todes eines geliebten Menschen
 
-## mujō 無常
+### _mujō_ 無常
 
 buddhistischer Begriff, der Vergänglichkeit beschreibt; „alles was geboren wird, muss unweigerlich auch sterben“ -> beeinflusst japanische Literatur vom 13. - 16. Jhr. sehr stark
 
-## shōbō 正法
+### _shōbō_ 正法
 
 Periode des „Wahren Gesetzes“ (1000 Jahre nach Shakyamunis Tod)
 
-## zōbō 像法
+### _zōbō_ 像法
 
 1000 Jahre lange Periode des „Verfälschten Gesetzes“
 
-## mappō 末法
+### _mappō_ 末法
 
 10.000 Jahre lange Periode des „Letzten Gesetzes“; Ende des buddhistischen Gesetzes, Lehre existiert zwar noch, kann aber nicht mehr verstanden werden; Erleuchtung durch das Praktizieren von buddh. Lehren ist nicht mehr möglich -> buddh. „Endzeit“ (mappō sollte im Jahr 1052 beginnen)
   
-## giri 義理 - ninjo 人情
+### _giri_ 義理 - _ninjo_ 人情
 
 Gesellschaftliche Pflicht vs. Menschliche Gefühle
+
+### _bungo_ 文語
+
+Schriftsprache
+
+### _kōgo_ 口語
+
+gesprochene Sprache
+
+### _genbun itchi tai_ 言文一致
+
+言文一致体で書く
+= „im Stil der gesprochenen Sprache schreiben“
+
+-> Vereinheitlichung von geschriebener und gesprochener Sprache (Bewegung der Meiji-Zeit)

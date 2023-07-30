@@ -13,3 +13,5 @@ authors = ["Yosano Akiko"]
 release = "1901"
 +++
 
+- Gedichtsammlung von 399 Gedichten
+- Titel: „wirres Haar“ -> Kontrast zu den Damen der Heian-Zeit (eine Anspielung auf Sex)

@@ -2,7 +2,7 @@
 type= "blog/japanische-literatur/autoren"
 draft = false
 
-weight = 18
+weight = 17
 title = "Ihara Saikaku"
 japanese = "井原 西鶴"
 translation = ""
