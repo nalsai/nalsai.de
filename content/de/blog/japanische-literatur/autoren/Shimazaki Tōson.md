@@ -2,12 +2,12 @@
 type= "blog/japanische-literatur/autoren"
 draft = false
 
-weight = 29
+weight = 41
 title = "Shimazaki Tōson"
 japanese = "島崎 藤村"
 life = "1872-1943"
 occupation = "Dichter und Schriftsteller der Meiji- und frühen Shōwa-Zeit"
-works = ["45-hakai"]
+works = ["40-hakai"]
 +++
 
 - geboren in Magome (heute in der Präfektur Gifu)
