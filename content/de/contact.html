@@ -9,12 +9,12 @@ weight = 6
 
 <h1 class="my-4">Kontakt</h1>
 <form name="contact" method="POST" action="/success/" data-netlify-recaptcha="true" netlify-honeypot="message" data-netlify="true">
-    <input type="text" name="Name" class="form-control mb-4" placeholder="Name" required autocomplete="name">
-    <input type="email" name="E-Mail" class="form-control mb-4" placeholder="E-Mail" required autocomplete="email">
-    <input type="text" name="Betreff" class="form-control mb-4" placeholder="Betreff" required>
+    <input type="text" name="Name" class="form-control mb-4" placeholder="Name" aria-label="Name" required autocomplete="name">
+    <input type="email" name="E-Mail" class="form-control mb-4" placeholder="E-Mail" aria-label="E-Mail" required autocomplete="email">
+    <input type="text" name="Betreff" class="form-control mb-4" placeholder="Betreff" aria-label="Betreff" required>
     <input class="d-none" name="message" placeholder="message"/>
     <div class="form-group">
-        <textarea name="Nachricht" class="form-control rounded-1" rows="4" placeholder="Nachricht" required></textarea>
+        <textarea name="Nachricht" class="form-control rounded-1" rows="4" placeholder="Nachricht" aria-label="Nachricht" required></textarea>
     </div>
     <div class="my-4" data-netlify-recaptcha="true"></div>
     <div class="form-check mb-4">
