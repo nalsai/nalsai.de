@@ -76,3 +76,8 @@ body {
     padding-top: 3em;
     margin-top: -3em;
 }
+
+.goog-te-gadget {
+    display: inherit;
+    vertical-align: 0.125em;
+}
