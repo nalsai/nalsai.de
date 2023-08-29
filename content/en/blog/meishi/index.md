@@ -16,8 +16,6 @@ You can find the KiCad files at <https://github.com/nalsai/meishi>.
 
 ---
 
-<style>.custom-tooltip {--bs-tooltip-color: var(--bs-white);}</style>
-
 ## Assembly
 
 ### Parts Needed
@@ -25,7 +23,7 @@ You can find the KiCad files at <https://github.com/nalsai/meishi>.
 - 1 _meishi_ PCB
 - 1 Pro Micro (with headers)
 - 4 MX switches <span class="text-muted">(I used Gateron Milky Yellow Pro)
-- 4 MX keycaps <span class="text-muted">(I prefer DSA profile but any profile will work</span><a href="#" data-bs-toggle="tooltip" data-bs-custom-class="custom-tooltip" data-bs-title="as long as they are from the same row (except for cherry profile on upside down switches)" class="text">*</a><span class="text-muted">)
+- 4 MX keycaps <span class="text-muted">(I prefer DSA profile but any profile will work</span><a href="#" data-bs-toggle="tooltip" data-bs-title="as long as they are from the same row (except for cherry profile on upside down switches)" class="text">*</a><span class="text-muted">)
 - 4 rubber feet <span class="text-muted">(optional but highly recommended)
 - 4 kailh hotswap sockets <span class="text-muted">(optional)
 
