@@ -35,17 +35,20 @@ ffmpeg -i in.mov -pix_fmt yuv420p10le -c:v libx265   -crf 20 -preset slow -c:a l
 ffmpeg -i in.mov -pix_fmt yuv420p     -c:v libx264   -crf 18 -preset slow -c:a aac     -b:a 192k out.mkv
 ffmpeg -i in.mov -c:v prores_ks -profile:v 3 -qscale:v 9 -c:a pcm_s16le out.mov
 
+ffmpeg -i Untitled.mov -pix_fmt yuv420p -c:v libx264 -crf 25 -maxrate 600k -bufsize 3M -c:a aac -b:a 128k enc.mkv
+ffmpeg -i enc.mkv -c copy -movflags +faststart enc.mp4
+
 
 # cut
 -ss     # start time (placing it before -i is faster)
 -t      # length
 -to     # end time
 # time units can either be in the format HOURS:MM:SS.MILLISECONDS, or in seconds
-# example: cut from 00:03 to 01:20 without reencoding
+# example: cut from 00:03 to 01:20 without re-encoding
 ffmpeg -ss 3 -i in.mp4 -c copy -to 1:20 out.mp4
 
 # deinterlace (needs https://github.com/dubhater/vapoursynth-nnedi3/blob/v6/src/nnedi3_weights.bin)
-# (you may want to use QTGMC in vapoursynth)
+# (you may want to use QTGMC in VapourSynth instead)
 ffmpeg -i in.mp4 -vf "nnedi=weights='./nnedi3_weights.bin',format=yuv420p" -c:v libx265 -crf 20 -preset slow -c:a copy out.mp4
 
 # crop to 2/1
@@ -55,13 +58,13 @@ ffmpeg -i in.mp4 -vf "crop=in_w:in_w/2" -c:v libx265 -crf 20 -preset slow -c:a c
 for i in *.mp4; do ffmpeg -i "$i" -c:v prores_ks -profile:v 3 -qscale:v 9 -c:a pcm_s16le "${i%.*}.mov" -n; done
 
 # MacroSilicon MS2109 Capture Card:
-#   60 fps at 1080p is just a firmware hack with every second frame being empty
-#   stereo audio on windows needs https://github.com/ToadKing/mono-to-stereo (on linux it works oob)
+#   60 fps at 1080p is just a firmware hack with every second frame being empty -> don't use it
+#   stereo audio on windows needs https://github.com/ToadKing/mono-to-stereo (on Linux it works oob)
 #   there's also this web player for chrome https://github.com/yume-chan/ms2109-player
 # display using ffplay
 ffplay /dev/video2 -framerate 30 -video_size 1920x1080 -input_format mjpeg -f v4l2
 ffplay /dev/video2 -framerate 60 -video_size 1280x720 -input_format mjpeg -f v4l2
-# loopback for usage other programs (i.e. OBS)
+# loopback for usage with other programs (i.e. OBS)
 sudo modprobe v4l2loopback devices=1 video_nr=10 card_label="LoopbackCam" exclusive_caps=1
 ffmpeg -f video4linux2 -framerate 30 -video_size 1920x1080 -input_format mjpeg -i /dev/video2 -f v4l2 -pix_fmt yuv420p /dev/video10
 ```
@@ -75,7 +78,8 @@ convert -density 256x256 -background transparent in.png -define icon:auto-resize
 # resize and compress jpg images
 # https://gist.github.com/Nalsai/a2060570308192312e542f7de808c445
 convert img.jpg -auto-orient -quality 90% -resize 4096x4096\> -interlace Plane -sampling-factor 4:2:0 -gaussian-blur 0.05x0.2 -define jpeg:dct-method=float -colorspace sRGB -strip img-out.jpg
-for i in *.jpg; do convert $i -auto-orient -quality 90% -resize 4096x4096\> -interlace Plane -sampling-factor 4:2:0 -gaussian-blur 0.05x0.2 -define jpeg:dct-method=float -colorspace sRGB -strip out/$i; done;
+mkdir -p out; for i in *.jpg; do convert $i -auto-orient -quality 90% -resize 4096x4096\> -interlace Plane -sampling-factor 4:2:0 -gaussian-blur 0.05x0.2 -define jpeg:dct-method=float -colorspace sRGB -strip out/$i; done;
+mkdir -p out; for i in *.jpg; do convert $i -auto-orient -quality 90% -resize 540x540\> -interlace Plane -sampling-factor 4:2:0 -gaussian-blur 0.05x0.2 -define jpeg:dct-method=float -colorspace sRGB -strip out/$i; done;
 
 # optimize png images
 optipng -o7 *.png
@@ -99,7 +103,7 @@ exiftool "-TimeZone=+02:00" ./
 ## Documents
 
 ```bash
-# convert image to pdf
+# turn images into a PDF
 img2pdf in.jpg --output out.pdf
 
 # convert markdown to PDF
@@ -112,10 +116,10 @@ pandoc file.md --pdf-engine=xelatex -o file.pdf -V geometry:margin=1.27cm
 # delete all desktop.ini files
 find . -iname desktop.ini -delete
 
-# delete empty files
+# delete all empty files
 find . -empty -type f -delete
 
-# delete empty folders
+# delete all empty folders
 find . -empty -type d -delete
 
 # rename files to their md5sum or crc32 (doesn't work with names containing spaces)
