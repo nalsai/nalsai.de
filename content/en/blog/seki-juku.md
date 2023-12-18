@@ -8,18 +8,18 @@ date = 2023-12-17
 +++
 
 
-On December 14 I went to Seki-Juku (Seki Post Town) with a friend.
+On December 14 I went to Seki-juku (Seki Post Town) with a friend.
 
-We went to Tsu Station by bike and then took the JR Kisei Line to Kameyama, where we had to change trains to the Kansai Line.
-It was a very short (single-car) diesel multiple unit (DMU) train, model KiHa 120.
+We rode out bikes to Tsu Station and then took the JR Kisei Line to Kameyama, where we had to change trains to the Kansai Line.
+The Kansai Line going to Seki Station was a very short (single-car) diesel multiple unit (DMU) train, model KiHa 120.
 
 ![Train leaving Seki Station headed for Kamo](XLE40985.jpg)
 
 As it was a very small local train we couldn't pay with our Suica IC cards which was a bit confusing.
 
-It runs to Kamo Station in Kyōto Prefecture, where you can change to the Yamatoji Line to Nara and Ōsaka, which is technically part of the Kansai Main Line which connects JR Namba Station in Ōsaka with Nagoya Station.
+It runs to Kamo Station in Kyōto Prefecture, where passengers can switch to the Yamatoji Line to Nara and Ōsaka, which is technically part of the Kansai Main Line connecting JR Namba Station in Ōsaka with Nagoya Station.
 
-I guess the Kintetsu lines outcompeted the Kansai Main Line, which is why it is split that way.
+The Kintetsu lines outcompeted the Kansai Main Line, which is why it is split that way.
 
 ---
 
@@ -28,9 +28,10 @@ Along the Tōkaido
 the most important of the Five Routes of the Edo period in Japan, connecting Kyoto to Edo (modern-day Tokyo)
 
 ![Model of Sekis' townscape in 1671](XLE45312-cropped.jpg)
-few people on the streets
 
-very quiet and calming atmosphere
+Walking through Seki-juku, the streets were pretty quiet, with only a few people strolling around creating a calming atmosphere.
+
+
 
 ![Seki](XLE42401.jpg)
 
@@ -43,7 +44,11 @@ biggest remaining post town of Tokaido Road. There are many traditional building
 Chōkantei
 a building
 inside Hyakurokuritei Park
-, where you can take the stairs up to the roof to see Seki-Juku "from above".
+, where you can take the stairs up to the roof to see Seki-juku "from above".
+
+
+
+One of the notable buildings in Seki-Juku is Chōkantei, located inside Hyakurokuritei Park. Visitors can climb the stairs to the roof and view the entire town from above.
 
 ---
 
