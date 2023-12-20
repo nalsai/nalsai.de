@@ -19,7 +19,7 @@
             <div class="border-bottom border-dark-subtle pt-4"></div>
             {{ range (where .Pages ".Params.unlisted" "!=" "true") }}
             <a href="{{ .RelPermalink }}" class="text-decoration-none section-item">
-                <div class="d-flex my-4">    
+                <div class="d-flex py-4">    
                     <p class="text-light m-0">
                         <strong class="text-white">
                             {{ .Title }}
