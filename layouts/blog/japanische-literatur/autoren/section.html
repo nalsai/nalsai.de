@@ -17,11 +17,11 @@
     </div>
     <div class="row">
         <div class="col-lg-8 mx-auto">
-            <div class="border-bottom pt-4"></div>
+            <div class="border-bottom border-dark-subtle pt-4"></div>
             {{ range .Pages }}
-            <a href="{{ .RelPermalink }}" class="text-decoration-none">
-                <div class="d-flex pt-3 mt-2 border-bottom">    
-                    <p class="pb-2 link-light">
+            <a href="{{ .RelPermalink }}" class="text-decoration-none section-item">
+                <div class="d-flex my-4">    
+                    <p class="m-0 text-light">
                         <strong class="d-block text-white">
                             {{ .Title }}
                             {{ .Params.japanese }}
@@ -53,8 +53,21 @@
                     </p>
                 </div>
             </a>
+            <div class="border-bottom border-dark-subtle"></div>
             {{ end }}
         </div>
     </div>
 </main>
+
+<style>
+    .section-item {
+        opacity: .9;
+        transition: 400ms ease;
+    }
+
+    .section-item:hover {
+        opacity: 1;
+        transition: 200ms ease;
+    }
+</style>
 {{ end }}
