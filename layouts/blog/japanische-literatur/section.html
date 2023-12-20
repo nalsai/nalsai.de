@@ -50,6 +50,15 @@ li.timeline-item::before {
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
 }
 
+li.timeline-item {
+    background: #f3f3f3;
+    transition: 240ms ease;
+}
+li:hover.timeline-item {
+    background: #fff;
+    transition: 200ms ease;
+}
+
 /*
 body {
     background: #E8CBC0;
@@ -79,7 +88,7 @@ body {
                 {{ range (where .RegularPages ".Params.unlisted" "!=" "true") }}
                 {{ $page := . }}
                 <a href="{{ .RelPermalink }}" class="text-black text-decoration-none">
-                    <li class="timeline-item bg-white rounded ml-3 p-4 shadow">
+                    <li class="timeline-item rounded ml-3 p-4 shadow">
                         <div class="timeline-arrow"></div>
                         <h2 class="h5 mb-0">{{ .Title }} {{ .Params.japanese }}</h2>
                         <span class="small">
