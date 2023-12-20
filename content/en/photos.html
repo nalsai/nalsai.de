@@ -7,6 +7,7 @@ draft = false
 weight = 2
 +++
 
+</style>
 <h1 class="display-3 mt-4">Photos</h1>
 <p>Pictures not containing any people can be used under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0 License</a>, unless stated otherwise.<br>
     Hosted on Google Photos (-> <a href="https://policies.google.com/privacy">Privacy Policy</a>). If Google Photos asks whether you want to join an album, you can just decline.
@@ -16,12 +17,36 @@ weight = 2
 <hr>
 <h2 class="mb-2 mt-4 text-center">2023</h2>
 <div class="row gy-3 m-0" data-masonry='{"percentPosition": true }'>
+
+
     <div class="col-sm-6 col-lg-4 p-1 mt-1">
-        <div class="card">
-            <a href="https://photos.app.goo.gl/e6cJibq95ETCVUYTA">
-                <img class="card-img-top aspect-3-2" src="XKO53482.jpg" alt="Ise preview image" loading="lazy">
+        <a href="https://photos.app.goo.gl/e6cJibq95ETCVUYTA" class="link-opacity-75-hover card-hover">
+            <div class="card text-bg-dark rounded-4">
+                <img src="XJM36957.jpg" class="card-img rounded-4 aspect-16-9" alt="...">
+                <div class="card-img-overlay d-flex">
+                    <h5 class="card-title card-title-bg mt-auto">Nagoya (Toyota Museum,<br>高校生ナイト ハロウィン)</h5>
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="col-sm-6 col-lg-4 p-1 mt-1">
+        <a href="https://photos.app.goo.gl/e6cJibq95ETCVUYTA" class="link-opacity-75-hover card-hover">
+            <div class="card text-bg-dark rounded-4">
+                <img src="XKO53482.jpg" class="card-img rounded-4 aspect-3-2" alt="...">
+                <div class="card-img-overlay d-flex">
+                    <h5 class="card-title card-title-bg mt-auto">Ise</h5>
+                </div>
+            </div>
+        </a>
+    </div>
+
+
+    <div class="col-sm-6 col-lg-4 p-1 mt-1">
+        <div class="card rounded-4">
+            <a href="https://photos.app.goo.gl/e6cJibq95ETCVUYTA" class="text-white text-decoration-none">
+                <img class="card-img-top aspect-3-2 rounded-top-4" src="XKO53482.jpg" alt="Ise preview image" loading="lazy">
                 <div class="card-body">
-                    <h3 class="card-title text-center">Ise</h3>
+                    <h3 class="card-title text-center m-0">Ise</h3>
                 </div>
             </a>
         </div>
@@ -740,13 +765,20 @@ weight = 2
 </div>
 <script src="/js/masonry.pkgd.min.js" async></script>
 <style>
-    .card a img {
-        opacity: 0.9;
-        transition: 300ms ease;
-    }
 
-    .card a img:hover {
-        opacity: 1;
-        transition: 300ms ease;
+    .card-hover img {
+        filter: brightness(80%);
+        transition: 400ms ease;
+    }
+    .card-hover:hover img {
+        filter: brightness(100%);
+        transition: 200ms ease;
+    }
+    .card-title-bg {
+        font-size: 1.4rem;
+        background-color: rgba(0, 0, 0, 0.8);
+        padding: .5rem .8rem;
+        border-radius: .6rem;
+        width: fit-content;
     }
 </style>
