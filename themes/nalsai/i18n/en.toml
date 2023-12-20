@@ -30,3 +30,6 @@ other = "Pages"
 
 [Published]
 other = "Published"
+
+[preview-image]
+other = "preview image"

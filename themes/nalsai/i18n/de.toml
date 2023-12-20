@@ -30,3 +30,6 @@ other = "Seiten"
 
 [Published]
 other = "Veröffentlicht"
+
+[preview-image]
+other = "Vorschaubild"
