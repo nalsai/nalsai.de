@@ -20,7 +20,7 @@
         <div class="d-flex pt-3 mt-2 border-bottom">    
             <p class="pb-2">
                 <strong class="d-block text-white">{{ .Title }}</strong>
-                {{ if .Date }}<time class="link-light" datetime="{{ .Date.Format " 2006-01-02" }}">{{ i18n "Published" }}: {{ dateFormat (default "2006-01-02" .Site.Params.dateFormat) .Date }}</time>{{ end }}
+                {{ if .Date }}<time class="link-light" datetime="{{ .Date.Format " 2006-01-02" }}">{{ dateFormat (default "2006-01-02" .Site.Params.dateFormat) .Date }}</time>{{ end }}
             </p>
         </div>
     </a>
