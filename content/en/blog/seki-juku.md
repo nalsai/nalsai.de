@@ -97,7 +97,7 @@ The main hall, the *aizome* hall and the bell tower were built in the 17th centu
 
 We had lunch at Aizuya right next to the temple.
 
-I took the recommended meal set (*o-susume teishoku*) for 1500 yen.
+I took the recommended meal set (*o-susume teishoku*) for 1800 yen.
 
 ![recommended meal set at Aizuya](XLE52052.jpg)
 
