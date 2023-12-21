@@ -77,9 +77,9 @@ convert -density 256x256 -background transparent in.png -define icon:auto-resize
 
 # resize and compress jpg images
 # https://gist.github.com/Nalsai/a2060570308192312e542f7de808c445
-convert img.jpg -auto-orient -quality 90% -resize 4096x4096\> -interlace Plane -sampling-factor 4:2:0 -gaussian-blur 0.05x0.2 -define jpeg:dct-method=float -colorspace sRGB -strip img-out.jpg
-mkdir -p out; for i in *.jpg; do convert $i -auto-orient -quality 90% -resize 4096x4096\> -interlace Plane -sampling-factor 4:2:0 -gaussian-blur 0.05x0.2 -define jpeg:dct-method=float -colorspace sRGB -strip out/$i; done;
-mkdir -p out; for i in *.jpg; do convert $i -auto-orient -quality 90% -resize 540x540\> -interlace Plane -sampling-factor 4:2:0 -gaussian-blur 0.05x0.2 -define jpeg:dct-method=float -colorspace sRGB -strip out/$i; done;
+convert img.jpg -auto-orient -quality 90% -resize 4096x4096\> -interlace Plane -sampling-factor 4:2:0 -define jpeg:dct-method=float -colorspace sRGB -strip img-out.jpg
+mkdir -p out; for i in *.jpg; do convert $i -auto-orient -quality 90% -resize 4096x4096\> -interlace Plane -sampling-factor 4:2:0 -define jpeg:dct-method=float -colorspace sRGB -strip out/$i; done;
+mkdir -p out; for i in *.jpg; do convert $i -auto-orient -quality 90% -resize 600x600\> -interlace Plane -sampling-factor 4:2:0 -define jpeg:dct-method=float -colorspace sRGB -strip out/$i; done;
 
 # optimize png images
 optipng -o7 *.png
