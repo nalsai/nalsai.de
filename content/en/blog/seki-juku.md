@@ -17,9 +17,7 @@ The Kansai Line going to Seki Station was a very short (single-car) diesel multi
 
 As it was a very small local train, we couldn't pay with our Suica IC cards, which was a bit confusing.
 
-It runs to Kamo Station in Kyōto Prefecture, where passengers can switch to the Yamatoji Line to Nara and Ōsaka, which is technically part of the Kansai Main Line connecting JR Namba Station in Ōsaka with Nagoya Station.
-
-The Kintetsu lines outcompeted the Kansai Main Line, which is why it is split that way.
+The train runs to Kamo Station in Kyōto Prefecture, where passengers can switch to the Yamatoji Line to Nara and Ōsaka, which is technically part of the Kansai Main Line connecting JR Namba Station in Ōsaka with Nagoya Station. It seems like the Kintetsu lines out-competed the Kansai Main Line, resulting in that split.
 
 ---
 
@@ -56,25 +54,24 @@ I appreciated the fact that I could see the things in their natural environment,
 
 I think I prefer my pillow over a wooden headrest.
 
-In the back, after going through the garden, there was also a small separate room with a collection of old Ukiyo-e by Utagawa Hiroshige.
-What impressed me was the subtle use of color and how vivid especially the blue color still was after all these years.
+In the back, after going through the courtyard, there was also a small separate room with a collection of old Ukiyo-e by Utagawa Hiroshige.
+What impressed me was the use of color and how vivid especially the blue color still was after all these years.
 
 ---
 
 We then visited the Seki Machinami Museum, which showcased the Edo period townhouses, the tools and materials used, as well as the changes in the townscape of Seki-juku over time.
 The model of the town I included a picture of at the beginning was in this museum.
-
 It is another one of the traditional buildings that has been preserved in its original state and opened to the public as a museum.
 
-I also thought about how these houses always had a nice little courtyard, adding to the aesthetics of the house.
+I thought about how these houses always had a nice little courtyard, adding to the aesthetics of the place.
 
 ---
 
 The last museum included in the 500-yen combo ticket was the Seki no Yama Kaikan.
-It was the residence of Mitani Kōichi, a potter of Seki Banko ware (the representative modern industry of Seki-juku). However, his company went out of business in 1921 due to a lack of materials and craftsmen.
+It was the residence of Mitani Kōichi, a potter of Seki Banko ware, the representative modern industry of Seki-juku. However, his company went out of business in 1921 due to a lack of materials and craftsmen.
 We were also shown a hole in the ceiling, which was used to let in light because they didn't have glass windows like today.
 
-The Seki no Yama Kaikan displays and teaches about the floats that have been passed down in Seki-juku, locally called *(seki no) yama*, and about the history and culture of the Seki-juku Gion Festival. We learned that there used to be 16 floats, but now there are only 4 left. Two of them are displayed in the museum. I think that the declining population means less interest and fewer funds to maintain the floats and the festival, which is a shame.
+The Seki no Yama Kaikan displays and teaches about the floats that have been passed down in Seki-juku, locally called *(seki no) yama*, and about the history and culture of the Seki-juku Gion Festival. We learned that there used to be 16 floats, but now there are only 4 left. Two of them were displayed in the museum. I think that the declining population means less interest and fewer funds to maintain the floats and the festival, which is a shame.
 
 ---
 
@@ -103,7 +100,7 @@ I took the recommended meal set (*o-susume teishoku*) for 1800 yen.
 
 It includes *okowa* -- steamed sticky rice with chicken and vegetables, soba noodle soup, sweet white beans and a variety of vegetables and fruits that are currently in season.
 The taste of both the rice and the soba noodle soup was amazing, and the combination of the different ingredients was just right.
-I wish I could eat this more often.
+I wish I could eat it more often.
 
 ---
 
@@ -112,9 +109,10 @@ There was a sign that it was closed from December 15 until January 9, so we were
 
 ![](XLE55406-cropped.jpg)
 
-Before we left, I bought some Shiratama dango to take with me.
+Before we left, I bought some *Shiratama dango* to take with me.
 
 It was a really nice trip, and I would recommend it to anyone in the area.
+Even the power and network cables were buried to support the historical look of Seki-juku and there is a branch of the Hyakugo Bank inside a building just like the other historical buildings there, which makes it look like it's a traditional business from there.
 It is nice to see initiatives to preserve the history of the area, and I hope that it will continue to be preserved for future generations. The very nice museums that have been created in recent years are a good sign.
 
 ---
