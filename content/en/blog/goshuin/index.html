@@ -1,0 +1,57 @@
++++
+title = "Goshuin Collection"
+
++++
+
+
+<div id="app">
+    <input type="text" v-model="searchQuery" placeholder="Search">
+</div>
+<script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+<script>
+    new Vue({
+        el: '#app',
+        data: {
+            goshuins: [],
+            searchQuery: ''
+        },
+        mounted() {
+            // Fetch your Goshuin data from a JSON file
+            axios.get('data.json')
+                .then(response => {
+                    this.goshuins = response.data.goshuins;
+                })
+                .catch(error => {
+                    console.error('Error fetching Goshuin data:', error);
+                });
+        },
+        computed: {
+            filteredGoshuins() {
+                return this.goshuins.filter(goshuin => {
+                    return goshuin.name.toLowerCase().includes(this.searchQuery.toLowerCase()) ||
+                        goshuin.location.toLowerCase().includes(this.searchQuery.toLowerCase()) ||
+                        goshuin.notes.toLowerCase().includes(this.searchQuery.toLowerCase());
+                });
+            }
+        },
+        template: `
+        <div>
+            <input class="form-control mb-4" type="text" v-model="searchQuery" placeholder="Search">
+            <div class="row g-4">
+                <div v-for="goshuin in filteredGoshuins" class="col-sm-6 col-lg-4">
+                    <div class="card">
+                        <img :src="'img/'+goshuin.image" :alt="goshuin.name" class="card-img-top">
+                        <div class="card-body">
+                            <h2 class="card-title">{{ goshuin.type }}</h2>
+                            <p class="card-text"><strong>Date:</strong> {{ goshuin.date }}</p>
+                            <p class="card-text"><strong>Location:</strong> {{ goshuin.location }}</p>
+                            <p class="card-text"><strong>Notes:</strong> {{ goshuin.notes }}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        `
+    });
+</script>
