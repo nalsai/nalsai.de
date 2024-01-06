@@ -1,63 +1,53 @@
 {{ define "main" }}
 <main class="container">
     <div class="row text-center text-white">
-    <div class="col-lg-8 mx-auto">
-    {{ .Content }}
-    
-    {{ $lang := .Lang }}
+        <div class="col-lg-8 mx-auto">
+            {{ .Content }}
+            
+            {{ $lang := .Lang }}
 
-    {{ $pages := (union .Sections .Pages) }}
+            {{ $pages := (union .Sections .Pages) }}
 
-    {{ range .Translations }}
-    {{ $pages = $pages | lang.Merge (union .Sections .Pages) }}
-    {{ end }}
+            {{ range .Translations }}
+            {{ $pages = $pages | lang.Merge (union .Sections .Pages) }}
+            {{ end }}
 
-    {{ range (.Paginate $pages).Pages }}
+            {{ range (.Paginate $pages).Pages }}
 
-    {{ $link := .RelPermalink }}
-    {{ if ne .Lang $lang }}
-    {{ $link = printf "%s?lang=%s" .Permalink $lang }}
-    {{ end }}
-    <a href="{{ $link }}" class="text-decoration-none h-75">
-        <div class="d-flex p-3 section-item bg-dark px-3 py-4 m-0 rounded-4 my-4 text-start">
-            <p class="m-0 text-light">
-                <strong class="d-block text-white mb-1">{{ .Title }}</strong>
-                <small class="text-muted d-block mb-2">{{ .Description }}</small>
-                {{ if .Date }}<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-calendar-event" viewBox="0 0 16 16">
-                    <path d="M11 6.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5z"/>
-                    <path d="M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5M1 4v10a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V4z"/>
-                  </svg> <time class="text-light" datetime="{{ .Date.Format " 2006-01-02" }}">{{ dateFormat (default "2006-01-02" .Site.Params.dateFormat) .Date }}</time>&nbsp;{{ end }}
-                {{ with .Params.tags }}<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-tags" viewBox="0 0 16 16">
-                    <path d="M3 2v4.586l7 7L14.586 9l-7-7zM2 2a1 1 0 0 1 1-1h4.586a1 1 0 0 1 .707.293l7 7a1 1 0 0 1 0 1.414l-4.586 4.586a1 1 0 0 1-1.414 0l-7-7A1 1 0 0 1 2 6.586z"/>
-                    <path d="M5.5 5a.5.5 0 1 1 0-1 .5.5 0 0 1 0 1m0 1a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3M1 7.086a1 1 0 0 0 .293.707L8.75 15.25l-.043.043a1 1 0 0 1-1.414 0l-7-7A1 1 0 0 1 0 7.586V3a1 1 0 0 1 1-1z"/>
-                </svg> {{ delimit . ", " }}&nbsp;{{ end }}
+            {{ $link := .RelPermalink }}
+            {{ if ne .Lang $lang }}
+            {{ $link = printf "%s?lang=%s" .Permalink $lang }}
+            {{ end }}
+            <a href="{{ $link }}" class="text-decoration-none h-75">
+                <div class="d-flex p-3 hover-opacity bg-dark px-3 py-4 m-0 rounded-4 my-4 text-start">
+                    <p class="m-0 text-light">
+                        <strong class="d-block text-white mb-1">{{ .Title }}</strong>
+                        <small class="text-muted d-block mb-2">{{ .Description }}</small>
+                        {{ if .Date }}<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-calendar-event" viewBox="0 0 16 16">
+                            <path d="M11 6.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5z"/>
+                            <path d="M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5M1 4v10a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V4z"/>
+                        </svg> <time class="text-light" datetime="{{ .Date.Format " 2006-01-02" }}">{{ dateFormat (default "2006-01-02" .Site.Params.dateFormat) .Date }}</time>&nbsp;{{ end }}
+                        {{ with .Params.tags }}<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-tags" viewBox="0 0 16 16">
+                            <path d="M3 2v4.586l7 7L14.586 9l-7-7zM2 2a1 1 0 0 1 1-1h4.586a1 1 0 0 1 .707.293l7 7a1 1 0 0 1 0 1.414l-4.586 4.586a1 1 0 0 1-1.414 0l-7-7A1 1 0 0 1 2 6.586z"/>
+                            <path d="M5.5 5a.5.5 0 1 1 0-1 .5.5 0 0 1 0 1m0 1a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3M1 7.086a1 1 0 0 0 .293.707L8.75 15.25l-.043.043a1 1 0 0 1-1.414 0l-7-7A1 1 0 0 1 0 7.586V3a1 1 0 0 1 1-1z"/>
+                        </svg> {{ delimit . ", " }}&nbsp;{{ end }}
 
-                {{ if ne .Lang $lang }}
-                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-globe" viewBox="0 0 16 16">
-                    <path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8m7.5-6.923c-.67.204-1.335.82-1.887 1.855A7.97 7.97 0 0 0 5.145 4H7.5zM4.09 4a9.267 9.267 0 0 1 .64-1.539 6.7 6.7 0 0 1 .597-.933A7.025 7.025 0 0 0 2.255 4zm-.582 3.5c.03-.877.138-1.718.312-2.5H1.674a6.958 6.958 0 0 0-.656 2.5zM4.847 5a12.5 12.5 0 0 0-.338 2.5H7.5V5zM8.5 5v2.5h2.99a12.495 12.495 0 0 0-.337-2.5zM4.51 8.5a12.5 12.5 0 0 0 .337 2.5H7.5V8.5zm3.99 0V11h2.653c.187-.765.306-1.608.338-2.5zM5.145 12c.138.386.295.744.468 1.068.552 1.035 1.218 1.65 1.887 1.855V12zm.182 2.472a6.696 6.696 0 0 1-.597-.933A9.268 9.268 0 0 1 4.09 12H2.255a7.024 7.024 0 0 0 3.072 2.472M3.82 11a13.652 13.652 0 0 1-.312-2.5h-2.49c.062.89.291 1.733.656 2.5zm6.853 3.472A7.024 7.024 0 0 0 13.745 12H11.91a9.27 9.27 0 0 1-.64 1.539 6.688 6.688 0 0 1-.597.933M8.5 12v2.923c.67-.204 1.335-.82 1.887-1.855.173-.324.33-.682.468-1.068zm3.68-1h2.146c.365-.767.594-1.61.656-2.5h-2.49a13.65 13.65 0 0 1-.312 2.5zm2.802-3.5a6.959 6.959 0 0 0-.656-2.5H12.18c.174.782.282 1.623.312 2.5zM11.27 2.461c.247.464.462.98.64 1.539h1.835a7.024 7.024 0 0 0-3.072-2.472c.218.284.418.598.597.933zM10.855 4a7.966 7.966 0 0 0-.468-1.068C9.835 1.897 9.17 1.282 8.5 1.077V4z"/>
-                </svg> {{ i18n "Language" }}: {{ .Lang }}&nbsp;
-                {{ end }}
-            </p>
+                        {{ if ne .Lang $lang }}
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-globe" viewBox="0 0 16 16">
+                            <path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8m7.5-6.923c-.67.204-1.335.82-1.887 1.855A7.97 7.97 0 0 0 5.145 4H7.5zM4.09 4a9.267 9.267 0 0 1 .64-1.539 6.7 6.7 0 0 1 .597-.933A7.025 7.025 0 0 0 2.255 4zm-.582 3.5c.03-.877.138-1.718.312-2.5H1.674a6.958 6.958 0 0 0-.656 2.5zM4.847 5a12.5 12.5 0 0 0-.338 2.5H7.5V5zM8.5 5v2.5h2.99a12.495 12.495 0 0 0-.337-2.5zM4.51 8.5a12.5 12.5 0 0 0 .337 2.5H7.5V8.5zm3.99 0V11h2.653c.187-.765.306-1.608.338-2.5zM5.145 12c.138.386.295.744.468 1.068.552 1.035 1.218 1.65 1.887 1.855V12zm.182 2.472a6.696 6.696 0 0 1-.597-.933A9.268 9.268 0 0 1 4.09 12H2.255a7.024 7.024 0 0 0 3.072 2.472M3.82 11a13.652 13.652 0 0 1-.312-2.5h-2.49c.062.89.291 1.733.656 2.5zm6.853 3.472A7.024 7.024 0 0 0 13.745 12H11.91a9.27 9.27 0 0 1-.64 1.539 6.688 6.688 0 0 1-.597.933M8.5 12v2.923c.67-.204 1.335-.82 1.887-1.855.173-.324.33-.682.468-1.068zm3.68-1h2.146c.365-.767.594-1.61.656-2.5h-2.49a13.65 13.65 0 0 1-.312 2.5zm2.802-3.5a6.959 6.959 0 0 0-.656-2.5H12.18c.174.782.282 1.623.312 2.5zM11.27 2.461c.247.464.462.98.64 1.539h1.835a7.024 7.024 0 0 0-3.072-2.472c.218.284.418.598.597.933zM10.855 4a7.966 7.966 0 0 0-.468-1.068C9.835 1.897 9.17 1.282 8.5 1.077V4z"/>
+                        </svg> {{ i18n "Language" }}: {{ .Lang }}&nbsp;
+                        {{ end }}
+                    </p>
+                </div>
+            </a>
+            {{ end }}
+
+            <div class="mt-4 py-4 position-relative">
+                <div class="mt-1 position-absolute top-50 start-50 translate-middle">
+                    {{ template "_internal/pagination.html" . }}
+                </div>
+            </div>
         </div>
-    </a>
-    {{ end }}
-
-    <div class="pt-5">
-        {{ template "_internal/pagination.html" . }}
     </div>
-</div>
-</div>
 </main>
-
-<style>
-    .section-item {
-        opacity: .9;
-        transition: 400ms ease;
-    }
-
-    .section-item:hover {
-        opacity: 1;
-        transition: 200ms ease;
-    }
-</style>
 {{ end }}

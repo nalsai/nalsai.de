@@ -1,18 +1,26 @@
 {{ define "main" }}
 <main class="container">
-    <h1 class="my-4">{{ .Title }}</h1>
-    <div class="border-bottom pt-4"></div>
-    {{ range .Paginator.Pages }}
-    <a href="{{ .RelPermalink }}" class="text-decoration-none">
-        <div class="d-flex pt-3 mt-2 border-bottom">    
-            <p class="pb-2">
-                <strong class="d-block">{{ .Title }}</strong>
-            </p>
+    <div class="row text-center text-white">
+        <div class="col-lg-8 mx-auto">
+
+            <h1 class="my-4">{{ .Title }}</h1>
+
+            {{ range .Paginator.Pages }}
+            <a href="{{ .RelPermalink }}" class="text-decoration-none h-75">
+                <div class="d-flex p-3 hover-opacity bg-dark px-3 py-4 m-0 rounded-4 my-4 text-start">
+                    <p class="m-0 text-light">
+                        <strong class="d-block text-white mb-1">{{ .Title }}</strong>
+                    </p>
+                </div>
+            </a>
+            {{ end }}
+
+            <div class="mt-4 py-4 position-relative">
+                <div class="mt-1 position-absolute top-50 start-50 translate-middle">
+                    {{ template "_internal/pagination.html" . }}
+                </div>
+            </div>
         </div>
-    </a>
-    {{ end }}
-    <div class="pt-5">
-        {{ template "_internal/pagination.html" . }}
     </div>
 </main>
 {{ end }}

@@ -18,7 +18,7 @@
         <div class="col-lg-8 mx-auto">
             <div class="border-bottom border-dark-subtle pt-4"></div>
             {{ range (where .Pages ".Params.unlisted" "!=" "true") }}
-            <a href="{{ .RelPermalink }}" class="text-decoration-none section-item">
+            <a href="{{ .RelPermalink }}" class="text-decoration-none hover-opacity">
                 <div class="d-flex py-4">    
                     <p class="text-light m-0">
                         <strong class="text-white">
@@ -43,16 +43,4 @@
         </div>
     </div>
 </main>
-
-<style>
-    .section-item {
-        opacity: .9;
-        transition: 400ms ease;
-    }
-
-    .section-item:hover {
-        opacity: 1;
-        transition: 200ms ease;
-    }
-</style>
 {{ end }}

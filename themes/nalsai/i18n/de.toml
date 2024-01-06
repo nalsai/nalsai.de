@@ -22,9 +22,6 @@ other = "von"
 [with]
 other = "mit"
 
-[tag]
-other = "Tag"
-
 [Pages]
 other = "Seiten"
 

@@ -22,9 +22,6 @@ other = "by"
 [with]
 other = "with"
 
-[tag]
-other = "tag"
-
 [Pages]
 other = "Pages"
 

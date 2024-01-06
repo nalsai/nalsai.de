@@ -81,3 +81,13 @@ body {
     display: inherit;
     vertical-align: 0.125em;
 }
+
+.hover-opacity {
+    opacity: .9;
+    transition: 300ms ease;
+}
+
+.hover-opacity:hover {
+    opacity: 1;
+    transition: 200ms ease;
+}
