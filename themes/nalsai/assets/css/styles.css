@@ -84,7 +84,7 @@ body {
 
 .hover-opacity {
     opacity: .9;
-    transition: 300ms ease;
+    transition: 400ms ease;
 }
 
 .hover-opacity:hover {
