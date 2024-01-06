@@ -3,7 +3,20 @@ title = "Goshuin Collection"
 
 +++
 
-<!-- TODO: upgrade to vue 3 -->
+<!--
+TODO: 
+- add masonry
+- add prefecture display
+- add filter by prefecture
+- sort by date
+- add information about goshuin
+- add collection information
+- add information how to add data
+- add collection statistics
+- add last updated date / latest goshuin date
+- add error handling
+- upgrade to vue 3
+-->
 <div id="app">
     <input type="text" v-model="searchQuery" placeholder="Search">
 </div>
@@ -56,12 +69,17 @@ title = "Goshuin Collection"
             <div class="row g-4">
                 <div v-for="goshuin in filteredGoshuins" class="col-sm-6 col-lg-4">
                     <div class="card">
-                        <img :src="'img/'+goshuin.image" :alt="goshuin.name" class="card-img-top">
+                        <img :src="'img/'+goshuin.image" :alt="goshuin.location + ' goshuin'" class="card-img-top">
                         <div class="card-body">
-                            <h2 class="card-title">{{ goshuin.type }}</h2>
-                            <p class="card-text"><strong>Date:</strong> {{ goshuin.date }}</p>
-                            <p class="card-text"><strong>Location:</strong> {{ goshuin.location }}</p>
-                            <p class="card-text"><strong>Notes:</strong> {{ goshuin.notes }}</p>
+                            <p class="card-title h4">{{ goshuin.location }}</p>
+                            <p class="card-text">
+                                <span v-if="typeof goshuin.locationDetails !== 'undefined'">
+                                    {{ goshuin.locationDetails }} <br>
+                                </span>
+                                <strong>Type:</strong> {{ goshuin.type }}<br>
+                                <strong>Date:</strong> {{ goshuin.date }}<br>
+                                <strong>Notes:</strong> {{ goshuin.notes }}
+                            </p>
                         </div>
                     </div>
                 </div>
