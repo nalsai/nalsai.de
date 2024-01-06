@@ -3,7 +3,7 @@ title = "Goshuin Collection"
 
 +++
 
-
+<!-- TODO: upgrade to vue 3 -->
 <div id="app">
     <input type="text" v-model="searchQuery" placeholder="Search">
 </div>
@@ -14,10 +14,10 @@ title = "Goshuin Collection"
         el: '#app',
         data: {
             goshuins: [],
-            searchQuery: ''
+            searchQuery: '',
+            type: 'all'
         },
         mounted() {
-            // Fetch your Goshuin data from a JSON file
             axios.get('data.json')
                 .then(response => {
                     this.goshuins = response.data.goshuins;
@@ -28,6 +28,13 @@ title = "Goshuin Collection"
         },
         computed: {
             filteredGoshuins() {
+                if (this.type === 'all') {
+                    return this.filteredGoshuinsStep1;
+                } else {
+                    return this.filteredGoshuinsStep1.filter(goshuin => goshuin.type === this.type);
+                }
+            },
+            filteredGoshuinsStep1() {
                 return this.goshuins.filter(goshuin => {
                     return goshuin.name.toLowerCase().includes(this.searchQuery.toLowerCase()) ||
                         goshuin.location.toLowerCase().includes(this.searchQuery.toLowerCase()) ||
@@ -38,6 +45,14 @@ title = "Goshuin Collection"
         template: `
         <div>
             <input class="form-control mb-4" type="text" v-model="searchQuery" placeholder="Search">
+            <div class="btn-group mb-4" role="group" aria-label="radio toggle button group for goshuin type">
+                <input type="radio" class="btn-check" name="vbtn-radio" id="vbtn-radio1" autocomplete="off" @click="type = 'all'" checked/>
+                <label class="btn btn-outline-primary" for="vbtn-radio1">All</label>
+                <input type="radio" class="btn-check" name="vbtn-radio" id="vbtn-radio2" autocomplete="off" @click="type = 'shrine'"/>
+                <label class="btn btn-outline-primary" for="vbtn-radio2">Shrines</label>
+                <input type="radio" class="btn-check" name="vbtn-radio" id="vbtn-radio3" autocomplete="off" @click="type = 'temple'"/>
+                <label class="btn btn-outline-primary" for="vbtn-radio3">Temples</label>
+            </div>
             <div class="row g-4">
                 <div v-for="goshuin in filteredGoshuins" class="col-sm-6 col-lg-4">
                     <div class="card">

@@ -1,7 +1,7 @@
 {
     "goshuins": [
         {
-            "type": 1,
+            "type": "shrine",
             "name": "fasfa",
             "image": "tower-daijingu-normal.png",
             "location": "Tokyo Tower: Tower Daijingu",
@@ -11,8 +11,8 @@
             "date": "2024-01-01"
         },
         {
-            "type": 2,
-            "name": "fasfa",
+            "type": "temple",
+            "name": "hfgd",
             "image": "tower-daijingu-normal.png",
             "location": "Tokyo Tower: Tower Daijingu",
             "location-details": "Main deck 2nd floor, official shop THE SKY",
