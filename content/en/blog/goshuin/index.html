@@ -50,9 +50,7 @@ TODO:
             filteredGoshuinsStep1() {
                 return this.goshuins.filter(goshuin => {
                     return goshuin.name.toLowerCase().includes(this.searchQuery.toLowerCase()) ||
-                        goshuin.location.toLowerCase().includes(this.searchQuery.toLowerCase()) ||
-                        goshuin.notes.toLowerCase().includes(this.searchQuery.toLowerCase());
-                });
+                        goshuin.location.toLowerCase().includes(this.searchQuery.toLowerCase());                });
             }
         },
         template: `

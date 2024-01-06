@@ -168,7 +168,7 @@
             "type": "temple",
             "name": "",
             "image": "",
-            "location": "Kiyomizu-dera: Hondo (清水寺 本堂)",
+            "location": "Kiyomizu-dera: Hondō (清水寺 本堂)",
             "locationDetails": "",
             "limited": "",
             "notes": "",
@@ -208,10 +208,10 @@
             "type": "shrine",
             "name": "",
             "image": "",
-            "location": "Asaakusa Jinja (浅草神社)",
+            "location": "Asakusa Jinja (浅草神社)",
             "locationDetails": "",
             "limited": "",
-            "notes": "",
+            "notes": "Was only available written directly into your book, with a long wait as there were many people in line.",
             "date": "2024-01-01"
         },
         {
@@ -221,7 +221,7 @@
             "location": "Tokyo Tower: Tower Daijingu (タワー大神宮)",
             "locationDetails": "Main deck 2nd floor, official shop THE SKY",
             "limited": "",
-            "notes": "",
+            "notes": "Only available pre-written",
             "date": "2024-01-01"
         },
         {
@@ -232,6 +232,7 @@
             "locationDetails": "Main deck 2nd floor, official shop THE SKY",
             "limited": "Winter Edition",
             "notes": "",
+            "notes": "Only available pre-written",
             "date": "2024-01-01"
         },
         {
@@ -242,6 +243,7 @@
             "locationDetails": "Main deck 2nd floor, official shop THE SKY",
             "limited": "New Year's Limited Goshuin (cutout) - Limited quantity",
             "notes": "",
+            "notes": "Only available pre-made",
             "date": "2024-01-01"
         },
         {
@@ -311,7 +313,7 @@
             "location": "Fushimi Inari Taisha (伏見稲荷大社)",
             "locationDetails": "",
             "limited": "Limited (Fall?) Goshuin",
-            "notes": "",
+            "notes": "Pre-made, too big to fit into a small Goshuin-chō",
             "date": "2023-12-"
         },
         {
