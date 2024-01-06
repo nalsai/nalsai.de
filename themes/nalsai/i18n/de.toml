@@ -27,3 +27,6 @@ other = "Seiten"
 
 [Language]
 other = "Sprache"
+
+[preview-image]
+other = "Vorschaubild"
