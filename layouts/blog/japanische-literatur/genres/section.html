@@ -16,11 +16,11 @@
     </div>
     <div class="row">
         <div class="col-lg-8 mx-auto">
-            <div class="border-bottom pt-4"></div>
+            <div class="border-bottom border-dark-subtle pt-4"></div>
             {{ range (where .Pages ".Params.unlisted" "!=" "true") }}
-            <a href="{{ .RelPermalink }}" class="text-decoration-none">
-                <div class="d-flex pt-3 mt-2 border-bottom">    
-                    <p class="pb-2 link-light">
+            <a href="{{ .RelPermalink }}" class="text-decoration-none hover-opacity">
+                <div class="d-flex py-4">    
+                    <p class="text-light m-0">
                         <strong class="text-white">
                             {{ .Title }}
                             {{ .Params.japanese }}
@@ -38,6 +38,7 @@
                     </p>
                 </div>
             </a>
+            <div class="border-bottom border-dark-subtle"></div>
             {{ end }}
         </div>
     </div>

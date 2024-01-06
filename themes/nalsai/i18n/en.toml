@@ -22,14 +22,11 @@ other = "by"
 [with]
 other = "with"
 
-[tag]
-other = "tag"
-
 [Pages]
 other = "Pages"
 
-[Published]
-other = "Published"
+[Language]
+other = "Language"
 
 [preview-image]
 other = "preview image"
