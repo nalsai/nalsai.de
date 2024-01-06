@@ -10,8 +10,6 @@ description = "(Most commands work on any platform, but some may require Bash an
   }
 </style>
 
----
-
 ## Table of Contents
 
 1. [Videos](#videos)
