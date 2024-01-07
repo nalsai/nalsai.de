@@ -4,9 +4,11 @@ date = 2024-01-06
 tags = ["Japan", "Goshuin"]
 +++
 
-High quality scan cropped to either 11:16 or 12:18 (= 2:3) aspect ratio (= the most common sizes of Goshuincho)
+High quality scan cropped to either 11:16 or 12:18 (= 2:3) aspect ratio (= the most common sizes of Goshuincho)  
 
 you can letterbox the image if you need to (add white bars to the top and bottom of the image to make it fit one of the aspect ratios).
+
+except for any special Goshuin (like two page Goshuin) with a different aspect ratio, in which case you should of course crop it to the aspect ratio of the Goshuin.
 
 data in the following format:
 

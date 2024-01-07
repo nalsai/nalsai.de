@@ -6,23 +6,25 @@ layout = "single"
 +++
 
 <!--
-TODO: 
-- add prefecture display
-- add filter by prefecture
-- sort by date
-- add information about goshuin
-- add collection information
-- add information how to add data
+TODO:
+- add prefecture display and filter
+
+- add/improve info
 - add collection statistics
 - add last updated date / latest goshuin date
-- add error handling
+
+- add more error handling
+- sort by date
 - upgrade to vue 3
 -->
 <a class="d-block" href="about/">About</a>
 <a class="d-block mb-4" href="instructions/">Instructions</a>
 
 <div id="app">
-    <input type="text" v-model="searchQuery" placeholder="Search">
+    <input type="text" v-model="searchQuery" placeholder="Search" class="d-none">
+    Loading...<br>
+    This site uses Vue.js and therefore needs JavaScript to be enabled in your browser.<br>
+    If you have JavaScript enabled and still see this message, please contact me.
 </div>
 <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
 <script src="https://unpkg.com/vue-masonry-css"></script>
@@ -62,15 +64,24 @@ TODO:
         },
         template: `
         <div>
-            <input class="form-control mb-4" type="text" v-model="searchQuery" placeholder="Search">
-            <div class="btn-group mb-4" role="group" aria-label="radio toggle button group for goshuin type">
-                <input type="radio" class="btn-check" name="vbtn-radio" id="vbtn-radio1" autocomplete="off" @click="type = 'all'" checked/>
-                <label class="btn btn-outline-primary" for="vbtn-radio1">All</label>
-                <input type="radio" class="btn-check" name="vbtn-radio" id="vbtn-radio2" autocomplete="off" @click="type = 'shrine'"/>
-                <label class="btn btn-outline-primary" for="vbtn-radio2">Shrines</label>
-                <input type="radio" class="btn-check" name="vbtn-radio" id="vbtn-radio3" autocomplete="off" @click="type = 'temple'"/>
-                <label class="btn btn-outline-primary" for="vbtn-radio3">Temples</label>
+            
+
+            <div class="row g-3">
+                <div class="col-sm">
+                    <input class="form-control" type="text" v-model="searchQuery" placeholder="Search">
+                </div>
+                <div class="col-sm-auto">
+                    <div class="btn-group mb-4" role="group" aria-label="radio toggle button group for goshuin type">
+                        <input type="radio" class="btn-check" name="btn-radio" id="btn-radio1" autocomplete="off" @click="type = 'all'" checked/>
+                        <label class="btn btn-outline-primary" for="btn-radio1">All</label>
+                        <input type="radio" class="btn-check" name="btn-radio" id="btn-radio2" autocomplete="off" @click="type = 'shrine'"/>
+                        <label class="btn btn-outline-primary" for="btn-radio2">Shrines</label>
+                        <input type="radio" class="btn-check" name="btn-radio" id="btn-radio3" autocomplete="off" @click="type = 'temple'"/>
+                        <label class="btn btn-outline-primary" for="btn-radio3">Temples</label>
+                    </div>
+                </div>
             </div>
+
             <masonry :cols="{default: 3, 991: 2, 575: 1}" :gutter="24">
                 <div v-for="goshuin in filteredGoshuins" class="card mb-4">
                     <img :src="'img/'+goshuin.image" :alt="goshuin.location + ' goshuin'" class="card-img-top aspect-{{ goshuin.imageAspectRatio }}">
@@ -80,11 +91,12 @@ TODO:
                             <span class="text-light">{{ goshuin.locationJp }}</span>
                         </p>
                         <p class="card-text">
-                            <span v-if="typeof goshuin.locationDetails !== 'undefined'">
-                                {{ goshuin.locationDetails }} <br>
-                            </span>
-                            <strong>Type:</strong> {{ goshuin.type }}<br>
-                            <strong>Date:</strong> {{ goshuin.date }}<br>
+                            <span class="text-capitalize">{{ goshuin.type }}</span>
+                            <span v-if="typeof goshuin.prefecture !== 'undefined'">in {{ goshuin.prefecture }} Prefecture</span><br>
+
+                            <span v-if="typeof goshuin.limited !== 'undefined'">{{ goshuin.limited }}<br></span>
+                            <span v-if="typeof goshuin.locationDetails !== 'undefined'">{{ goshuin.locationDetails }}<br></span>
+                            <strong>Visit Date:</strong> {{ goshuin.date }}<br>
                             <strong>Notes:</strong> {{ goshuin.notes }}
                         </p>
                     </div>

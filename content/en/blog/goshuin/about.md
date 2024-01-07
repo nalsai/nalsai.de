@@ -4,7 +4,7 @@ date = 2024-01-06
 tags = ["Japan", "Goshuin"]
 +++
 
-This website uses vue.js to be interactive and therefore need JavaScript to be enabled in your browser.
+This website uses Vue.js and therefore needs JavaScript to be enabled in your browser.
 
 # What is a Goshuin?
 
