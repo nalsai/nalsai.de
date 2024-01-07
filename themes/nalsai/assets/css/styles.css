@@ -35,9 +35,14 @@ body {
     width: fit-content;
 }
 
+.aspect-11-16 {
+    aspect-ratio: 16 / 11;
+}
+
 .aspect-2-3 {
     aspect-ratio: 2 / 3;
 }
+
 .aspect-4-3 {
     aspect-ratio: 4 / 3;
 }
