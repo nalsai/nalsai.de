@@ -6,7 +6,6 @@ tags = ["Japan", "Goshuin"]
 
 <!--
 TODO: 
-- add masonry
 - add prefecture display
 - add filter by prefecture
 - sort by date
@@ -22,6 +21,7 @@ TODO:
     <input type="text" v-model="searchQuery" placeholder="Search">
 </div>
 <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+<script src="https://unpkg.com/vue-masonry-css"></script>
 <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
 <script>
     new Vue({
@@ -65,21 +65,19 @@ TODO:
                 <input type="radio" class="btn-check" name="vbtn-radio" id="vbtn-radio3" autocomplete="off" @click="type = 'temple'"/>
                 <label class="btn btn-outline-primary" for="vbtn-radio3">Temples</label>
             </div>
-            <div class="row g-4">
-                <div v-for="goshuin in filteredGoshuins" class="col-sm-6 col-lg-4">
-                    <div class="card">
-                        <img :src="'img/'+goshuin.image" :alt="goshuin.location + ' goshuin'" class="card-img-top">
-                        <div class="card-body">
-                            <p class="card-title h4">{{ goshuin.location }}</p>
-                            <p class="card-text">
-                                <span v-if="typeof goshuin.locationDetails !== 'undefined'">
-                                    {{ goshuin.locationDetails }} <br>
-                                </span>
-                                <strong>Type:</strong> {{ goshuin.type }}<br>
-                                <strong>Date:</strong> {{ goshuin.date }}<br>
-                                <strong>Notes:</strong> {{ goshuin.notes }}
-                            </p>
-                        </div>
+            <masonry :cols="{default: 3, 991: 2, 575: 1}" :gutter="24">
+                <div v-for="goshuin in filteredGoshuins" class="card mb-4">
+                    <img :src="'img/'+goshuin.image" :alt="goshuin.location + ' goshuin'" class="card-img-top aspect-2-3">
+                    <div class="card-body">
+                        <p class="card-title h4">{{ goshuin.location }}</p>
+                        <p class="card-text">
+                            <span v-if="typeof goshuin.locationDetails !== 'undefined'">
+                                {{ goshuin.locationDetails }} <br>
+                            </span>
+                            <strong>Type:</strong> {{ goshuin.type }}<br>
+                            <strong>Date:</strong> {{ goshuin.date }}<br>
+                            <strong>Notes:</strong> {{ goshuin.notes }}
+                        </p>
                     </div>
                 </div>
             </div>
