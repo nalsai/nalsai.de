@@ -13,7 +13,7 @@
             "type": "shrine",
             "image": "2023-09-17_shiba-tosho-gu.jpg",
             "prefecture": "Tōkyō",
-            "location": "Shiba Tōshō-gū",
+            "location": "Shiba Tōshōgū",
             "locationJp": "芝東照宮",
             "notes": "shrine festival",
             "date": "2023-09-17"
@@ -166,6 +166,7 @@
         {
             "type": "temple",
             "image": "",
+            "prefecture": "",
             "location": "",
             "locationJp": "",
             "notes": "",
@@ -174,6 +175,7 @@
         {
             "type": "shrine",
             "image": "",
+            "prefecture": "",
             "location": "",
             "locationJp": "",
             "notes": "",
@@ -182,6 +184,7 @@
         {
             "type": "shrine",
             "image": "",
+            "prefecture": "",
             "location": "",
             "locationJp": "",
             "notes": "",
@@ -231,14 +234,16 @@
         {
             "type": "temple",
             "image": "",
-            "location": "Zōjō-ji (増上寺)",
-            "locationJp": "",
+            "prefecture": "Tōkyō",
+            "location": "Zōjō-ji",
+            "locationJp": "増上寺",
             "notes": "",
             "date": "2023--"
         },
         {
             "type": "temple",
             "image": "",
+            "prefecture": "",
             "location": "",
             "locationJp": "",
             "notes": "",
@@ -247,6 +252,7 @@
         {
             "type": "temple",
             "image": "",
+            "prefecture": "",
             "location": "",
             "locationJp": "",
             "notes": "",
@@ -255,6 +261,7 @@
         {
             "type": "temple",
             "image": "",
+            "prefecture": "",
             "location": "",
             "locationJp": "",
             "notes": "",
@@ -263,6 +270,7 @@
         {
             "type": "temple",
             "image": "",
+            "prefecture": "",
             "location": "",
             "locationJp": "",
             "notes": "",
@@ -271,6 +279,7 @@
         {
             "type": "temple",
             "image": "",
+            "prefecture": "",
             "location": "",
             "locationJp": "",
             "notes": "",
@@ -326,7 +335,7 @@
             "type": "shrine",
             "image": "",
             "prefecture": "Tōkyō",
-            "location": "Ueno Tōshō-gū",
+            "location": "Ueno Tōshōgū",
             "locationJp": "上野東照宮",
             "limited": "New Year's Limited vintage letterpress? style Goshuin",
             "notes": "This shrine closes at 16:30, which I'm somehow always just barely in time for. They also have a peony garden, which I'd like to visit if I'm ever there at the right time.",

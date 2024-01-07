@@ -7,13 +7,10 @@ layout = "single"
 
 <!--
 TODO:
+- add image viewer
 - add prefecture display and filter
-
 - add/improve info
 - add collection statistics
-- add last updated date / latest goshuin date
-
-- add more error handling
 - sort by date
 - upgrade to vue 3
 -->
@@ -44,7 +41,19 @@ TODO:
                 })
                 .catch(error => {
                     console.error('Error fetching Goshuin data:', error);
+                    // TODO: display error message to user
                 });
+        },
+        methods: {
+            normalizeString(str) {
+                return str.replace(/ō/g, 'o')
+                    .replace(/ū/g, 'u')
+                    .replace(/ou/g, 'o')
+                    .replace(/uu/g, 'u')
+                    .replace(/ /g, '')
+                    .replace(/-/g, '')
+                    .toLowerCase();
+            }
         },
         computed: {
             filteredGoshuins() {
@@ -56,16 +65,16 @@ TODO:
             },
             filteredGoshuinsStep1() {
                 return this.goshuins.filter(goshuin => {
-                    return goshuin.location.toLowerCase().includes(this.searchQuery.toLowerCase()) ||
-                        goshuin.locationJp.toLowerCase().includes(this.searchQuery.toLowerCase()) ||
-                        goshuin.image.toLowerCase().includes(this.searchQuery.toLowerCase());
+                    let normalizedSearchQuery = this.normalizeString(this.searchQuery);
+                    return this.normalizeString(goshuin.location).includes(normalizedSearchQuery) ||
+                        this.normalizeString(goshuin.prefecture).includes(normalizedSearchQuery) ||
+                        this.normalizeString(goshuin.locationJp).includes(normalizedSearchQuery) ||
+                        this.normalizeString(goshuin.date).includes(normalizedSearchQuery);
                 });
             }
         },
         template: `
         <div>
-            
-
             <div class="row g-3">
                 <div class="col-sm">
                     <input class="form-control" type="text" v-model="searchQuery" placeholder="Search">
