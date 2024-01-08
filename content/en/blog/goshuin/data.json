@@ -20,12 +20,12 @@
         },
         {
             "type": "shrine",
-            "image": "2023-09-_shiba-daijingu.jpg",
+            "image": "2023-09-17_shiba-daijingu.jpg",
             "prefecture": "Tōkyō",
             "location": "Shiba Daijingū",
             "locationJp": "芝大神宮",
             "notes": "shrine festival",
-            "date": "2023-09-TODO"
+            "date": "2023-09-17"
         },
         {
             "type": "shrine",
@@ -33,7 +33,6 @@
             "prefecture": "Tōkyō",
             "location": "Yasukuni Jinja",
             "locationJp": "靖国神社",
-            "notes": "",
             "date": "2023-09-19"
         },
         {
@@ -42,17 +41,15 @@
             "prefecture": "Tōkyō",
             "location": "Meiji Jinja",
             "locationJp": "明治神社",
-            "notes": "",
             "date": "2023-09-22"
         },
         {
-            "type": "shrine",
-            "image": "todo.jpg",
+            "type": "temple",
+            "image": "2023-09-22_toyokawa-inari-betsuin.jpg",
             "prefecture": "Tōkyō",
-            "location": "",
-            "locationJp": "",
-            "notes": "",
-            "date": "2023--"
+            "location": "Toyokawa Inari Betsuin",
+            "locationJp": "豊川稲荷東京別院",
+            "date": "2023-09-22"
         },
         {
             "type": "shrine",
@@ -65,7 +62,7 @@
         },
         {
             "type": "shrine",
-            "image": "",
+            "image": "2023-09-25_zeniarai-benten-ugafuku-jinja.jpg",
             "prefecture": "Kanagawa",
             "location": "Zeniarai Benten Ugafuku Jinja",
             "locationJp": "銭洗弁財天 宇賀福神社",
@@ -74,129 +71,117 @@
         },
         {
             "type": "shrine",
-            "image": "",
+            "image": "2023-09-25_tsurugaoka-hachimangu.jpg",
             "prefecture": "Kanagawa",
             "location": "Tsurugaoka Hachimangū",
             "locationJp": "鶴岡八幡宮",
-            "notes": "",
             "date": "2023-09-25"
         },
         {
             "type": "shrine",
-            "image": "",
+            "image": "2023-10-24_tsubaki-okamiyashiro.jpg",
             "prefecture": "Mie",
             "location": "Tsubaki Ōkamiyashiro",
             "locationJp": "椿大神社",
-            "notes": "",
             "date": "2023-10-24"
         },
         {
             "type": "shrine",
-            "image": "",
+            "image": "2023-11-07_motoori-norinaga-no-miya.jpg",
             "prefecture": "Mie",
             "location": "Motoori Norinaga No Miya",
             "locationJp": "本居宣長ノ宮",
-            "notes": "",
             "date": "2023-11-07"
         },
         {
             "type": "shrine",
-            "image": "",
+            "image": "2023-11-24_kotai-jingu-ise-jingu-naiku.jpg",
             "prefecture": "Mie",
             "location": "Kōtai Jingū (Ise Jingū Naiku)",
             "locationJp": "皇大神宮(伊勢神宮 内宮)",
-            "notes": "",
-            "date": "2023--"
+            "date": "2023-11-24"
         },
         {
             "type": "shrine",
-            "image": "",
+            "image": "2023-12-23_nonomiya-jinja.jpg",
             "prefecture": "Kyōto",
             "location": "Nonomiya Jinja",
             "locationJp": "野宮神社",
-            "notes": "",
-            "date": "2023--"
-        },
-        {
-            "type": "shrine",
-            "image": "",
-            "prefecture": "Kyōto",
-            "location": "Ichitani Munakata Jinja",
-            "locationJp": "櫟谷宗像神社",
-            "notes": "",
             "date": "2023-12-23"
         },
         {
             "type": "shrine",
-            "image": "",
+            "image": "2023-12-23_ichitani-munakata-jinja.jpg",
+            "prefecture": "Kyōto",
+            "location": "Ichitani Munakata Jinja",
+            "locationJp": "櫟谷宗像神社",
+            "date": "2023-12-23"
+        },
+        {
+            "type": "shrine",
+            "image": "2023-12-23_heian-jinja.jpg",
             "prefecture": "Kyōto",
             "location": "Heian Jinja",
             "locationJp": "平安神宮",
             "limited": "Special NAKED YORU MO-DE (nighttime illumination and projection mapping showcase event in December) 2023 Goshuin",
-            "notes": "",
-            "date": "2023-12-23?"
+            "date": "2023-12-23"
         },
         {
             "type": "shrine",
-            "image": "",
+            "image": "2023-12-26_himuro-jinja.jpg",
             "prefecture": "Kyōto",
-            "location": "",
-            "locationJp": "",
-            "notes": "",
-            "date": "2023-12-"
+            "location": "Himuro Jinja",
+            "locationJp": "氷室神社",
+            "date": "2023-12-26"
         },
         {
             "type": "shrine",
-            "image": "",
+            "image": "2023-12-26_hokoku-jinja.jpg",
             "prefecture": "Kyōto",
-            "location": "Hōkoku jinja",
+            "location": "Hōkoku Jinja",
             "locationJp": "豊國神社",
-            "notes": "",
             "date": "2023-12-26"
         },
         {
             "type": "temple",
-            "image": "",
+            "image": "2023-12-27_kiyomizu-dera-hondo.jpg",
             "prefecture": "Kyōto",
             "location": "Kiyomizu-dera: Hondō",
             "locationJp": "清水寺 本堂",
-            "notes": "",
-            "date": "2023-12-"
+            "date": "2023-12-27"
         },
         {
             "type": "temple",
-            "image": "",
-            "prefecture": "",
-            "location": "",
-            "locationJp": "",
-            "notes": "",
-            "date": "2023-12-"
+            "image": "2023-12-27_konkai-komyo-ji.jpg",
+            "prefecture": "Kyōto",
+            "location": "Konkai Kōmyō-ji",
+            "locationJp": "金戒光明寺",
+            "date": "2023-12-27"
         },
         {
             "type": "shrine",
-            "image": "",
-            "prefecture": "",
-            "location": "",
-            "locationJp": "",
-            "notes": "",
-            "date": "2023-12-"
+            "image": "2024-01-01_zojo-ji.jpg",
+            "prefecture": "Tōkyō",
+            "location": "Zōjō-ji",
+            "locationJp": "増上寺",
+            "date": "2024-01-01"
         },
         {
             "type": "shrine",
-            "image": "",
-            "prefecture": "",
-            "location": "",
-            "locationJp": "",
-            "notes": "",
-            "date": "2023-12-"
+            "image": "2025-01-01_senso-ji_daikokuten.jpg",
+            "prefecture": "Tōkyō",
+            "location": "Sensō-ji",
+            "locationJp": "浅草寺",
+            "notes": "Daikokuten Goshuin",
+            "date": "2025-01-01"
         },
         {
             "type": "shrine",
-            "image": "",
+            "image": "2024-01-01_asakusa-jinja.jpg",
             "prefecture": "Tōkyō",
             "location": "Asakusa Jinja",
             "locationJp": "浅草神社",
-            "notes": "Was only available written directly into your book, with a long wait as there were many people in line.",
+            "notes": "Special New Year's Goshuin, only available written directly into your Goshuinchō",
             "date": "2024-01-01"
         },
         {
@@ -211,7 +196,7 @@
         },
         {
             "type": "shrine",
-            "image": "tower-daijingu-winter.png",
+            "image": "2024-01-01_tower-daijingu-winter.jpg",
             "prefecture": "Tōkyō",
             "location": "Tokyo Tower: Tower Daijingū",
             "locationJp": "タワー大神宮",

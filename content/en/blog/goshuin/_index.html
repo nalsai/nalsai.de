@@ -106,7 +106,7 @@ TODO:
                             <span v-if="typeof goshuin.limited !== 'undefined'">{{ goshuin.limited }}<br></span>
                             <span v-if="typeof goshuin.locationDetails !== 'undefined'">{{ goshuin.locationDetails }}<br></span>
                             <strong>Visit Date:</strong> {{ goshuin.date }}<br>
-                            <strong>Notes:</strong> {{ goshuin.notes }}
+                            <span v-if="typeof goshuin.notes !== 'undefined'"><strong>Notes:</strong> {{ goshuin.notes }}</span>
                         </p>
                     </div>
                 </div>
