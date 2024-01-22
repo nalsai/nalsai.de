@@ -46,13 +46,15 @@ TODO:
         },
         methods: {
             normalizeString(str) {
-                return str.replace(/ō/g, 'o')
+                return str.toLowerCase()
+                    .replace(/ō/g, 'o')
                     .replace(/ū/g, 'u')
                     .replace(/ou/g, 'o')
+                    .replace(/oo/g, 'o')
                     .replace(/uu/g, 'u')
+                    .replace(/tsu/g, 'tu')
                     .replace(/ /g, '')
-                    .replace(/-/g, '')
-                    .toLowerCase();
+                    .replace(/-/g, '');
             }
         },
         computed: {
