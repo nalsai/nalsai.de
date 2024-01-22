@@ -81,7 +81,7 @@
             "type": "shrine",
             "image": "2023-10-24_tsubaki-okamiyashiro.jpg",
             "prefecture": "Mie",
-            "location": "Tsubaki Ōkamiyashiro",
+            "location": "Tsubaki Ōkami Yashiro",
             "locationJp": "椿大神社",
             "date": "2023-10-24"
         },
@@ -159,7 +159,7 @@
             "date": "2023-12-27"
         },
         {
-            "type": "shrine",
+            "type": "temple",
             "image": "2024-01-01_zojo-ji.jpg",
             "prefecture": "Tōkyō",
             "location": "Zōjō-ji",
@@ -167,13 +167,13 @@
             "date": "2024-01-01"
         },
         {
-            "type": "shrine",
-            "image": "2025-01-01_senso-ji_daikokuten.jpg",
+            "type": "temple",
+            "image": "2024-01-01_senso-ji_daikokuten.jpg",
             "prefecture": "Tōkyō",
             "location": "Sensō-ji",
             "locationJp": "浅草寺",
             "notes": "Daikokuten Goshuin",
-            "date": "2025-01-01"
+            "date": "2024-01-01"
         },
         {
             "type": "shrine",
@@ -188,7 +188,7 @@
             "type": "shrine",
             "image": "tower-daijingu-normal.png",
             "prefecture": "Tōkyō",
-            "location": "Tokyo Tower: Tower Daijingū",
+            "location": "Tōkyō Tower: Tower Daijingū",
             "locationJp": "タワー大神宮",
             "locationDetails": "Main deck 2nd floor, official shop THE SKY",
             "notes": "Only available pre-written",
@@ -198,7 +198,7 @@
             "type": "shrine",
             "image": "2024-01-01_tower-daijingu-winter.jpg",
             "prefecture": "Tōkyō",
-            "location": "Tokyo Tower: Tower Daijingū",
+            "location": "Tōkyō Tower: Tower Daijingū",
             "locationJp": "タワー大神宮",
             "locationDetails": "Main deck 2nd floor, official shop THE SKY",
             "limited": "Winter Edition",
@@ -209,7 +209,7 @@
             "type": "shrine",
             "image": "tower-daijingu-new-year.png",
             "prefecture": "Tōkyō",
-            "location": "Tokyo Tower: Tower Daijingū",
+            "location": "Tōkyō Tower: Tower Daijingū",
             "locationJp": "タワー大神宮",
             "locationDetails": "Main deck 2nd floor, official shop THE SKY",
             "limited": "New Year's Limited Goshuin (cutout) - Limited quantity",
@@ -245,40 +245,40 @@
         },
         {
             "type": "temple",
-            "image": "",
-            "prefecture": "",
-            "location": "",
-            "locationJp": "",
+            "image": "2023-09-25_kotoku-in.jpg",
+            "prefecture": "Kanagawa",
+            "location": "Kōtoku-in",
+            "locationJp": "高徳院",
             "notes": "",
-            "date": "2023--"
+            "date": "2023-09-25"
         },
         {
             "type": "temple",
-            "image": "",
-            "prefecture": "",
-            "location": "",
-            "locationJp": "",
+            "image": "2023-12-23_tenryu-ji.jpg",
+            "prefecture": "Kyōto",
+            "location": "Tenryu-ji",
+            "locationJp": "天龍寺",
             "notes": "",
-            "date": "2023--"
+            "date": "2023-12-23"
         },
         {
             "type": "temple",
-            "image": "",
-            "prefecture": "",
-            "location": "",
-            "locationJp": "",
+            "image": "2023-12-25_todai-ji.jpg",
+            "prefecture": "Nara",
+            "location": "Tōdai-ji",
+            "locationJp": "東大寺",
             "notes": "",
-            "date": "2023--"
+            "date": "2023-12-25?"
         },
         {
             "type": "shrine",
-            "image": "",
+            "image": "2023-12-24_fushimi-inari-taisha.jpg",
             "prefecture": "Kyōto",
             "location": "Fushimi Inari Taisha",
             "locationJp": "伏見稲荷大社",
             "limited": "Limited (Fall?) Goshuin",
             "notes": "Pre-made, too big to fit into a small Goshuin-chō",
-            "date": "2023-12-"
+            "date": "2023-12-24"
         },
         {
             "type": "shrine",
@@ -293,19 +293,10 @@
             "type": "temple",
             "image": "",
             "prefecture": "Tōkyō",
-            "location": "",
-            "locationJp": "",
-            "notes": "",
-            "date": "2023-01-03"
-        },
-        {
-            "type": "shrine",
-            "image": "",
-            "prefecture": "Tōkyō",
             "location": "Shinobazunoike Benten-dō",
             "locationJp": "不忍池辯天堂",
             "notes": "Benzaiten Goshuin (There is also a Daikokuten Goshuin)",
-            "date": "2023-01-03"
+            "date": "2024-01-03"
         },
         {
             "type": "shrine",
@@ -314,7 +305,7 @@
             "location": "Gojōten Jinja",
             "locationJp": "五條天神社",
             "notes": "",
-            "date": "2023-01-03"
+            "date": "2024-01-03"
         },
         {
             "type": "shrine",
@@ -324,7 +315,89 @@
             "locationJp": "上野東照宮",
             "limited": "New Year's Limited vintage letterpress? style Goshuin",
             "notes": "This shrine closes at 16:30, which I'm somehow always just barely in time for. They also have a peony garden, which I'd like to visit if I'm ever there at the right time.",
-            "date": "2023-01-03"
+            "date": "2024-01-03"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-01-11_tokyo-daijingu.jpg",
+            "prefecture": "Tōkyō",
+            "location": "Tōkyō Daijingu",
+            "locationJp": "東京大神宮",
+            "limited": "",
+            "notes": "",
+            "date": "2024-01-11"
+        },
+        {
+            "type": "temple",
+            "image": "2024-01-11_daikeizan-gotoku-ji.jpg",
+            "prefecture": "Tōkyō",
+            "location": "Daikeizan Gōtoku-ji",
+            "locationJp": "大谿山 豪徳寺",
+            "limited": "",
+            "notes": "",
+            "date": "2024-01-11"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-01-11_tobiki-inari-jinja.jpg",
+            "prefecture": "Tōkyō",
+            "location": "Tobiki Inari Jinja",
+            "locationJp": "飛木稲荷神社",
+            "limited": "",
+            "notes": "",
+            "date": "2024-01-11"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-01-11_takagi-jinja.jpg",
+            "prefecture": "Tōkyō",
+            "location": "Takagi Jinja",
+            "locationJp": "高木神社",
+            "limited": "",
+            "notes": "",
+            "date": "2024-01-11"
+        },
+        {
+            "type": "temple",
+            "image": "2024-01-11_narita-san-shinsho-ji.jpg",
+            "prefecture": "Chiba",
+            "location": "Naritasan Shinshō-ji",
+            "locationJp": "成田山 新勝寺",
+            "limited": "",
+            "notes": "Gohonzon Fudō Myōō Goshuin",
+            "date": "2024-01-11"
+        },
+
+        
+        {
+            "type": "shrine",
+            "image": "2024-01-11_tateishi-kumano-jinja_ichigatsu.jpg",
+            "prefecture": "Tōkyō",
+            "location": "Tateishi Kumano Jinja",
+            "locationJp": "五方山熊野神社",
+            "limited": "January Goshuin",
+            "notes": "",
+            "date": "2024-01-11"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-01-11_tateishi-kumano-jinja_shingetsu.png",
+            "prefecture": "Tōkyō",
+            "location": "Tateishi Kumano Jinja",
+            "locationJp": "五方山熊野神社",
+            "limited": "Shingetsu (New Moon) Goshuin",
+            "notes": "",
+            "date": "2024-01-11"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-01-13_suga-jinja.jpg",
+            "prefecture": "Tōkyō",
+            "location": "Suga Jinja",
+            "locationJp": "須賀神社",
+            "limited": "",
+            "notes": "",
+            "date": "2024-01-13"
         }
     ]
 }
