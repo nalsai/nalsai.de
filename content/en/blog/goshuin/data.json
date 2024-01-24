@@ -223,25 +223,25 @@
             "location": "Zōjō-ji",
             "locationJp": "増上寺",
             "notes": "",
-            "date": "2023--"
+            "date": "2023-09-1?"
         },
         {
             "type": "temple",
             "image": "",
-            "prefecture": "",
-            "location": "",
-            "locationJp": "",
+            "prefecture": "Tōkyō",
+            "location": "Sengaku-ji",
+            "locationJp": "泉岳寺",
             "notes": "",
-            "date": "2023--19"
+            "date": "2023-09-19"
         },
         {
             "type": "temple",
-            "image": "",
-            "prefecture": "",
-            "location": "",
-            "locationJp": "",
+            "image": "2023-09-25_hase-dera.jpg",
+            "prefecture": "Kanagawa",
+            "location": "Hase-dera",
+            "locationJp": "長谷寺",
             "notes": "",
-            "date": "2023--"
+            "date": "2023-09-25"
         },
         {
             "type": "temple",
@@ -268,21 +268,21 @@
             "location": "Tōdai-ji",
             "locationJp": "東大寺",
             "notes": "",
-            "date": "2023-12-25?"
+            "date": "2023-12-25"
         },
         {
             "type": "shrine",
-            "image": "2023-12-24_fushimi-inari-taisha.jpg",
+            "image": "2023-12-24_fushimi-inari-taisha_12gatsu.jpg",
             "prefecture": "Kyōto",
             "location": "Fushimi Inari Taisha",
             "locationJp": "伏見稲荷大社",
-            "limited": "Limited (Fall?) Goshuin",
+            "limited": "Limited December Goshuin",
             "notes": "Pre-made, too big to fit into a small Goshuin-chō",
             "date": "2023-12-24"
         },
         {
             "type": "shrine",
-            "image": "",
+            "image": "2024-01-03_hie-jinja.jpg",
             "prefecture": "Tōkyō",
             "location": "Hie Jinja",
             "locationJp": "日枝神社",
@@ -291,7 +291,7 @@
         },
         {
             "type": "temple",
-            "image": "",
+            "image": "2024-01-03_shinobazunoike-benten-do_benzaiten.jpg",
             "prefecture": "Tōkyō",
             "location": "Shinobazunoike Benten-dō",
             "locationJp": "不忍池辯天堂",
@@ -300,7 +300,7 @@
         },
         {
             "type": "shrine",
-            "image": "",
+            "image": "2024-01-03_gojoten-jinja.jpg",
             "prefecture": "Tōkyō",
             "location": "Gojōten Jinja",
             "locationJp": "五條天神社",
@@ -309,11 +309,11 @@
         },
         {
             "type": "shrine",
-            "image": "",
+            "image": "2024-01-03_ueno-toshogu_oshogatsu.jpg",
             "prefecture": "Tōkyō",
             "location": "Ueno Tōshōgū",
             "locationJp": "上野東照宮",
-            "limited": "New Year's Limited vintage letterpress? style Goshuin",
+            "limited": "New Year's Limited vintage letterpress Goshuin",
             "notes": "This shrine closes at 16:30, which I'm somehow always just barely in time for. They also have a peony garden, which I'd like to visit if I'm ever there at the right time.",
             "date": "2024-01-03"
         },
@@ -371,7 +371,7 @@
         
         {
             "type": "shrine",
-            "image": "2024-01-11_tateishi-kumano-jinja_ichigatsu.jpg",
+            "image": "2024-01-11_tateishi-kumano-jinja_1gatsu.jpg",
             "prefecture": "Tōkyō",
             "location": "Tateishi Kumano Jinja",
             "locationJp": "五方山熊野神社",
