@@ -6,7 +6,7 @@
             "prefecture": "Tōkyō",
             "location": "Konnō Hachimangū",
             "locationJp": "金王八幡宮",
-            "notes": "reitaisai (shrine festival)",
+            "notes": "Shrine festival",
             "date": "2023-09-16"
         },
         {
@@ -15,7 +15,7 @@
             "prefecture": "Tōkyō",
             "location": "Shiba Tōshōgū",
             "locationJp": "芝東照宮",
-            "notes": "shrine festival",
+            "notes": "Shrine festival",
             "date": "2023-09-17"
         },
         {
@@ -24,7 +24,7 @@
             "prefecture": "Tōkyō",
             "location": "Shiba Daijingū",
             "locationJp": "芝大神宮",
-            "notes": "shrine festival",
+            "notes": "Shrine festival",
             "date": "2023-09-17"
         },
         {
@@ -57,8 +57,8 @@
             "prefecture": "Tōkyō",
             "location": "Tateishi Kumano Jinja",
             "locationJp": "五方山熊野神社",
-            "notes": "There was a Touhou Project collaboration going on at the time",
-            "date": "2023-09-"
+            "notes": "There was a Touhou Project collaboration",
+            "date": "2023-09-??"
         },
         {
             "type": "shrine",
@@ -123,7 +123,7 @@
             "prefecture": "Kyōto",
             "location": "Heian Jinja",
             "locationJp": "平安神宮",
-            "limited": "Special NAKED YORU MO-DE (nighttime illumination and projection mapping showcase event in December) 2023 Goshuin",
+            "notes": "Special NAKED YORU MO-DE 2023 Goshuin",
             "date": "2023-12-23"
         },
         {
@@ -181,7 +181,7 @@
             "prefecture": "Tōkyō",
             "location": "Asakusa Jinja",
             "locationJp": "浅草神社",
-            "notes": "Special New Year's Goshuin, only available written directly into your Goshuinchō",
+            "notes": "Special New Year's Goshuin; Only written directly into your Goshuinchō",
             "date": "2024-01-01"
         },
         {
@@ -201,8 +201,7 @@
             "location": "Tōkyō Tower: Tower Daijingū",
             "locationJp": "タワー大神宮",
             "locationDetails": "Main deck 2nd floor, official shop THE SKY",
-            "limited": "Winter Edition",
-            "notes": "Only available pre-written",
+            "notes": "Winter Edition; Only available pre-written",
             "date": "2024-01-01"
         },
         {
@@ -212,8 +211,7 @@
             "location": "Tōkyō Tower: Tower Daijingū",
             "locationJp": "タワー大神宮",
             "locationDetails": "Main deck 2nd floor, official shop THE SKY",
-            "limited": "New Year's Limited Goshuin (cutout) - Limited quantity",
-            "notes": "Only available pre-made",
+            "notes": "New Year's Limited Goshuin (cutout); Pre-made",
             "date": "2024-01-01"
         },
         {
@@ -222,7 +220,6 @@
             "prefecture": "Tōkyō",
             "location": "Zōjō-ji",
             "locationJp": "増上寺",
-            "notes": "",
             "date": "2023-09-1?"
         },
         {
@@ -231,7 +228,6 @@
             "prefecture": "Tōkyō",
             "location": "Sengaku-ji",
             "locationJp": "泉岳寺",
-            "notes": "",
             "date": "2023-09-19"
         },
         {
@@ -240,7 +236,6 @@
             "prefecture": "Kanagawa",
             "location": "Hase-dera",
             "locationJp": "長谷寺",
-            "notes": "",
             "date": "2023-09-25"
         },
         {
@@ -249,7 +244,6 @@
             "prefecture": "Kanagawa",
             "location": "Kōtoku-in",
             "locationJp": "高徳院",
-            "notes": "",
             "date": "2023-09-25"
         },
         {
@@ -258,7 +252,6 @@
             "prefecture": "Kyōto",
             "location": "Tenryu-ji",
             "locationJp": "天龍寺",
-            "notes": "",
             "date": "2023-12-23"
         },
         {
@@ -267,7 +260,6 @@
             "prefecture": "Nara",
             "location": "Tōdai-ji",
             "locationJp": "東大寺",
-            "notes": "",
             "date": "2023-12-25"
         },
         {
@@ -276,8 +268,7 @@
             "prefecture": "Kyōto",
             "location": "Fushimi Inari Taisha",
             "locationJp": "伏見稲荷大社",
-            "limited": "Limited December Goshuin",
-            "notes": "Pre-made, too big to fit into a small Goshuin-chō",
+            "notes": "December Goshuin; Pre-made; Too big for a small Goshuin-chō",
             "date": "2023-12-24"
         },
         {
@@ -286,7 +277,6 @@
             "prefecture": "Tōkyō",
             "location": "Hie Jinja",
             "locationJp": "日枝神社",
-            "notes": "",
             "date": "2024-01-03"
         },
         {
@@ -304,7 +294,6 @@
             "prefecture": "Tōkyō",
             "location": "Gojōten Jinja",
             "locationJp": "五條天神社",
-            "notes": "",
             "date": "2024-01-03"
         },
         {
@@ -313,8 +302,7 @@
             "prefecture": "Tōkyō",
             "location": "Ueno Tōshōgū",
             "locationJp": "上野東照宮",
-            "limited": "New Year's Limited vintage letterpress Goshuin",
-            "notes": "This shrine closes at 16:30, which I'm somehow always just barely in time for. They also have a peony garden, which I'd like to visit if I'm ever there at the right time.",
+            "notes": "New Year's Limited Vintage Letterpress Goshuin",
             "date": "2024-01-03"
         },
         {
@@ -323,8 +311,6 @@
             "prefecture": "Tōkyō",
             "location": "Tōkyō Daijingu",
             "locationJp": "東京大神宮",
-            "limited": "",
-            "notes": "",
             "date": "2024-01-11"
         },
         {
@@ -333,8 +319,6 @@
             "prefecture": "Tōkyō",
             "location": "Daikeizan Gōtoku-ji",
             "locationJp": "大谿山 豪徳寺",
-            "limited": "",
-            "notes": "",
             "date": "2024-01-11"
         },
         {
@@ -343,8 +327,6 @@
             "prefecture": "Tōkyō",
             "location": "Tobiki Inari Jinja",
             "locationJp": "飛木稲荷神社",
-            "limited": "",
-            "notes": "",
             "date": "2024-01-11"
         },
         {
@@ -353,8 +335,6 @@
             "prefecture": "Tōkyō",
             "location": "Takagi Jinja",
             "locationJp": "高木神社",
-            "limited": "",
-            "notes": "",
             "date": "2024-01-11"
         },
         {
@@ -363,7 +343,6 @@
             "prefecture": "Chiba",
             "location": "Naritasan Shinshō-ji",
             "locationJp": "成田山 新勝寺",
-            "limited": "",
             "notes": "Gohonzon Fudō Myōō Goshuin",
             "date": "2024-01-11"
         },
@@ -375,8 +354,7 @@
             "prefecture": "Tōkyō",
             "location": "Tateishi Kumano Jinja",
             "locationJp": "五方山熊野神社",
-            "limited": "January Goshuin",
-            "notes": "",
+            "notes": "January Goshuin",
             "date": "2024-01-11"
         },
         {
@@ -385,8 +363,7 @@
             "prefecture": "Tōkyō",
             "location": "Tateishi Kumano Jinja",
             "locationJp": "五方山熊野神社",
-            "limited": "Shingetsu (New Moon) Goshuin",
-            "notes": "",
+            "notes": "Shingetsu (New Moon) Goshuin",
             "date": "2024-01-11"
         },
         {
@@ -395,8 +372,6 @@
             "prefecture": "Tōkyō",
             "location": "Suga Jinja",
             "locationJp": "須賀神社",
-            "limited": "",
-            "notes": "",
             "date": "2024-01-13"
         }
     ]
