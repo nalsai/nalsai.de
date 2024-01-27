@@ -24,7 +24,6 @@ TODO:
     If you have JavaScript enabled and still see this message, please contact me.
 </div>
 <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
-<script src="https://unpkg.com/vue-masonry-css"></script>
 <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
 <script>
     new Vue({
@@ -92,11 +91,11 @@ TODO:
                     </div>
                 </div>
             </div>
-
-            <masonry :cols="{default: 3, 991: 2, 575: 1}" :gutter="24">
-                <div v-for="goshuin in filteredGoshuins" class="card mb-4">
-                    <img :src="'img/'+goshuin.image" :alt="goshuin.location + ' goshuin'" class="card-img-top aspect-{{ goshuin.imageAspectRatio }}">
-                    <div class="card-body">
+            <div class="row g-4">
+                <div v-for="goshuin in filteredGoshuins" class="col-sm-6 col-lg-4">
+                    <div class="card">
+                        <img :src="'img/'+goshuin.image" :alt="goshuin.location + ' goshuin'" class="card-img-top">
+                        <div class="card-body">
                         <p class="card-title">
                             <span class="h4 d-block">{{ goshuin.location }}</span>
                             <span class="text-light">{{ goshuin.locationJp }}</span>
@@ -105,11 +104,11 @@ TODO:
                             <span class="text-capitalize">{{ goshuin.type }}</span>
                             <span v-if="typeof goshuin.prefecture !== 'undefined'">in {{ goshuin.prefecture }} Prefecture</span><br>
 
-                            <span v-if="typeof goshuin.limited !== 'undefined'">{{ goshuin.limited }}<br></span>
                             <span v-if="typeof goshuin.locationDetails !== 'undefined'">{{ goshuin.locationDetails }}<br></span>
                             <strong>Visit Date:</strong> {{ goshuin.date }}<br>
                             <span v-if="typeof goshuin.notes !== 'undefined'"><strong>Notes:</strong> {{ goshuin.notes }}</span>
                         </p>
+                        </div>
                     </div>
                 </div>
             </div>
