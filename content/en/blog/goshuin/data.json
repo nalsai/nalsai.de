@@ -28,11 +28,27 @@
             "date": "2023-09-17"
         },
         {
+            "type": "temple",
+            "image": "2023-09-17_zojo-ji.jpg",
+            "prefecture": "Tōkyō",
+            "location": "Zōjō-ji",
+            "locationJp": "増上寺",
+            "date": "2023-09-17"
+        },
+        {
             "type": "shrine",
             "image": "2023-09-19_yasukuni-jinja.jpg",
             "prefecture": "Tōkyō",
             "location": "Yasukuni Jinja",
             "locationJp": "靖国神社",
+            "date": "2023-09-19"
+        },
+        {
+            "type": "temple",
+            "image": "2023-09-19_sengaku-ji.jpg",
+            "prefecture": "Tōkyō",
+            "location": "Sengaku-ji",
+            "locationJp": "泉岳寺",
             "date": "2023-09-19"
         },
         {
@@ -58,7 +74,23 @@
             "location": "Tateishi Kumano Jinja",
             "locationJp": "五方山熊野神社",
             "notes": "There was a Touhou Project collaboration",
-            "date": "2023-09-??"
+            "date": "2023-09-24"
+        },
+        {
+            "type": "temple",
+            "image": "2023-09-25_hase-dera.jpg",
+            "prefecture": "Kanagawa",
+            "location": "Hase-dera",
+            "locationJp": "長谷寺",
+            "date": "2023-09-25"
+        },
+        {
+            "type": "temple",
+            "image": "2023-09-25_kotoku-in.jpg",
+            "prefecture": "Kanagawa",
+            "location": "Kōtoku-in",
+            "locationJp": "高徳院",
+            "date": "2023-09-25"
         },
         {
             "type": "shrine",
@@ -125,6 +157,31 @@
             "locationJp": "平安神宮",
             "notes": "Special NAKED YORU MO-DE 2023 Goshuin",
             "date": "2023-12-23"
+        },
+        {
+            "type": "temple",
+            "image": "2023-12-23_tenryu-ji.jpg",
+            "prefecture": "Kyōto",
+            "location": "Tenryu-ji",
+            "locationJp": "天龍寺",
+            "date": "2023-12-23"
+        },
+        {
+            "type": "shrine",
+            "image": "2023-12-24_fushimi-inari-taisha_12gatsu.jpg",
+            "prefecture": "Kyōto",
+            "location": "Fushimi Inari Taisha",
+            "locationJp": "伏見稲荷大社",
+            "notes": "December Goshuin; Pre-made; Too big for a small Goshuin-chō",
+            "date": "2023-12-24"
+        },
+        {
+            "type": "temple",
+            "image": "2023-12-25_todai-ji.jpg",
+            "prefecture": "Nara",
+            "location": "Tōdai-ji",
+            "locationJp": "東大寺",
+            "date": "2023-12-25"
         },
         {
             "type": "shrine",
@@ -213,63 +270,6 @@
             "locationDetails": "Main deck 2nd floor, official shop THE SKY",
             "notes": "New Year's Limited Goshuin (cutout); Pre-made",
             "date": "2024-01-01"
-        },
-        {
-            "type": "temple",
-            "image": "2023-09-1__zojo-ji.jpg",
-            "prefecture": "Tōkyō",
-            "location": "Zōjō-ji",
-            "locationJp": "増上寺",
-            "date": "2023-09-1?"
-        },
-        {
-            "type": "temple",
-            "image": "2023-09-19_sengaku-ji.jpg",
-            "prefecture": "Tōkyō",
-            "location": "Sengaku-ji",
-            "locationJp": "泉岳寺",
-            "date": "2023-09-19"
-        },
-        {
-            "type": "temple",
-            "image": "2023-09-25_hase-dera.jpg",
-            "prefecture": "Kanagawa",
-            "location": "Hase-dera",
-            "locationJp": "長谷寺",
-            "date": "2023-09-25"
-        },
-        {
-            "type": "temple",
-            "image": "2023-09-25_kotoku-in.jpg",
-            "prefecture": "Kanagawa",
-            "location": "Kōtoku-in",
-            "locationJp": "高徳院",
-            "date": "2023-09-25"
-        },
-        {
-            "type": "temple",
-            "image": "2023-12-23_tenryu-ji.jpg",
-            "prefecture": "Kyōto",
-            "location": "Tenryu-ji",
-            "locationJp": "天龍寺",
-            "date": "2023-12-23"
-        },
-        {
-            "type": "temple",
-            "image": "2023-12-25_todai-ji.jpg",
-            "prefecture": "Nara",
-            "location": "Tōdai-ji",
-            "locationJp": "東大寺",
-            "date": "2023-12-25"
-        },
-        {
-            "type": "shrine",
-            "image": "2023-12-24_fushimi-inari-taisha_12gatsu.jpg",
-            "prefecture": "Kyōto",
-            "location": "Fushimi Inari Taisha",
-            "locationJp": "伏見稲荷大社",
-            "notes": "December Goshuin; Pre-made; Too big for a small Goshuin-chō",
-            "date": "2023-12-24"
         },
         {
             "type": "shrine",
