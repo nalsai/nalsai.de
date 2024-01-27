@@ -218,7 +218,7 @@
         },
         {
             "type": "temple",
-            "image": "",
+            "image": "2023-09-1__zojo-ji.jpg",
             "prefecture": "Tōkyō",
             "location": "Zōjō-ji",
             "locationJp": "増上寺",
@@ -227,7 +227,7 @@
         },
         {
             "type": "temple",
-            "image": "",
+            "image": "2023-09-19_sengaku-ji.jpg",
             "prefecture": "Tōkyō",
             "location": "Sengaku-ji",
             "locationJp": "泉岳寺",
@@ -381,7 +381,7 @@
         },
         {
             "type": "shrine",
-            "image": "2024-01-11_tateishi-kumano-jinja_shingetsu.png",
+            "image": "2024-01-11_tateishi-kumano-jinja_shingetsu.jpg",
             "prefecture": "Tōkyō",
             "location": "Tateishi Kumano Jinja",
             "locationJp": "五方山熊野神社",
