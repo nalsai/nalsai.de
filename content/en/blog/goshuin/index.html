@@ -8,7 +8,19 @@ layout = "single"
 <!--
 TODO:
 - add image viewer
-- upgrade to vue 3
+- upgrade to vue 3 and add error handler
+
+// Global error handler
+app.config.errorHandler = (err, instance, info) => {
+
+  // Handle the error globally
+  console.err("Global error:", error);
+  console.log("Vue instance:", instance);
+  console.log("Error info:", info);
+
+  // Add code for UI notifications, reporting or other error handling logic
+};
+
 -->
 <p>
 Goshuin (御朱印) are stamps that can be collected after visiting most shrines and temples in Japan.<br>
@@ -19,8 +31,9 @@ Typically, they contain the stamp of the shrine or temple in the center with the
     <input type="text" v-model="searchQuery" placeholder="Search" class="d-none">
     Loading...<br>
     This site uses Vue.js and therefore needs JavaScript to be enabled in your browser.<br>
-    If you have JavaScript enabled and still see this message, please contact me.
+    Please contact me if you have JavaScript enabled and still see this message.
 </div>
+<div id="error_message"></div>
 <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
 <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
 <script>
@@ -37,8 +50,8 @@ Typically, they contain the stamp of the shrine or temple in the center with the
                     this.goshuins = response.data.goshuins;
                 })
                 .catch(error => {
-                    console.error('Error fetching Goshuin data:', error);
-                    // TODO: display error message to user
+                    console.error('Error fetching data:', error);
+                    document.getElementById('error_message').innerHTML = '<br>Error fetching data:<br>' + error + '<br><br>Please contact me if this issue persists.';
                 });
         },
         methods: {
@@ -70,22 +83,16 @@ Typically, they contain the stamp of the shrine or temple in the center with the
                         this.normalizeString(goshuin.locationJp).includes(normalizedSearchQuery) ||
                         this.normalizeString(goshuin.date).includes(normalizedSearchQuery);
                 });
-            },
-            shrineGoshuins() {
-                return this.goshuins.filter(goshuin => goshuin.type === 'shrine');
-            },
-            templeGoshuins() {
-                return this.goshuins.filter(goshuin => goshuin.type === 'temple');
             }
         },
         template: `
         <div>
             <p>
                 Here you can find my goshuin collection. It contains
-                {{ goshuins.length }} goshuin. 
-                {{ shrineGoshuins.length }} of them are from shrines and
-                {{ templeGoshuins.length }} are from temples.
-                The latest one is from {{ goshuins[goshuins.length - 1].date }}.<br>
+                {{ goshuins.length }} goshuin.
+                {{ this.goshuins.filter(goshuin => goshuin.type === 'shrine').length }} of them are from shrines and
+                {{ this.goshuins.filter(goshuin => goshuin.type === 'temple').length }} are from temples.
+                The latest one is from {{ this.goshuins.length > 0 ? this.goshuins[this.goshuins.length - 1].date : 'unknown' }}.<br>
                 You can use the search bar to filter the goshuin by shrine/temple name (location), prefecture, or date.
                 (The date format is YYYY-MM-DD padded with 0.)
             </p>
