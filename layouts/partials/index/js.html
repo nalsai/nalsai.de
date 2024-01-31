@@ -17,8 +17,8 @@
     const DayOfMonth = d.getDate();
     const Hours = d.getHours();
 
-    // change to daytime image between 10 and 20 o'clock
-    if (Hours > 9 && Hours < 20) {
+    // change to daytime image between 8 and 18 o'clock
+    if (Hours > 7 && Hours < 18) {
         document.getElementById("intro").style.background = "linear-gradient(rgba(0, 0, 0, 0.30), rgba(0, 0, 0, 0.30)), url('/img/THA45242.jpg') no-repeat center center fixed";
         document.getElementById("intro").style.backgroundSize = "cover";
     }
