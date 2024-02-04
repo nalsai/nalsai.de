@@ -373,6 +373,49 @@
             "location": "Suga Jinja",
             "locationJp": "須賀神社",
             "date": "2024-01-13"
+        },
+        {
+            "type": "temple",
+            "image": "2024-02-03_tsu-kannon.jpg",
+            "prefecture": "Mie",
+            "location": "Tsu Kannon",
+            "locationJp": "津観音",
+            "notes": "Setsubun",
+            "date": "2024-02-03"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-02-03_kouzan-jinja.jpg",
+            "prefecture": "Mie",
+            "location": "Kouzan Jinja",
+            "locationJp": "高山神社",
+            "date": "2024-02-03"
+        },
+        {
+            "type": "temple",
+            "image": "2024-02-04_shitenno-ji_2gatsu-1.jpg",
+            "prefecture": "Mie",
+            "location": "Shitennō-ji",
+            "locationJp": "四天王寺",
+            "notes": "February Goshuin 1 (written directly into the Goshuinchō)",
+            "date": "2024-02-04"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-02-04_miekengokoku-jinja.jpg",
+            "prefecture": "Mie",
+            "location": "Mieken Gokoku Jinja",
+            "locationJp": "三重縣護國神社",
+            "date": "2024-02-04"
+        },
+        {
+            "type": "temple",
+            "image": "2024-02-04_renko-in_tokubetsu-2.jpg",
+            "prefecture": "Mie",
+            "location": "Renkō-in",
+            "locationJp": "初馬寺",
+            "notes": "Special Goshuin 2",
+            "date": "2024-02-04"
         }
     ]
 }
