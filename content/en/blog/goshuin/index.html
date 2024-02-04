@@ -1,0 +1,138 @@
++++
+title = "Goshuin Collection"
+date = 2024-01-31
+tags = ["Japan", "Goshuin"]
+layout = "single"
++++
+
+<!--
+TODO:
+- add image viewer
+- upgrade to vue 3 and add error handler
+
+// Global error handler
+app.config.errorHandler = (err, instance, info) => {
+
+  // Handle the error globally
+  console.err("Global error:", error);
+  console.log("Vue instance:", instance);
+  console.log("Error info:", info);
+
+  // Add code for UI notifications, reporting or other error handling logic
+};
+-->
+<p>
+Goshuin (御朱印) are stamps that can be collected after visiting most shrines and temples in Japan.<br>
+Typically, they contain the stamp of the shrine or temple in the center with the name written over it in calligraphy, as well as the date of the visit (usually on the left side).
+</p>
+
+<div id="app">
+    <input type="text" v-model="searchQuery" placeholder="Search" class="d-none">
+    Loading...<br>
+    This site uses Vue.js and therefore needs JavaScript to be enabled in your browser.<br>
+    Please contact me if you have JavaScript enabled and still see this message.
+</div>
+<div id="error_message"></div>
+<script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+<script>
+    new Vue({
+        el: '#app',
+        data: {
+            goshuins: [],
+            searchQuery: '',
+            type: 'all'
+        },
+        mounted() {
+            axios.get('data.json')
+                .then(response => {
+                    this.goshuins = response.data.goshuins;
+                })
+                .catch(error => {
+                    console.error('Error fetching data:', error);
+                    document.getElementById('error_message').innerHTML = '<br>Error fetching data:<br>' + error + '<br><br>Please contact me if this issue persists.';
+                });
+        },
+        methods: {
+            normalizeString(str) {
+                return str.toLowerCase()
+                    .replace(/ō/g, 'o')
+                    .replace(/ū/g, 'u')
+                    .replace(/ou/g, 'o')
+                    .replace(/oo/g, 'o')
+                    .replace(/uu/g, 'u')
+                    .replace(/tsu/g, 'tu')
+                    .replace(/ /g, '')
+                    .replace(/-/g, '');
+            }
+        },
+        computed: {
+            filteredGoshuins() {
+                if (this.type === 'all') {
+                    return this.filteredGoshuinsStep1;
+                } else {
+                    return this.filteredGoshuinsStep1.filter(goshuin => goshuin.type === this.type);
+                }
+            },
+            filteredGoshuinsStep1() {
+                return this.goshuins.filter(goshuin => {
+                    let normalizedSearchQuery = this.normalizeString(this.searchQuery);
+                    return this.normalizeString(goshuin.location).includes(normalizedSearchQuery) ||
+                        this.normalizeString(goshuin.prefecture).includes(normalizedSearchQuery) ||
+                        this.normalizeString(goshuin.locationJp).includes(normalizedSearchQuery) ||
+                        this.normalizeString(goshuin.date).includes(normalizedSearchQuery);
+                });
+            }
+        },
+        template: `
+        <div>
+            <p>
+                Here you can find my goshuin collection. It contains
+                {{ goshuins.length }} goshuin.
+                {{ this.goshuins.filter(goshuin => goshuin.type === 'shrine').length }} of them are from shrines and
+                {{ this.goshuins.filter(goshuin => goshuin.type === 'temple').length }} are from temples.
+                The latest one is from {{ this.goshuins.length > 0 ? this.goshuins[this.goshuins.length - 1].date : 'unknown' }}.<br>
+                You can use the search bar to filter the goshuin by shrine/temple name (location), prefecture, or date.
+                (The date format is YYYY-MM-DD padded with 0.)
+            </p>
+
+            <div class="row g-3">
+                <div class="col-sm">
+                    <input class="form-control" type="text" v-model="searchQuery" placeholder="Search">
+                </div>
+                <div class="col-sm-auto">
+                    <div class="btn-group mb-4" role="group" aria-label="radio toggle button group for goshuin type">
+                        <input type="radio" class="btn-check" name="btn-radio" id="btn-radio1" autocomplete="off" @click="type = 'all'" checked/>
+                        <label class="btn btn-outline-primary" for="btn-radio1">All</label>
+                        <input type="radio" class="btn-check" name="btn-radio" id="btn-radio2" autocomplete="off" @click="type = 'shrine'"/>
+                        <label class="btn btn-outline-primary" for="btn-radio2">Shrines</label>
+                        <input type="radio" class="btn-check" name="btn-radio" id="btn-radio3" autocomplete="off" @click="type = 'temple'"/>
+                        <label class="btn btn-outline-primary" for="btn-radio3">Temples</label>
+                    </div>
+                </div>
+            </div>
+            <div class="row g-4">
+                <div v-for="goshuin in filteredGoshuins" class="col-sm-6 col-lg-4">
+                    <div class="card">
+                        <img :src="'img/'+goshuin.image" :alt="goshuin.location + ' goshuin'" class="card-img-top">
+                        <div class="card-body">
+                        <p class="card-title">
+                            <span class="h4 d-block">{{ goshuin.location }}</span>
+                            <span class="text-light">{{ goshuin.locationJp }}</span>
+                        </p>
+                        <p class="card-text">
+                            <span class="text-capitalize">{{ goshuin.type }}</span>
+                            <span v-if="typeof goshuin.prefecture !== 'undefined'">in {{ goshuin.prefecture }} Prefecture</span><br>
+
+                            <span v-if="typeof goshuin.locationDetails !== 'undefined'">{{ goshuin.locationDetails }}<br></span>
+                            <strong>Visit Date:</strong> {{ goshuin.date }}<br>
+                            <span v-if="typeof goshuin.notes !== 'undefined'"><strong>Notes:</strong> {{ goshuin.notes }}</span>
+                        </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        `
+    });
+</script>
