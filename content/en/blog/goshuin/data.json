@@ -416,6 +416,38 @@
             "locationJp": "初馬寺",
             "notes": "Special Goshuin 2",
             "date": "2024-02-04"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-02-10_hokkaido-jingu.jpg",
+            "prefecture": "Hokkaidō",
+            "location": "Hokkaidō Jingū",
+            "locationJp": "北海道神宮",
+            "date": "2024-02-10"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-02-10_otaru-tenguyama-jinja.jpg",
+            "prefecture": "Hokkaidō",
+            "location": "Otaru Tenguyama Jinja",
+            "locationJp": "小樽天狗山神社",
+            "date": "2024-02-10"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-02-11_iyahiko-jinja.jpg",
+            "prefecture": "Hokkaidō",
+            "location": "Iyahiko Jinja",
+            "locationJp": "伊夜日子神社",
+            "date": "2024-02-11"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-02-13_abashiri-jinja.jpg",
+            "prefecture": "Hokkaidō",
+            "location": "Abashiri Jinja",
+            "locationJp": "網走神社",
+            "date": "2024-02-13"
         }
     ]
 }
