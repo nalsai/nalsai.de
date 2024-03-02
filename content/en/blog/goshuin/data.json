@@ -448,6 +448,37 @@
             "location": "Abashiri Jinja",
             "locationJp": "網走神社",
             "date": "2024-02-13"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-02-23_kato-jinja.jpg",
+            "prefecture": "Kumamoto",
+            "location": "Katō Jinja",
+            "locationJp": "加藤神社",
+            "date": "2024-02-23",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "kato-jinja_blotter.jpg"
+                }
+            ]
+        },
+        {
+            "type": "shrine",
+            "image": "2024-02-23_izumi-jinja.jpg",
+            "prefecture": "Kumamoto",
+            "location": "Izumi Jinja",
+            "locationJp": "出水神社",
+            "date": "2024-02-23",
+            "notes": "February Goshuin"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-02-24_takachiho-jinja.jpg",
+            "prefecture": "Miyazaki",
+            "location": "Takachiho Jinja",
+            "locationJp": "高千穂神社",
+            "date": "2024-02-24"
         }
     ]
 }
