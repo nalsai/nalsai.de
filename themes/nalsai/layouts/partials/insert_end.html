@@ -49,6 +49,6 @@ Here's what it is:
       }
     });
 </script>
-{{ if not .Site.IsServer }}
+{{ if hugo.IsProduction }}
     {{ with .Site.Params.umami }}<script async data-website-id="{{ .id }}" src="{{ .src }}"></script>{{ end }}
 {{ end }}
