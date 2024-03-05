@@ -1,0 +1,8 @@
+/mothershipdefender2/WebGL/Build/*.br
+  Content-Encoding: br
+
+/mothershipdefender2/WebGL/Build/*.js.br
+  Content-Type: text/javascript
+
+/mothershipdefender2/WebGL/Build/*.wasm.br
+  Content-Type: application/wasm
