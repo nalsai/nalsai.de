@@ -4,6 +4,7 @@ description = ""
 tags = [
   "Visual Novels",
   "Anime Tourism",
+  "Sacred Place Pilgrimage",
   "Japan",
 ]
 date = 2023-11-25
@@ -160,7 +161,8 @@ Also, thanks to [The Spriters Resource](https://www.spriters-resource.com/) for 
 
 ---
 
-Some other posts about places from Tsukihime, I found (all in Japanese):
+Here are some other posts by people who have made a similar pilgrimage.  
+(You can contact me if you want to be added to the list.)
 
 - <http://blog.livedoor.jp/anglerpon/archives/1001913152.html>
 - <https://hayabusa8823.hatenablog.com/entry/2021/09/09/000000>
