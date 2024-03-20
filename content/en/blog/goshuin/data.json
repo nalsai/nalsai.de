@@ -479,6 +479,110 @@
             "location": "Takachiho Jinja",
             "locationJp": "高千穂神社",
             "date": "2024-02-24"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-03-04_yuki-jinja.jpg",
+            "prefecture": "Mie",
+            "location": "Yūki Jinja",
+            "locationJp": "結城神社",
+            "date": "2024-03-04"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-03-11_ikuta-jinja.jpg",
+            "prefecture": "Hyōgo",
+            "location": "Ikuta Jinja",
+            "locationJp": "生田神社",
+            "date": "2024-03-11"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-03-12_sasutahiko-jinja.jpg",
+            "prefecture": "Wakayama",
+            "location": "Sasutahiko Jinja",
+            "locationJp": "刺田比古神社",
+            "date": "2024-03-12"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-03-12_kishu-toshogu.jpg",
+            "prefecture": "Wakayama",
+            "location": "Kishū Tōshōgū",
+            "locationJp": "紀州東照宮",
+            "date": "2024-03-12"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-03-12_wakaura-tenmangu.jpg",
+            "prefecture": "Wakayama",
+            "location": "Wakaura Tenmangū",
+            "locationJp": "和歌浦天満宮",
+            "date": "2024-03-12"
+        },
+        {
+            "type": "temple",
+            "image": "2024-03-13_kimii-dera.jpg",
+            "prefecture": "Wakayama",
+            "location": "Kimii-dera",
+            "locationJp": "紀三井寺",
+            "date": "2024-03-13"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-03-13_tamatsushima-jinja.jpg",
+            "prefecture": "Wakayama",
+            "location": "Tamatsushima Jinja",
+            "locationJp": "玉津島神社",
+            "date": "2024-03-13"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-03-14_awashima-jinja.jpg",
+            "prefecture": "Wakayama",
+            "location": "Awashima Jinja",
+            "locationJp": "淡嶋神社",
+            "date": "2024-03-14"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-03-15_hinokuma-kunikakasu-jingu.jpg",
+            "prefecture": "Wakayama",
+            "location": " Hinokuma Jingū & Kunikakasu Jingū",
+            "locationJp": "日前神宮・國懸神宮",
+            "date": "2024-03-15"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-03-15_kamayama-jinja.jpg",
+            "prefecture": "Wakayama",
+            "location": "Kamayama Jinja",
+            "locationJp": "竈山神社神社",
+            "date": "2024-03-15"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-03-15_itakiso-jinja.jpg",
+            "prefecture": "Wakayama",
+            "location": "Itakiso Jinja",
+            "locationJp": "伊太祁曽神社",
+            "date": "2024-03-15"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-03-16_osaka-gokoku-jinja.jpg",
+            "prefecture": "Ōsaka",
+            "location": "Ōsaka Gokoku Jinja",
+            "locationJp": "大阪護国神社",
+            "date": "2024-03-16"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-03-16_sumiyoshi-taisha.jpg",
+            "prefecture": "Ōsaka",
+            "location": "Sumiyoshi Taisha",
+            "locationJp": "住吉大社",
+            "date": "2024-03-16"
         }
     ]
 }
