@@ -494,7 +494,8 @@
             "prefecture": "Hyōgo",
             "location": "Ikuta Jinja",
             "locationJp": "生田神社",
-            "date": "2024-03-11"
+            "date": "2024-03-11",
+            "notes": "The text is golden but it doesn't show up well in the scan"
         },
         {
             "type": "shrine",
@@ -583,6 +584,47 @@
             "location": "Sumiyoshi Taisha",
             "locationJp": "住吉大社",
             "date": "2024-03-16"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-03-22_namiyoke-jinja_benzaiten-edit.jpg",
+            "prefecture": "Tōkyō",
+            "location": "Namiyoke Jinja",
+            "locationJp": "波除神社",
+            "date": "2024-03-22",
+            "notes": "This is the Goshuin for the auxiliary shrine (摂社) housing the lion head"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-03-22_sakura-jingu.jpg",
+            "prefecture": "Tōkyō",
+            "location": "Sakura Jingū",
+            "locationJp": "桜神宮",
+            "date": "2024-03-22"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-03-23_hanazono-jinja.jpg",
+            "prefecture": "Tōkyō",
+            "location": "Hanazono Jinja",
+            "locationJp": "花園神社",
+            "date": "2024-03-23"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-03-23_kanda-jinja.jpg",
+            "prefecture": "Tōkyō",
+            "location": "Kanda Jinja",
+            "locationJp": "神田明神",
+            "date": "2024-03-23"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-03-25_ushijima-jinja.jpg",
+            "prefecture": "Tōkyō",
+            "location": "Ushijima Jinja",
+            "locationJp": "牛島神社",
+            "date": "2024-03-25"
         }
     ]
 }
