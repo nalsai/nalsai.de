@@ -18,6 +18,8 @@ description = "(Most commands work on any platform, but some may require Bash an
 
 3. [Documents](#documents)
 
+3. [Audio](#audio)
+
 4. [Files](#files)
 
 5. [Fun Command-Line Programs](#fun-command-line-programs)  
@@ -106,6 +108,15 @@ img2pdf in.jpg --output out.pdf
 
 # convert markdown to PDF
 pandoc file.md --pdf-engine=xelatex -o file.pdf -V geometry:margin=1.27cm
+```
+
+## Audio
+
+```bash
+# metaflac the command-line .flac file metadata editor part of the flac package
+# remove seektable and add seekpoints once every second to allow seeking in the file (needed for some players, particularly with low CPU power)
+metaflac --remove --block-type=SEEKTABLE **.flac
+metaflac --add-seekpoint=1s **.flac
 ```
 
 ## Files
