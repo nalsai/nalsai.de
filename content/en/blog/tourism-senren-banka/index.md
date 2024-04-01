@@ -45,5 +45,6 @@ Now that we're at the end, it's time to link others who have also made a similar
 - <https://ameblo.jp/akaharaimorinoyuuutu/entry-12176592986.html>
 - <https://azusairi.com/?p=45>
 - <https://azusairi.com/?p=158>
+- <http://explorers-station.teacake.net/explore/senren/senren.html>
 - <https://www.youtube.com/watch?v=iV-8C-ymIp4>
 - <https://www.youtube.com/watch?v=oARwox6U104>
