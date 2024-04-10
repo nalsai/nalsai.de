@@ -73,7 +73,6 @@
             "prefecture": "Tōkyō",
             "location": "Tateishi Kumano Jinja",
             "locationJp": "五方山熊野神社",
-            "notes": "There was a Touhou Project collaboration",
             "date": "2023-09-24"
         },
         {
@@ -98,7 +97,7 @@
             "prefecture": "Kanagawa",
             "location": "Zeniarai Benten Ugafuku Jinja",
             "locationJp": "銭洗弁財天 宇賀福神社",
-            "notes": "Was only available pre-written",
+            "notes": "pre-written",
             "date": "2023-09-25"
         },
         {
@@ -151,11 +150,11 @@
         },
         {
             "type": "shrine",
-            "image": "2023-12-23_heian-jinja.jpg",
+            "image": "2023-12-23_heian-jingu.jpg",
             "prefecture": "Kyōto",
-            "location": "Heian Jinja",
+            "location": "Heian Jingū",
             "locationJp": "平安神宮",
-            "notes": "Special NAKED YORU MO-DE 2023 Goshuin",
+            "notes": "NAKED YORU MO-DE 2023 Goshuin",
             "date": "2023-12-23"
         },
         {
@@ -172,7 +171,7 @@
             "prefecture": "Kyōto",
             "location": "Fushimi Inari Taisha",
             "locationJp": "伏見稲荷大社",
-            "notes": "December Goshuin; Pre-made; Too big for a small Goshuin-chō",
+            "notes": "December Goshuin; Too big for a small Goshuin-chō",
             "date": "2023-12-24"
         },
         {
@@ -247,8 +246,6 @@
             "prefecture": "Tōkyō",
             "location": "Tōkyō Tower: Tower Daijingū",
             "locationJp": "タワー大神宮",
-            "locationDetails": "Main deck 2nd floor, official shop THE SKY",
-            "notes": "Only available pre-written",
             "date": "2024-01-01"
         },
         {
@@ -257,8 +254,7 @@
             "prefecture": "Tōkyō",
             "location": "Tōkyō Tower: Tower Daijingū",
             "locationJp": "タワー大神宮",
-            "locationDetails": "Main deck 2nd floor, official shop THE SKY",
-            "notes": "Winter Edition; Only available pre-written",
+            "notes": "Winter Goshuin",
             "date": "2024-01-01"
         },
         {
@@ -267,8 +263,7 @@
             "prefecture": "Tōkyō",
             "location": "Tōkyō Tower: Tower Daijingū",
             "locationJp": "タワー大神宮",
-            "locationDetails": "Main deck 2nd floor, official shop THE SKY",
-            "notes": "New Year's Limited Goshuin (cutout); Pre-made",
+            "notes": "New Year's Goshuin (cutout)",
             "date": "2024-01-01"
         },
         {
@@ -285,7 +280,7 @@
             "prefecture": "Tōkyō",
             "location": "Shinobazunoike Benten-dō",
             "locationJp": "不忍池辯天堂",
-            "notes": "Benzaiten Goshuin (There is also a Daikokuten Goshuin)",
+            "notes": "Benzaiten Goshuin",
             "date": "2024-01-03"
         },
         {
@@ -439,7 +434,8 @@
             "prefecture": "Hokkaidō",
             "location": "Iyahiko Jinja",
             "locationJp": "伊夜日子神社",
-            "date": "2024-02-11"
+            "date": "2024-02-11",
+            "notes": "February Ame no Kaguyama no Mikoto Goshuin"
         },
         {
             "type": "shrine",
@@ -587,12 +583,12 @@
         },
         {
             "type": "shrine",
-            "image": "2024-03-22_namiyoke-jinja_benzaiten-edit.jpg",
+            "image": "2024-03-22_namiyoke-jinja_sessha-edit.jpg",
             "prefecture": "Tōkyō",
             "location": "Namiyoke Jinja",
             "locationJp": "波除神社",
             "date": "2024-03-22",
-            "notes": "This is the Goshuin for the auxiliary shrine (摂社) housing the lion head"
+            "notes": "Benzaiten Subshrine Goshuin"
         },
         {
             "type": "shrine",
@@ -625,6 +621,120 @@
             "location": "Ushijima Jinja",
             "locationJp": "牛島神社",
             "date": "2024-03-25"
+        },
+        {
+            "type": "temple",
+            "image": "2024-04-07_hase-dera.jpg",
+            "prefecture": "Nara",
+            "location": " Hase-dera",
+            "locationJp": "長谷寺",
+            "date": "2024-04-07",
+            "notes": "Edo period facsimile Goshuin"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-04-07_yoki-tenman-jinja.jpg",
+            "prefecture": "Nara",
+            "location": "Yoki Tenman Jinja",
+            "locationJp": "與喜天満神社",
+            "date": "2024-04-07"
+        },
+        {
+            "type": "temple",
+            "image": "2024-04-07_kinpusen-ji.jpg",
+            "prefecture": "Nara",
+            "location": "Kinpusen-ji",
+            "locationJp": "金峯山寺",
+            "date": "2024-04-07"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-04-07_yoshimizu-jinja.jpg",
+            "prefecture": "Nara",
+            "location": " Yoshimizu Jinja",
+            "locationJp": "吉水神社",
+            "date": "2024-04-07"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-04-07_katte-jinja.jpg",
+            "prefecture": "Nara",
+            "location": "Katte Jinja",
+            "locationJp": "勝手神社",
+            "date": "2024-04-07"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-04-07_yoshino-mikumari-jinja.jpg",
+            "prefecture": "Nara",
+            "location": "Yoshino Mikumari Jinja",
+            "locationJp": "吉野水分神社",
+            "date": "2024-04-07"
+        },
+        {
+            "type": "temple",
+            "image": "2024-04-08_nanzen-ji.jpg",
+            "prefecture": "Kyōto",
+            "location": "Nanzen-ji",
+            "locationJp": "南禅寺",
+            "date": "2024-04-08"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-04-08_otoyo-jinja.jpg",
+            "prefecture": "Kyōto",
+            "location": "Ōtoyo Jinja",
+            "locationJp": "大豊神社",
+            "date": "2024-04-08"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-04-08_okazaki-jinja.jpg",
+            "prefecture": "Kyōto",
+            "location": "Okazaki Jinja",
+            "locationJp": "岡﨑神社",
+            "date": "2024-04-08"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-04-08_heian-jingu.jpg",
+            "prefecture": "Kyōto",
+            "location": "Heian Jingū",
+            "locationJp": "平安神宮",
+            "date": "2024-04-08",
+            "notes": "Sakura Goshuin"
+        },
+        {
+            "type": "temple",
+            "image": "2024-04-08_ryoan-ji.jpg",
+            "prefecture": "Kyōto",
+            "location": "Ryōan-ji",
+            "locationJp": "龍安寺",
+            "date": "2024-04-08"
+        },
+        {
+            "type": "temple",
+            "image": "2024-04-08_ninna-ji.jpg",
+            "prefecture": "Kyōto",
+            "location": "Ninna-ji",
+            "locationJp": "仁和寺",
+            "date": "2024-04-08"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-04-09_ogaki-hachiman-jinja.jpg",
+            "prefecture": "Gifu",
+            "location": "Õgaki Hachiman Jinja",
+            "locationJp": "大垣八幡神社",
+            "date": "2024-04-09"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-04-09_yoro-jinja_no-date.jpg",
+            "prefecture": "Gifu",
+            "location": "Yōrō Jinja",
+            "locationJp": "養老神社",
+            "date": "2024-04-09"
         }
     ]
 }

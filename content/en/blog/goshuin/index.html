@@ -123,8 +123,6 @@ Typically, they contain the stamp of the shrine or temple in the center with the
                         <p class="card-text">
                             <span class="text-capitalize">{{ goshuin.type }}</span>
                             <span v-if="typeof goshuin.prefecture !== 'undefined'">in {{ goshuin.prefecture }} Prefecture</span><br>
-
-                            <span v-if="typeof goshuin.locationDetails !== 'undefined'">{{ goshuin.locationDetails }}<br></span>
                             <strong>Visit Date:</strong> {{ goshuin.date }}<br>
                             <span v-if="typeof goshuin.notes !== 'undefined'"><strong>Notes:</strong> {{ goshuin.notes }}</span>
                             <span v-if="typeof goshuin.attachments !== 'undefined'"><strong>Attachments:</strong> <a v-for="attachment in goshuin.attachments" :href="'attachments/'+attachment.file">{{ attachment.name }}</a> </span>
