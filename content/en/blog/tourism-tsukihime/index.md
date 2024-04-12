@@ -28,6 +28,8 @@ I first visited Hibiya Park during the day, and the next day I went there again 
 ![XII51752](XII51752.jpg)
 ![XIJ69099](XIJ69099.jpg)
 
+Date: 2023-09-18, 2023-09-19
+
 I assume that the image in Tsukihime was taken during the day, but I think it looked better at night.
 The fountain jets have probably been replaced, so it looks a bit different.
 Due to the fountain jets being higher, I took the photo further upward than the one in Tsukihime.
@@ -44,9 +46,13 @@ So even if there had been no construction, it would not have looked the same. (W
 ![bg_27a2](bg_27a2.jpg)
 ![XII53559](XII53559.jpg)
 
+Date: 2023-09-18
+
 The path leads to Hibiya Public Hall:
 
 ![XIJ69523](XIJ69523.jpg)
+
+Date: 2023-09-19
 
 Afterward, I walked to the Sukiyaba Crossing in Ginza.
 
@@ -60,6 +66,8 @@ It looks nice at night, with the big Fujiya signboard and the other lights shini
 ![XIJ68414](XIJ68414.jpg)
 ![XII55843](XII55843.jpg)
 
+Date: 2023-09-19, 2023-09-18
+
 ## Shibuya Modi (previously Shibuya Marui)
 
 The Shibuya Marui has turned into the Shibuya Modi. It is a department store located close to the Shibuya Station.
@@ -70,9 +78,9 @@ With the cars and the people, it was hard to get the photo. Also, the rounded sh
 ![bg_25a2](bg_25a2.jpg)
 ![XIM46856](XIM46856.jpg)
 
-## School
+Date: 2023-09-22
 
-Added: 2023-12-22
+## School
 
 When I was in Tokyo again and had some time left, I decided to visit the school too.
 It is located in Nerima so the train journey took a bit of time, and I had to walk a little.
@@ -88,6 +96,8 @@ It's crazy how it has stayed almost the same all these years.
 ![bg_01b](bg_01b.jpg)
 ![XL159141](XL159141.jpg)
 
+Date: 2023-12-01
+
 ### Side of School
 
 The original picture was probably taken from inside the school, but you can also see the similarity from outside.
@@ -97,6 +107,8 @@ This was the only angle where you could see the pillars even a little, as the he
 ![bg_05a](bg_05a.jpg)
 ![XL158280](XL158280.jpg)
 
+Date: 2023-12-01
+
 ### School Courtyard
 
 I didn't enter the school, so I had to take this picture from behind the net.
@@ -105,13 +117,13 @@ Every time I look at this image and think back, it feels kind of unreal that I'v
 ![bg_02a](bg_02a.jpg)
 ![XL158832](XL158832.jpg)
 
+Date: 2023-12-01
+
 Here is a less cropped image:
 
 ![XL158832-full](XL158832-full.jpg)
 
-# Restaurant Shangri-La
-
-Added: 2023-12-22
+## Restaurant Shangri-La
 
 This is a Nepalese/Indian restaurant called Shangri-La in Kamata.
 
@@ -122,6 +134,8 @@ As it was late in the evening, nobody was there besides me.
 ![bg_90](bg_90.jpg)
 ![XL281354](XL281354.jpg)
 
+Date: 2023-12-01
+
 ## Bonus 1: The Arc de Triomphe in Paris
 
 These bonus images appear when Shiki dreams about the past of Roa's seventeenth incarnation.
@@ -131,12 +145,16 @@ I went to Paris in August 2016 with my family and, of course, visited the Arc de
 ![cmo_11](cmo_11.jpg)
 ![QHP40073](QHP40073.jpg)
 
+Date: 2016-08-25
+
 ## Bonus 2: The Trevi Fountain in Rome
 
 In July 2019, I went to Rome as part of a school trip. It was very crowded around the fountain, so I couldn't get any closer.
 
 ![cmo_09](cmo_09.jpg)
 ![TGE56518](TGE56518.jpg)
+
+Date: 2019-07-14
 
 ## Afterword
 
