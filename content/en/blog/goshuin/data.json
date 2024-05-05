@@ -735,6 +735,30 @@
             "location": "Yōrō Jinja",
             "locationJp": "養老神社",
             "date": "2024-04-09"
+        },
+        {
+            "type": "temple",
+            "image": "2024-04-26_enoshima-daishi.jpg",
+            "prefecture": "Kanagawa",
+            "location": "Enoshima Daishi",
+            "locationJp": "江の島大師",
+            "date": "2024-04-26"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-04-29_inage-sengen-jinja.jpg",
+            "prefecture": "Chiba",
+            "location": "Inage Sengen Jinja",
+            "locationJp": "稲毛浅間神社",
+            "date": "2024-04-29"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-04-29_chiba-jinja.jpg",
+            "prefecture": "Chiba",
+            "location": "Myōken Hongū Chiba Jinja",
+            "locationJp": "妙見本宮 千葉神社",
+            "date": "2024-04-29"
         }
     ]
 }
