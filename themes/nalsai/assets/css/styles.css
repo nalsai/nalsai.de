@@ -109,3 +109,14 @@ body {
     border-radius: .6rem;
     width: fit-content;
 }
+
+.web-button img {
+    margin: .2em .1em;
+    width: auto;
+    height: 62px;
+    image-rendering: pixelated;
+}
+
+.web-button:hover img {
+    filter: drop-shadow(1px 1px 0px #00bc8c) drop-shadow(-1px -1px 0px #00bc8c) drop-shadow(1px -1px 0px #00bc8c) drop-shadow(-1px 1px 0px #00bc8c);
+}
