@@ -718,6 +718,7 @@
             "prefecture": "Kyōto",
             "location": "Ninna-ji",
             "locationJp": "仁和寺",
+            "notes": "Amida Nyorai Goshuin",
             "date": "2024-04-08"
         },
         {
@@ -735,6 +736,14 @@
             "location": "Yōrō Jinja",
             "locationJp": "養老神社",
             "date": "2024-04-09"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-04-26_enoshima-jinja.jpg",
+            "prefecture": "Kanagawa",
+            "location": "Enoshima Jinja",
+            "locationJp": "江の島神社",
+            "date": "2024-04-26"
         },
         {
             "type": "temple",
@@ -759,6 +768,23 @@
             "location": "Myōken Hongū Chiba Jinja",
             "locationJp": "妙見本宮 千葉神社",
             "date": "2024-04-29"
+        },
+        {
+            "type": "temple",
+            "image": "2024-04-30_shinobazuike-benten-do_ugajin.jpg",
+            "prefecture": "Tōkyō",
+            "location": "Shinobazunoike Benten-dō",
+            "locationJp": "不忍池辯天堂",
+            "notes": "春季浴酒 Limited Ugajin Goshuin",
+            "date": "2024-04-30"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-04-30_ueno-toshogu.jpg",
+            "prefecture": "Tōkyō",
+            "location": "Ueno Tōshōgū",
+            "locationJp": "上野東照宮",
+            "date": "2024-04-30"
         }
     ]
 }
