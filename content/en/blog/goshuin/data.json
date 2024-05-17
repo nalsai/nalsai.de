@@ -785,6 +785,15 @@
             "location": "Ueno Tōshōgū",
             "locationJp": "上野東照宮",
             "date": "2024-04-30"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-05-16_mieken-gokoku-jinja_5gatsu.jpg",
+            "prefecture": "Mie",
+            "location": "Mieken Gokoku Jinja",
+            "locationJp": "三重縣護國神社",
+            "notes": "May Goshuin",
+            "date": "2024-05-16"
         }
     ]
 }
