@@ -8,7 +8,7 @@ tags = [
   "Japan",
   "Yuzusoft",
 ]
-date = 2024-03-06
+date = 2024-05-26
 +++
 
 Welcome back to another pilgrimage! This time, I visited places from the Yuzusoft visual novels Senren\*Banka (2016) and Sanoba Witch (2018). Since the two visual novels settings take inspiration from Kyōto, I visited them together. This is the page for Senren\*Banka. You can find the [Sanoba Witch Pilgrimage by following this link](../tourism-sanoba-witch).
