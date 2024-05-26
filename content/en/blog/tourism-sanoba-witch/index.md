@@ -11,104 +11,125 @@ tags = [
 date = 2024-03-06
 +++
 
-Welcome back to another pilgrimage! This time, I visited places from the Yuzusoft visual novels Senren*Banka (released in 2016) and Sanoba Witch (released in 2018). Since the two visual novels settings take inspiration from Kyōto, I visited them together. This is the page for Sanoba Witch. You can find the [Senren*Banka Pilgrimage by following this link](../tourism-senren-banka).
+Welcome back to another pilgrimage! This time, I visited places from the Yuzusoft visual novels Senren\*Banka (2016) and Sanoba Witch (2018). Since the two visual novels settings take inspiration from Kyōto, I visited them together. This is the page for Sanoba Witch. You can find the [Senren*Banka Pilgrimage by following this link](../tourism-senren-banka).
 
-I recommend getting the bus day ticket and starting early if you want to tour it in one day, especially in winter, as the sun sets quite early. A bicycle could also come in handy to reach some of the places from Sanoba Witch.
+I recommend getting the bus day ticket and starting early if you want to tour it in one day, especially in winter, as the sun sets quite early. A bicycle could also come in handy to reach some of the places from Sanoba Witch.  
 
+Although I think that the places from Senren\*Banka are more worth visiting, I still enjoyed the pilgrimage for Sanoba Witch.
 
+## Kyōto Station
 
+I don't think Kyōto Station needs an introduction, but here it is anyway:  
+It has Japan's second-largest station building (after Nagoya Station) and is one of the country's largest buildings, incorporating a shopping mall, hotel, movie theater, Isetan department store, and several local government facilities under one 15-story roof.  
+The building's futuristic design was conceived by Japanese architect Hara Hiroshi. It attempts to convey historical Kyoto through a modern aesthetic.
 
-Kyōto tourist spots are pretty but crowded
-outside of the tourist spots, it's pretty quiet but also much less pretty.
-
-
-
----
-
-## Kyoto Station
-
-![XLO55615.jpg](XLO55615.jpg)
+![01](img/cg/01.jpg)
+![XLO55615.jpg](img/XLO55615.jpg)
 
 Date: 2023-12-24
 
-
 ## Kyoto Concert Hall
 
-This images is used as the school in the visual novel, however, in reality it is the Kyoto Concert Hall.
+This image is used as the school in the visual novel, however, in reality it is the Kyoto Concert Hall.
 
-![XLR50928.jpg](XLR50928.jpg)
-
-Date: 2023-12-27
-
-
-![XLR51691.jpg](XLR51691.jpg)
+![03](img/cg/03.jpg)
+![XLR50928.jpg](img/XLR50928.jpg)
 
 Date: 2023-12-27
 
+## Takaragaike-dōri
 
-![XLR52897.jpg](XLR52897.jpg)
+Nothing special here. There's a driving school on the other side of the street.
+
+![04](img/cg/04.jpg)
+![XLR51691.jpg](img/XLR51691.jpg)
 
 Date: 2023-12-27
 
+## Inuzuka Bridge
 
-![XLR53207.jpg](XLR53207.jpg)
+![05](img/cg/05.jpg)
+![XLR52897.jpg](img/XLR52897.jpg)
+
+Date: 2023-12-27
+
+## Yamanohana-chō
+
+![06](img/cg/06.jpg)
+![XLR53207.jpg](img/XLR53207.jpg)
 
 Date: 2023-12-27
 
 ## Sir Thomas Lipton - Sanjo Main Shop
 
-![XLR70361.jpg](XLR70361.jpg)
+At first, I tried finding it by just walking along the shopping street, but it is a much larger street than I expected and I ended up using Google Maps to find it.  
+This location is fairly close to Shirakawa Lane from the Senren\*Banka pilgrimage.
+
+![02](img/cg/02.jpg)
+![XLR70361.jpg](img/XLR70361.jpg)
 
 Date: 2023-12-27
 
 This was the last place on my Yuzusoft pilgrimage in Kyoto, so I ended the day by enjoying some Tsukemen (dipping noodles) at Tsurukame nearby, as suggested by gaogaogao on their Hatena Blog.
-
-
-## Grand Front Osaka
-
-![XLQ79611.jpg](XLQ79611.jpg)
-
-Date: 2023-12-26
-
-![XLQ80603.jpg](XLQ80603.jpg)
-
-Date: 2023-12-26
-
-
-Due to circumstances outside of my control, I arrived at the Grand Front Osaka in the late evening and everything was already closed so I had to return another day to take the picture inside the building.
-
-
-![YCB62335.jpg](YCB62335.jpg)
-
-Date: 2024-03-11
-
-
-## Starbucks in Kobe
-
-![YCB51633.jpg](YCB51633.jpg)
-
-Date: 2024-03-11
-
-![YCB51506.jpg](YCB51506.jpg)
-
-Date: 2024-03-11
-
-
-While Senren*Banka has a more traditional visual novel and shows more traditional and beautiful places in Kyoto, Sanoba Witch is more modern and I feel like it relies more on your imagination.
-Visiting these places in the north east of Kyoto didn't leave the nicest impression of Kyoto, but I still enjoyed the pilgrimage. I hope you enjoyed it as well!
-
-
-one. The visual novel was set in a city, and the places I visited were more modern as well. I hope you enjoyed this pilgrimage as well!
+I had to wait for a long time to get a seat, as it is a very small restaurant but the Tsukemen were delicious.
 
 ---
 
-If you haven't already, now is the perfect time to check out the [Senren*Banka Pilgrimage](../tourism-senren-banka). Most of the places from there I would recommend anyone to visit, regardless of the visual novel.
+## Grand Front Ōsaka
+
+This is the view of the South Building coming from Ōsaka Station.
+
+![09](img/cg/09.jpg)
+![XLQ79611.jpg](img/XLQ79611.jpg)
+
+Date: 2023-12-26
+
+You should be able to find it by walking straight from the previous location to the other side of the building. The shop there is "Aux Bacchanales".
+
+![08](img/cg/08.jpg)
+![XLQ80603.jpg](img/XLQ80603.jpg)
+
+Date: 2023-12-26
+
+
+Due to circumstances outside of my control, I arrived at the Grand Front Ōsaka in the late evening and everything was already closed so I had to return another day to take this picture inside the building.
+It is inside the North Building on the 4th floor. You can walke throught the South Building over the bridge to the North Building and then go up the escalators to get there. The store you can see on the same floor in the picture is "HIDA Ōsakaten".
+
+![07](img/cg/07.jpg)
+![YCB62335.jpg](img/YCB62335.jpg)
+
+Date: 2024-03-11
+
+---
+
+## Starbucks Coffee - Kōbe Kitano Ijinkan
+
+The Kitano area in Kōbe is famous for its old western style residences. This Starbucks is one of these _Ijinkan_.
+The building is called _Kitano Monogatari-kan_ and was apparently built in 1907 for an American resident named M.J. Shay.
+Being a Starbucks with a special design in a touristy area, it was somewhat crowded.  
+In the visual novel, this places is the coffee shop "Schwarze Katze".
+
+![10](img/cg/10.jpg)
+![YCB51633.jpg](img/YCB51633.jpg)
+
+![YCB51506.jpg](img/YCB51506.jpg)
+
+Date: 2024-03-11
+
+---
+
+While Senren\*Banka has a more traditional visual novel and shows more traditional and beautiful places in Kyoto, Sanoba Witch is more modern and I feel like it relies more strongly on your imagination.
+The places in the north east of Kyoto weren't that nice compared to the general image of Kyōtō, but I still enjoyed the pilgrimage. I hope you enjoyed it as well!
+
+---
+
+If you haven't already, now is the perfect time to check out the [Senren\*Banka Pilgrimage](../tourism-senren-banka). Most of its places I would recommend anyone to visit, regardless of the visual novel.
 
 ---
 
 Now that we're at the end, it's time to link others who have also made a similar pilgrimage.  
 Special thanks to rinnow, gaogaogao and azusairi.  
-(You can contact me if you want to be added to the list.)
+Feel free to contact me if you made the pilgrimage too and want to be added to the list.
 
 - <https://rinnow.hatenablog.com/entry/sothewitch>
 - <https://gaogaogao.hatenablog.com/entry/2018/09/03/105820>
