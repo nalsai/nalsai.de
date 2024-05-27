@@ -27,15 +27,15 @@ Now let's get started!
 A nice street along a small river just north of central Gion.
 I have seen videos near the Gion Shinbashi bridge being full with tourists but it was fairly quiet every time I was there.
 
-![01](img/cg/01.jpg)
-![alt text](img/XLR66277.jpg)
+![01.jpg](img/cg/01.jpg)
+![XLR66277.jpg](img/XLR66277.jpg)
 
 Date: 2023-12-27
 
 I visited Kyōto again during the Sakura season and since I was already in the area I took a new picture in the morning.
 
-![01](img/cg/01.jpg)
-![alt text](img/YD825920.jpg)
+![01.jpg](img/cg/01.jpg)
+![YD825920.jpg](img/YD825920.jpg)
 
 Date: 2024-04-08
 
@@ -44,13 +44,13 @@ Date: 2024-04-08
 Hanamikoji Street is one of Kyoto City's most famous streets, situated right in the Gion district.  
 Since it is a public street you can take pictures, but be careful not to disturb anybody and do not take pictures anywhere it is not allowed.
 
-![02](img/cg/02.jpg)
-![alt text](img/XLR67319.jpg)
+![02.jpg](img/cg/02.jpg)
+![XLR67319.jpg](img/XLR67319.jpg)
 
 Date: 2023-12-27
 
-![02](img/cg/02.jpg)
-![alt text](img/YD825472.jpg)
+![02.jpg](img/cg/02.jpg)
+![YD825472.jpg](img/YD825472.jpg)
 
 Date: 2024-04-08
 
@@ -60,24 +60,23 @@ Nice shopping streets with traditional Japanese-style buildings in front of Kiyo
 Especially the stairs on the left side of the picture are very popular.
 Sadly, the famous weeping cherry tree there suddenly fell down recently.
 
-![05](img/cg/05.jpg)
-![alt text](img/XLR60433.jpg)
+![05.jpg](img/cg/05.jpg)
+![XLR60433.jpg](img/XLR60433.jpg)
 
 Date: 2023-12-27
 
-![05](img/cg/05.jpg)
-![alt text](img/YD862703.jpg)
+![05.jpg](img/cg/05.jpg)
+![YD862703.jpg](img/YD862703.jpg)
 
 Date: 2024-04-08
 
-
-![04](img/cg/04.jpg)
-![alt text](img/XLR64159.jpg)
+![04.jpg](img/cg/04.jpg)
+![XLR64159.jpg](img/XLR64159.jpg)
 
 Date: 2023-12-27
 
-![04](img/cg/04.jpg)
-![alt text](img/YD863094.jpg)
+![04.jpg](img/cg/04.jpg)
+![YD863094.jpg](img/YD863094.jpg)
 
 Date: 2024-04-08
 
@@ -88,8 +87,8 @@ The people at the shop on the right side were doing their best to sell their soa
 
 The Former Butoku Hall is apparently the oldest martial arts performance hall in Japan, having been built in 1899 as part of the 1100th anniversary celebrations of the capital moving to Heian-kyo, and it has been designated as a significant cultural property in Japan.
 
-![03](img/cg/03.jpg)
-![alt text](img/XLR58600.jpg)
+![03.jpg](img/cg/03.jpg)
+![XLR58600.jpg](img/XLR58600.jpg)
 
 Date: 2023-12-27
 
@@ -98,8 +97,8 @@ Date: 2023-12-27
 A big and fairly quiet temple thats pretty unknown to tourists. It is one of the head temples of the Pure Land (Jōdo) school of Buddhism
 and has a garden you can visit during the autumn leaves season.
 
-![06](img/cg/06.jpg)
-![alt text](img/XLR57627.jpg)
+![06.jpg](img/cg/06.jpg)
+![XLR57627.jpg](img/XLR57627.jpg)
 
 Date: 2023-12-27
 
@@ -110,13 +109,13 @@ The Takenaka Inari Shrine next to it is somewhat famous for its cherry blossoms.
 
 If you go down from the top (north west of the observation deck), it is close to the second 立入禁止 (no tresspassing) sign.
 
-![07](img/cg/07.jpg)
-![alt text](img/XLR55999.jpg)
+![07.jpg](img/cg/07.jpg)
+![XLR55999.jpg](img/XLR55999.jpg)
 
 This location is south of the observation deck.
 
-![08](img/cg/08.jpg)
-![alt text](img/XLR55562.jpg)
+![08.jpg](img/cg/08.jpg)
+![XLR55562.jpg](img/XLR55562.jpg)
 
 Date: 2023-12-27
 
@@ -128,7 +127,7 @@ Continue straight, passing the observation deck, and you should find the second 
 In the visual novel, the shrine is called Tatemi Jinja (建実神社). In real life, it's the Ikuta Shrine in Kōbe, a shrine I had already wanted to visit for their nice goshuin, goshuincho and omamori.
 It is the largest and most famous shrine in Kōbe, and possibly among the oldest shrines in Japan.
 
-![09](img/cg/09.jpg)
+![09.jpg](img/cg/09.jpg)
 ![YCB50025.jpg](img/YCB50025.jpg)
 
 Date: 2024-03-11

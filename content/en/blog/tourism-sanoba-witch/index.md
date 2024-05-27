@@ -23,7 +23,7 @@ I don't think Kyōto Station needs an introduction, but here it is anyway:
 It has Japan's second-largest station building (after Nagoya Station) and is one of the country's largest buildings, incorporating a shopping mall, hotel, movie theater, Isetan department store, and several local government facilities under one 15-story roof.  
 The building's futuristic design was conceived by Japanese architect Hara Hiroshi. It attempts to convey historical Kyoto through a modern aesthetic.
 
-![01](img/cg/01.jpg)
+![01.jpg](img/cg/01.jpg)
 ![XLO55615.jpg](img/XLO55615.jpg)
 
 Date: 2023-12-24
@@ -32,7 +32,7 @@ Date: 2023-12-24
 
 This image is used as the school in the visual novel, however, in reality it is the Kyoto Concert Hall.
 
-![03](img/cg/03.jpg)
+![03.jpg](img/cg/03.jpg)
 ![XLR50928.jpg](img/XLR50928.jpg)
 
 Date: 2023-12-27
@@ -41,21 +41,21 @@ Date: 2023-12-27
 
 Nothing special here. There's a driving school on the other side of the street.
 
-![04](img/cg/04.jpg)
+![04.jpg](img/cg/04.jpg)
 ![XLR51691.jpg](img/XLR51691.jpg)
 
 Date: 2023-12-27
 
 ## Inuzuka Bridge
 
-![05](img/cg/05.jpg)
+![05.jpg](img/cg/05.jpg)
 ![XLR52897.jpg](img/XLR52897.jpg)
 
 Date: 2023-12-27
 
 ## Yamanohana-chō
 
-![06](img/cg/06.jpg)
+![06.jpg](img/cg/06.jpg)
 ![XLR53207.jpg](img/XLR53207.jpg)
 
 Date: 2023-12-27
@@ -65,7 +65,7 @@ Date: 2023-12-27
 At first, I tried finding it by just walking along the shopping street, but it is a much larger street than I expected and I ended up using Google Maps to find it.  
 This location is fairly close to Shirakawa Lane from the Senren\*Banka pilgrimage.
 
-![02](img/cg/02.jpg)
+![02.jpg](img/cg/02.jpg)
 ![XLR70361.jpg](img/XLR70361.jpg)
 
 Date: 2023-12-27
@@ -79,23 +79,23 @@ I had to wait for a long time to get a seat, as it is a very small restaurant bu
 
 This is the view of the South Building coming from Ōsaka Station.
 
-![09](img/cg/09.jpg)
+![09.jpg](img/cg/09.jpg)
 ![XLQ79611.jpg](img/XLQ79611.jpg)
 
 Date: 2023-12-26
 
 You should be able to find it by walking straight from the previous location to the other side of the building. The shop there is "Aux Bacchanales".
+I was exhausted and in a hurry to catch the train back to Kyōto, so the perspective is a bit off.
 
-![08](img/cg/08.jpg)
+![08.jpg](img/cg/08.jpg)
 ![XLQ80603.jpg](img/XLQ80603.jpg)
 
 Date: 2023-12-26
 
-
 Due to circumstances outside of my control, I arrived at the Grand Front Ōsaka in the late evening and everything was already closed so I had to return another day to take this picture inside the building.
 It is inside the North Building on the 4th floor. You can walke throught the South Building over the bridge to the North Building and then go up the escalators to get there. The store you can see on the same floor in the picture is "HIDA Ōsakaten".
 
-![07](img/cg/07.jpg)
+![07.jpg](img/cg/07.jpg)
 ![YCB62335.jpg](img/YCB62335.jpg)
 
 Date: 2024-03-11
@@ -109,7 +109,7 @@ The building is called _Kitano Monogatari-kan_ and was apparently built in 1907 
 Being a Starbucks with a special design in a touristy area, it was somewhat crowded.  
 In the visual novel, this places is the coffee shop "Schwarze Katze".
 
-![10](img/cg/10.jpg)
+![10.jpg](img/cg/10.jpg)
 ![YCB51633.jpg](img/YCB51633.jpg)
 
 ![YCB51506.jpg](img/YCB51506.jpg)
