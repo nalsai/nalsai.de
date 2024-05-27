@@ -32,7 +32,7 @@ I have seen videos near the Gion Shinbashi bridge being full with tourists but i
 
 Date: 2023-12-27
 
-I visited Kyōto again during the Sakura season and since I was already in the area I took a new picture in the morning.
+I visited Kyōto again during the Sakura season and since I was already in the area, I took a new picture in the morning.
 
 ![01.jpg](img/cg/01.jpg)
 ![YD825920.jpg](img/YD825920.jpg)
@@ -42,7 +42,7 @@ Date: 2024-04-08
 ## Hanamikoji Street
 
 Hanamikoji Street is one of Kyoto City's most famous streets, situated right in the Gion district.  
-Since it is a public street you can take pictures, but be careful not to disturb anybody and do not take pictures anywhere it is not allowed.
+Since it is a public street, you can take pictures, but be careful not to disturb anybody, and do not take pictures anywhere it is not allowed.
 
 ![02.jpg](img/cg/02.jpg)
 ![XLR67319.jpg](img/XLR67319.jpg)
@@ -80,8 +80,8 @@ Date: 2023-12-27
 
 Date: 2024-04-08
 
-It had turned dark by the time I reached Ninenzaka, but I came back during Sakura season to take a new picture in daylight so now I have both a day and night picture.
-The people at the shop on the right side were doing their best to sell their soap so I bought some after waiting for the right time to take a picture without people blocking the view.
+It had turned dark by the time I reached Ninenzaka, but I came back during Sakura season to take a new picture in daylight, so now I have both a day and a night picture.
+The people at the shop on the right side were doing their best to sell their soap, so I bought some after waiting for the right time to take a picture without people blocking the view.
 
 ## Budō Center (Former Butoku Hall)
 
@@ -94,7 +94,7 @@ Date: 2023-12-27
 
 ## Konkai Kōmyō-ji
 
-A big and fairly quiet temple thats pretty unknown to tourists. It is one of the head temples of the Pure Land (Jōdo) school of Buddhism
+A big and fairly quiet temple that's pretty unknown to tourists. It is one of the head temples of the Pure Land (Jōdo) school of Buddhism
 and has a garden you can visit during the autumn leaves season.
 
 ![06.jpg](img/cg/06.jpg)
@@ -124,8 +124,8 @@ Continue straight, passing the observation deck, and you should find the second 
 
 ## Ikuta Shrine (Kōbe)
 
-In the visual novel, the shrine is called Tatemi Jinja (建実神社). In real life, it's the Ikuta Shrine in Kōbe, a shrine I had already wanted to visit for their nice goshuin, goshuincho and omamori.
-It is the largest and most famous shrine in Kōbe, and possibly among the oldest shrines in Japan.
+In the visual novel, the shrine is called Tatemi Jinja (建実神社). In real life, it's the Ikuta Shrine in Kōbe, a shrine I had already wanted to visit for their nice _Goshuin_, _Goshuincho_ and _Omamori_.
+It is the largest and most famous shrine in Kōbe and possibly among the oldest shrines in Japan.
 
 ![09.jpg](img/cg/09.jpg)
 ![YCB50025.jpg](img/YCB50025.jpg)

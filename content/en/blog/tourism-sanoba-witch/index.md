@@ -30,7 +30,7 @@ Date: 2023-12-24
 
 ## Kyoto Concert Hall
 
-This image is used as the school in the visual novel, however, in reality it is the Kyoto Concert Hall.
+This image is used as the school in the visual novel; however, it is the Kyoto Concert Hall in reality.
 
 ![03.jpg](img/cg/03.jpg)
 ![XLR50928.jpg](img/XLR50928.jpg)
@@ -92,8 +92,8 @@ I was exhausted and in a hurry to catch the train back to Kyōto, so the perspec
 
 Date: 2023-12-26
 
-Due to circumstances outside of my control, I arrived at the Grand Front Ōsaka in the late evening and everything was already closed so I had to return another day to take this picture inside the building.
-It is inside the North Building on the 4th floor. You can walke throught the South Building over the bridge to the North Building and then go up the escalators to get there. The store you can see on the same floor in the picture is "HIDA Ōsakaten".
+Due to circumstances outside my control, I arrived at the Grand Front Ōsaka in the late evening,and everything was already closed, so I had to return another day to take this picture inside the building.
+It is inside the North Building on the 4th floor. You can walk through the South Building over the bridge to the North Building and then go up the escalators to get there. The store you can see on the same floor in the picture is "HIDA Ōsakaten".
 
 ![07.jpg](img/cg/07.jpg)
 ![YCB62335.jpg](img/YCB62335.jpg)
