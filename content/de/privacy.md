@@ -3,8 +3,7 @@ title = "Datenschutz"
 slug = "datenschutz"
 menu = "footer"
 weight = 2
-type = "containered"
-draft = false
+type = "md-container"
 +++
 
 # Datenschutzerklärung

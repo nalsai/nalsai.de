@@ -2,8 +2,7 @@
 title = "Imprint"
 menu = "footer"
 weight = 1
-type = "containered"
-draft = false
+type = "md-container"
 +++
 
 # Imprint

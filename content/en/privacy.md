@@ -2,8 +2,7 @@
 title = "Privacy Policy"
 menu = "footer"
 weight = 2
-type = "containered"
-draft = false
+type = "md-container"
 +++
 
 # Privacy Policy
