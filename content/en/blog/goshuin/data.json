@@ -79,8 +79,8 @@
             "type": "temple",
             "image": "2023-09-25_hase-dera.jpg",
             "prefecture": "Kanagawa",
-            "location": "Hase-dera",
-            "locationJp": "長谷寺",
+            "location": "Kamakura Hase-dera",
+            "locationJp": "鎌倉 長谷寺",
             "date": "2023-09-25"
         },
         {
@@ -794,6 +794,20 @@
             "locationJp": "三重縣護國神社",
             "notes": "May Goshuin",
             "date": "2024-05-16"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-06-01_futami-okitama-jinja.jpg",
+            "prefecture": "Mie",
+            "location": "Futami Okitama Jinja",
+            "locationJp": "二見興玉神社",
+            "date": "2024-06-01",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "futami-okitama-jinja_blotter.jpg"
+                }
+            ]
         }
     ]
 }
