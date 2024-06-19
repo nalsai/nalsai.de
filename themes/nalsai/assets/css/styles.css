@@ -76,6 +76,11 @@ body {
     vertical-align: 0.125em;
 }
 
+.icon-link > .bi { 
+    height: inherit;
+    width: inherit;
+}
+
 .hover-opacity {
     opacity: .9;
     transition: 400ms ease;
