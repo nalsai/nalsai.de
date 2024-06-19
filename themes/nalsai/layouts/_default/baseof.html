@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.Language.Lang }}">
+<html lang="{{ .Site.Language.Lang }}" data-bs-theme="dark">
 
 <head>
     {{ partial "head" . }}
@@ -12,12 +12,12 @@
         <div class="alert alert-dark" role="alert">
             <i class="bi bi-exclamation-triangle"></i>
             <span id="lang-not-available">This page is not available in your chosen language</span><span id="target-lang"></span>.
-            <div role="button" onclick="history.back()" class="btn btn-sm btn-secondary mx-3 align-baseline">
-                <i class="bi bi-chevron-left align-middle"></i>
+            <div role="button" onclick="history.back()" class="btn btn-sm btn-secondary mx-3">
+                <i class="bi bi-chevron-left"></i>
                 <span id="back">Back</span>
             </div>
             <div id="google_translate_element" class="d-inline">
-                <div role="button" onclick="loadGoogleTranslate(); this.remove()" class="btn btn-sm btn-secondary align-baseline">
+                <div role="button" onclick="loadGoogleTranslate(); this.remove()" class="btn btn-sm btn-secondary">
                     <i class="bi bi-translate"></i>
                     Google Translate
                 </div>

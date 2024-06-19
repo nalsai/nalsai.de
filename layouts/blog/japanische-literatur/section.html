@@ -10,7 +10,7 @@ ul.timeline {
  /* Timeline vertical line */
 ul.timeline::before {
     content: ' ';
-    background: #fff;
+    background: #f3f3f3;
     display: inline-block;
     position: absolute;
     left: 16px;
@@ -28,7 +28,7 @@ li.timeline-item {
 /* Timeline item arrow */
 .timeline-arrow {
     border-top: 0.5rem solid transparent;
-    border-right: 0.5rem solid #fff;
+    border-right: 0.5rem solid #f3f3f3;
     border-bottom: 0.5rem solid transparent;
     display: block;
     position: absolute;
@@ -74,7 +74,7 @@ body {
 </style>
 
 <main class="container py-5">
-    <div class="row text-center text-white mb-3">
+    <div class="row text-center mb-3">
         <div class="col-lg-10 mx-auto">
             <h1 class="display-4">{{ .Title }}</h1>
             {{ with .Params.tags }}{{ range $tag := . }}<a class="badge rounded-pill bg-primary text-decoration-none my-3" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}/">{{ . }}</a> {{ end }}{{ end }}

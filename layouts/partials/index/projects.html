@@ -1,7 +1,7 @@
 <div class="row my-5 py-4">
     {{ range .Site.Menus.projects }}
     <div class="col-sm">
-        <div class="card">
+        <div class="card h-100">
             {{ if $image := .Page.Resources.GetMatch "img/thumb*" }}
             <div class="view overlay">
                 <a href="{{ .URL }}">

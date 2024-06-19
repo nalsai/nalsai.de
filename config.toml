@@ -11,13 +11,13 @@ DefaultContentLanguage = "en"
     languageName = "English"
     contentDir = "content/en"
     title = "Nils' Website"
-    weight = 2
+    weight = 1
   [languages.de]
     baseURL = "https://nalsai.de"
     languageName = "Deutsch"
     contentDir = "content/de"
     title = "Nils' Webseite"
-    weight = 1
+    weight = 2
 
 [markup]
   [markup.goldmark]
