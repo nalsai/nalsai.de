@@ -1,21 +1,19 @@
 +++
 title = "Visiting Seki Post Town"
-description = ""
-tags = [
-  "Japan"
-]
+description = "The best preserved of the 53 stations along the old Tōkaidō."
+tags = ["Japan", "Mie", "Tōkaidō", "Post Town", "Museum", "History"]
 date = 2023-12-17
 +++
 
 
-On Thursday, December 14, I went to Seki-juku (Seki Post Town) with a friend.
+On Thursday, December 14, I visited Seki-juku (Seki Post Town) with a friend.
 
 We rode our bikes to Tsu Station and then took the JR Kisei Line to Kameyama, where we had to change trains to the Kansai Line.
 The Kansai Line going to Seki Station was a very short (single-car) diesel multiple unit (DMU) train, model KiHa 120.
 
 ![Train leaving Seki Station headed for Kamo](XLE40985.jpg)
 
-As it was a very small local train, we couldn't pay with our Suica IC cards, which was a bit confusing.
+As it was a very small local train, we couldn't pay with our Suica IC cards, which we didn't know at first, so we had to correct it when returning.
 
 The train runs to Kamo Station in Kyōto Prefecture, where passengers can switch to the Yamatoji Line to Nara and Ōsaka, which is technically part of the Kansai Main Line connecting JR Namba Station in Ōsaka with Nagoya Station. It seems like the Kintetsu lines out-competed the Kansai Main Line, resulting in that split.
 
@@ -94,7 +92,7 @@ The main hall, the *aizome* hall and the bell tower were built in the 17th centu
 
 We had lunch at Aizuya right next to the temple.
 
-I took the recommended meal set (*o-susume teishoku*) for 1800 yen.
+I took the recommended meal set (*osusume teishoku*) for 1800 yen.
 
 ![recommended meal set at Aizuya](XLE52052.jpg)
 
@@ -107,9 +105,9 @@ I wish I could eat it more often.
 To end the trip, we went for a foot bath at the *Koman no yu*.
 There was a sign that it was closed from December 15 until January 9, so we were lucky to be there the day before it closed.
 
-![](XLE55406-cropped.jpg)
+![Koman no yu footbath](XLE55406-cropped.jpg)
 
-Before we left, I bought some *Shiratama dango* to take with me.
+Before we left, I bought some *shiratama dango* to take with me.
 
 It was a really nice trip, and I would recommend it to anyone in the area.
 Even the power and network cables were buried to support the historical look of Seki-juku and there is a branch of the Hyakugo Bank inside a building just like the other historical buildings there, which makes it look like it's a traditional business from there.
@@ -119,4 +117,4 @@ It is nice to see initiatives to preserve the history of the area, and I hope th
 
 ![alcohol vending machine and egg vending machine](XLE55614-XLE50441.jpg)
 
-We also saw a vending machine selling alcohol and one selling eggs, which I thought was interesting and pretty Japanese.
+We also saw a vending machine selling alcohol and one selling eggs, which I thought was interesting.
