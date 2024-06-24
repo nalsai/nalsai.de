@@ -31,3 +31,7 @@ DefaultContentLanguage = "en"
   [params.umami]
     id = "b0d36943-ce3a-42e9-ae7e-c3c7209594db"
     src = "https://umami.nils.moe/script.js"
+
+[module]
+  [[module.imports]]
+    path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"

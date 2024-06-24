@@ -2,10 +2,28 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <title>{{ .Title }} @ {{ .Site.Title }}</title>
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Title }}: {{ .Title }}{{ end }}">
-<link rel="stylesheet" href="/css/bootstrap.min.css">
+
+
+<!--<link rel="stylesheet" href="/css/bootstrap.min.css">-->
+
+
+{{/* Load Bootstrap SCSS. */}}
+{{ $options := dict "enableSourceMap" true }}
+{{ if hugo.IsProduction}}
+{{ $options := dict "enableSourceMap" false "outputStyle" "compressed" }}
+{{ end }}
+{{ $styles := resources.Get "scss/styles.scss" }}
+{{ $styles = $styles | resources.ToCSS $options }}
+{{ if hugo.IsProduction }}
+{{ $styles = $styles | fingerprint }}
+{{ end }}
+<link href="{{ $styles.RelPermalink }}" rel="stylesheet" />
+<script>var process = {env: {}};</script>
+
 {{ $css := resources.Get "css/styles.css" }}{{ if hugo.IsProduction}}{{ $css = $css | minify | fingerprint }}{{ end }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}">
 <link rel="icon" type="image/png" href="/img/Avatar128.png" sizes="128x128">
 <link rel="icon" type="image/png" href="/img/Avatar256.png" sizes="256x256">
 <link rel="icon" type="image/png" href="/img/Avatar400.png" sizes="400x400">
 <link rel="stylesheet" href="/fonts/bootstrap-icons.min.css">
+

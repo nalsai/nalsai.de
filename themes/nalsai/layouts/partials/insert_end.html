@@ -1,8 +1,21 @@
-<script src="/js/bootstrap.bundle.min.js"></script>
+
+
+{{/* Load Bootstrap JS. */}}
+{{ $js := resources.Get "js/index.js" }}
+{{ $params := dict }}
+{{ $sourceMap := cond hugo.IsProduction "" "inline" }}
+{{ $opts := dict "sourceMap" $sourceMap "minify" hugo.IsProduction "target" "es2018" "params" $params }}
+{{ $js = $js | js.Build $opts }}
+{{ if hugo.IsProduction }}
+{{ $js = $js | fingerprint }}
+{{ end }}  
+<script src="{{ $js.RelPermalink }}" {{ if hugo.IsProduction }}integrity="{{ $js.Data.Integrity }}"{{ end }} defer></script>
+
+<!--<script src="/js/bootstrap.bundle.min.js"></script>
 <script>
   const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
   const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
-</script>
+</script>-->
 <script>
   // feedback button (based on script from https://fasterthanli.me/)
   document.addEventListener("DOMContentLoaded", () => {
@@ -102,6 +115,16 @@ Here's what it is:
         document.documentElement.setAttribute('data-bs-theme', (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'))
       } else {
         document.documentElement.setAttribute('data-bs-theme', theme)
+      }
+
+      var x = document.getElementsByClassName("invert-light");
+      for (var counter = 0; counter < x.length; counter++) {
+        if (theme === 'auto') {
+          x.item(counter).style = window.matchMedia('(prefers-color-scheme: dark)').matches ? '' : 'filter: invert(1)'
+        }
+        else {
+          x.item(counter).style = theme === 'light' ? 'filter: invert(1)' : ''
+        }
       }
     }
 

@@ -1,16 +1,16 @@
 @font-face {
-    font-family: 'Sawarabi Gothic';
-    src: local('Sawarabi Gothic'),
-        url('/fonts/SawarabiGothic-Regular.woff2') format('woff2');
+    font-family: 'Quicksand';
+    src: local('Quicksand Regular'),
+        url('/fonts/Quicksand-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Quicksand';
-    src: local('Quicksand Regular'),
-        url('/fonts/Quicksand-Regular.woff2') format('woff2');
+    font-family: 'Sawarabi Gothic';
+    src: local('Sawarabi Gothic'),
+        url('/fonts/SawarabiGothic-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -117,5 +117,6 @@ body {
 }
 
 .web-button:hover img {
-    filter: drop-shadow(1px 1px 0px #00bc8c) drop-shadow(-1px -1px 0px #00bc8c) drop-shadow(1px -1px 0px #00bc8c) drop-shadow(-1px 1px 0px #00bc8c);
+    --web-button-hover-color: var(--bs-primary-text-emphasis);
+    filter: drop-shadow(1px 1px 0px var(--web-button-hover-color)) drop-shadow(-1px -1px 0px var(--web-button-hover-color)) drop-shadow(1px -1px 0px var(--web-button-hover-color)) drop-shadow(-1px 1px 0px var(--web-button-hover-color));
 }

@@ -1,4 +1,4 @@
-<footer class="container py-1">
+<footer class="container py-2 mt-4">
     <hr class="featurette-divider my-4">
     <p class="float-end ml-4"><a href="#" onclick="document.body.scrollTop=0;document.documentElement.scrollTop=0;event.preventDefault()">{{ i18n "top" }}</a></p>
     <p>&copy; {{ with .Site.GetPage "blog/website-creation.md" }}<a href="{{ .RelPermalink }}" class="text-body-emphasis text-decoration-none">2018-{{ now.Year }}</a>{{ else }}2018-{{ now.Year }}{{ end }} Nils Fürniß {{ range .Site.Menus.footer }} &middot; <a href="{{ .URL }}">{{ .Title }}</a>{{ end }}</p>
