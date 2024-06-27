@@ -36,10 +36,10 @@
     }
     else if (Month === 11 && DayOfMonth === 24 || Month === 11 && DayOfMonth === 25 || Month === 11 && DayOfMonth === 26) {
         quotes = [];
-        quotes[0] = "<a href=\"https://www.youtube.com/watch?v=dQ_d_VKrFgM\" target=\"_blank\" rel=\"noopener\">Frohe Weihnachten<\a>";
-        quotes[1] = "<a href=\"https://www.youtube.com/watch?v=dQ_d_VKrFgM\" target=\"_blank\" rel=\"noopener\">Merry Christmas<\a>";
-        quotes[2] = "<a href=\"https://www.youtube.com/watch?v=dQ_d_VKrFgM\" target=\"_blank\" rel=\"noopener\">メリークリスマス<\a>";
-        quotes[3] = "<a href=\"https://www.youtube.com/watch?v=efdN69QscAg\" target=\"_blank\" rel=\"noopener\">hashire sori yo kaze no you ni tsukimihara wo padoru padoru<\a>";
+        quotes[0] = "<a href=\"https://www.youtube.com/watch?v=dQ_d_VKrFgM\" class=\"link-info\" target=\"_blank\" rel=\"noopener\">Frohe Weihnachten<\a>";
+        quotes[1] = "<a href=\"https://www.youtube.com/watch?v=dQ_d_VKrFgM\" class=\"link-info\" target=\"_blank\" rel=\"noopener\">Merry Christmas<\a>";
+        quotes[2] = "<a href=\"https://www.youtube.com/watch?v=dQ_d_VKrFgM\" class=\"link-info\" target=\"_blank\" rel=\"noopener\">メリークリスマス<\a>";
+        quotes[3] = "<a href=\"https://www.youtube.com/watch?v=efdN69QscAg\" class=\"link-info\" target=\"_blank\" rel=\"noopener\">hashire sori yo kaze no you ni tsukimihara wo padoru padoru<\a>";
         index = Math.floor(Math.random() * quotes.length);
         document.getElementById("QuotesEtc").innerHTML = quotes[index];
     }
@@ -66,18 +66,18 @@
         quotes[10] = "分かんない";
         quotes[11] = "時は金なり";
         quotes[12] = "遠くてちかきもの<br>極樂。船の道。男女の中。";
-        quotes[13] = "<a href=\"https://www.youtube.com/watch?v=dQw4w9WgXcQ\" target=\"_blank\" rel=\"noopener\">https://www.youtube.com/watch?v=dQw4w9WgXcQ</a>";
-        quotes[14] = "<a href=\"https://www.youtube.com/watch?v=QdEOL1HGtXE\" target=\"_blank\" rel=\"noopener\">https://www.youtube.com/watch?v=QdEOL1HGtXE</a>";
-        quotes[15] = "<a href=\"https://www.youtube.com/watch?v=VyX6akEAE1s\" target=\"_blank\" rel=\"noopener\">https://www.youtube.com/watch?v=VyX6akEAE1s</a>";
-        quotes[16] = "<a href=\"https://www.youtube.com/watch?v=0NXLKOfXkoI\" target=\"_blank\" rel=\"noopener\">https://www.youtube.com/watch?v=0NXLKOfXkoI</a>";
-        quotes[17] = "<a href=\"https://www.youtube.com/watch?v=ShDyYY6X8Mg\" target=\"_blank\" rel=\"noopener\">https://www.youtube.com/watch?v=ShDyYY6X8Mg</a>";
-        quotes[18] = "<a href=\"https://www.youtube.com/watch?v=LNaD6Q-ybxE\" target=\"_blank\" rel=\"noopener\">https://www.youtube.com/watch?v=LNaD6Q-ybxE</a>";
+        quotes[13] = "<a href=\"https://www.youtube.com/watch?v=dQw4w9WgXcQ\" class=\"link-info\" target=\"_blank\" rel=\"noopener\">https://www.youtube.com/watch?v=dQw4w9WgXcQ</a>";
+        quotes[14] = "<a href=\"https://www.youtube.com/watch?v=QdEOL1HGtXE\" class=\"link-info\" target=\"_blank\" rel=\"noopener\">https://www.youtube.com/watch?v=QdEOL1HGtXE</a>";
+        quotes[15] = "<a href=\"https://www.youtube.com/watch?v=VyX6akEAE1s\" class=\"link-info\" target=\"_blank\" rel=\"noopener\">https://www.youtube.com/watch?v=VyX6akEAE1s</a>";
+        quotes[16] = "<a href=\"https://www.youtube.com/watch?v=0NXLKOfXkoI\" class=\"link-info\" target=\"_blank\" rel=\"noopener\">https://www.youtube.com/watch?v=0NXLKOfXkoI</a>";
+        quotes[17] = "<a href=\"https://www.youtube.com/watch?v=ShDyYY6X8Mg\" class=\"link-info\" target=\"_blank\" rel=\"noopener\">https://www.youtube.com/watch?v=ShDyYY6X8Mg</a>";
+        quotes[18] = "<a href=\"https://www.youtube.com/watch?v=LNaD6Q-ybxE\" class=\"link-info\" target=\"_blank\" rel=\"noopener\">https://www.youtube.com/watch?v=LNaD6Q-ybxE</a>";
         quotes[19] = "No ads here!";
 
         if (DayOfWeek === 3)
             quotes[quotes.length++] = "It's wednesday my dudes!";
         if (Month === 10 | Month === 11)
-            quotes[quotes.length++] = "<a href=\"https://www.youtube.com/watch?v=efdN69QscAg\" target=\"_blank\" rel=\"noopener\">hashire sori yo kaze no you ni tsukimihara wo padoru padoru<\a>";
+            quotes[quotes.length++] = "<a href=\"https://www.youtube.com/watch?v=efdN69QscAg\" class=\"link-info\" target=\"_blank\" rel=\"noopener\">hashire sori yo kaze no you ni tsukimihara wo padoru padoru<\a>";
         if (typeof InstallTrigger !== 'undefined')
             quotes[quotes.length++] = "You're using Firefox!";
         if (!!window.chrome && (!!window.chrome.webstore || !!window.chrome.runtime))
