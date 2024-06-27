@@ -1,0 +1,290 @@
+@font-face {
+    font-family: 'Quicksand';
+    src: local('Quicksand Regular'),
+        url('/fonts/Quicksand-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sawarabi Gothic';
+    src: local('Sawarabi Gothic'),
+        url('/fonts/SawarabiGothic-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+body {
+    font-family: 'Quicksand', 'Sawarabi Gothic', sans-serif;
+}
+
+.container img {
+    max-width: 100%;
+    height: auto;
+}
+
+.w-fit-content {
+    width: fit-content;
+}
+
+.aspect-4-3 {
+    aspect-ratio: 4 / 3;
+}
+
+.aspect-3-2 {
+    aspect-ratio: 3 / 2;
+}
+
+.aspect-16-9 {
+    aspect-ratio: 16 / 9;
+}
+
+.aspect-2-1 {
+    aspect-ratio: 2;
+}
+
+.callout+.callout {
+    margin-top: -.25rem;
+}
+
+.callout-warning {
+    --bd-callout-color: var(--bs-warning-text-emphasis);
+    --bd-callout-bg: var(--bs-warning-bg-subtle);
+    --bd-callout-border: var(--bs-warning-border-subtle);
+}
+
+.callout {
+    --bs-link-color-rgb: var(--bd-callout-link);
+    --bs-code-color: var(--bd-callout-code-color);
+    padding: 1.25rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    color: var(--bd-callout-color, inherit);
+    background-color: var(--bd-callout-bg, var(--bs-gray-100));
+    border-left: 0.25rem solid var(--bd-callout-border, var(--bs-gray-300));
+}
+
+.id-scroll-fix {
+    padding-top: 3em;
+    margin-top: -3em;
+}
+
+.goog-te-gadget {
+    display: inherit;
+    vertical-align: 0.125em;
+}
+
+.icon-link>.bi {
+    height: inherit;
+    width: inherit;
+}
+
+.hover-opacity {
+    opacity: .9;
+    transition: 400ms ease;
+}
+
+.hover-opacity:hover {
+    opacity: 1;
+    transition: 200ms ease;
+}
+
+.card-hover img {
+    filter: brightness(90%);
+    transition: 400ms ease;
+}
+
+.card-hover:hover img {
+    filter: brightness(100%);
+    transition: 200ms ease;
+}
+
+.card-title-bg {
+    font-size: 1.2rem;
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: .5rem .8rem;
+    border-radius: .6rem;
+    width: fit-content;
+}
+
+/* Timeline holder */
+ul.timeline {
+    list-style-type: none;
+    position: relative;
+    padding-left: 2.5rem;
+}
+
+/* Timeline vertical line */
+ul.timeline::before {
+    content: ' ';
+    background: #fff;
+    display: inline-block;
+    position: absolute;
+    left: 16px;
+    width: 4px;
+    height: 100%;
+    z-index: 400;
+    border-radius: 1rem;
+    top: 2rem;
+}
+
+li.timeline-item {
+    margin: 20px 0;
+}
+
+/* Timeline item arrow */
+.timeline-arrow {
+    border-top: 0.5rem solid transparent;
+    border-right: 0.5rem solid #f3f3f3;
+    border-bottom: 0.5rem solid transparent;
+    display: block;
+    position: absolute;
+    left: 2rem;
+}
+
+/* Timeline item circle marker */
+li.timeline-item::before {
+    content: ' ';
+    background: #ddd;
+    display: inline-block;
+    position: absolute;
+    border-radius: 50%;
+    border: 3px solid #fff;
+    left: 11px;
+    width: 14px;
+    height: 14px;
+    z-index: 400;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+li.timeline-item {
+    background: #f3f3f3;
+    transition: 240ms ease;
+}
+
+li:hover.timeline-item {
+    background: #fff;
+    transition: 200ms ease;
+}
+
+#intro {
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2)), url("/img/TH969381.jpg") no-repeat center center fixed;
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#main-nav {
+    transition: background .6s;
+}
+
+.nav-at-top {
+    background-color: transparent !important;
+    transition: background .6s;
+}
+
+.bottom-svg {
+    position: absolute;
+    right: 0;
+    bottom: -50px;
+    left: 0;
+    z-index: 6;
+    width: 100%;
+    height: auto;
+    display: none;
+    color: var(--bs-body-bg);
+}
+
+@media screen and (min-width: 1400px) {
+    .bottom-svg {
+        display: block;
+    }
+
+    #intro-text {
+        transform: translateY(-20%)
+    }
+}
+
+/* https://css-tricks.com/a-handy-little-system-for-animated-entrances-in-css/ */
+.animate {
+    animation-duration: 0.6s;
+    animation-timing-function: cubic-bezier(.26, .53, .74, 1.48);
+    animation-fill-mode: backwards;
+}
+
+.animate.animate-blur {
+    animation-name: animate-blur;
+    animation-timing-function: ease;
+}
+
+@keyframes animate-blur {
+    0% {
+        opacity: 0;
+        filter: blur(15px);
+    }
+
+    100% {
+        opacity: 1;
+        filter: blur(0px);
+    }
+}
+
+.animate.animate-slide {
+    animation-name: animate-slide;
+}
+
+@keyframes animate-slide {
+    0% {
+        opacity: 0;
+        transform: translate(0, 15px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translate(0, 0);
+    }
+}
+
+.delay-1 {
+    animation-delay: 0.3s;
+}
+
+@media screen and (prefers-reduced-motion: reduce) {
+    .animate {
+        animation: none !important;
+    }
+}
+
+.logo {
+    margin: 0 6px;
+}
+
+.logo img {
+    height: 75px;
+    width: 75px;
+    transition: all .2s ease-in-out;
+    margin-bottom: 1em;
+}
+
+.logo img:hover {
+    transform: scale(1.1);
+}
+
+.web-button img {
+    margin: .2em .1em;
+    width: auto;
+    height: 62px;
+    image-rendering: pixelated;
+}
+
+.web-button:hover img {
+    --web-button-hover-color: var(--bs-primary-text-emphasis);
+    filter: drop-shadow(1px 1px 0px var(--web-button-hover-color)) drop-shadow(-1px -1px 0px var(--web-button-hover-color)) drop-shadow(1px -1px 0px var(--web-button-hover-color)) drop-shadow(-1px 1px 0px var(--web-button-hover-color));
+}

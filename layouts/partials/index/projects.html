@@ -1,24 +1,20 @@
 <div class="row my-5 py-4">
     {{ range .Site.Menus.projects }}
     <div class="col-sm">
-        <div class="card">
+        <a class="card h-100 text-decoration-none card-hover" href="{{ .URL }}">
             {{ if $image := .Page.Resources.GetMatch "img/thumb*" }}
             <div class="view overlay">
-                <a href="{{ .URL }}">
-                    <img class="card-img-top" src="{{ $image.Permalink }}" alt="{{ .Title }} Thumbnail">
-                    <div class="mask rgba-white-slight"></div>
-                </a>
+                <img class="card-img-top" src="{{ $image.Permalink }}" alt="{{ .Title }} Thumbnail">
+                <div class="mask rgba-white-slight"></div>
             </div>
             {{ end }}
             <div class="card-body">
-                <a href="{{ .URL }}">
-                    <p class="card-title h4">{{ .Title }}</p>
-                </a>
+                <p class="card-title h4">{{ .Title }}</p>
                 <p class="card-text">
                     {{ .Page.Description }}
                 </p>
             </div>
-        </div>
+        </a>
     </div>
     {{ end }}
 </div>

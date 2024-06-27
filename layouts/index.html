@@ -1,13 +1,13 @@
 {{ define "head" }}
-    {{ partial "index/head" . }}
+{{ partial "index/head" . }}
 {{ end }}
+
 {{ define "main" }}
-    {{ partial "index/header" . }}
-    <div class="container mt-5">
-        {{ partial "index/about" . }}
-        {{ partial "index/projects" . }}
-        {{ partial "index/sns" . }}
-        {{ partial "index/buttons" . }}
-    </div>
-    {{ partial "index/js" . }}
+{{ partial "index/header" . }}
+<div class="container mt-5">
+    {{ partial "index/about" . }}
+    {{ partial "index/projects" . }}
+    {{ partial "index/sns" . }}
+    {{ partial "index/buttons" . }}
+</div>
 {{ end }}

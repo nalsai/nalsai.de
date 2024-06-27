@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language }}" data-bs-theme="dark">
+
+<head>
+    {{ partial "head" . }}
+    {{ block "head" . }}{{ end }}
+
+</head>
+
+<body>
+    {{ partial "navbar" . }}
+    {{ partial "translator" . }}
+
+    {{ block "main" . }}{{ end }}
+
+    {{ partial "footer" . }}
+</body>
+
+</html>

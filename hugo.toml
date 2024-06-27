@@ -1,25 +1,26 @@
 baseURL = "https://nalsai.de/"
 title = "Nils' Website"
-theme = "nalsai"
 enableGitInfo = true
-
 DefaultContentLanguage = "en"
 
 [languages]
   [languages.en]
     baseURL = "https://en.nalsai.de"
-    languageName = "English"
     contentDir = "content/en"
+    languageCode = 'en-US'
+    languageName = "English"
     title = "Nils' Website"
-    weight = 2
+    weight = 1
   [languages.de]
     baseURL = "https://nalsai.de"
-    languageName = "Deutsch"
     contentDir = "content/de"
+    languageCode = 'de-DE'
+    languageName = "Deutsch"
     title = "Nils' Webseite"
-    weight = 1
+    weight = 2
 
 [markup]
+  defaultMarkdownHandler = 'goldmark'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
@@ -31,3 +32,7 @@ DefaultContentLanguage = "en"
   [params.umami]
     id = "b0d36943-ce3a-42e9-ae7e-c3c7209594db"
     src = "https://umami.nils.moe/script.js"
+
+[module]
+  [[module.imports]]
+    path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"

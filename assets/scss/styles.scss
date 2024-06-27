@@ -1,0 +1,41 @@
+// required to get $orange variable
+@import "bootstrap/functions"; 
+@import "bootstrap/variables";
+
+$primary: #047b77;
+$secondary: #0062a8;
+$success: #29a165;
+$info: #8adce6;
+$warning: #ECC8AE;
+$danger: #c04c55;
+
+// light colors
+$body-color: #141112;
+$link-color: #0062a8;
+$body-bg: #EBF2FA;
+$secondary-bg: #000;
+
+// dark colors
+$body-bg-dark: #00171F;
+$body-color-dark: #f5edf1;
+
+// merge with existing $theme-colors map
+$theme-colors: map-merge($theme-colors, (
+    "primary": $primary,
+    "secondary": $secondary,
+    "success": $success,
+    "info": $info,
+    "warning": $warning,
+    "danger": $danger,
+));
+
+
+$component-active-bg: $secondary;
+$list-group-active-bg:              $component-active-bg;
+$list-group-active-border-color:    $list-group-active-bg;
+$dropdown-link-active-bg:           $component-active-bg;
+$pagination-active-bg:              $component-active-bg;
+$pagination-active-border-color:    $pagination-active-bg;
+
+// import bootstrap
+@import "bootstrap/bootstrap";

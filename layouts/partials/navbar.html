@@ -1,0 +1,76 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary py-3 px-1 {{ if .IsHome }}fixed-top nav-at-top{{else}}sticky-top{{ end }}" id="main-nav">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="{{ .Site.Home.RelPermalink }}">
+            <img src="/img/Avatar128.png" width="30" height="30" class="d-inline-block align-top" alt="Nils' Avatar">
+            {{ .Site.Title }}
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            {{ $currentPage := . }}
+            {{ range .Site.Menus.main }}
+            <li class="nav-item">
+                <a class="nav-link{{ if $currentPage.IsMenuCurrent "main" . }} active" aria-current="page{{ end }}" href="{{ .URL }}">
+                    {{ .Name }}
+                </a>
+            </li>
+            {{ end }}
+            <li class="nav-item">
+                <a class="nav-link" href="https://files.nils.moe/" target="_blank">
+                    Files
+                </a>
+            </li>
+            </ul>
+            <div class="nav-item w-fit-content">
+                <a class="nav-link py-2 px-1 px-lg-2 text-white" id="feedback-button" data-bs-toggle="tooltip"
+                    data-bs-placement="bottom" data-bs-title="Feedback" aria-label="Feedback"
+                    href="https://github.com/nalsai/nalsai.de/issues/new/choose" target="_blank">
+                    <i class="bi bi-github me-1"></i>
+                    <span class="d-lg-none">Feedback</span>
+                </a>
+            </div>
+            <div class="nav-item w-fit-content dropdown">
+                <button class="btn btn-link nav-link py-2 px-1 px-lg-2 pe-lg-3 dropdown-toggle d-flex align-items-center text-white" id="bd-theme"
+                    type="button" aria-expanded="false" data-bs-toggle="dropdown" data-bs-display="static"
+                    aria-label="Toggle theme (dark)">
+                    <i class="bi bi-circle-half me-2 theme-icon-active"></i>
+                    <span class="d-lg-none" id="bd-theme-text">Toggle theme</span>
+                </button>
+                <ul class="dropdown-menu dropdown-menu-start dropdown-menu-lg-end" aria-labelledby="bd-theme-text">
+                    <li>
+                        <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="light" aria-pressed="false">
+                            <i class="bi bi-sun-fill me-2"></i>
+                            Light
+                        </button>
+                    </li>
+                    <li>
+                        <button type="button" class="dropdown-item d-flex align-items-center active" data-bs-theme-value="dark" aria-pressed="true">
+                            <i class="bi bi-moon-stars-fill me-2"></i>
+                            Dark
+                        </button>
+                    </li>
+                    <li>
+                        <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="auto" aria-pressed="false">
+                            <i class="bi bi-circle-half me-2"></i>
+                            Auto
+                        </button>
+                    </li>
+                </ul>
+            </div>
+            {{ if .IsTranslated }}
+            <div class="dropdown w-fit-content">
+                <button class="btn btn-secondary dropdown-toggle mt-2 mt-lg-auto" type="button" id="languageDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                    <i class="bi bi-translate"></i>&nbsp;{{ .Language.LanguageName }}
+                </button>
+                <ul class="dropdown-menu dropdown-menu-start dropdown-menu-lg-end" aria-labelledby="languageDropdown">
+                    {{ range .AllTranslations }}
+                    <li><a class="dropdown-item" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+                    {{ end }}
+                </ul>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</nav>
