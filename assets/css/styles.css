@@ -76,7 +76,7 @@ body {
     vertical-align: 0.125em;
 }
 
-.icon-link > .bi { 
+.icon-link>.bi {
     height: inherit;
     width: inherit;
 }
@@ -107,6 +107,174 @@ body {
     padding: .5rem .8rem;
     border-radius: .6rem;
     width: fit-content;
+}
+
+/* Timeline holder */
+ul.timeline {
+    list-style-type: none;
+    position: relative;
+    padding-left: 2.5rem;
+}
+
+/* Timeline vertical line */
+ul.timeline::before {
+    content: ' ';
+    background: #fff;
+    display: inline-block;
+    position: absolute;
+    left: 16px;
+    width: 4px;
+    height: 100%;
+    z-index: 400;
+    border-radius: 1rem;
+    top: 2rem;
+}
+
+li.timeline-item {
+    margin: 20px 0;
+}
+
+/* Timeline item arrow */
+.timeline-arrow {
+    border-top: 0.5rem solid transparent;
+    border-right: 0.5rem solid #f3f3f3;
+    border-bottom: 0.5rem solid transparent;
+    display: block;
+    position: absolute;
+    left: 2rem;
+}
+
+/* Timeline item circle marker */
+li.timeline-item::before {
+    content: ' ';
+    background: #ddd;
+    display: inline-block;
+    position: absolute;
+    border-radius: 50%;
+    border: 3px solid #fff;
+    left: 11px;
+    width: 14px;
+    height: 14px;
+    z-index: 400;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+li.timeline-item {
+    background: #f3f3f3;
+    transition: 240ms ease;
+}
+
+li:hover.timeline-item {
+    background: #fff;
+    transition: 200ms ease;
+}
+
+#intro {
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2)), url("/img/TH969381.jpg") no-repeat center center fixed;
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#main-nav {
+    transition: background .6s;
+}
+
+.nav-at-top {
+    background-color: transparent !important;
+    transition: background .6s;
+}
+
+.bottom-svg {
+    position: absolute;
+    right: 0;
+    bottom: -50px;
+    left: 0;
+    z-index: 6;
+    width: 100%;
+    height: auto;
+    display: none;
+    color: var(--bs-body-bg);
+}
+
+@media screen and (min-width: 1400px) {
+    .bottom-svg {
+        display: block;
+    }
+
+    #intro-text {
+        transform: translateY(-20%)
+    }
+}
+
+/* https://css-tricks.com/a-handy-little-system-for-animated-entrances-in-css/ */
+.animate {
+    animation-duration: 0.6s;
+    animation-timing-function: cubic-bezier(.26, .53, .74, 1.48);
+    animation-fill-mode: backwards;
+}
+
+.animate.animate-blur {
+    animation-name: animate-blur;
+    animation-timing-function: ease;
+}
+
+@keyframes animate-blur {
+    0% {
+        opacity: 0;
+        filter: blur(15px);
+    }
+
+    100% {
+        opacity: 1;
+        filter: blur(0px);
+    }
+}
+
+.animate.animate-slide {
+    animation-name: animate-slide;
+}
+
+@keyframes animate-slide {
+    0% {
+        opacity: 0;
+        transform: translate(0, 15px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translate(0, 0);
+    }
+}
+
+.delay-1 {
+    animation-delay: 0.3s;
+}
+
+@media screen and (prefers-reduced-motion: reduce) {
+    .animate {
+        animation: none !important;
+    }
+}
+
+.logo {
+    margin: 0 6px;
+}
+
+.logo img {
+    height: 75px;
+    width: 75px;
+    transition: all .2s ease-in-out;
+    margin-bottom: 1em;
+}
+
+.logo img:hover {
+    transform: scale(1.1);
 }
 
 .web-button img {

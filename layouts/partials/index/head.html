@@ -1,109 +1,90 @@
-<style>
-    #intro {
-        background: linear-gradient(rgba(0, 0, 0, 0.30), rgba(0, 0, 0, 0.30)), url("/img/TH969381.jpg") no-repeat center center fixed;
-        background-size: cover;
-        position: relative;
-        width: 100%;
-        height: 100vh;
-        overflow: hidden;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        console.log("Hello there! 👋");
+        console.log("( ⸝⸝•ᴗ•⸝⸝ )੭⁾⁾");
 
-    #main-nav {
-        transition: background .6s;
-    }
+        // make navbar opaque/transparent depending on scroll position
+        const o = document.getElementById("main-nav");
+        window.addEventListener("scroll", (function (e) {
+            let scrollPos = window.scrollY || window.scrollTop || document.getElementsByTagName("html")[0].scrollTop;
+            scrollPos > 120 ? o.classList.remove("nav-at-top") : o.classList.add("nav-at-top")
+        }))
 
-    .nav-at-top {
-        background-color: transparent !important;
-        transition: background .6s;
-    }
+        // get date
+        const d = new Date();
+        const Year = d.getFullYear();
+        const Month = d.getMonth();
+        const DayOfWeek = d.getDay();
+        const DayOfMonth = d.getDate();
+        const Hours = d.getHours();
 
-    .bottom-svg {
-        position: absolute;
-        right: 0;
-        bottom: -50px;
-        left: 0;
-        z-index: 6;
-        width: 100%;
-        height: auto;
-        display: none;
-        color: var(--bs-body-bg);
-    }
-
-    @media screen and (min-width: 1400px) {
-        .bottom-svg {
-            display: block;
+        // change to daytime image between 8 and 18 o'clock
+        if (Hours > 7 && Hours < 18) {
+            document.getElementById("intro").style.background = "linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2)), url('/img/THA45242.jpg') no-repeat center center fixed";
+            document.getElementById("intro").style.backgroundSize = "cover";
         }
 
-        #intro-text {
-            transform: translateY(-20%)
+        // update age
+        const birthDate = new Date("2002-12-13");
+        let age = Year - birthDate.getFullYear();
+        const m = Month - birthDate.getMonth();
+        if (m < 0 || (m === 0 && DayOfMonth < birthDate.getDate())) { age--; }
+        document.getElementById("age").innerHTML = age;
+
+        // random quotes
+        if (Month === 11 && DayOfMonth === 13) {
+            quotes = ["Ich habe Geburtstag!"];
         }
-    }
-
-    /* https://css-tricks.com/a-handy-little-system-for-animated-entrances-in-css/ */
-    .animate {
-        animation-duration: 0.6s;
-        animation-timing-function: cubic-bezier(.26, .53, .74, 1.48);
-        animation-fill-mode: backwards;
-    }
-
-    .animate.animate-blur {
-        animation-name: animate-blur;
-        animation-timing-function: ease;
-    }
-
-    @keyframes animate-blur {
-        0% {
-            opacity: 0;
-            filter: blur(15px);
+        else if (Month === 11 && DayOfMonth === 24 || Month === 11 && DayOfMonth === 25 || Month === 11 && DayOfMonth === 26) {
+            quotes = [
+                "<a href=\"https://www.youtube.com/watch?v=dQ_d_VKrFgM\" class=\"link-info\" target=\"_blank\" rel=\"noopener\">Frohe Weihnachten<\a>",
+                "<a href=\"https://www.youtube.com/watch?v=dQ_d_VKrFgM\" class=\"link-info\" target=\"_blank\" rel=\"noopener\">Merry Christmas<\a>",
+                "<a href=\"https://www.youtube.com/watch?v=dQ_d_VKrFgM\" class=\"link-info\" target=\"_blank\" rel=\"noopener\">メリークリスマス<\a>",
+                "<a href=\"https://www.youtube.com/watch?v=efdN69QscAg\" class=\"link-info\" target=\"_blank\" rel=\"noopener\">hashire sori yo kaze no you ni tsukimihara wo padoru padoru<\a>",
+            ];
         }
-
-        100% {
-            opacity: 1;
-            filter: blur(0px);
+        else if (Month === 11 && DayOfMonth === 31 || Month === 0 && DayOfMonth === 1) {
+            quotes = [
+                "Frohes neues Jahr!",
+                "Happy new year",
+                "明けましておめでとうございます。",
+            ];
         }
-    }
+        else {
+            quotes = [
+                "&nbsp;",
+                "Why do Java Developers need glasses? Because they can't C#.",
+                "„Das Problem mit Zitaten im Internet ist, dass man nie weiß, ob sie echt sind.“<br>- Goethe",
+                "seven ate nine",
+                "Fall.net",
+                "Have a nice trip, see you next fall!",
+                "Illuminati confirmed!",
+                "お前はもう死んでいる",
+                "ちゅんちゅんまる",
+                "え アタシ！？",
+                "分かんない",
+                "時は金なり",
+                "遠くてちかきもの<br>極樂。船の道。男女の中。",
+                "<a href=\"https://www.youtube.com/watch?v=dQw4w9WgXcQ\" class=\"link-info\" target=\"_blank\" rel=\"noopener\">https://www.youtube.com/watch?v=dQw4w9WgXcQ</a>",
+                "<a href=\"https://www.youtube.com/watch?v=QdEOL1HGtXE\" class=\"link-info\" target=\"_blank\" rel=\"noopener\">https://www.youtube.com/watch?v=QdEOL1HGtXE</a>",
+                "<a href=\"https://www.youtube.com/watch?v=VyX6akEAE1s\" class=\"link-info\" target=\"_blank\" rel=\"noopener\">https://www.youtube.com/watch?v=VyX6akEAE1s</a>",
+                "<a href=\"https://www.youtube.com/watch?v=0NXLKOfXkoI\" class=\"link-info\" target=\"_blank\" rel=\"noopener\">https://www.youtube.com/watch?v=0NXLKOfXkoI</a>",
+                "<a href=\"https://www.youtube.com/watch?v=ShDyYY6X8Mg\" class=\"link-info\" target=\"_blank\" rel=\"noopener\">https://www.youtube.com/watch?v=ShDyYY6X8Mg</a>",
+                "<a href=\"https://www.youtube.com/watch?v=LNaD6Q-ybxE\" class=\"link-info\" target=\"_blank\" rel=\"noopener\">https://www.youtube.com/watch?v=LNaD6Q-ybxE</a>",
+                "No ads here!",
+            ];
+            quotes.push("Hello there! 👋");
 
-    .animate.animate-slide {
-        animation-name: animate-slide;
-    }
-
-    @keyframes animate-slide {
-        0% {
-            opacity: 0;
-            transform: translate(0, 15px);
+            if (DayOfWeek === 3)
+                quotes.push("It's wednesday my dudes!");
+            if (Month === 10 | Month === 11)
+                quotes.push("<a href=\"https://www.youtube.com/watch?v=efdN69QscAg\" class=\"link-info\" target=\"_blank\" rel=\"noopener\">hashire sori yo kaze no you ni tsukimihara wo padoru padoru<\a>");
+            if (typeof InstallTrigger !== 'undefined')
+                quotes.push("Nice, you're using Firefox!");
+            if (!!window.chrome && (!!window.chrome.webstore || !!window.chrome.runtime))
+                quotes.push("You're using Chrome or a browser based on it 😒");
         }
-
-        100% {
-            opacity: 1;
-            transform: translate(0, 0);
-        }
-    }
-
-    .delay-1 {
-        animation-delay: 0.3s;
-    }
-
-    @media screen and (prefers-reduced-motion: reduce) {
-        .animate {
-            animation: none !important;
-        }
-    }
-
-    .logo {
-        margin: 0 6px;
-    }
-
-    .logo img {
-        height: 75px;
-        width: 75px;
-        transition: all .2s ease-in-out;
-        margin-bottom: 1em;
-    }
-
-    .logo img:hover {
-        transform: scale(1.1);
-    }
-</style>
+        index = Math.floor(Math.random() * quotes.length);
+        document.getElementById("QuotesEtc").innerHTML = quotes[index];
+    });
+</script>

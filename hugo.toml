@@ -6,18 +6,21 @@ DefaultContentLanguage = "en"
 [languages]
   [languages.en]
     baseURL = "https://en.nalsai.de"
-    languageName = "English"
     contentDir = "content/en"
+    languageCode = 'en-US'
+    languageName = "English"
     title = "Nils' Website"
     weight = 1
   [languages.de]
     baseURL = "https://nalsai.de"
-    languageName = "Deutsch"
     contentDir = "content/de"
+    languageCode = 'de-DE'
+    languageName = "Deutsch"
     title = "Nils' Webseite"
     weight = 2
 
 [markup]
+  defaultMarkdownHandler = 'goldmark'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true

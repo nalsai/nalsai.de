@@ -1,5 +1,0 @@
-/*/webgl/build/*.br
-  Content-Encoding: br
-
-/*/webgl/build/*.wasm*
-  Content-Type: application/wasm
