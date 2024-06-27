@@ -1,8 +1,6 @@
 baseURL = "https://nalsai.de/"
 title = "Nils' Website"
-theme = "nalsai"
 enableGitInfo = true
-
 DefaultContentLanguage = "en"
 
 [languages]
