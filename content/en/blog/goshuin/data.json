@@ -808,6 +808,28 @@
                     "file": "futami-okitama-jinja_blotter.jpg"
                 }
             ]
+        },
+        {
+            "type": "temple",
+            "image": "2024-06-15_kanzanji.jpg",
+            "prefecture": "Shizuoka",
+            "location": "Kanzanji",
+            "locationJp": "観山寺",
+            "date": "2024-06-15",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "kanzanji_blotter.jpg"
+                }
+            ]
+        },
+        {
+            "type": "shrine",
+            "image": "2024-06-16_atsuta-jingu.jpg",
+            "prefecture": "Aichi",
+            "location": "Atsuta Jingū",
+            "locationJp": "熱田神宮",
+            "date": "2024-06-16"
         }
     ]
 }
