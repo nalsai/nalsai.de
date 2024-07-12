@@ -1,4 +1,8 @@
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 h1:SmpwwN3DNzJWbV+IT8gaFu07ENUFpCvKou5BHYUKuVs=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200/go.mod h1:kx8MBj9T7SFR8ZClWvKZPmmUxBaltkoXvnWlZZcSnYA=
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000/go.mod h1:mFberT6ZtcchrsDtfvJM7aAH2bDKLdOnruUHl0hlapI=
+github.com/schnerring/hugo-mod-json-resume v0.0.0-20240610082311-1bde983b0d69 h1:rcz71tCkLGFfGhvrhJpAvUsQUGAZskwG8jRo7GVAlO0=
+github.com/schnerring/hugo-mod-json-resume v0.0.0-20240610082311-1bde983b0d69/go.mod h1:D68h0Xyl67ycYkrKj9c1vSSZpfJVQOE+lRXH8i+T5rM=
+github.com/schnerring/hugo-mod-json-resume v0.0.0-20240623004521-a9cf7a83b279 h1:fkyzK9MUltWsCQ5ipK0K8Bh0caSlvcPOsLSd/y6DT3U=
+github.com/schnerring/hugo-mod-json-resume v0.0.0-20240623004521-a9cf7a83b279/go.mod h1:D68h0Xyl67ycYkrKj9c1vSSZpfJVQOE+lRXH8i+T5rM=
 github.com/twbs/bootstrap v5.3.2+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=

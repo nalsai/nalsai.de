@@ -1,0 +1,142 @@
+{
+  "basics": {
+    "name": "Nils Fürniß",
+    "_label": "Programmer",
+    "image": "",
+    "email": "nils.fuerniss@gmail.com",
+    "phone": "+49 1590 1993664",
+    "url": "https://en.nalsai.de",
+    "summary": "A summary of John Doe…",
+    "location": {
+      "address": "Waldstr. 47a",
+      "postalCode": "76351",
+      "city": "Linkenheim-Hochstetten",
+      "countryCode": "DE",
+      "_region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "NilsIV",
+        "url": "https://twitter.com/NilsIV"
+      }
+    ]
+  },
+  "_work": [
+    {
+      "name": "Company",
+      "_position": "President",
+      "position": "Software Engineering Intern",
+      "url": "https://company.com",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Description…",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "_volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": " Grundschule Hochstetten",
+      "_url": "https://uni-heidelberg.de/",
+      "_area": "Software Development",
+      "_studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01"
+    },
+    {
+      "institution": "Bismarck Gymnasium Karlsruhe",
+      "url": "https://bismarck-gymnasium.de/",
+      "_area": "Software Development",
+      "_studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "_score": "4.0",
+      "_courses": ["DB1101 - Basic SQL"]
+    },
+    {
+      "institution": "Heidelberg University",
+      "url": "https://uni-heidelberg.de/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "_score": "4.0",
+      "_courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "_awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "_certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "_publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "_projects": [
+    {
+      "name": "Project",
+      "description": "Description…",
+      "highlights": ["Won award at AIHacks 2016"],
+      "keywords": ["HTML"],
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "url": "https://project.com/",
+      "roles": ["Team Lead"],
+      "entity": "Entity",
+      "type": "application"
+    }
+  ]
+}
