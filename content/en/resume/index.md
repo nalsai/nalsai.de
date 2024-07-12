@@ -1,7 +1,7 @@
 +++
 title = "Resume"
 menu = "main"
-type = "containered"
+type = "resume"
 weight = 5
 +++
 
