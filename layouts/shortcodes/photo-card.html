@@ -1,5 +1,5 @@
 <div class="col-sm-6 col-lg-4 p-1 mt-1">
-    <a href="https://photos.app.goo.gl/{{ .Get "gid" }}" class="card-hover">
+    <a {{ with .Get "gid" }}href="https://photos.app.goo.gl/{{ . }}"{{end}} {{ with .Get  "immich" }}href="https://immich.hachiman.nils.moe/share/{{ . }}"{{end}} class="card-hover">
         <div class="card text-bg-dark rounded-4 border-0">
             <img src="{{ .Get "img" }}" class="card-img rounded-4 aspect-{{ .Get "aspect" }}" alt="{{ .Get "title" }} {{ i18n "preview-image" }}" loading="lazy">
             <div class="card-img-overlay d-flex">
