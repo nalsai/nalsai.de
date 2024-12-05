@@ -171,7 +171,7 @@
             "prefecture": "Kyōto",
             "location": "Fushimi Inari Taisha",
             "locationJp": "伏見稲荷大社",
-            "notes": "December Goshuin; Too big for a small Goshuin-chō",
+            "notes": "December Goshuin",
             "date": "2023-12-24"
         },
         {
@@ -611,7 +611,7 @@
             "image": "2024-03-23_kanda-jinja.jpg",
             "prefecture": "Tōkyō",
             "location": "Kanda Jinja",
-            "locationJp": "神田明神",
+            "locationJp": "神田神社",
             "date": "2024-03-23"
         },
         {
@@ -830,6 +830,415 @@
             "location": "Atsuta Jingū",
             "locationJp": "熱田神宮",
             "date": "2024-06-16"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-07-20_usagi-jinja.jpg",
+            "prefecture": "Yamanashi",
+            "location": "Usagi Jinja",
+            "locationJp": "うさぎ神社（河口湖）",
+            "date": "2024-07-0200"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-08-08_suwa-taisha-kamisha-honmiya.jpg",
+            "prefecture": "Nagano",
+            "location": "Suwa Taisha Kamisha Honmiya",
+            "locationJp": "諏訪大社上社本宮",
+            "date": "2024-08-08"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-08-08_suwa-taisha-kamisha-maemiya.jpg",
+            "prefecture": "Nagano",
+            "location": "Suwa Taisha Kamisha Maemiya",
+            "locationJp": "諏訪大社上社前宮",
+            "date": "2024-08-08"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-08-08_suwa-taisha-shimosha-akimiya.jpg",
+            "prefecture": "Nagano",
+            "location": "Suwa Taisha Shimosha Akimiya",
+            "locationJp": "諏訪大社下社秋宮",
+            "date": "2024-08-08"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-08-08_suwa-taisha-shimosha-harumiya.jpg",
+            "prefecture": "Nagano",
+            "location": "Suwa Taisha Shimosha Harumiya",
+            "locationJp": "諏訪大社下社春宮",
+            "date": "2024-08-08"
+        },
+        {
+            "type": "temple",
+            "image": "2024-08-09_ryoho-ji.jpg",
+            "prefecture": "Tōkyō",
+            "location": "Ryōhō-ji",
+            "locationJp": "了法寺",
+            "date": "2024-08-09"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-08-10_kanda-jinja_noryo-matsuri.jpg",
+            "prefecture": "Tōkyō",
+            "location": "Kanda Jinja",
+            "locationJp": "神田神社",
+            "date": "2024-08-10"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-08-14_kanazawa-jinja.jpg",
+            "prefecture": "Ishikawa",
+            "location": "",
+            "locationJp": "",
+            "date": "2024-08-14"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-08-14_juzo-jinja_8gatsu.jpg",
+            "prefecture": "Ishikawa",
+            "location": "Jūzō Jinja",
+            "locationJp": "重蔵神社",
+            "date": "2024-08-14",
+            "notes": "At Ishiura Jinja in Kanazawa to support Noto"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-08-16_sakurayama-hachimangu.jpg",
+            "prefecture": "Gifu",
+            "location": "Sakura-yama Hachiman-gū",
+            "locationJp": "桜山八幡宮",
+            "date": "2024-08-16"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-08-16_sakurayama-hachiman-gu_sakurayama-fuurin-matsuri.jpg",
+            "prefecture": "Gifu",
+            "location": "Sakurayama Hachiman-gū",
+            "locationJp": "桜山八幡宮",
+            "date": "2024-08-16",
+            "notes": "Sakurayama Fūrin Matsuri Goshuin"
+        },
+        {
+            "type": "temple",
+            "image": "2024-08-16_daioji.jpg",
+            "prefecture": "Gifu",
+            "location": "Daiō-ji",
+            "locationJp": "大雄寺",
+            "date": "2024-08-16"
+        },
+        {
+            "type": "temple",
+            "image": "2024-08-16_daioji_nenbutsugyoja.jpg",
+            "prefecture": "Gifu",
+            "location": "Daiō-ji",
+            "locationJp": "大雄寺",
+            "date": "2024-08-16",
+            "notes": "Nenbutsu Gyōja Goshuin",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "daioji_nenbutsugyoja_blotter.jpg"
+                }
+            ]
+        },
+        {
+            "type": "shrine",
+            "image": "2024-08-16_ena-jinja.jpg",
+            "prefecture": "Gifu",
+            "location": "Ena Jinja",
+            "locationJp": "荏名神社",
+            "date": "2024-08-16",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "ena-jinja_blotter.jpg"
+                }
+            ]
+        },
+        {
+            "type": "temple",
+            "image": "2024-08-16_hida-kokubunji.jpg",
+            "prefecture": "Gifu",
+            "location": "Hida Kokubun-ji",
+            "locationJp": "飛騨国分寺",
+            "date": "2024-08-16"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-08-16_higashiyama-hakusan-jinja.jpg",
+            "prefecture": "Gifu",
+            "location": "Higashiyama Hakusan Jinja",
+            "locationJp": "東山白山神社",
+            "date": "2024-08-16"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-08-16_TODO.jpg",
+            "prefecture": "Gifu",
+            "location": "",
+            "locationJp": "",
+            "date": "2024-08-16"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-08-19_fujisan-chojo-sengen-taisha-okumiya_1.jpg",
+            "prefecture": "Shizuoka",
+            "location": "",
+            "locationJp": "",
+            "date": "2024-08-19"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-08-19_fujisan-chojo-sengen-taisha-okumiya_2.jpg",
+            "prefecture": "Shizuoka",
+            "location": "",
+            "locationJp": "",
+            "date": "2024-08-19"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-08-19_fujisan-chojo-sengen-taisha-okumiya_3.jpg",
+            "prefecture": "Shizuoka",
+            "location": "",
+            "locationJp": "",
+            "date": "2024-08-19"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-08-22_hase-dera.jpg",
+            "prefecture": "Kanagawa",
+            "location": "",
+            "locationJp": "",
+            "date": "2024-08-22"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-08-22_tsurugaoka-hachimangu.jpg",
+            "prefecture": "Kanagawa",
+            "location": "",
+            "locationJp": "",
+            "date": "2024-08-22"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-09-02_nezu-jinja.jpg",
+            "prefecture": "Tōkyō",
+            "location": "",
+            "locationJp": "",
+            "date": "2024-09-02"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-09-02_otahimeinari-jinja.jpg",
+            "prefecture": "Tōkyō",
+            "location": "",
+            "locationJp": "",
+            "date": "2024-09-02"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-09-03_atago-jinja.jpg",
+            "prefecture": "Tōkyō",
+            "location": "",
+            "locationJp": "",
+            "date": "2024-09-03"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-09-04_suitengu.jpg",
+            "prefecture": "Tōkyō",
+            "location": "",
+            "locationJp": "",
+            "date": "2024-09-04"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-09-05_shinobazunoike-benten-do_daikokuten.jpg",
+            "prefecture": "Tōkyō",
+            "location": "",
+            "locationJp": "",
+            "date": "2024-09-05"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-09-05_asuwa-jinja.jpg",
+            "prefecture": "Fukui",
+            "location": "",
+            "locationJp": "",
+            "date": "2024-09-05"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-09-05_asuwa-jinja_goryuin.jpg",
+            "prefecture": "Fukui",
+            "location": "",
+            "locationJp": "",
+            "date": "2024-09-05",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "asuwa-jinja_goryuin_blotter.jpg"
+                }
+            ]
+        },
+        {
+            "type": "shrine",
+            "image": "2024-09-05_asuwa-jinja_keitai-tenno.jpg",
+            "prefecture": "",
+            "location": "",
+            "locationJp": "",
+            "date": "2024-09-05",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "asuwa-jinja_keitai-tenno_blotter.jpg"
+                }
+            ]
+        },
+        {
+            "type": "shrine",
+            "image": "2024-09-06_abaka-kasuga-jinja.jpg",
+            "prefecture": "Fukui",
+            "location": "",
+            "locationJp": "",
+            "date": "2024-09-00"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-09-06_abaka-kasuga-jinja_goryuin.jpg",
+            "prefecture": "Fukui",
+            "location": "",
+            "locationJp": "",
+            "date": "2024-09-00"
+        },
+        {
+            "type": "temple",
+            "image": "2024-09-06_eihei-ji.jpg",
+            "prefecture": "Fukui",
+            "location": "",
+            "locationJp": "",
+            "date": "2024-09-07"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-09-07_sugimori-shirohige-jinja.jpg",
+            "prefecture": "Fukui",
+            "location": "",
+            "locationJp": "",
+            "date": "2024-09-07"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-09-07_sugimori-shirohige-jinja-9gatsu.jpg",
+            "prefecture": "Fukui",
+            "location": "",
+            "locationJp": "",
+            "date": "2024-09-07"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-09-09_nikko-futarasan-jinja.jpg",
+            "prefecture": "Nikkō",
+            "location": "",
+            "locationJp": "",
+            "date": "2024-09-09"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-09-09_nikko-toshogu-okunomiya.jpg",
+            "prefecture": "Nikkō",
+            "location": "",
+            "locationJp": "",
+            "date": "2024-09-09"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-09-09_nikko-toshogu-yakushido.jpg",
+            "prefecture": "Nikkō",
+            "location": "",
+            "locationJp": "",
+            "date": "2024-09-09"
+        },
+        {
+            "type": "temple",
+            "image": "2024-09-09_rinnoji.jpg",
+            "prefecture": "Nikkō",
+            "location": "",
+            "locationJp": "",
+            "date": "2024-09-09"
+        },
+        {
+            "type": "temple",
+            "image": "2024-09-09_rinnoji-taiyuin.jpg",
+            "prefecture": "Nikkō",
+            "location": "",
+            "locationJp": "",
+            "date": "2024-09-09"
+        },
+        {
+            "type": "temple",
+            "image": "2024-09-09_rinnoji-taiyuin_2_TODO_scan_one_with_date.jpg",
+            "prefecture": "Nikkō",
+            "location": "",
+            "locationJp": "",
+            "date": "2024-09-09"
+        },
+        {
+            "type": "temple",
+            "image": "2024-09-09_rinnoji_TOOD_take_photo.tif.jpg",
+            "prefecture": "Nikkō",
+            "location": "",
+            "locationJp": "",
+            "date": "2024-09-09"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-09-11_anamori-inari-jinja.jpg",
+            "prefecture": "Chiba",
+            "location": "",
+            "locationJp": "",
+            "date": "2024-09-11"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-09-11_anamori-inari-jinja_okunomiya.jpg",
+            "prefecture": "Chiba",
+            "location": "",
+            "locationJp": "",
+            "date": "2024-09-11"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-09-11_anamori-inari-jinja_inari-san.jpg",
+            "prefecture": "Chiba",
+            "location": "",
+            "locationJp": "",
+            "date": "2024-09-11"
+        },
+        {
+            "type": "shrine",
+            "image": "2024-09-11_haneda-jinja.jpg",
+            "prefecture": "Chiba",
+            "location": "",
+            "locationJp": "",
+            "date": "2024-09-11",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "haneda-jinja_blotter.jpg"
+                }
+            ]
+        },
+        {
+            "type": "shrine",
+            "image": "TODO.jpg",
+            "prefecture": "",
+            "location": "",
+            "locationJp": "",
+            "date": "2024-09-00"
         }
     ]
 }
