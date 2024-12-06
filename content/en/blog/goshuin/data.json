@@ -65,7 +65,13 @@
             "prefecture": "Tōkyō",
             "location": "Toyokawa Inari Betsuin",
             "locationJp": "豊川稲荷東京別院",
-            "date": "2023-09-22"
+            "date": "2023-09-22",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "toyokawa-inari-betsuin_blotter.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -145,7 +151,13 @@
             "prefecture": "Kyōto",
             "location": "Ichitani Munakata Jinja",
             "locationJp": "櫟谷宗像神社",
-            "date": "2023-12-23"
+            "date": "2023-12-23",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "ichitani-munakata-jinja_blotter.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -288,7 +300,13 @@
             "prefecture": "Tōkyō",
             "location": "Gojōten Jinja",
             "locationJp": "五條天神社",
-            "date": "2024-01-03"
+            "date": "2024-01-03",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "gojoten-jinja_blotter.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -400,7 +418,13 @@
             "prefecture": "Mie",
             "location": "Mieken Gokoku Jinja",
             "locationJp": "三重縣護國神社",
-            "date": "2024-02-04"
+            "date": "2024-02-04",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "miekengokoku-jinja_blotter.pdf"
+                }
+            ]
         },
         {
             "type": "temple",
@@ -506,7 +530,13 @@
             "prefecture": "Wakayama",
             "location": "Kishū Tōshōgū",
             "locationJp": "紀州東照宮",
-            "date": "2024-03-12"
+            "date": "2024-03-12",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "kishu-toshogu_blotter.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -530,7 +560,13 @@
             "prefecture": "Wakayama",
             "location": "Tamatsushima Jinja",
             "locationJp": "玉津島神社",
-            "date": "2024-03-13"
+            "date": "2024-03-13",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "tamatsushima-jinja_blotter.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -644,7 +680,13 @@
             "prefecture": "Nara",
             "location": "Kinpusen-ji",
             "locationJp": "金峯山寺",
-            "date": "2024-04-07"
+            "date": "2024-04-07",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "kinpusen-ji_blotter.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -718,7 +760,13 @@
             "location": "Ninna-ji",
             "locationJp": "仁和寺",
             "notes": "Amida Nyorai Goshuin",
-            "date": "2024-04-08"
+            "date": "2024-04-08",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "ninna-ji_blotter.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -783,7 +831,13 @@
             "prefecture": "Tōkyō",
             "location": "Ueno Tōshōgū",
             "locationJp": "上野東照宮",
-            "date": "2024-04-30"
+            "date": "2024-04-30",
+            "attachments": [
+                {
+                    "name": "Peony Garden Ticket",
+                    "file": "ueno-toshogu_botan_ticket.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -792,7 +846,13 @@
             "location": "Mieken Gokoku Jinja",
             "locationJp": "三重縣護國神社",
             "notes": "May Goshuin",
-            "date": "2024-05-16"
+            "date": "2024-05-16",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "miekengokoku-jinja_blotter.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -961,7 +1021,7 @@
             "attachments": [
                 {
                     "name": "Blotter",
-                    "file": "ena-jinja_blotter.jpg"
+                    "file": "ena-jinja_blotter.pdf"
                 }
             ]
         },
@@ -1035,7 +1095,13 @@
             "prefecture": "Tōkyō",
             "location": "Nezu Jinja",
             "locationJp": "根津神社",
-            "date": "2024-09-02"
+            "date": "2024-09-02",
+            "attachments": [
+                {
+                    "name": "Receipt",
+                    "file": "nezu-jinja_receipt.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -1121,7 +1187,17 @@
             "prefecture": "Fukui",
             "location": "Eihei-ji",
             "locationJp": "永平寺",
-            "date": "2024-09-07"
+            "date": "2024-09-07",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "eihei-ji_blotter.pdf"
+                },
+                {
+                    "name": "Receipt",
+                    "file": "eihei-ji_receipt.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
