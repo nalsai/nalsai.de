@@ -770,7 +770,7 @@
         },
         {
             "type": "temple",
-            "image": "2024-04-30_shinobazuike-benten-do_ugajin.jpg",
+            "image": "2024-04-30_shinobazunoike-benten-do_ugajin.jpg",
             "prefecture": "Tōkyō",
             "location": "Shinobazunoike Benten-dō",
             "locationJp": "不忍池辯天堂",
@@ -1058,7 +1058,7 @@
             "image": "2024-09-05_shinobazunoike-benten-do_daikokuten.jpg",
             "prefecture": "Tōkyō",
             "location": "Shinobazunoike Benten-dō",
-            "locationJp": "",
+            "locationJp": "不忍池辯天堂",
             "date": "2024-09-05",
             "notes": "Daikokuten Goshuin"
         },
@@ -1143,7 +1143,7 @@
         {
             "type": "temple",
             "image": "2024-09-09_rinnoji.jpg",
-            "prefecture": "Nikkō",
+            "prefecture": "Tochigi",
             "location": "Rin'nō-ji",
             "locationJp": "日光山 輪王寺",
             "date": "2024-09-09"
@@ -1151,7 +1151,7 @@
         {
             "type": "shrine",
             "image": "2024-09-09_nikko-toshogu-okunomiya.jpg",
-            "prefecture": "Nikkō",
+            "prefecture": "Tochigi",
             "location": "Nikkō Tōshō-gū",
             "locationJp": "日光東照宮",
             "date": "2024-09-09"
@@ -1159,7 +1159,7 @@
         {
             "type": "shrine",
             "image": "2024-09-09_nikko-toshogu-yakushido.jpg",
-            "prefecture": "Nikkō",
+            "prefecture": "Tochigi",
             "location": "Nikkō Tōshō-gū",
             "locationJp": "日光東照宮",
             "date": "2024-09-09"
@@ -1167,7 +1167,7 @@
         {
             "type": "temple",
             "image": "2024-09-09_rinnoji-taiyuin.jpg",
-            "prefecture": "Nikkō",
+            "prefecture": "Tochigi",
             "location": "Rin'nō-ji Taiyūin",
             "locationJp": "日光山 輪王寺大猷院",
             "date": "2024-09-09"
@@ -1175,7 +1175,7 @@
         {
             "type": "temple",
             "image": "2024-09-09_rinnoji-taiyuin_2.jpg",
-            "prefecture": "Nikkō",
+            "prefecture": "Tochigi",
             "location": "Rin'nō-ji Taiyūin",
             "locationJp": "日光山 輪王寺大猷院",
             "date": "2024-09-09"
@@ -1183,7 +1183,7 @@
         {
             "type": "shrine",
             "image": "2024-09-09_nikko-futarasan-jinja.jpg",
-            "prefecture": "Nikkō",
+            "prefecture": "Tochigi",
             "location": "Nikkō Futarasan Jinja",
             "locationJp": "日光二荒山神社",
             "date": "2024-09-09"
@@ -1191,7 +1191,7 @@
         {
             "type": "temple",
             "image": "2024-09-09_rinnoji_unesco25_photo.jpg",
-            "prefecture": "Nikkō",
+            "prefecture": "Tochigi",
             "location": "Rin'nō-ji",
             "locationJp": "日光山 輪王寺",
             "date": "2024-09-09"
