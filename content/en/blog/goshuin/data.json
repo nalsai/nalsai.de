@@ -166,7 +166,13 @@
             "location": "Heian Jingū",
             "locationJp": "平安神宮",
             "notes": "NAKED YORU MO-DE 2023 Goshuin",
-            "date": "2023-12-23"
+            "date": "2023-12-23",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "heian-jingu_blotter.jpg"
+                }
+            ]
         },
         {
             "type": "temple",
@@ -323,7 +329,13 @@
             "prefecture": "Tōkyō",
             "location": "Tōkyō Daijingu",
             "locationJp": "東京大神宮",
-            "date": "2024-01-11"
+            "date": "2024-01-11",
+            "attachments": [
+                {
+                    "name": "Postcard",
+                    "file": "tokyo-daijingu_postcard.pdf"
+                }
+            ]
         },
         {
             "type": "temple",
@@ -339,7 +351,21 @@
             "prefecture": "Tōkyō",
             "location": "Tobiki Inari Jinja",
             "locationJp": "飛木稲荷神社",
-            "date": "2024-01-11"
+            "date": "2024-01-11",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "tobiki-inari-jinja_blotter.pdf"
+                },
+                {
+                    "name": "Postcard 1",
+                    "file": "tobiki-inari-jinja_postcard-1.pdf"
+                },
+                {
+                    "name": "Postcard 2",
+                    "file": "tobiki-inari-jinja_postcard-2.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -401,7 +427,13 @@
             "prefecture": "Mie",
             "location": "Kouzan Jinja",
             "locationJp": "高山神社",
-            "date": "2024-02-03"
+            "date": "2024-02-03",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "kouzan-jinja_blotter.jpg"
+                }
+            ]
         },
         {
             "type": "temple",
@@ -544,7 +576,13 @@
             "prefecture": "Wakayama",
             "location": "Wakaura Tenmangū",
             "locationJp": "和歌浦天満宮",
-            "date": "2024-03-12"
+            "date": "2024-03-12",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "wakaura-tenmangu_blotter.pdf"
+                }
+            ]
         },
         {
             "type": "temple",
@@ -606,7 +644,13 @@
             "prefecture": "Ōsaka",
             "location": "Ōsaka Gokoku Jinja",
             "locationJp": "大阪護国神社",
-            "date": "2024-03-16"
+            "date": "2024-03-16",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "osaka-gokoku-jinja_blotter.jpg"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -631,7 +675,13 @@
             "prefecture": "Tōkyō",
             "location": "Sakura Jingū",
             "locationJp": "桜神宮",
-            "date": "2024-03-22"
+            "date": "2024-03-22",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "sakura-jingu_blotter.jpg"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -639,7 +689,13 @@
             "prefecture": "Tōkyō",
             "location": "Hanazono Jinja",
             "locationJp": "花園神社",
-            "date": "2024-03-23"
+            "date": "2024-03-23",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "hanazono-jinja_blotter.jpg"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -734,7 +790,13 @@
             "prefecture": "Kyōto",
             "location": "Okazaki Jinja",
             "locationJp": "岡﨑神社",
-            "date": "2024-04-08"
+            "date": "2024-04-08",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "okazaki-jinja_blotter.jpg"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -743,7 +805,13 @@
             "location": "Heian Jingū",
             "locationJp": "平安神宮",
             "date": "2024-04-08",
-            "notes": "Sakura Goshuin"
+            "notes": "Sakura Goshuin",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "heian-jingu_blotter.jpg"
+                }
+            ]
         },
         {
             "type": "temple",
@@ -774,7 +842,13 @@
             "prefecture": "Gifu",
             "location": "Ōgaki Hachiman Jinja",
             "locationJp": "大垣八幡神社",
-            "date": "2024-04-09"
+            "date": "2024-04-09",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "ogaki-hachiman-jinja_blotter.jpg"
+                }
+            ]
         },
         {
             "type": "shrine",
