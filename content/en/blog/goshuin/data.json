@@ -298,7 +298,13 @@
             "location": "Shinobazunoike Benten-dō",
             "locationJp": "不忍池辯天堂",
             "notes": "Benzaiten Goshuin",
-            "date": "2024-01-03"
+            "date": "2024-01-03",
+            "attachments": [
+                {
+                    "name": "Toeizan Kan'ei-ji Leaflet (English)",
+                    "file": "toeizan-kanei-ji_leaflet-en.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -373,7 +379,13 @@
             "prefecture": "Tōkyō",
             "location": "Takagi Jinja",
             "locationJp": "高木神社",
-            "date": "2024-01-11"
+            "date": "2024-01-11",
+            "attachments": [
+                {
+                    "name": "Leaflet",
+                    "file": "takagi-jinja_leaflet.pdf"
+                }
+            ]
         },
         {
             "type": "temple",
@@ -393,7 +405,13 @@
             "location": "Tateishi Kumano Jinja",
             "locationJp": "五方山熊野神社",
             "notes": "January Goshuin",
-            "date": "2024-01-11"
+            "date": "2024-01-11",
+            "attachments": [
+                {
+                    "name": "Leaflet",
+                    "file": "tateishi-kumano-jinja_leaflet-2024.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -402,7 +420,17 @@
             "location": "Tateishi Kumano Jinja",
             "locationJp": "五方山熊野神社",
             "notes": "Shingetsu (New Moon) Goshuin",
-            "date": "2024-01-11"
+            "date": "2024-01-11",
+            "attachments": [
+                {
+                    "name": "Leaflet",
+                    "file": "tateishi-kumano-jinja_leaflet-2024.pdf"
+                },
+                {
+                    "name": "くまのこどもまつり Flyer",
+                    "file": "tateishi-kumano-jinja_kumanokodomomatsuri-flyer-2024.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -455,6 +483,14 @@
                 {
                     "name": "Blotter",
                     "file": "miekengokoku-jinja_blotter.pdf"
+                },
+                {
+                    "name": "Leaflet",
+                    "file": "miekengokoku-jinja_leaflet-v1.pdf"
+                },
+                {
+                    "name": "Leaflet (English)",
+                    "file": "miekengokoku-jinja_leaflet-en.pdf"
                 }
             ]
         },
@@ -473,7 +509,13 @@
             "prefecture": "Hokkaidō",
             "location": "Hokkaidō Jingū",
             "locationJp": "北海道神宮",
-            "date": "2024-02-10"
+            "date": "2024-02-10",
+            "attachments": [
+                {
+                    "name": "Leaflet",
+                    "file": "hokkaido-jingu_leaflet.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -511,6 +553,10 @@
                 {
                     "name": "Blotter",
                     "file": "kato-jinja_blotter.jpg"
+                },
+                {
+                    "name": "Leaflet",
+                    "file": "kato-jinja_leaflet.pdf"
                 }
             ]
         },
@@ -603,6 +649,10 @@
                 {
                     "name": "Blotter",
                     "file": "tamatsushima-jinja_blotter.pdf"
+                },
+                {
+                    "name": "Leaflet",
+                    "file": "tamatsushima-jinja_leaflet.pdf"
                 }
             ]
         },
@@ -658,7 +708,21 @@
             "prefecture": "Ōsaka",
             "location": "Sumiyoshi Taisha",
             "locationJp": "住吉大社",
-            "date": "2024-03-16"
+            "date": "2024-03-16",
+            "attachments": [
+                {
+                    "name": "Leaflet",
+                    "file": "sumiyoshi-taisha_leaflet.pdf"
+                },
+                {
+                    "name": "初辰まいり Flyer",
+                    "file": "sumiyoshi-taisha_hattatsumairi-flyer.pdf"
+                },
+                {
+                    "name": "Amulet Guide (English)",
+                    "file": "sumiyoshi-taisha_amulet-en.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -667,7 +731,17 @@
             "location": "Namiyoke Jinja",
             "locationJp": "波除神社",
             "date": "2024-03-22",
-            "notes": "Benzaiten Subshrine Goshuin"
+            "notes": "Benzaiten Subshrine Goshuin",
+            "attachments": [
+                {
+                    "name": "Leaflet",
+                    "file": "namiyoke-jinja_leaflet.pdf"
+                },
+                {
+                    "name": "Info Sheet (English)",
+                    "file": "namiyoke-jinja_info-en.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -833,6 +907,10 @@
                 {
                     "name": "Blotter",
                     "file": "ninna-ji_blotter.pdf"
+                },
+                {
+                    "name": "Booklet (English)",
+                    "file": "ninna-ji_booklet-en.pdf"
                 }
             ]
         },
@@ -897,7 +975,13 @@
             "location": "Shinobazunoike Benten-dō",
             "locationJp": "不忍池辯天堂",
             "notes": "春季浴酒 Limited Ugajin Goshuin",
-            "date": "2024-04-30"
+            "date": "2024-04-30",
+            "attachments": [
+                {
+                    "name": "Toeizan Kan'ei-ji Leaflet (English)",
+                    "file": "toeizan-kanei-ji_leaflet-en.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -910,6 +994,10 @@
                 {
                     "name": "Peony Garden Ticket",
                     "file": "ueno-toshogu_botan_ticket.pdf"
+                },
+                {
+                    "name": "45th Spring Peony Blossom Festival Flyer",
+                    "file": "ueno-toshogu_botan_flyer-2024.pdf"
                 }
             ]
         },
@@ -925,6 +1013,14 @@
                 {
                     "name": "Blotter",
                     "file": "miekengokoku-jinja_blotter.pdf"
+                },
+                {
+                    "name": "Leaflet",
+                    "file": "miekengokoku-jinja_leaflet-v2.pdf"
+                },
+                {
+                    "name": "Leaflet (English)",
+                    "file": "miekengokoku-jinja_leaflet-en.pdf"
                 }
             ]
         },
@@ -970,7 +1066,13 @@
             "prefecture": "Nagano",
             "location": "Suwa Taisha Kamisha Honmiya",
             "locationJp": "諏訪大社上社本宮",
-            "date": "2024-08-08"
+            "date": "2024-08-08",
+            "attachments": [
+                {
+                    "name": "四社まいり Booklet",
+                    "file": "suwa-taisha_shisha-mairi_booklet.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -978,7 +1080,13 @@
             "prefecture": "Nagano",
             "location": "Suwa Taisha Kamisha Maemiya",
             "locationJp": "諏訪大社上社前宮",
-            "date": "2024-08-08"
+            "date": "2024-08-08",
+            "attachments": [
+                {
+                    "name": "四社まいり Booklet",
+                    "file": "suwa-taisha_shisha-mairi_booklet.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -986,7 +1094,13 @@
             "prefecture": "Nagano",
             "location": "Suwa Taisha Shimosha Akimiya",
             "locationJp": "諏訪大社下社秋宮",
-            "date": "2024-08-08"
+            "date": "2024-08-08",
+            "attachments": [
+                {
+                    "name": "四社まいり Booklet",
+                    "file": "suwa-taisha_shisha-mairi_booklet.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -994,7 +1108,13 @@
             "prefecture": "Nagano",
             "location": "Suwa Taisha Shimosha Harumiya",
             "locationJp": "諏訪大社下社春宮",
-            "date": "2024-08-08"
+            "date": "2024-08-08",
+            "attachments": [
+                {
+                    "name": "四社まいり Booklet",
+                    "file": "suwa-taisha_shisha-mairi_booklet.pdf"
+                }
+            ]
         },
         {
             "type": "temple",
@@ -1113,7 +1233,17 @@
             "prefecture": "Shizuoka",
             "location": "Fuji-san Chōjō Sengen Taisha Okumiya",
             "locationJp": "富士山頂上浅間大社奥宮",
-            "date": "2024-08-19"
+            "date": "2024-08-19",
+            "attachments": [
+                {
+                    "name": "Leaflet",
+                    "file": "fujisan-hongu-sengen-taisha_leaflet.pdf"
+                },
+                {
+                    "name": "Leaflet (English)",
+                    "file": "fujisan-hongu-sengen-taisha_leaflet-en.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -1121,7 +1251,17 @@
             "prefecture": "Shizuoka",
             "location": "Fuji-san Chōjō Sengen Taisha Okumiya",
             "locationJp": "富士山頂上浅間大社奥宮",
-            "date": "2024-08-19"
+            "date": "2024-08-19",
+            "attachments": [
+                {
+                    "name": "Leaflet",
+                    "file": "fujisan-hongu-sengen-taisha_leaflet.pdf"
+                },
+                {
+                    "name": "Leaflet (English)",
+                    "file": "fujisan-hongu-sengen-taisha_leaflet-en.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -1129,7 +1269,17 @@
             "prefecture": "Shizuoka",
             "location": "Fuji-san Chōjō Sengen Taisha Okumiya",
             "locationJp": "富士山頂上浅間大社奥宮",
-            "date": "2024-08-19"
+            "date": "2024-08-19",
+            "attachments": [
+                {
+                    "name": "Leaflet",
+                    "file": "fujisan-hongu-sengen-taisha_leaflet.pdf"
+                },
+                {
+                    "name": "Leaflet (English)",
+                    "file": "fujisan-hongu-sengen-taisha_leaflet-en.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -1200,7 +1350,13 @@
             "location": "Shinobazunoike Benten-dō",
             "locationJp": "不忍池辯天堂",
             "date": "2024-09-05",
-            "notes": "Daikokuten Goshuin"
+            "notes": "Daikokuten Goshuin",
+            "attachments": [
+                {
+                    "name": "Toeizan Kan'ei-ji Leaflet (English)",
+                    "file": "toeizan-kanei-ji_leaflet-en.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -1270,6 +1426,10 @@
                 {
                     "name": "Receipt",
                     "file": "eihei-ji_receipt.pdf"
+                },
+                {
+                    "name": "Booklet",
+                    "file": "eihei-ji_booklet.pdf"
                 }
             ]
         },
@@ -1352,7 +1512,13 @@
             "prefecture": "Chiba",
             "location": "Anamori Inari Jinja",
             "locationJp": "穴守稲荷神社",
-            "date": "2024-09-11"
+            "date": "2024-09-11",
+            "attachments": [
+                {
+                    "name": "Info Sheet (English)",
+                    "file": "anamori-inari-jinja_info-en.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -1360,7 +1526,13 @@
             "prefecture": "Chiba",
             "location": "Anamori Inari Jinja",
             "locationJp": "穴守稲荷神社",
-            "date": "2024-09-11"
+            "date": "2024-09-11",
+            "attachments": [
+                {
+                    "name": "Info Sheet (English)",
+                    "file": "anamori-inari-jinja_info-en.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -1368,7 +1540,13 @@
             "prefecture": "Chiba",
             "location": "Anamori Inari Jinja",
             "locationJp": "穴守稲荷神社",
-            "date": "2024-09-11"
+            "date": "2024-09-11",
+            "attachments": [
+                {
+                    "name": "Info Sheet (English)",
+                    "file": "anamori-inari-jinja_info-en.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
