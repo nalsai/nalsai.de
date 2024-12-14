@@ -127,7 +127,7 @@ Typically, they contain the stamp of the shrine or temple in the center with the
                             <span v-if="typeof goshuin.notes !== 'undefined'"><strong>Notes:</strong> {{ goshuin.notes }}<br></span>
                             <span v-if="typeof goshuin.attachments !== 'undefined'"><strong>Attachments:</strong> 
                                 <span v-for="(attachment, index) in goshuin.attachments">
-                                    <a :href="'attachments/'+attachment.file" target="_blank">{{ attachment.name }}</a><span v-if="index+1 < goshuin.attachments.length">, </span>
+                                    <a :href="'https://files.nils.moe/www/nalsai.de/blog/goshuin/attachments/'+attachment.file" target="_blank">{{ attachment.name }}</a><span v-if="index+1 < goshuin.attachments.length">, </span>
                                 </span>
                             </span>
                         </p>
