@@ -63,7 +63,8 @@ Typically, they contain the stamp of the shrine or temple in the center with the
                     .replace(/uu/g, 'u')
                     .replace(/tsu/g, 'tu')
                     .replace(/ /g, '')
-                    .replace(/-/g, '');
+                    .replace(/-/g, '')
+                    .replace(/'/g, '');
             }
         },
         computed: {
