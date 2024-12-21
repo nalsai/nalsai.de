@@ -51,16 +51,6 @@ function getCookie(name) {
         } else {
             document.documentElement.setAttribute('data-bs-theme', theme)
         }
-
-        var x = document.getElementsByClassName("invert-light");
-        for (var counter = 0; counter < x.length; counter++) {
-            if (theme === 'auto') {
-                x.item(counter).style = window.matchMedia('(prefers-color-scheme: dark)').matches ? '' : 'filter: invert(1)'
-            }
-            else {
-                x.item(counter).style = theme === 'light' ? 'filter: invert(1)' : ''
-            }
-        }
     }
 
     setTheme(getPreferredTheme())

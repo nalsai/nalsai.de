@@ -288,3 +288,7 @@ li:hover.timeline-item {
     --web-button-hover-color: var(--bs-primary-text-emphasis);
     filter: drop-shadow(1px 1px 0px var(--web-button-hover-color)) drop-shadow(-1px -1px 0px var(--web-button-hover-color)) drop-shadow(1px -1px 0px var(--web-button-hover-color)) drop-shadow(-1px 1px 0px var(--web-button-hover-color));
 }
+
+[data-bs-theme='light'] .invert-light {
+    filter: invert(1);
+}
