@@ -476,8 +476,12 @@
             "date": "2024-01-11",
             "attachments": [
                 {
-                    "name": "Leaflet (2024)",
-                    "file": "gohozan-kumano-jinja_leaflet-2024.pdf"
+                    "name": "Leaflet",
+                    "file": "gohozan-kumano-jinja_leaflet.pdf"
+                },
+                {
+                    "name": "2024 Information",
+                    "file": "gohozan-kumano-jinja_2024.pdf"
                 }
             ]
         },
@@ -492,7 +496,7 @@
             "attachments": [
                 {
                     "name": "Leaflet",
-                    "file": "gohozan-kumano-jinja_leaflet-2024.pdf"
+                    "file": "gohozan-kumano-jinja_leaflet.pdf"
                 },
                 {
                     "name": "くまのこどもまつり Flyer",
@@ -711,6 +715,10 @@
                 {
                     "name": "Blotter",
                     "file": "kishu-toshogu_blotter.pdf"
+                },
+                {
+                    "name": "Ticket",
+                    "file": "kishu-toshogu_ticket.pdf"
                 }
             ]
         },
@@ -904,8 +912,8 @@
             "date": "2024-03-25",
             "attachments": [
                 {
-                    "name": "Blotter",
-                    "file": "ushijima-jinja_blotter.pdf"
+                    "name": "Info Sheet",
+                    "file": "ushijima-jinja_info.pdf"
                 }
             ]
         },
@@ -1668,7 +1676,13 @@
             "prefecture": "Tochigi",
             "location": "Rin'nō-ji",
             "locationJp": "日光山 輪王寺",
-            "date": "2024-09-09"
+            "date": "2024-09-09",
+            "attachments": [
+                {
+                    "name": "Blotter (Goshuin Map)",
+                    "file": "nikko-rinnoji-blotter.jpg"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -1681,6 +1695,10 @@
                 {
                     "name": "Ticket",
                     "file": "nikko-toshogu_ticket.pdf"
+                },
+                {
+                    "name": "Blotter (Goshuin Map)",
+                    "file": "nikko-rinnoji-blotter.jpg"
                 }
             ]
         },
@@ -1690,7 +1708,13 @@
             "prefecture": "Tochigi",
             "location": "Rin'nōji Yakushi-dō",
             "locationJp": "日光山 輪王寺 薬師堂",
-            "date": "2024-09-09"
+            "date": "2024-09-09",
+            "attachments": [
+                {
+                    "name": "Blotter (Goshuin Map)",
+                    "file": "nikko-rinnoji-blotter.jpg"
+                }
+            ]
         },
         {
             "type": "temple",
@@ -1703,6 +1727,10 @@
                 {
                     "name": "Ticket",
                     "file": "rinnoji-taiyuin-sanbutsudo_ticket.pdf"
+                },
+                {
+                    "name": "Blotter (Goshuin Map)",
+                    "file": "nikko-rinnoji-blotter.jpg"
                 }
             ]
         },
@@ -1717,6 +1745,10 @@
                 {
                     "name": "Ticket",
                     "file": "rinnoji-taiyuin-sanbutsudo_ticket.pdf"
+                },
+                {
+                    "name": "Blotter (Goshuin Map)",
+                    "file": "nikko-rinnoji-blotter.jpg"
                 }
             ]
         },
@@ -1739,6 +1771,10 @@
                 {
                     "name": "Treasure House Ticket",
                     "file": "rinnoji-homotsuden-ticket.pdf"
+                },
+                {
+                    "name": "Blotter (Goshuin Map)",
+                    "file": "nikko-rinnoji-blotter.jpg"
                 }
             ]
         },
