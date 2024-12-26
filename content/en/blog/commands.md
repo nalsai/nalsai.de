@@ -31,15 +31,16 @@ description = "(Most commands work on any platform, but some may require Bash an
 
 ```bash
 # encode videos with ffmpeg (av1 is very modern, h265 modern and h264+aac should be compatible with almost anything; add -map_metadata 0 to copy metadata)
-ffmpeg -i in.mov -pix_fmt yuv420p10le -c:v libsvtav1 -crf 28 -preset 6 -svtav1-params tune=0:film-grain=6:mbr=20000 -c:a libopus -b:a 128k out.mkv
+ffmpeg -i in.mov -pix_fmt yuv420p10le -c:v libsvtav1 -crf 32 -preset 8 -svtav1-params tune=0:enable-overlays=1:scm=0:mbr=20000 -c:a libopus -b:a 128k out.mkv
 ffmpeg -i in.mov -pix_fmt yuv420p10le -c:v libx265 -crf 20 -preset slow -c:a libopus -b:a 128k out.mkv
 ffmpeg -i in.mov -pix_fmt yuv420p -c:v libx264 -crf 18 -preset slow -c:a aac -b:a 192k out.mkv
+ffmpeg -i in.mov -pix_fmt yuv420p -c:v libx264 -crf 16 -preset slow -c:a flac out.mkv
 
 # prores and pcm for editing (in resolve)
 ffmpeg -i in.mov -c:v prores_ks -profile:v 3 -qscale:v 9 -c:a pcm_s16le out.mov
 
 # tiny, widely compatible encoding settings for distributing recordings of zoom presentations etc. (2nd step puts it into an mp4 container instead of mkv)
-ffmpeg -i Untitled.mov -pix_fmt yuv420p -c:v libx264 -crf 25 -maxrate 600k -bufsize 3M -c:a aac -b:a 128k enc.mkv
+ffmpeg -i Untitled.mov -pix_fmt yuv420p -c:v libx264 -crf 26 -maxrate 1M -bufsize 3M -c:a aac -b:a 128k enc.mkv
 ffmpeg -i enc.mkv -c copy -movflags +faststart enc.mp4
 
 
@@ -75,36 +76,36 @@ ffmpeg -f video4linux2 -framerate 30 -video_size 1920x1080 -input_format mjpeg -
 ## Images
 
 ```bash
+# resize and compress images
+magick img.jpg -auto-orient -quality 90% -resize 4096x4096\> -interlace Plane -sampling-factor 4:2:0 -define jpeg:dct-method=float -colorspace sRGB -strip img-out.jpg
+mkdir -p out && parallel -j 6 --eta "magick {} -auto-orient -quality 90% -resize 4096x4096\> -interlace Plane -sampling-factor 4:2:0 -define jpeg:dct-method=float -colorspace sRGB -strip out/{}" ::: *.jpg
+mkdir -p out && parallel -j 6 --eta "magick {} -auto-orient -quality 90% -resize 2048x2048\> -interlace Plane -sampling-factor 4:2:0 -define jpeg:dct-method=float -colorspace sRGB -strip out/{}" ::: *.jpg
+mkdir -p out && parallel -j 6 --eta "magick {} -auto-orient -quality 90% -resize 600x600\> -interlace Plane -sampling-factor 4:2:0 -define jpeg:dct-method=float -colorspace sRGB -strip out/{}" ::: *.jpg
+mkdir -p out && parallel -j 6 --eta "magick {} -auto-orient -quality 99% -colorspace sRGB -strip out/{}.jxl" ::: *.jpg
+
+# optimize png images (o goes from 0 to 6; use "--strip safe" or "--strip all" all to remove metadata; --alpha changes color values of fully transparent pixels)
+oxipng -o 4 --alpha *.png
+
+# convert svg to png with perfect quality
+inkscape -w 512 in.svg -o out.png
+
 # convert png/svg to ico using ImageMagick
 convert -density 256x256 -background transparent in.png -define icon:auto-resize -colors 256 out.ico
 
-# convert svg to png (perfect quality, unlike ImageMagick)
-inkscape -w 512 in.svg -o out.png
+# set exif date
+exiftool "-AllDates=2021:08:22 01:58" img.jpg
 
-# resize and compress jpg images
-# https://gist.github.com/nalsai/a2060570308192312e542f7de808c445
-# I use quality 70% for images shared directly on the web, and 90% to 95% otherwise
-convert img.jpg -auto-orient -quality 90% -resize 4096x4096\> -interlace Plane -sampling-factor 4:2:0 -define jpeg:dct-method=float -colorspace sRGB -strip img-out.jpg
-mkdir -p out; for i in *.jpg; do convert $i -auto-orient -quality 90% -resize 4096x4096\> -interlace Plane -sampling-factor 4:2:0 -define jpeg:dct-method=float -colorspace sRGB -strip out/$i; done;
-mkdir -p out; for i in *.jpg; do convert $i -auto-orient -quality 90% -resize 600x600\> -interlace Plane -sampling-factor 4:2:0 -define jpeg:dct-method=float -colorspace sRGB -strip out/$i; done;
+# set exif time zone
+exiftool -r -overwrite_original -OffsetTime\*=+02:00 -m .
 
-# optimize png images (use -strip all to remove metadata)
-optipng -o7 *.png
-
-# set exif DateTimeOriginal
-exiftool "-DateTimeOriginal=2021:08:22 01:58" img.jpg
-
-# set exif TimeZone
-exiftool "-TimeZone=+02:00" ./
-
-# shift all JPG image dates by 1 year, 12 month, 28 days, 14 hours, 54 minutes, 32 seconds
-exiftool "-AllDates+=1:12:28 14:54:32" -verbose *.jpg
+# shift JPG image dates by 1 year, 12 month, 28 days, 14 hours, 54 minutes, 32 seconds
+exiftool -jpg "-AllDates+=1:12:28 14:54:32" .
 
 # rename images to their exif CreateDate and camera model
-exiftool -r -d "%Y%m%d%H%M%S" '-filename<${Exif:CreateDate} %f $Model.%e' ./
+exiftool -r -d "%Y%m%d%H%M%S" '-filename<${Exif:CreateDate} %f $Model.%e' .
 
-# set exif CreateDate, DateTimeOriginal, DateCreated and TimeCreated to FileCreateDate for all images in current folder
-exiftool "-CreateDate<FileCreateDate" "-DateTimeOriginal<FileCreateDate" "-DateCreated<FileCreateDate" "-TimeCreated<FileCreateDate" ./
+# set exif DateTimeOriginal, CreateDate, and ModifyDate to FileCreateDate
+exiftool "-AllDates<FileCreateDate" .
 
 # scan for corrupt metadata
 exiftool -validate -warning -a -r ./
@@ -117,21 +118,19 @@ exiftool -all= -tagsfromfile @ -all:all -unsafe bad.jpg
 
 ```bash
 # turn images into a PDF
-img2pdf in.jpg --output out.pdf
+img2pdf *.jpg --output out.pdf
 
 # convert markdown to PDF
 pandoc file.md --pdf-engine=xelatex -o file.pdf -V geometry:margin=1.27cm
 
-# ocr and optimize pdf (use --deskew to fix skewed pages, but you need to check the results)
-ocrmypdf -l de+en+jpn+jpn_vert "Scanned Document.pdf" scan.pdf --clean --optimize 3
+# ocr and optimize pdf
+ocrmypdf -l de+en+jpn+jpn_vert "Scanned Document.pdf" scan.pdf --optimize 2
 ```
 
 ## Audio
 
 ```bash
-# metaflac is the command-line .flac file metadata editor part of the flac package
-# remove seektable and (re)add seekpoints once every second to allow seeking in the file
-# this is needed for some players, particularly with low CPU power (like Rockbox)
+# remove seektable and (re)add seekpoints once every second to allow seeking in the file (metaflac is part of the flac package)
 metaflac --remove --block-type=SEEKTABLE **.flac
 metaflac --add-seekpoint=1s **.flac
 ```
@@ -153,7 +152,7 @@ md5sum * | sed -e 's/\([^ ]*\) \(.*\(\..*\)\)$/mv -v \2 \1\3/e'
 crc32 * | sed -e "s/^\(\S*\)\s*\(.*\(\..*\)\)$/mv -v \2 \1\3/e"
 
 # rsync with custom ssh port
-rsync -e 'ssh -p 2022' -avh user@server:path ./ --delete
+rsync -e 'ssh -p 2022' -avh user@server:path ./
 ```
 
 ## Fun Command-Line Programs
