@@ -96,6 +96,10 @@
             "date": "2023-09-24",
             "attachments": [
                 {
+                    "name": "Blotter",
+                    "file": "gohozan-kumano-jinja_blotter.pdf"
+                },
+                {
                     "name": "Leaflet",
                     "file": "gohozan-kumano-jinja_leaflet.pdf"
                 }
@@ -475,6 +479,10 @@
             "notes": "January Goshuin",
             "date": "2024-01-11",
             "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "gohozan-kumano-jinja_blotter.pdf"
+                },
                 {
                     "name": "Leaflet",
                     "file": "gohozan-kumano-jinja_leaflet.pdf"
@@ -914,6 +922,10 @@
                 {
                     "name": "Info Sheet",
                     "file": "ushijima-jinja_info.pdf"
+                },
+                {
+                    "name": "Blotter",
+                    "file": "ushijima-jinja_blotter.pdf"
                 }
             ]
         },
