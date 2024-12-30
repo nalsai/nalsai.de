@@ -4,7 +4,7 @@ draft = false
 
 weight = 27
 slug = "ugetsumonogatari"
-title = "Ugetsu monogatari (⇨Kikka no chigiri)"
+title = "Ugetsu monogatari (Kikka no chigiri)"
 japanese = "雨月物語"
 translation = "Unter dem Regenmond"
 description = "Neunteiligen Kurzgeschichtensammlung"

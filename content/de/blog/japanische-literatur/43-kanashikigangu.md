@@ -19,15 +19,6 @@ release = "1912"
 
 ## Themen
 
-Heimat, Kritik des Stadtlebens, Selbstzweifel, Vergänglichkeit, Sinnlosigkeit des Lebens, Tod, Armut, Arbeitslosigkeit, Krankheit  
-=> melancholische Stimmung; geprägt von Traurigkeit  
-=> ungeschönte Darstellung der Dinge
-
-&nbsp;
-
----
-
-## Links
-
-Text auf japanisch von der Japanese Text Initiative (University of Virginia Library Electronic Text Center & University of Pittsburgh East Asian Library):  
-<http://jti.lib.virginia.edu/japanese/ishikawa/kanashiki/IshKana.html>
+- Heimat, Kritik des Stadtlebens, Selbstzweifel, Vergänglichkeit, Sinnlosigkeit des Lebens, Tod, Armut, Arbeitslosigkeit, Krankheit  
+  => melancholische Stimmung; geprägt von Traurigkeit  
+  => ungeschönte Darstellung der Dinge

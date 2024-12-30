@@ -20,4 +20,4 @@ Darstellung: Ästhetik des Selbstmordes durch Romantisierung und Ritualisierung
 -> Selbstmord als positives Ende  
 -> Erotik und Beschreibung der Protagonisten als wunderschön und fast gottgleich (Ästhetik)
 
-Stoff: _Ni niroku jiken_ 二二六事件 -> Putschversuch am 26. Februar 1936
+Stoff: *ni ni roku jiken* 二二六事件 -> Putschversuch am 26. Februar 1936

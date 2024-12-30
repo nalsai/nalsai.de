@@ -21,9 +21,7 @@ release = "1914"
 - Zentrale Fragen der Modernisierung und dem Generationenwechsel (Meiji zu Taishō) -> somit auch Spannungen zwischen traditionellen und modernen Werten
 - Einsamkeit, Wunsch nach Verbundenheit und einem Mentor (und die sich daraus ergebende Lehrer-Schüler-Beziehung der beiden)
 
-## Inhalt
-
-3 Teile
+## Inhalt: 3 Teile
 
 1. Der Sensei und ich  
 Erzähler lernt älteren Mann kennen, den er Sensei nennt; Vater krank, fühlt sich in seiner Familie entfremdet

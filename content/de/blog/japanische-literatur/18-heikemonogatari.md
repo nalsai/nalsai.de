@@ -17,32 +17,28 @@ release = "1371 (heutige Version)"
   - politische Macht ist nach Kamakura gewandert
   - Kaiser ist „nur“ noch symbolische Figur
   - Macht konzentriert sich bei den lokalen Machthabern  
-  -> Macht ging vom kuge 公家 (Hofadel) zu den bushi  武⼠ (Kriegern) über
-- handelt vom Genpei-Krieg zwischen den Taira/Heike 平家 und den Minamoto/Genji 源氏
-- Kapitel 11 stellt den Höhepunkt des Genpei-Krieges dar und schildert sehr detailliert die Schlacht von Dan-no-ura
+  -> Macht ging vom *kuge* 公家 (Hofadel) zu den *bushi* 武⼠ (Kriegern) über
 - historisch belegbare Figuren
+- Genre:
+  - *rekishi monogatari*: historische Erzählprosa; orientiert sich an historischen Ereignissen; Figuren sind belegbar; es können jedoch auch fiktionale Elemente miteinfließen
+  - Untegruppe: *gunki monogatari*: Kriegserzählung, Kriegsepos; monogatari die sich ausschließlich mit Kriegen befassen
 
 ## Stoff
 
-Genpei-Krieg (源平) zwischen den Taira und Minamoto um die Vorherrschaft Japans (1180-1185)
+Genpei-Krieg (源平) zwischen den Taira/Heike 平家 und Minamoto/Genji 源氏 um die Vorherrschaft Japans (1180-1185)
 
 -> der Genpei-Krieg entwickelte sich aus den vorhergehenden Rebellionen  
-_Hōgen no ran_ 保元の乱 (1156; Taira und Minamoto etablieren sich als die 2 Hauptakteure der Politik)  
-_Heiji no ran_ 平治の乱 (1160; Taira no Kiyomori bringt den Vater von Minamoto no Yoritomo und Yoshitsune um)
+*Hōgen no ran* 保元の乱 (1156; Taira und Minamoto etablieren sich als die 2 Hauptakteure der Politik)  
+*Heiji no ran* 平治の乱 (1160; Taira no Kiyomori bringt den Vater von Minamoto no Yoritomo und Yoshitsune um)
 
--> beide Rebellionen wurden jeweils in einem eigenen gunki monogatari festgehalten (保元物語 & 平治物語)
-
-## Genre
-
-- _rekishi monogatari_: historische Erzählprosa; orientiert sich an historischen Ereignissen; Figuren sind belegbar; es können jedoch auch fiktionale Elemente miteinfließen
-- Untegruppe: _gunki monogatari_: Kriegserzählung, Kriegsepos; monogatari die sich ausschließlich mit Kriegen befassen
+-> beide Rebellionen wurden jeweils in einem eigenen *gunki monogatari* festgehalten (保元物語 & 平治物語)
 
 ## Sprache und Stil
 
-_wakan konkōbun_ (Chinesisch-Japanischer Mischstil)  
+*wakan konkōbun* (Chinesisch-Japanischer Mischstil)  
 teils „berichtartig“, kurze Hauptsätze und schlichte Sprache
 
-abhängig davon, ob es sich um die _yomibon_-Version oder um die _kataribon_-Version handelt, kann es entweder als Prosa gelesen oder auch mit entsprechender Intonation gesungen werden
+abhängig davon, ob es sich um die *yomibon*-Version oder um die *kataribon*-Version handelt, kann es entweder als Prosa gelesen oder auch mit entsprechender Intonation gesungen werden
 
 ## Aufbau
 
@@ -58,15 +54,6 @@ Buch 12: Betonung, dass die Taira nun nichts weiter sind als „Staub im Wind“
 - eher Außenperspektive
 - Erzähler erzählt chronologisch mit kurzen Zitaten der Charaktere
 
-## Zielgruppe
-
-Normales Bürgertum / u.a. Kriegeradel
-
-## Schauplätze
-
-verschiedene Schauplätze
--> eher außen (Schlachtfeld, zur See)
-
 ## Motive
 
 - Fall der Stolzen und Mächtigen
@@ -75,18 +62,15 @@ verschiedene Schauplätze
 
 ## Thema
 
-mujō 無常, Retributionslehre & Karma  
+*mujō* 無常, Retributionslehre & Karma  
 Vergänglichkeit und Unbeständigkeit des Lebens aber auch z.B. von Ruhm  
 => Kreislauf der Rache führt dazu, dass das Werk mit der Auslöschung der Taira, dem Zusammenbruch der Minamono, dem Tod des Kindkaisers Antoku und der Trauer Kenreimon'ins endet
 
-## Buddhismus
+## Geistiger Inhalt: Buddhismus
 
-Die buddh. Sicht der Welt hat das Heike monogatari mit zeitgleichen Werken gemeinsam + Popularität des Werkes auch noch vier Jahrhunderte nach seiner Abfassung -> zeigt, wie buddh. geprägt die Gesellschaft war
-
+- zeigt, wie buddhistisch geprägt die Gesellschaft war
 - wichtige Charaktere des Epos haben z.B. ihr eigenes „Todeskapitel“
-- in diesen werden die Umstände ihres Todes detailliert geschildert
-- in einer Szene wird der Protagonist etwa aufgerufen, um eine weniger leidvolle Existenz, vielleicht sogar um Erleuchtung und Befreiung zu bitten
-- am Rande der Verzweiflung rezitiert er aus tiefstem Herzen 南無阿弥陀仏 (_namu amida butsu_)
+- in einer Szene wird der Protagonist etwa aufgerufen, um eine weniger leidvolle Existenz, vielleicht sogar um Erleuchtung und Befreiung zu bitten, am Rande der Verzweiflung rezitiert er aus tiefstem Herzen 南無阿弥陀仏 (*namu amida butsu*)
 
 ## Rezeptions- und Wirkungsgeschichte
 
@@ -94,9 +78,9 @@ zuverlässigster Text (Kakuichi) ist von 1371
 -> Version kompiliert von Kakuichi Akashi (Mönch)  
 -> Rezitationsversionen der biwa hōshi (blinde Mönche, die Geschichten sangen)
 
-_yomibon_ 読本 -> Texte geschrieben für Lektüre  
-_kataribon_ 語本 -> Texte für Rezitation (_heikyoku_)
+*yomibon* 読本 -> Texte geschrieben für Lektüre  
+*kataribon* 語本 -> Texte für Rezitation (*heikyoku*)
 
-- kann als wichtigstes Werk der japanischen Literaturgeschichte nach dem _Genji monogatari_ angesehen werden
+- kann als wichtigstes Werk der japanischen Literaturgeschichte nach dem [*Genji monogatari*]({{< relref "12-genjimonogatari" >}}) angesehen werden
 - fand großen Anklang in allen gesellschaftlichen Schichten
-- hatte große Wirkung auf: _nō_, _kabuki_ und andere _gunki_-Literatur
+- hatte große Wirkung auf: *nō*, *kabuki* und andere *gunki*-Literatur

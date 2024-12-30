@@ -26,11 +26,11 @@ release = "712"
 ## Besonderheiten
 
 - Orientiert sich teilweise an mündlichen Überlieferungen
-- Fiktionaler, mythologischer als das _[Nihon shoki]({{< relref "2-nihonshoki" >}})_
+- Fiktionaler, mythologischer als das [*Nihon shoki*]({{< relref "2-nihonshoki" >}})
 - Vom Kaiser in Auftrag gegeben
 - Diente primär zur Legitimation des Kaisers und seiner göttlichen Abstammung in Japan
 - Richtet sich an das Volk (vornehmlich dem Adel)
 - Verwendung lyrischer Stilmittel und Redewendungen
   -> ästhetische Funktion der Sprache steht im Vordergrund
   -> deshalb auf Japanisch sowie ausgeschmückter und interessanter zu lesen
-- Enthält erstes _[waka]({{< relref "genres/waka" >}})_
+- Enthält erstes [*waka*]({{< relref "genres/waka" >}})

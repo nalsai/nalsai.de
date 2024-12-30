@@ -22,4 +22,4 @@ release = "1949-57"
 -> Frau muss sich der häuslichen Hierarchie beugen und untersteht ihrem Vater, dann ihrem Ehemann und später ihren Söhnen
 - Unterdrückung der Wünsche und Leidenschaften der Ehefrau
 - aussichtslose Lage, in der sich alle Frauen befinden -> es gibt keinen anderen Weg, den sie gehen können
-- _onna daigaku_ in der Meiji-Zeit, sollte Frauen zu „guten Hausfrauen und weisen Müttern“ ausbilden
+- *onna daigaku* in der Meiji-Zeit, sollte Frauen zu „guten Hausfrauen und weisen Müttern“ ausbilden

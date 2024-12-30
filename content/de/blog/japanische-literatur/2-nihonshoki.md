@@ -13,10 +13,10 @@ description = "Reichschronik/Kaiserabstammung"
 release = "720"
 +++
 
-Kurz: _Nihongi_ 日本紀
+Kurz: *Nihongi* 日本紀
 
 - Zweitältestes noch existierendes Geschichtswerk Japans
-- Erste der sechs offiziellen Reichsgeschichten (_Rikkokushi_ 六国史)
+- Erste der sechs offiziellen Reichsgeschichten (*Rikkokushi* 六国史)
 - komplett in Chinesisch
 - An chinesischen Reichsannalen (Dynastische Annalen) angelehnt
 
@@ -26,9 +26,9 @@ Kurz: _Nihongi_ 日本紀
 
 ## Besonderheiten
 
-- Historisch „akkurater“ und „logischer“ als das [_Kojiki_]({{< relref "1-kojiki" >}})
+- Historisch „akkurater“ und „logischer“ als das [*Kojiki*]({{< relref "1-kojiki" >}})
 - Versucht möglichst lückenlose historische Aufzeichnung zu erreichen
 - Beinhaltet trotzdem religiöses und mythologisches Material
 - Vom Kaiser in Auftrag gegeben worden
-- Richtet sich an China selbst (soll zeigen, dass auch Japan Tradition bzw. Geschichte hat sowie die Unterstützung der Götter)
-- Außenwahrnehmung war wichtig, man möchte sich vor China gut präsentieren
+- Richtet sich an China (soll zeigen, dass auch Japan Tradition, Geschichte, Unterstützung der Götter hat)
+- Außenwahrnehmung war wichtig - man möchte sich vor China gut präsentieren

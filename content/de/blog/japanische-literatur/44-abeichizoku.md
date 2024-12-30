@@ -15,11 +15,12 @@ release = "1912"
 
 - Stil: _genbun itchi_
 
-Motive
+## Motive
+
 - Loyalität; Ehrgefühl; Freitod (_junshi_/_seppuku_)
 
+## Besonderheiten
 
-Besonderheiten:
 - spielt in der Tokugawa-Zeit
 - historisch belegbare Figuren, detaillierte Beschreibungen, fiktionale Elemente (treue Tiere, die
 ebenfalls Selbstmord begehen)

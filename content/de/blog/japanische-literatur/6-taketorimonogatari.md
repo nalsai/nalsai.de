@@ -13,69 +13,57 @@ genres = ["monogatari", "tsukuri monogatari"]
 release = "ca. 900"
 +++
 
-- Verfasser unbekannt, war wahrscheinlich ein Gelehrter und Aristokrat mittleren Ranges, der in kritischer Distanz zu den damaligen Machthabern stand
-- Mündlich tradierte Volksüberlieferung, wurde schriftlich festgehalten
-- Frühestes Werk der _monogatari_-Literatur
-- Bildet den Stamm der japanischen „Volksmärchen“
-- In Form von Filmen, Anime, Manga, Kinder-Märchen-Versionen (mukashibanashi) und Musikstücken umgesetzt
-- Es gibt unzählige Übersetzungen in viele Sprachen
-- Gekürzte Version im _[Konjaku monogatari]({{< relref "15-konjakumonogatari" >}})_ enthalten
+- Verfasser unbekannt, vermutlich ein Gelehrter und Aristokrat mittleren Ranges, der in kritischer Distanz zu den damaligen Machthabern stand
+- Mündlich tradierte Volksüberlieferung, schriftlich festgehalten
+- Frühestes Werk der *monogatari*-Literatur und Ursprung der japanischen „Volksmärchen“
+- Wurde in Form von Filmen, Anime, Manga, Kinder-Märchen-Versionen (mukashibanashi) und Musikstücken umgesetzt
+- Unzählige Übersetzungen in viele Sprachen
+- Gekürzte Version im *[Konjaku monogatari]({{< relref "15-konjakumonogatari" >}})* enthalten
 
 ## Inhalt
 
-Prinzessin Kaguya vom Mond, wird als winziges Findelkind von einem Bambussammler gefunden und wächst zu einer im wahrsten Sinne des Wortes strahlend schönen Frau heran.
-Ihre Schönheit lockt fünf junge Adlige an, die um ihre Hand anhalten, sie stellt diese aber vor unlösbare Aufgaben.  
-Auch dem Kaiser kommt ihre Schönheit zu Ohren, und es gelingt ihm, einen Blick auf sie zu erhaschen. Sie widersetzt sich jedoch seinem Werben unter Berufung auf ihre Herkunft, obgleich sie eine gewisse Sympathie für ihn empfindet.  
-Nach drei Jahren schließlich, die Kaguyahime als Strafe für ein Vergehen in armseligen und niederen Verhältnissen verbringen sollte, weshalb sie auf die Erde verbannt wurde, wird sie nach einem rührenden Abschied von ihren irdischen Eltern von Himmelsscharen aus der Hauptstadt des Mondes nach Hause geführt. Die Versuche des Kaisers, dies mit Hilfe von Soldaten zu verhindern, scheitern. Kaguyahime legt ihr Gewand an, wodurch sich mit einem Schlag alle irdischen Bindungen und Empfindungen verflüchtigen, und sie entschwindet.  
-Sie gibt dem Kaiser den Trank der Unsterblichkeit Der trauernde Kaiser muss ihr nun endgültig entsagen: Ein kaiserlicher Bote entzündet den von ihr zurückgelassenen Trank der Unsterblichkeit und ihren Brief als Zeichen seines Verzichts auf dem Berg Fuji, da er dann keine Gefühle mehr hätte (Schmerz gehört zum Leben).  
-Unsterblicher Rauch steigt vom Fuji auf. (Der Fuji rauchte um 905 -> macht Datierung möglich)
+Prinzessin Kaguya vom Mond, als Findelkind von einem Bambussammler gefunden, wächst zu einer außergewöhnlich schönen Frau heran. Ihre Schönheit zieht fünf Adlige an, denen sie unlösbare Aufgaben stellt. Der Kaiser versucht ebenfalls, ihre Hand zu gewinnen, doch sie weist ihn aufgrund ihrer Herkunft ab. Nach drei Jahren wird sie von Himmelswesen zurück in ihre Heimat auf dem Mond geführt, wobei alle irdischen Bindungen mit ihr verschwinden. Sie hinterlässt dem Kaiser einen Trank der Unsterblichkeit, den dieser später auf dem Berg Fuji verbrennt, um endgültig von ihr Abschied zu nehmen.
 
 ## Stoff
 
-- Es gibt keinen Vorgänger in Japan
-- Starke chinesische Einflüsse: im 8. und 9. Jh. nach Japan eingeführte chinesische Erzählungen wie Märchen, Legenden (_densetsu_) und Kurzgeschichten (_setsuwa_) lieferten die Vorlage für dieses Märchen
+- Kein Vorgänger in Japan, stark beeinflusst von chinesischen Märchen, Legenden und Kurzgeschichten
 - Buddhistische und taoistische Weltanschauung
 
 ## Motive
 
-- Armut und Reichtum (vor ihrer Entdeckung war das Ehepaar arm -> danach reich; Reichtum -> Metapher für Glück)
-- Das Werben vieler Freier um die Prinzessin und das Stellen von schwierigen Aufgaben
+- Armut und Reichtum (Ehepaar, das Kaguya findet wird reich -> Metapher für Glück)
+- Werben um die Prinzessin und schwierige Aufgaben
 - Unerfüllte Liebe
 - Unvergleichliche Schönheit
-- Lächerlichmachung und Respektlosigkeit (Gesellschaftskritik anhand Satire)
+- Gesellschaftskritik durch Satire
 
 ## Topoi
 
-- Mond (sauber, rein, Symbol der Zeit und einer Entwicklung, Mond als Auslöser für aware)
-- Bambus (Symbol für Reinheit, Kaguyas Reinigung auf der Erde durch Wiedergeburt im Bambus)
-- aware (emotionales Bewusstsein, Kaguya zeigt es erst am Ende -> positive Charakterentwicklung)
+- Mond (Reinheit, Symbol für Zeit, Entwicklung und Auslöser für *aware*)
+- Bambus (Reinheit, Kaguyas Wiedergeburt)
+- *aware* (emotionales Bewusstsein, Kaguya zeigt es erst am Ende -> positive Charakterentwicklung)
 - Tränen (Sehnsucht)
 
 ## Thema
 
-- Gegenüberstellung der menschlichen Welt, eine Welt des Pathos und der Sterblichkeit mit der ewigen gefühllosen Welt des Jenseits.  
-  Ist ein unsterbliches Leben die Aufgabe von Gefühlen wert?
+- Gegenüberstellung der menschlichen Welt der Sterblichkeit und der ewigen, gefühllosen Welt des Jenseits:  
+  Ist unsterbliches Leben ohne Gefühle erstrebenswert?
 
 ## Geistiger Inhalt
 
 - Buddhismus (Transzendenz, Jenseitsvorstellungen, Unsterblichkeit)
-- Konfuzianismus (die fünf Grundtugenden, _oyabun-kobun_)
+- Konfuzianismus (Grundtugenden, *oyabun-kobun*)
 - Taoismus
 
 ## Äußere Gestalt
 
-- _tsukuri monogatari_ -- eindeutig Erzählprosa und viele fantastische Elemente (Mondwesen, wundersames Findelkind, Magie etc.)
-- Eher auktorialer Erzähler
-- Außenperspektive (Erzähler ist keine Figur der Handlung)
-- Zeitraffend, die Geschichte erstreckt sich über mehrere Jahre
-- Chronologischer Aufbau
+- *tsukuri monogatari* Erzählprosa mit vielen fantastischen Elementen
+- Auktorialer Erzähler, Außenperspektive
+- Zeitraffender, chronologischer Aufbau
 - Bericht und szenische Darstellung
-- Direkte Personenrede
-- Kommunikation über _[waka]({{< relref "genres/waka" >}})_
+- Direkte Personenrede und Kommunikation über *[waka]({{< relref "genres/waka" >}})*
 
 ### Sprache und Stil
 
-- Hiragana mit wenigen Kanji
-- Schlichter Stil, eher kurze Sätze
-- Feststehende Einleitungs- und Schlussformel von Märchen: _ima wa mukashi_ / _to zo iitsutaetaru_
-- Enthält Kurzgedichte
+- Hiragana mit wenigen Kanji, schlichter Stil
+- Feststehende Einleitungs- und Schlussformeln von Märchen: *ima wa mukashi* / *to zo iitsutaetaru*

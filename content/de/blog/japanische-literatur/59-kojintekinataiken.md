@@ -25,5 +25,5 @@ Geburt des geistig behinderten Sohnes von Ōe Kenzaburō
 
 „grotesker Realismus“ グロテスク・リアリズム
 
-_Sengo-ha_ 戦後派 „Nachkriegsschule“  
+*sengo-ha* 戦後派 „Nachkriegsschule“  
 Literatur von 1945 bis ca. 1952 (Ende der amerikanischen Besatzung)

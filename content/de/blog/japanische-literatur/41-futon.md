@@ -20,4 +20,4 @@ befriedigt, weil Tanaka sie auch nicht mehr „haben“ kann.
 
 - Generationenkonflikt: modern girl vs. traditionelle Frau
 - Protagonist wird hier häufig als heuchlerisch bloßgestellt -> das ist das Ergebnis eines Textes, der das Innenleben des Protagonisten schamlos offenlegt und auch vor den seelischen Abgründen nicht Halt macht
-- Stoff: Tayama Katais eigenes Leben (zu einem gewissen Grad)
+- **Stoff**: Tayama Katais eigenes Leben (zu einem gewissen Grad)

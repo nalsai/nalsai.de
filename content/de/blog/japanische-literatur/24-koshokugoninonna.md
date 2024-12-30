@@ -22,12 +22,12 @@ Die „vier Himmelskönige“ beobachten zum Zeitvertreib Frauen; eine erregt ih
 ### Motive
 
 - Doppelselbstmord (wenn auch nur vorgetäuscht)
-- _mono no aware_
+- *mono no aware*
 
 ### Topoi
 
-- Trotz Entstehung in der Edo-Zeit klassische Topoi (z.B. nasse Ärmel für Trauer oder Kirschblüten für Vergänglichkeit) und _kigo_
-- _michiyuki_ -> Reise wird geschildert
+- Trotz Entstehung in der Edo-Zeit klassische Topoi (z.B. nasse Ärmel für Trauer oder Kirschblüten für Vergänglichkeit) und *kigo*
+- *michiyuki* -> Reise wird geschildert
 
 ### Thema
 
@@ -39,4 +39,4 @@ Die „vier Himmelskönige“ beobachten zum Zeitvertreib Frauen; eine erregt ih
 
 „die Komachi von heute“
 
-(Komachi: Dichterin, die im _Kokinshū_ vertreten ist; berühmteste Dichterin der Heian-Zeit -> galt als sehr hübsch)
+(Komachi: Dichterin, die im *Kokinshū* vertreten ist; berühmteste Dichterin der Heian-Zeit -> galt als sehr hübsch)

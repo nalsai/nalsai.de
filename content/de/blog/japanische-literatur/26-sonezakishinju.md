@@ -13,22 +13,13 @@ genres = ["bunraku", "sewamono"] #bunraku
 release = "1703 (Uraufführung)"
 +++
 
-- lurzes Stück -- 3 Szenen
+- kurzes Stück -- 3 Szenen
 
 ## Figuren
 
-### Tokubei
-
-- 25 Jahre
-- Sojahändler
-
-### Ohatsu
-
-- 19 Jahre
-- Freudenmädchen
-
-### Kuheiji
-
+- **Tokubei**, 25 Jahre, Sojahändler
+- **Ohatsu**, 19 Jahre, Freudenmädchen
+- Kuheiji
 - Ölhändler
 
 ## Thema

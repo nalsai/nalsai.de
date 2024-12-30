@@ -13,67 +13,48 @@ genres = ["Gedichtsammlung", "waka"]
 release = "ca. 903-914"
 +++
 
-Kurz: _Kokin shū_ 古今集
+Kurz: *Kokin shū* 古今集
 
-## Sprache
+## Allgemeine Informationen
 
-- Japanisch
-- Japanisches Vorwort _Kanajo_ (Kana, ganz wenige Kanji)
-- Chinesisches Vorwort _Manajo_
+- **Auftraggeber**: Kaiser Uda (reg. 887–897)
+- **Kompilatoren**: Vier Hofdichter, geführt von Ki no Tsurayuki
+- **Inhalt**: Über 1111 Gedichte, vor allem *tanka*
+- **Gliederung**: In 20 Bücher unterteilt, nach thematischen Kategorien
+  - 1.-2. Frühling (*haru no uta*)
+  - 3. Sommer (*natsu no uta*)
+  - 4.-5. Herbst (*aki no uta*)
+  - 6. Winter (*fuyu no uta*)
+  - 7. Gratulationen (*ga no uta*)
+  - 8. Abschied (*wakare no uta*)
+  - 9. Reisen (*tabi no uta*)
+  - 10. Namen (*mono no na*)
+  - 11.–15. Liebe (*koi no uta*)
+  - 16. Klagen (*aishō no uta*)
+  - 17.–18. Verschiedenes (*kusagusa no uta*)
+  - 19. Verschiedenes (*zattai no uta*)
+  - 20. Traditionelle Gedichte vom Büro für Poesie (*ōutadokoro no on'uta*)
 
-## Besonderheiten
+## Bedeutung und Einfluss
 
-- Von Kaiser Uda (reg. 887–897) in Auftrag gegeben
-- Kompilatoren der Anthologie waren vier Hofdichter, geführt von Ki no Tsurayuki
-- Eines der 21 kaiserlichen Sammlungen (_nijūichidaishū_)
-- Enthält hauptsächlich tanka (über 1111)
-- In 20 Bücher unterteilt (nach Inhalt)
-  1. und 2. über den Frühling (春哥 _haru no uta_),
-  3. über den Sommer (夏哥 _natsu no uta_),
-  4. bis 5. Herbst (秋哥 _aki no uta_),
-  6. Winter (冬哥 _fuyu no uta_),
-  7. Gratulationen (賀哥 _ga no uta_),
-  8. Abschied (離列哥 _wakare no uta_),
-  9. Reisen (羈旅哥 _tabi no uta_),
-  19. Namen (物名 _mono no na_),
-  11. bis 15. Liebe (恋哥 _koi no uta_),
-  16. Klagen (哀傷哥 _aishō no uta_),
-  17. und 18. Verschiedenes (雑哥 _kusagusa no uta_),
-  19. Verschiedenes (雑体哥 _zattai no uta_) und
-  20. hauptsächlich traditionelle und rituelle Gedichte vom Büro für Poesie (大哥所御哥 _ōutadokoro no on'uta_).
-- Galt als Standard für jede weitere Dichtung
-- Drängte _[Man’yōshū]({{< relref "3-manyoshu" >}})_ in den Hintergrund
-- Verfasser der Gedichte stammten aus der Oberschicht
-- -> weniger Vielfalt
-- Stilmittel _kigo_ „Jahreszeitenwort“
-- _kotobagaki_ 詞書 kurze Einleitung/Überschrift zum Gedicht
-  - beinhaltet Angaben zum Inhalt, der Entstehungszeit, dem Entstehungsort, dem Dichter oder Ähnlichem
+- Eine der 21 kaiserlichen Sammlungen (*nijūichidaishū*)
+- Galt als Standard für alle weitere japanische Dichtung und verdrängte *[Man’yōshū]({{< relref "3-manyoshu" >}})*
+- Verfasser meist aus der Oberschicht, was zu einer geringeren Vielfalt führte
+- **Stil**: *kigo* (Jahreszeitenwörter) und *kotobagaki* (kurze Einleitungen zu Gedichten)
 
 ## Zwei Vorworte
 
-- Enthalten poetologische Ansätze
-- Setzen Normen für ein gelungenes Gedicht
-  - Dichter muss gut mit Stilmitteln umgehen können und sich streng an die Regeln der _waka_-Dichtung halten (Originalität und Komplexität waren weniger wichtig)
-  - Sechs Prinzipien (Suasive, Description, Comparison, Evocative Imagery, Elegantia, Eulogies) definieren das „Wesen“ der japanischen Lyrik
+### Kanajo (Japanisches Vorwort)
 
-### Kanajo
+- **Verfasser**: [Ki no Tsurayuki]({{< relref "ki no tsurayuki" >}})
+- **Inhalt**: Poetologischer Text mit Literaturkritik und Beispielen, Sechs Prinzipien, „Wesen“ der japanischen Lyrik
+- **Hauptthemen**: Bezug auf die Götter und den Ursprung der Poesie
+- **Zielgruppe**: Inland
 
-- Japanisches Vorwort (Kana)
-- Verfasst von Ki no Tsurayuki
-- Poetologischer Text, Literaturkritik (viele Beispiele)
-- Bezug auf die Götter/den Ursprung
-- Sechs Prinzipien, „Wesen“ der japanischen Lyrik
-- Eher „poetisch“
-- Zielgruppe: Inland
+### Manajo (Chinesisches Vorwort)
 
-### Manajo
-
-- Chinesisches Vorwort
-- Verfasst von Ki no Yoshimochi
-- Literaturkritik (keine Beispiele)
-- Bezug auf die Götter/den Ursprung
-- Sechs Prinzipien, „Wesen“ der japanischen Lyrik
-- Erwähnung des Imports der Kanji
-- -> Schuld am „Niedergang“ der japanischen Lyrik
-- Nicht „poetisch“ verfasst
-- Zielgruppe: Ausland
+- **Verfasser**: Ki no Yoshimochi
+- **Inhalt**: Literaturkritik ohne Beispiele, nicht poetisch, Sechs Prinzipien, „Wesen“ der japanischen Lyrik
+- **Hauptthemen**: Bezug auf die Götter und den Ursprung der Poesie
+- **Kanji**: Import der Kanji und ihre Rolle im „Niedergang“ der japanischen Lyrik
+- **Zielgruppe**: Ausland

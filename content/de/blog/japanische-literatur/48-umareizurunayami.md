@@ -14,10 +14,11 @@ release = "1918"
 +++
 
 - Mann musste aufgrund seiner sozialen Umstände Fischer werden, obwohl er Maler werden wollte -> keine künstlerische Selbstverwirklichung möglich
-- Thema: Kampf um die Verwirklichung des Selbst
+- **Thema**: Kampf um die Verwirklichung des Selbst
 - Autor war der Meinung, dass jeder ein Talent hat, das individuell gefördert werden sollte
 
-Betonung der Kunst in Sprache:
+
+## Betonung der Kunst in Sprache
 
 - viele Lautmalereien (stilistische Besonderheit) und rhetorische Mittel
 - Syntax und Wortwahl hebt sich von der gewöhnlichen Sprache ab
