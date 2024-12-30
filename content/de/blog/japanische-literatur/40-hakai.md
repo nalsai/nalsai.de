@@ -9,7 +9,7 @@ japanese = "破戒"
 translation = "Das gebrochene Gelöbnis"
 description = ""
 authors = ["Shimazaki Tōson"]
-genres = ["chōhen shōstesu", "Naturalismus"]
+genres = ["chohen shosetsu", "Naturalismus"]
 release = "1906"
 +++
 

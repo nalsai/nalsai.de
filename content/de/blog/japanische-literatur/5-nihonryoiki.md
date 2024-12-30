@@ -9,7 +9,7 @@ japanese = "日本霊異記"
 translation = "Aufzeichnungen über Wunder in Japan"
 description = "erste setsuwa-Sammlung"
 authors = ["Kyōkai"]
-genres = ["setsuwa-Sammlung"]
+genres = ["setsuwa-Sammlung", "setsuwa"]
 release = "ca. 822"
 +++
 

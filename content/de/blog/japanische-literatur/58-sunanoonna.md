@@ -9,7 +9,7 @@ japanese = "砂の女"
 translation = "Die Frau in den Dünen"
 description = ""
 authors = ["Abe Kōbō"]
-genres = ["chōhen shōsetsu", "gendai shōsetsu", "Surrealismus"]
+genres = ["chohen shosetsu", "gendai shōsetsu", "Surrealismus"]
 release = "1962"
 +++
 

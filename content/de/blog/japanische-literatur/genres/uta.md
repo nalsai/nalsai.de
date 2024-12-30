@@ -6,7 +6,7 @@ weight = 1
 title = "uta"
 japanese = "歌"
 deutsch = ""
-translation = "Geditcht/Lied"
+translation = "Gedicht/Lied"
 description = ""
 works = []
 +++

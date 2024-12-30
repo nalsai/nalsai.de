@@ -9,7 +9,7 @@ japanese = "土佐日記"
 translation = "Das Tosa Tagebuch"
 description = "erstes nikki"
 authors = ["Ki no Tsurayuki"]
-genres = ["nikki", "kikō"]
+genres = ["nikki", "kiko"]
 release = "ca. 935"
 +++
 

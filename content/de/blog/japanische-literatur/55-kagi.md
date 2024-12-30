@@ -9,7 +9,7 @@ japanese = "鍵"
 translation = "Der Schlüssel"
 description = ""
 authors = ["Tanizaki Jun'ichirō"]
-genres = ["chōhen shōsetsu"]
+genres = ["chohen shosetsu"]
 release = "1956"
 +++
 

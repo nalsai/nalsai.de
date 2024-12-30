@@ -19,5 +19,5 @@ works = [
 - Gesellschaftskritik steht im Mittelpunkt
 - Protagonisten sind oft Außenseiter oder Ausgestoßene
 - keine Verklärung oder Ästhetisierung mehr
-- später: Wandel von der ungeschönten Darstellung der Dinge hin zu dem Einzigen, was ein Autor wirklich objektiv und wahrheitsgemäß darstellen kann: sein eigenes Leben (und Leiden) -> _[shishōsetsu]({{< relref "shishōsetsu" >}})_
+- später: Wandel von der ungeschönten Darstellung der Dinge hin zu dem Einzigen, was ein Autor wirklich objektiv und wahrheitsgemäß darstellen kann: sein eigenes Leben (und Leiden) -> _[shishōsetsu]({{< relref "shishosetsu" >}})_
 - Autoren: Kunikida Doppo, Tayama Katai, Shimazaki Tōson

@@ -21,8 +21,8 @@ works = []
 
 ## Arten
 
-- jidaimono 時代物 (historische Spiele wie z.B. Heldenepos)
-- sewamono 世話物 (bürgerliche Spiele)
-- shosagoto 所作事 (Tanzstücke -> Fokus liegt nicht auf Handlung sondern Performance)
+- *jidaimono* 時代物 (historische Spiele wie z.B. Heldenepos)
+- *sewamono* 世話物 (bürgerliche Spiele)
+- *shosagoto* 所作事 (Tanzstücke -> Fokus liegt nicht auf Handlung sondern Performance)
 
 <!--TODO: Bild Bühne-->

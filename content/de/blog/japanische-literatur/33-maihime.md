@@ -9,7 +9,7 @@ japanese = "舞姫"
 translation = "Die Tänzerin"
 description = ""
 authors = ["Mori Ōgai"]
-genres = ["tanpen shōsetsu", "Romantik"]
+genres = ["tanpen shosetsu", "Romantik"]
 release = "1890"
 +++
 

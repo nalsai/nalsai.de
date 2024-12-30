@@ -8,10 +8,10 @@ japanese = "浮世草子"
 deutsch = ""
 translation = "Geschichten der schwebenden Welt"
 description = ""
-works = []
+works = ["24-koshokugoninonna"]
 +++
 
 - Populärliteratur (von chōnin für chōnin geschrieben!)
 - Kurzgeschichten
 - Fiktionale Erzählprosa
-- [Ihara Saikaku]({{< relref "Ihara Saikaku" >}}) war ukiyozōshi-Autor
+- [Ihara Saikaku]({{< relref "Ihara Saikaku" >}}) war *ukiyozōshi*-Autor

@@ -9,7 +9,7 @@ japanese = "キャラメル工場から"
 translation = "Aus der Bonbonfabrik"
 description = ""
 authors = ["Sata Ineko"]
-genres = ["", "Proletarische Literatur"]
+genres = ["Proletarische Literatur"]
 release = "1928"
 +++
 

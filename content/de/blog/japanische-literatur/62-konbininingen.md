@@ -9,7 +9,7 @@ japanese = "コンビニ人間"
 translation = "Die Ladenhüterin"
 description = ""
 authors = ["Murata Sayaka"]
-genres = ["shōsetsu", "gendai shōsetsu", "Heisei-Literatur"]
+genres = ["shosetsu", "gendai shōsetsu", "Heisei-Literatur"]
 release = "2016"
 +++
 

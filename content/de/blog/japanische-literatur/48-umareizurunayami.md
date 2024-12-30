@@ -9,7 +9,7 @@ japanese = "生まれ出る悩み"
 translation = "Qualen des Geborenwerdens"
 description = ""
 authors = ["Arishima Takeo"]
-genres = ["tanpen shōsetsu"]
+genres = ["tanpen shosetsu"]
 release = "1918"
 +++
 

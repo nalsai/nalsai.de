@@ -9,7 +9,7 @@ japanese = "源叔父"
 translation = "Der alte Gen"
 description = ""
 authors = ["Kunikida Doppo"]
-genres = ["tanpen shōsetsu", "Romantik"]
+genres = ["tanpen shosetsu", "Romantik"]
 release = "1897"
 +++
 

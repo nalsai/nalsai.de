@@ -13,7 +13,6 @@ works = ["29-nansosatomihakkenden"]
 
 - Gegenbegriff zum ezōshi & ehon (Bilderbuch)
 - Wörtl.: „Lesebuch“ -> Text im Vordergrund
-- z.B. [Nansō Satomi hakkenden]({{< relref "29-nansosatomihakkenden" >}})
 - Erste Form der Massenliteratur  
   -> durch Einführung des Druckes mit beweglichen Lettern konnten hohe Auflagen gedruckt werden
 - Eher abenteuerliche, unwahrscheinliche Geschichten die nach heutigen Standards schwer nachvollziehbar sind

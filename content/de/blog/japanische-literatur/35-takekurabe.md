@@ -9,7 +9,7 @@ japanese = "たけくらべ"
 translation = "Größenvergleich"
 description = ""
 authors = ["Higuchi Ichiō"]
-genres = ["chūhen shōsetsu"]
+genres = ["chuhen shosetsu"]
 release = "1895-96"
 +++
 
