@@ -1,9 +1,7 @@
 +++
 title = "Run Resolve on any Linux distro"
 description = "How to successfully run DaVinci Resolve on the latest Fedora version or any other Linux distro using distrobox."
-tags = [
-  "Linux",
-]
+tags = ["Linux", "Software"]
 date = 2024-06-19
 +++
 

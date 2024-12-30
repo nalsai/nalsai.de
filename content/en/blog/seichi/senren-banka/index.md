@@ -1,17 +1,15 @@
 +++
 title = "Visiting Places from Senren*Banka"
-description = ""
+description = "Pilgrimage to the locations of Yuzusoft's Senren*Banka in Kyōto and Kōbe"
 tags = [
-  "Visual Novels",
+  "Visual Novel",
   "Anime Tourism",
-  "Sacred Place Pilgrimage",
-  "Japan",
   "Yuzusoft",
 ]
 date = 2024-05-26
 +++
 
-Welcome back to another pilgrimage! This time, I visited places from the Yuzusoft visual novels Senren\*Banka (2016) and Sanoba Witch (2018). Since the two visual novels settings take inspiration from Kyōto, I visited them together. This is the page for Senren\*Banka. You can find the [Sanoba Witch Pilgrimage by following this link](../tourism-sanoba-witch).
+Welcome back to another pilgrimage! This time, I visited places from the Yuzusoft visual novels Senren\*Banka (2016) and Sanoba Witch (2018). Since the two visual novels settings take inspiration from Kyōto, I visited them together. This is the page for Senren\*Banka. You can find the [Sanoba Witch Pilgrimage by following this link]({{< relref sanoba-witch >}}).
 
 ---
 
@@ -138,7 +136,7 @@ One place I still need to visit is "THE GARDEN PLACE SOSHUEN" in Kōbe which is 
 
 ---
 
-If you haven't already, now is the perfect time to check out the [Sanoba Witch Pilgrimage](../tourism-sanoba-witch).
+If you haven't already, now is the perfect time to check out the [Sanoba Witch Pilgrimage]({{< relref sanoba-witch >}}).
 
 ---
 

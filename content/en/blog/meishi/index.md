@@ -2,9 +2,7 @@
 title = "meishi 名刺"
 description = "My business card, as well as a QMK powered macro keyboard."
 url = "/meishi"
-tags = [
-  "Keyboards"
-]
+tags = ["Keyboards", "Hardware"]
 date = 2023-08-23
 +++
 

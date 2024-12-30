@@ -12,7 +12,7 @@
             {{ $pages = $pages | lang.Merge (union .Sections .Pages) }}
             {{ end }}
 
-            {{ range (.Paginate $pages).Pages }}
+            {{ range (where (.Paginate $pages).Pages ".Params.unlisted" "!=" "true") }}
 
             {{ $link := .RelPermalink }}
             {{ if ne .Lang $lang }}

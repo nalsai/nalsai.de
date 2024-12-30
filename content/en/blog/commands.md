@@ -1,6 +1,7 @@
 +++
 title = "A Quick Command Cheat Sheet"
 description = "(Most commands work on any platform, but some may require Bash and/or Linux.)"
+tags = ["Software", "Commands", "Linux"]
 +++
 
 <style>

@@ -5,7 +5,7 @@
 
             <h1 class="my-4">{{ .Title }}</h1>
 
-            {{ range .Paginator.Pages }}
+            {{ range (where .Paginator.Pages ".Params.unlisted" "!=" "true") }}
             <a href="{{ .RelPermalink }}" class="text-decoration-none h-75">
                 <div class="d-flex p-3 hover-opacity card bg-body-tertiary px-3 py-4 m-0 rounded-4 my-4 text-start">
                     <p class="m-0 text-light">

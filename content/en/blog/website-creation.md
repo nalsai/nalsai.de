@@ -1,11 +1,7 @@
 +++
 title = "When was this website created?"
 description = "History of my personal website and how I learned HTML."
-tags = [
-  "HTML",
-  "History",
-  "Software"
-]
+tags = ["HTML", "History"]
 date = 2022-11-17
 +++
 

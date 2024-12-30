@@ -1,17 +1,15 @@
 +++
 title = "Visiting Places from Sanoba Witch (Sabbat of the Witch)"
-description = ""
+description = "Kyōto, Ōsaka, and Kōbe locations from the visual novel Sanoba Witch"
 tags = [
-  "Visual Novels",
+  "Visual Novel",
   "Anime Tourism",
-  "Sacred Place Pilgrimage",
-  "Japan",
   "Yuzusoft",
 ]
 date = 2024-05-26
 +++
 
-Welcome back to another pilgrimage! This time, I visited places from the Yuzusoft visual novels Senren\*Banka (2016) and Sanoba Witch (2018). Since the two visual novels settings take inspiration from Kyōto, I visited them together. This is the page for Sanoba Witch. You can find the [Senren*Banka Pilgrimage by following this link](../tourism-senren-banka).
+Welcome back to another pilgrimage! This time, I visited places from the Yuzusoft visual novels Senren\*Banka (2016) and Sanoba Witch (2018). Since the two visual novels settings take inspiration from Kyōto, I visited them together. This is the page for Sanoba Witch. You can find the [Senren*Banka Pilgrimage by following this link]({{< relref senren-banka >}}).
 
 I recommend getting the bus day ticket and starting early if you want to tour it in one day, especially in winter, as the sun sets quite early. A bicycle could also come in handy to reach some of the places from Sanoba Witch.  
 
@@ -123,7 +121,7 @@ The places in the north east of Kyoto weren't that nice compared to the general 
 
 ---
 
-If you haven't already, now is the perfect time to check out the [Senren\*Banka Pilgrimage](../tourism-senren-banka). Most of its places I would recommend anyone to visit, regardless of the visual novel.
+If you haven't already, now is the perfect time to check out the [Senren\*Banka Pilgrimage]({{< relref senren-banka >}}). Most of its places I would recommend anyone to visit, regardless of the visual novel.
 
 ---
 

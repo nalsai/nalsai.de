@@ -1,11 +1,9 @@
 +++
 title = "Visiting Places from Tsukihime"
-description = ""
+description = "OG Tsukihime locations in Tōkyō"
 tags = [
-  "Visual Novels",
+  "Visual Novel",
   "Anime Tourism",
-  "Sacred Place Pilgrimage",
-  "Japan",
 ]
 date = 2023-11-25
 +++
