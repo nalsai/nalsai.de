@@ -15,14 +15,14 @@ release = "12. Jh."
 
 - ⅔ der Texte sind buddhistisch motiviert und handeln von karmischer Retribution
 - Stark didaktischer Unterton
-- Sprache: _wakan konkōbun_ (Chinesisch-Japanischer Mischstil)
-- _sezoku setsuwa_ 世俗説話 („Geschichten aus der Welt und aus dem Leben“)
+- Sprache: *wakan konkōbun* (Chinesisch-Japanischer Mischstil)
+- *sezoku setsuwa* 世俗説話 („Geschichten aus der Welt und aus dem Leben“)
 
 ## Aufbau
 
 - Umfasst 1069 Geschichten in 31 Büchern
 - Alle Kurzgeschichten werden mit einer Überschrift zusammengefasst
-- Anfangsfloskel immer mit _ima wa mukashi_ + Schlussfloskel
+- Anfangsfloskel immer mit *ima wa mukashi* + Schlussfloskel
 - Am Ende jeder Geschichte erfolgt eine kurze Zusammenfassung/Bewertung durch einen auktorialen Erzähler
 - Enthält exakte geografische und zeitliche Situierungen + fantastische Elemente
 
@@ -38,9 +38,9 @@ release = "12. Jh."
 ## Rezeptions- und Wirkungsgeschichte
 
 - Noch heute als Märchen oder Kindergeschichten bekannt
-- Akutagawa Ryūnosuke hat in seinem Werken _Rashōmon_ oder _Yabu no naka_ Geschichten aus dem _Konjaku monogatari_ verarbeitet
+- Akutagawa Ryūnosuke hat in seinem Werken *Rashōmon* oder *Yabu no naka* Geschichten aus dem *Konjaku monogatari* verarbeitet
 
 ## Besonderheiten
 
-- Volkstümliche (_shomin_) Literatur -> Ausnahme aus den überlieferten Werken (die meisten stammten vom Hofadel)
+- Volkstümliche (*shomin*) Literatur -> Ausnahme aus den überlieferten Werken (die meisten stammten vom Hofadel)
 - Oft vulgäre Elemente (z.B. „der heilige Reis-Scheißer“)

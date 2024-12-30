@@ -1,11 +1,9 @@
 {{ define "main" }}
 {{ $page := . }}
-<main class="container">
-    <div class="row text-center text-white mb-3">
+<main class="container mt-3">
+    <a href="../" class="bi-chevron-left text-decoration-none"> Zur Übersicht</a>
+    <div class="row text-center mt-3 mb-5">
         <div class="col-lg-10 mx-auto">
-            <a href="../" class="btn btn-primary btn-sm mt-4">
-                <i class="bi bi-chevron-left"></i>&nbsp;Zur Autoren-Übersicht
-            </a>
             <h1 class="mb-4 mt-3">{{ .Title }} {{ .Params.japanese }}</h1>
             {{ if .Description }}<p class="lead text-justify">{{ .Description }}</p>{{ end }}
             {{ if .Params.translation }}
@@ -25,7 +23,7 @@
             {{ end }}
         </div>
     </div>
-    <div class="my-3 pb-3">
+    <div class="my-3">
         {{ .Content }}
     </div>
 </main>

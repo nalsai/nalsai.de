@@ -3,6 +3,7 @@ type= "blog/japanische-literatur/autoren"
 draft = false
 
 weight = 22
+slug = "santo-kyoden"
 title = "Santō Kyōden"
 japanese = "山東 京伝"
 #translation = ""

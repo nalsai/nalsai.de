@@ -13,8 +13,8 @@ genres = ["zuihitsu"]
 release = "ca. 1330"
 +++
 
-- verschiedene Themen -> oft steht die Frage im Vordergrund, wie sich ein Mensch verhalten soll
-(gutes Benehmen, „Verlockungen“ wie Trinkerei & Spielerei, Familie & Ehe, Kunst & Wissen)
+- verschiedene Themen -> oft steht die Frage im Vordergrund, wie sich ein Mensch verhalten soll  
+  (gutes Benehmen, „Verlockungen“ wie Trinkerei & Spielerei, Familie & Ehe, Kunst & Wissen)
 - Leitmotiv: _mujō_
 - Veröffentlichung: unbekannt; wird auf ca. 1330 geschätzt (soll die Jahre 1310 – 1331 umfassen)  
 

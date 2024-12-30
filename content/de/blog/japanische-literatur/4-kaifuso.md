@@ -13,5 +13,5 @@ genres = ["Gedichtsammlung", "kanshi"]
 release = "ca. 751"
 +++
 
-- Sammlung von _kanshi_
-- Von Mitgliedern am Hof ungefähr zeitgleich mit dem _Man’yōshū_ kompiliert
+- Sammlung von *kanshi*
+- Von Mitgliedern am Hof ungefähr zeitgleich mit dem [*Man’yōshū*]({{< relref "3-manyoshu" >}}) kompiliert

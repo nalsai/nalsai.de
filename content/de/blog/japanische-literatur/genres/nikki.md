@@ -28,4 +28,4 @@ works = [
 
 ---
 
--> Reisetagebuch [kikō]({{< relref "kikō" >}})
+-> Reisetagebuch [kikō]({{< relref "kiko" >}})

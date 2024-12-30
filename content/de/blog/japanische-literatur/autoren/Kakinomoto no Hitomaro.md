@@ -2,7 +2,7 @@
 type= "blog/japanische-literatur/autoren"
 draft = false
 
-weight = 1
+weight = 2
 title = "Kakinomoto no Hitomaro"
 japanese = "柿本 人麻呂 oder 柿本 人麿"
 translation = ""
