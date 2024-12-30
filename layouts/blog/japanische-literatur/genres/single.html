@@ -2,9 +2,8 @@
 {{ $page := . }}
 <main class="container mt-3">
     <a href="../" class="bi-chevron-left text-decoration-none"> Zur Übersicht</a>
-    <div class="text-center text-white mb-5">
+    <div class="row text-center mt-3 mb-5">
         <div class="col-lg-10 mx-auto">
-
             <h1 class="mb-4 mt-3">{{ .Title }} {{ .Params.japanese }}</h1>
             {{ if .Description }}<p class="lead text-justify">{{ .Description }}</p>{{ end }}
             {{ if .Params.deutsch }}
@@ -24,7 +23,7 @@
             {{ end }}
         </div>
     </div>
-    <div class="my-3 pb-3">
+    <div class="my-3">
         {{ .Content }}
     </div>
 </main>
