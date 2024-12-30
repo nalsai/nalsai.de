@@ -33,15 +33,15 @@ Some Pro Micros come with pre-soldered headers, in which case this step is not n
 
 (You can use the PCB to help keep the headers straight.)
 
-<img class="mt-4 mb-5 d-block" src="XHL53808.jpg" alt="Pro Micro with headers"/>
+<img src="XHL53808.jpg" alt="Pro Micro with headers"/>
 
 ### Soldering The Pro Micro To The PCB
 
-<img class="my-4" src="XHL47948.jpg" alt="Pro Micro on PCB front"/>
+<img src="XHL47948.jpg" alt="Pro Micro on PCB front"/>
 
 Soldering only the pins shown in the image below is enough. (The pins are B5, B4, E6, D7, GND and the pins at the edges to hold the Pro Micro in place.)
 
-<img class="mt-3 mb-5" src="XHL49515.jpg" alt="Pro Micro on PCB back"/>
+<img src="XHL49515.jpg" alt="Pro Micro on PCB back"/>
 
 ### Soldering The Switches / Hotswap Sockets
 
@@ -55,23 +55,25 @@ Soldering only the pins shown in the image below is enough. (The pins are B5, B4
 </ul>
 <div class="tab-content" id="myTabContent">
   <div class="tab-pane show active" id="no-hotswap-pane" role="tabpanel" aria-labelledby="no-hotswap" tabindex="0">
+    <p>
     Just put the switches in the holes and solder them from the bottom. (The pins should go through the smaller holes with the silver rings around them, not the large ones, those are for the optional hotswap sockets.)
-    <img class="my-4" src="XHL61505.jpg" alt="soldered switches"/>
+    </p>
+    <img src="XHL61505.jpg" alt="soldered switches"/>
   </div>
   <div class="tab-pane" id="hotswap-pane" role="tabpanel" aria-labelledby="hotswap" tabindex="0">
       Rotate the board and solder the hotswap sockets to the PCB from the bottom. (I put some solder on the pads first and then put the hotswap sockets on top and used my soldering iron to melt the solder again and attach the hotswap sockets.)<br>
       Then you can rotate the board back and insert the switches. (Be careful not to insert the pins into the sockets and not bend them.)
-      <img class="my-4" src="XHL49061.jpg" alt="soldered hotswap sockets"/>
+      <img src="XHL49061.jpg" alt="soldered hotswap sockets"/>
   </div>
 </div>
 
-<img class="mb-5" src="XHL49597.jpg" alt="PCB with switches"/>
+<img src="XHL49597.jpg" alt="PCB with switches"/>
 
 ### Keycaps
 
 Just put the keycaps on the switches and press them down.
 
-<img class="mb-5" src="XHL53585.jpg" alt="finished pcb with keycaps"/>
+<img src="XHL53585.jpg" alt="finished pcb with keycaps"/>
 
 ---
 
@@ -81,13 +83,9 @@ Follow the [QMK Tutorial](https://docs.qmk.fm/#/newbs) for an in depth guide.
 
 If you just want to flash pre-compiled firmware, jump to [Flashing Your Pro Micro](#flashing-your-pro-micro) and follow the GUI instructions.
 
-&nbsp;
-
 ---
 
 ### Compiling
-
-&nbsp;
 
 <ul class="nav nav-tabs" id="myTab" role="tablist">
   <li class="nav-item" role="presentation">
@@ -136,19 +134,14 @@ Compile the firmware with the via keymap.
 qmk compile -kb nalsai/meishi -km via
 ```
 
-&nbsp;
-
 ---
 
 <h3 id="flashing-your-pro-micro" class="id-scroll-fix">Flashing Your Pro Micro</h3>
 
-&nbsp;
-
 If you want to download pre-compiled firmware, it is available at <https://github.com/nalsai/qmk_firmware/releases/latest>.  
 Just click on `nalsai_meishi_via.hex` to download it.
 
-
-<ul class="nav nav-tabs mt-5" id="myTab" role="tablist">
+<ul class="nav nav-tabs mt-4" id="myTab" role="tablist">
   <li class="nav-item" role="presentation">
     <button class="nav-link active" id="terminal" data-bs-toggle="tab" data-bs-target="#terminal-pane" type="button" role="tab" aria-controls="linux-pane" aria-selected="true">command line</button>
   </li>
@@ -156,24 +149,26 @@ Just click on `nalsai_meishi_via.hex` to download it.
     <button class="nav-link" id="gui" data-bs-toggle="tab" data-bs-target="#gui-pane" type="button" role="tab" aria-controls="hotswap-pane" aria-selected="false">GUI (Windows & macOS only)</button>
   </li>
 </ul>
-<div class="tab-content mb-5" id="myTabContent">
+<div class="tab-content" id="myTabContent">
   <div class="tab-pane show active" id="terminal-pane" role="tabpanel" aria-labelledby="terminal" tabindex="0">
-    Run the following command to flash your keyboard:
-    <pre tabindex="0"><code>qmk flash -kb nalsai/meishi -km via</code></pre>
-    Now, put the pro micro into DFU (bootloader) mode by shorting the pins on the PCB labeled RESET and GND together.
-    <img class="my-4 d-block" src="XHL49262.jpg" alt="GND and RESET pins"/>
-    <img class="my-4 d-block" src="flash-avrdude.png" alt="flash screen"/>
+    <p>
+      Run the following command to flash your keyboard:
+      <pre tabindex="0"><code>qmk flash -kb nalsai/meishi -km via</code></pre>
+      Now, put the pro micro into DFU (bootloader) mode by shorting the pins on the PCB labeled RESET and GND together.
+    </p>
+    <img src="XHL49262.jpg" alt="GND and RESET pins"/>
+    <img src="flash-avrdude.png" alt="flash screen"/>
   </div>
   <div class="tab-pane" id="gui-pane" role="tabpanel" aria-labelledby="gui" tabindex="0">
     <p>
       The simplest way to flash your keyboard is with <a href="https://github.com/qmk/qmk_toolbox/releases/latest">QMK Toolbox</a>.<br>
-      Run QMK Toolbox (allow it to install drivers when prompted) and select the firmware file.<br>
+      Run QMK Toolbox (allow it to install drivers when prompted) and select the firmware file.
     </p>
     <p>
       Now, plug in your Pro Micro and locate the RST and GND pins.<br>
       Briefly connect these two contacts using something like metal tweezers, a screwdriver, a paperclip or a loose piece of wire.<br>
     </p>
-    <img class="my-4 d-block" src="XHL49262.jpg" alt="GND and RESET pins"/>
+    <img src="XHL49262.jpg" alt="GND and RESET pins"/>
     You should see a message in yellow, similar to this in QMK Toolbox:
     <code class="text-warning d-block">*** DFU device connected: Atmel Corp. ATmega32U4 (03EB:2FF4:0000)</code>
     Now, you just need to click the flash button.
@@ -183,8 +178,6 @@ Just click on `nalsai_meishi_via.hex` to download it.
 ### You're Done!
 
 Congrats! Your custom firmware has been programmed to your Pro Micro.
-
-&nbsp;
 
 ---
 

@@ -292,3 +292,17 @@ li:hover.timeline-item {
 [data-bs-theme='light'] .invert-light {
     filter: invert(1);
 }
+
+.blog-post h1,h2,h3,h4,h5,h6 {
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.blog-post img {
+    margin-top: .5rem;
+    margin-bottom: 1rem;
+}
+
+.blog-post hr {
+    margin: 2rem 0;
+}
