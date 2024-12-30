@@ -1,10 +1,12 @@
 +++
-title = "Visiting Places from Summertime Renderin"
-description = ""
-tags = [
-]
+title = "Visiting Places from Summertime Rendering"
+description = "A trip to Wakayama, Kada and Tomogashima to visit the real-life locations of Summertime Rendering"
+tags = ["Anime", "Anime Tourism", "Japan", "Summertime Rendering"]
 date = 2023-03-18
 +++
+
+
+![alt text](img/YCB74762.jpg) ![alt text](img/YCB74784.jpg) ![alt text](img/YCB74808.jpg)
 
 https://otent-nankai.jp/category/topic/220809_summer-time-rendering-tomogashima_760
 Wakaymana Station, Restaurant: https://nisachasablog.com/summertime-render/1099/#toc18
@@ -18,7 +20,6 @@ Tomogashima Ferry: https://tomogashimakisen.com/main/%e9%81%8b%e8%88%aa%e6%99%82
 https://www.wakayama-kanko.or.jp/features/summertimerendering/
 
 https://www.wakayama-kanko.or.jp/features/summertimerendering/asset/image/top/map.pdf
-
 
 
 
