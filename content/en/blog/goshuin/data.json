@@ -321,6 +321,15 @@
             "date": "2024-01-01"
         },
         {
+            "type": "temple",
+            "image": "2024-01-01_senso-ji_kanon.jpg",
+            "prefecture": "Tōkyō",
+            "location": "Sensō-ji",
+            "locationJp": "浅草寺",
+            "notes": "Kanon Goshuin",
+            "date": "2024-01-01"
+        },
+        {
             "type": "shrine",
             "image": "2024-01-01_asakusa-jinja.jpg",
             "prefecture": "Tōkyō",
