@@ -1,0 +1,176 @@
+
+    
+{{ define "head" }}
+<style>
+    body {
+        line-height: 1.6;
+    }
+
+    .social-links {
+        margin-top: 0.5rem;
+        display: flex;
+        justify-content: center;
+        gap: 1rem;
+    }
+
+    .social-link {
+        text-decoration: none;
+        display: flex;
+        align-items: center;
+        gap: 0.25rem;
+    }
+
+    .social-link:hover {
+        text-decoration: underline;
+    }
+
+    .section {
+        margin-bottom: 2rem;
+    }
+
+    .section-title {
+        border-bottom: 1px solid var(--bs-body-color);
+        padding-bottom: 0.5rem;
+        margin-bottom: 1rem;
+    }
+
+    .experience-item, .education-item {
+        margin-bottom: 1.5rem;
+    }
+
+    .job-title, .degree {
+        font-weight: 600;
+        margin: 0;
+    }
+
+    .skills {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1rem;
+        list-style: none;
+        padding: 0;
+    }
+
+    .skill-category {
+        flex: 1;
+        min-width: 200px;
+    }
+</style>
+{{ end }}
+    
+{{ define "main" }}
+<div class="container my-5 col-md-9 col-xl-7">
+    <div class="header text-center">
+        <h1 class="name display-4">{{ .Params.name }}</h1>
+        <div class="contact-info">
+            {{ with .Params.email }}<span class="bi bi-envelope mx-1"> {{ . }}</span>{{ end }}
+            {{ with .Params.phone }}<span class="bi bi-phone mx-1"> {{ . }}</span>{{ end }}
+            {{ with .Params.location }}<span class="bi bi-geo-fill mx-1"> {{ . }}</span>{{ end }}
+        </div>
+
+        <div class="social-links">
+            {{ with .Params.linkedin }}
+            <a href="{{ . }}" class="social-link text-body" target="_blank" rel="noopener noreferrer">
+                <i class="bi bi-linkedin"></i>
+                <span class="d-print-none">LinkedIn</span>
+                <span class="d-none d-print-inline">LinkedIn: nalsai</span>
+            </a>
+            {{ end }}
+            {{ with .Params.github }}
+            <a href="{{ . }}" class="social-link text-body" target="_blank" rel="noopener noreferrer">
+                <i class="bi bi-github"></i>
+                <span class="d-print-none">GitHub</span>
+                <span class="d-none d-print-inline">GitHub: nalsai</span>
+            </a>
+            {{ end }}
+            {{ with .Params.website }}
+            <a href="{{ . }}" class="social-link text-body" target="_blank" rel="noopener noreferrer">
+                <i class="bi bi-globe-europe-africa"></i>
+                <span class="d-print-none">Website</span>
+                <span class="d-none d-print-inline">Website: nalsai.de</span>
+            </a>
+            {{ end }}
+        </div>
+    </div>
+
+    {{ with .Params.summary }}
+    <div class="section">
+        <h2 class="section-title">Professional Summary</h2>
+        <p>{{ . }}</p>
+    </div>
+    {{ end }}
+
+    {{ with .Params.sns }}
+    <div class="section">
+        <h2 class="section-title">Social Media</h2>
+        <ul>
+            {{ range . }}
+            <li><a href="{{ .url }}">{{ .name }}</a></li>
+            {{ end }}
+        </ul>
+    </div>
+    {{ end }}
+
+    
+    {{ with .Params.experience }}
+    <div class="section">
+        <h2 class="section-title">Professional Experience</h2>
+        {{ range . }}
+        <div class="experience-item">
+            <h3 class="job-title font-weight-bold">{{ .title }}</h3>
+            <p class="company m-0">{{ .company }}</p>
+            <p class="date small text-body">{{ .startDate }} {{ if and .startDate .endDate }} - {{ end }} {{ .endDate }}</p>
+            <ul>
+                {{ range .accomplishments }}
+                <li>{{ . }}</li>
+                {{ end }}
+            </ul>
+        </div>
+        {{ end }}
+    </div>
+    {{ end }}
+
+    {{ with .Params.education }}
+    <div class="section">
+        <h2 class="section-title">Education</h2>
+        {{ range . }}
+        <div class="education-item">
+            <h3 class="degree">{{ .degree }}</h3>
+            <p class="school m-0">{{ .school }}</p>
+            <p class="date small">{{ .date }}</p>
+            {{ with .details }}
+            <p>{{ . }}</p>
+            {{ end }}
+        </div>
+        {{ end }}
+    </div>
+    {{ end }}
+
+    {{ with .Params.skills }}
+    <div class="section">
+        <h2 class="section-title mb-0">Skills</h2>
+        <ul class="skills">
+            {{ range . }}
+            <li class="skill-category">
+                <h4 class="text-break">{{ .category }}</h4>
+                <ul>
+                    {{ range .items }}
+                    <li>{{ . }}</li>
+                    {{ end }}
+                </ul>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+    {{ end }}
+
+    {{ with .Params.hobbies }}
+    <div class="section">
+        <h2 class="section-title">{{ i18n "interestsHobbies" }}</h2>
+        <div class="hobbies">
+            {{ delimit . ", " }}
+        </div>
+    </div>
+    {{ end }}
+</div>
+{{ end }}

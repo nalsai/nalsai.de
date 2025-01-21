@@ -30,3 +30,12 @@ other = "Sprache"
 
 [preview-image]
 other = "Vorschaubild"
+
+[professionalExperience]
+other = "Berufserfahrung"
+
+[education]
+other = "Bildung"
+
+[interestsHobbies]
+other = "Interessen und Hobbies"

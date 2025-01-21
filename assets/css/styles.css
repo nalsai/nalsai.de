@@ -306,3 +306,15 @@ li:hover.timeline-item {
 .blog-post hr {
     margin: 2rem 0;
 }
+
+@media print {
+    body {
+        padding: 1rem;
+        background-color: #fff;
+        color: #000;
+    }
+
+    .container, .container-fluid {
+        max-width: 100%;
+    }
+}
