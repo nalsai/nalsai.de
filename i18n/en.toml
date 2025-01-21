@@ -30,3 +30,12 @@ other = "Language"
 
 [preview-image]
 other = "preview image"
+
+[professionalExperience]
+other = "Professional Experience"
+
+[education]
+other = "Education"
+
+[interestsHobbies]
+other = "Interests & Hobbies"

@@ -1,12 +1,12 @@
 ---
-title: Lebenslauf
+title: Resume
 layout: resume
 menu: main
 weight: 9
 name: Nils Fürniß
 email: contact@nalsai.de
 #phone: "(123) 456-7890"
-location: "Heidelberg, Deutschland"
+location: "Heidelberg, Germany"
 linkedin: "https://linkedin.com/in/nalsai"
 github: "https://github.com/nalsai"
 website: "https://nalsai.de"
@@ -14,33 +14,33 @@ website: "https://nalsai.de"
 #summary: "Your professional summary goes here..."
 
 experience:
-  - title: Praktikum Softwareentwicklung
+  - title: Software Development Intern
     company: Vector Informatik GmbH
-    startDate: Februar 2020
+    startDate: February 2020
     accomplishments:
-      - "Erstellen einer WPF-Anwendung für den internen Gebrauch zur Unterstützung der Entwicklung der Produkte des Unternehmens"
-      - "Entwicklung von Pfadanalyse-Logik unter Einbeziehung von Nutzereingaben"
-      - "Testing und Fehlerfallabdeckung"
+      - "Created a WPF application for internal use to support the development of the company's products"
+      - "Developed path analysis logic incorporating user input"
+      - "Testing and error handling"
 
 education:
-  - degree: Bachelor of Arts in East Asian Studies (Schwerpunkt Japan)
+  - degree: Bachelor of Arts in East Asian Studies (focus on Japan)
     school: Heidelberg University
     date: 2021 – Present
   - degree: Special Auditing Student
     school: Mie University
     date: 2023 - 2024
-  - degree: Abitur
+  - degree: Abitur (German high school diploma)
     school: Bismarck-Gymnasium Karlsruhe
     date: 2013 – 2021
 
 skills:
-  - category: Programmiersprachen
+  - category: Programming Languages
     items:
       - "C#"
       - "Go"
       - "Python"
       - "JavaScript"
-  - category: Technologien
+  - category: Technologies
     items:
       - "Linux"
       - "Docker"
@@ -53,16 +53,16 @@ skills:
       - "FFmpeg"
       - "VapourSynth"
       - "Bootstrap"
-  - category: Sprachen
+  - category: Languages
     items:
-      - "Deutsch (Muttersprache)"
-      - "Englisch (fließend)"
-      - "Japanisch (oberes Mittelstufen-Niveau, JLPT N2)"
+      - "German (native)"
+      - "English (fluent)"
+      - "Japanese (upper-intermediate, JLPT N2)"
 
-hobbies:
-  - "Programmieren"
-  - "Webentwicklung"
-  - "Fotografie"
-  - "Lesen"
-  - "Musik"
+hobb1ies:
+  - "Programming"
+  - "Web Development"
+  - "Photography"
+  - "Reading"
+  - "Listening to music"
 ---
