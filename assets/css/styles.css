@@ -310,7 +310,8 @@ li:hover.timeline-item {
 @media print {
     body {
         padding: 1rem;
-        background-color: #fff;   
+        background-color: #fff;
+        color: #000;
     }
 
     .container, .container-fluid {

@@ -6,24 +6,6 @@
         line-height: 1.6;
     }
 
-    .header {
-        text-align: center;
-        margin-bottom: 2rem;
-        border-bottom: 2px solid var(--accent-color);
-        padding-bottom: 1rem;
-    }
-
-    .name {
-        font-size: 2.5rem;
-        margin: 0;
-        color: var(--primary-color);
-    }
-
-    .contact-info {
-        color: var(--secondary-color);
-        margin-top: 0.5rem;
-    }
-
     .social-links {
         margin-top: 0.5rem;
         display: flex;
@@ -32,7 +14,6 @@
     }
 
     .social-link {
-        color: var(--accent-color);
         text-decoration: none;
         display: flex;
         align-items: center;
@@ -48,8 +29,7 @@
     }
 
     .section-title {
-        color: var(--accent-color);
-        border-bottom: 1px solid #e2e8f0;
+        border-bottom: 1px solid var(--bs-body-color);
         padding-bottom: 0.5rem;
         margin-bottom: 1rem;
     }
@@ -61,16 +41,6 @@
     .job-title, .degree {
         font-weight: 600;
         margin: 0;
-    }
-
-    .company, .school {
-        color: var(--accent-color);
-        margin: 0;
-    }
-
-    .date {
-        color: var(--secondary-color);
-        font-size: 0.9rem;
     }
 
     .skills {
@@ -85,18 +55,13 @@
         flex: 1;
         min-width: 200px;
     }
-
-    .skill-category h4 {
-        color: var(--accent-color);
-        margin-bottom: 0.5rem;
-    }
 </style>
 {{ end }}
     
 {{ define "main" }}
 <div class="container my-5 col-md-9 col-xl-7">
-    <div class="header">
-        <h1 class="name">{{ .Params.name }}</h1>
+    <div class="header text-center">
+        <h1 class="name display-4">{{ .Params.name }}</h1>
         <div class="contact-info">
             {{ with .Params.email }}<span class="bi bi-envelope mx-1"> {{ . }}</span>{{ end }}
             {{ with .Params.phone }}<span class="bi bi-phone mx-1"> {{ . }}</span>{{ end }}
@@ -105,21 +70,24 @@
 
         <div class="social-links">
             {{ with .Params.linkedin }}
-            <a href="{{ . }}" class="social-link" target="_blank" rel="noopener noreferrer">
+            <a href="{{ . }}" class="social-link text-body" target="_blank" rel="noopener noreferrer">
                 <i class="bi bi-linkedin"></i>
-                LinkedIn
+                <span class="d-print-none">LinkedIn</span>
+                <span class="d-none d-print-inline">LinkedIn: nalsai</span>
             </a>
             {{ end }}
             {{ with .Params.github }}
-            <a href="{{ . }}" class="social-link" target="_blank" rel="noopener noreferrer">
+            <a href="{{ . }}" class="social-link text-body" target="_blank" rel="noopener noreferrer">
                 <i class="bi bi-github"></i>
-                GitHub
+                <span class="d-print-none">GitHub</span>
+                <span class="d-none d-print-inline">GitHub: nalsai</span>
             </a>
             {{ end }}
             {{ with .Params.website }}
-            <a href="{{ . }}" class="social-link" target="_blank" rel="noopener noreferrer">
+            <a href="{{ . }}" class="social-link text-body" target="_blank" rel="noopener noreferrer">
                 <i class="bi bi-globe-europe-africa"></i>
-                Website
+                <span class="d-print-none">Website</span>
+                <span class="d-none d-print-inline">Website: nalsai.de</span>
             </a>
             {{ end }}
         </div>
@@ -149,9 +117,9 @@
         <h2 class="section-title">Professional Experience</h2>
         {{ range . }}
         <div class="experience-item">
-            <h3 class="job-title">{{ .title }}</h3>
-            <p class="company">{{ .company }}</p>
-            <p class="date">{{ .startDate }} {{ if and .startDate .endDate }} - {{ end }} {{ .endDate }}</p>
+            <h3 class="job-title font-weight-bold">{{ .title }}</h3>
+            <p class="company m-0">{{ .company }}</p>
+            <p class="date small text-body">{{ .startDate }} {{ if and .startDate .endDate }} - {{ end }} {{ .endDate }}</p>
             <ul>
                 {{ range .accomplishments }}
                 <li>{{ . }}</li>
@@ -168,8 +136,8 @@
         {{ range . }}
         <div class="education-item">
             <h3 class="degree">{{ .degree }}</h3>
-            <p class="school">{{ .school }}</p>
-            <p class="date">{{ .date }}</p>
+            <p class="school m-0">{{ .school }}</p>
+            <p class="date small">{{ .date }}</p>
             {{ with .details }}
             <p>{{ . }}</p>
             {{ end }}
@@ -184,7 +152,7 @@
         <ul class="skills">
             {{ range . }}
             <li class="skill-category">
-                <h4>{{ .category }}</h4>
+                <h4 class="text-break">{{ .category }}</h4>
                 <ul>
                     {{ range .items }}
                     <li>{{ . }}</li>
