@@ -1,9 +1,9 @@
 {{ define "main" }}
 <main class="container">
-    <div class="row text-center text-white">
+    <div class="row text-center">
         <div class="col-lg-8 mx-auto">
 
-            <h1 class="my-4">{{ strings.FirstUpper .Data.Singular }}: {{ .Title }}</h1>
+            <h1 class="my-5 print-mt-0">{{ strings.FirstUpper .Data.Singular }}: {{ .Title }}</h1>
 
             {{ $lang := .Lang }}
 
@@ -21,10 +21,10 @@
             {{ end }}
             <a href="{{ $link }}" class="text-decoration-none h-75">
                 <div class="d-flex p-3 hover-opacity card bg-body-tertiary px-3 py-4 m-0 rounded-4 my-4 text-start">
-                    <p class="m-0 text-light">
-                        <strong class="d-block text-white mb-1">{{ .Title }}</strong>
+                    <p class="m-0 text-body-secondary">
+                        <strong class="d-block text-body mb-1">{{ .Title }}</strong>
                         <small class="text-muted d-block mb-2">{{ .Description }}</small>
-                        {{ if .Date }}<i class="bi bi-calendar-event"></i> <time class="text-light" datetime="{{ .Date.Format " 2006-01-02" }}">{{ dateFormat (default "2006-01-02" .Site.Params.dateFormat) .Date }}</time>&nbsp;{{ end }}
+                        {{ if .Date }}<i class="bi bi-calendar-event"></i> <time datetime="{{ .Date.Format " 2006-01-02" }}">{{ dateFormat (default "2006-01-02" .Site.Params.dateFormat) .Date }}</time>&nbsp;{{ end }}
                         {{ with .Params.tags }}<i class="bi bi-tags"></i> {{ delimit . ", " }}&nbsp;{{ end }}
 
                         {{ if ne .Lang $lang }}

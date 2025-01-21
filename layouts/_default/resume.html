@@ -55,11 +55,15 @@
         flex: 1;
         min-width: 200px;
     }
+
+    #footer-divider {
+        opacity: 100;
+    }
 </style>
 {{ end }}
     
 {{ define "main" }}
-<div class="container my-5 col-md-9 col-xl-7">
+<div class="container my-5 print-mt-0">
     <div class="header text-center">
         <h1 class="name display-4">{{ .Params.name }}</h1>
         <div class="contact-info">

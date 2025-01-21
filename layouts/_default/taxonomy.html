@@ -1,15 +1,15 @@
 {{ define "main" }}
 <main class="container">
-    <div class="row text-center text-white">
+    <div class="row text-center">
         <div class="col-lg-8 mx-auto">
 
-            <h1 class="my-4">{{ .Title }}</h1>
+            <h1 class="my-5 print-mt-0">{{ .Title }}</h1>
 
             {{ range (where .Paginator.Pages ".Params.unlisted" "!=" "true") }}
             <a href="{{ .RelPermalink }}" class="text-decoration-none h-75">
-                <div class="d-flex p-3 hover-opacity card bg-body-tertiary px-3 py-4 m-0 rounded-4 my-4 text-start">
-                    <p class="m-0 text-light">
-                        <strong class="d-block text-white mb-1">{{ .Title }}</strong>
+                <div class="d-flex p-3 hover-opacity card bg-body-tertiary text-body px-3 py-4 m-0 rounded-4 my-4 text-start">
+                    <p class="m-0">
+                        <strong class="d-block mb-1">{{ .Title }}</strong>
                     </p>
                 </div>
             </a>

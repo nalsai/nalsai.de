@@ -1,5 +1,5 @@
 <footer class="container py-2 mt-4">
-    <hr class="featurette-divider my-4">
+    <hr id="footer-divider" class="my-4">
     <p class="float-end ml-4 d-print-none"><a href="#" onclick="document.body.scrollTop=0;document.documentElement.scrollTop=0;event.preventDefault()">{{ i18n "top" }}</a></p>
     <p>&copy; {{ with .Site.GetPage "blog/website-creation.md" }}<a href="{{ .RelPermalink }}" class="text-body-emphasis text-decoration-none">2018-{{ now.Year }}</a>{{ else }}2018-{{ now.Year }}{{ end }} Nils Fürniß <span class="d-print-none">{{ range .Site.Menus.footer }} &middot; <a href="{{ .URL }}">{{ .Title }}</a>{{ end }}</span></p>
     <p>{{ i18n "built" }} <a href="https://gohugo.io">Hugo {{ hugo.Version }}</a>{{ if .GitInfo }} {{ i18n "commit" }} <a href="https://git.nalsai.de/nalsai.de/commit/{{ .GitInfo.Hash }}">{{ .GitInfo.AbbreviatedHash }}</a>{{ end }} {{ i18n "on" }} {{ now.UTC.Format "2006-01-02 15:04 UTC" }}</p>

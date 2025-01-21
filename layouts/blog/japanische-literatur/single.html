@@ -1,8 +1,8 @@
 {{ define "main" }}
 {{ $page := . }}
-<main class="container mt-3">
-    <a href="../" class="bi-chevron-left text-decoration-none"> Zur Übersicht</a>
-    <div class="row text-center mt-3 mb-5">
+<main class="container mt-3 print-pt-0">
+    <a href="../" class="bi-chevron-left text-decoration-none d-print-none"> Zur Übersicht</a>
+    <div class="row text-center mt-3 mb-5 print-mt-0">
         <div class="col-lg-10 mx-auto">
             <h1 class="mb-4 mt-4 display-5">{{ .Title }} {{ .Params.japanese }}</h1>
             {{ if .Description }}<p class="lead text-justify">{{ .Description }}</p>{{ end }}
@@ -29,12 +29,12 @@
         {{ .Content }}
     </div>
     {{if .NextInSection}}
-    <a href="{{with .NextInSection }}{{.RelPermalink}}{{end}}" class="mt-4" style="position: fixed; left: 10px; top: 50%; transform: translateY(-50%);">
+    <a href="{{with .NextInSection }}{{.RelPermalink}}{{end}}" class="mt-4 d-print-none" style="position: fixed; left: 10px; top: 50%; transform: translateY(-50%);">
         <i class="bi bi-chevron-left"></i>
     </a>
     {{ end }}
     {{if and .PrevInSection (not .PrevInSection.Params.unlisted)}}
-    <a href="{{with .PrevInSection }}{{.RelPermalink}}{{end}}" class="mt-4" style="position: fixed; right: 10px; top: 50%; transform: translateY(-50%);">
+    <a href="{{with .PrevInSection }}{{.RelPermalink}}{{end}}" class="mt-4 d-print-none" style="position: fixed; right: 10px; top: 50%; transform: translateY(-50%);">
         <i class="bi bi-chevron-right"></i>
     </a>
     {{ end }}

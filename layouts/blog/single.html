@@ -1,7 +1,7 @@
 {{ define "main" }}
 <main class="container blog-post">
     <header>
-        <h1 class="pt-2">{{ .Title }}</h1>
+        <h1 class="pt-2 print-pt-0 print-mt-0">{{ .Title }}</h1>
         <p>{{ .Description }}</p>
         {{ if .Date }}<p><i class="bi bi-calendar-event"></i> <time datetime="{{ .Date.Format " 2006-01-02" }}">{{ dateFormat (default "2006-01-02" .Site.Params.dateFormat) .Date }}</time><br class="mb-2">{{ end }}
         {{ with .Params.tags }}

@@ -317,4 +317,12 @@ li:hover.timeline-item {
     .container, .container-fluid {
         max-width: 100%;
     }
+
+    .print-mt-0 {
+        margin-top: 0 !important;
+    }
+
+    .print-pt-0 {
+        padding-top: 0 !important;
+    }
 }
