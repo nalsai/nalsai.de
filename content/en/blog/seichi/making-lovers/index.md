@@ -16,6 +16,6 @@ I was in the area multiple times, as the location is close to the Makuhari Messe
 The photo is not lined up perfectly, as it is just a quick phone shot before niconico Chokaigi, but you can clearly see the resemblance.  
 (Also, there is a pole in the way and the geometry is not exactly the same.)
 
-![1.jpg](1.jpg)
-![YDR40326.jpg](YDR40326.jpg)
+{{< img 1.jpg >}}
+{{< img YDR40326.jpg >}}  
 Date: 2024-04-27
