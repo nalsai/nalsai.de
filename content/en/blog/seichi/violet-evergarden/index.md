@@ -1,5 +1,5 @@
 +++
-title = "TODO"
+title = "Violet Evergarden Gaiden - Heidelberg, Mannheim, Nuremberg"
 description = ""
 tags = [
   "Anime",
