@@ -1,7 +1,7 @@
 +++
 title = "Wiring Ethernet Throughout the House Using Old Phone Wiring"
 tags = ["Hardware", "Networking", "DIY"]
-date = 2025-02-08
+date = 2025-02-09
 +++
 
 It's been a while since I did this, but I wired up my parents' house with Ethernet using the old phone wiring. Since it was difficult to find much information on this, I thought I would share my experience as a kind of guide.
