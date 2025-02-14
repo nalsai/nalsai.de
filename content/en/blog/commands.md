@@ -4,27 +4,14 @@ description = "(Most commands work on any platform, but some may require Bash an
 tags = ["Software", "Commands", "Linux"]
 +++
 
-<style>
-  h2,h3,h4,h5,h6 {
-    scroll-margin-top: 90px;
-    margin: 0.8em 0 0.6em 0;
-  }
-</style>
-
 ## Table of Contents
 
 1. [Videos](#videos)
-
 2. [Images](#images)
-
 3. [Documents](#documents)
-
 4. [Audio](#audio)
-
 5. [Files](#files)
-
-6. [Fun Command-Line Programs](#fun-command-line-programs)  
-  
+6. [Fun Command-Line Programs](#fun-command-line-programs)
 
 ---
 

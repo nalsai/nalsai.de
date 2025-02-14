@@ -1,3 +1,3 @@
-<a href="https://files.nils.moe/www/nalsai.de{{ .Page.RelPermalink }}{{ .Get 0 }}" target="_blank">
+<a href="https://files.nils.moe/www/nalsai.de{{ .Page.RelPermalink }}{{ if .Get 1 }}{{ strings.TrimSuffix (path.Ext (.Get 0)) (.Get 0) }}.{{ .Get 1 }}{{ else }}{{ .Get 0 }}{{ end }}" target="_blank">
     <img src="{{ .Get 0 }}" alt="{{ .Get 0 }}">
 </a>

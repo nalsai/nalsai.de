@@ -300,7 +300,18 @@ li:hover.timeline-item {
 
 .blog-post img {
     margin-top: .5rem;
+    margin-top: .5rem;
+}
+
+.blog-post p {
+    margin-top: 1rem;
     margin-bottom: 1rem;
+}
+
+.blog-post iframe {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    vertical-align: middle;
 }
 
 .blog-post hr {
@@ -325,4 +336,8 @@ li:hover.timeline-item {
     .print-pt-0 {
         padding-top: 0 !important;
     }
+}
+
+h2,h3,h4,h5,h6 {
+    scroll-margin-top: 90px;
 }
