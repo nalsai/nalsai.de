@@ -2,7 +2,7 @@
 title = "Visiting the Ōigawa inspired by Yuru Camp Season 3"
 description = "A day trip algong the beautiful valley of the river Ōi with the Ōigawa Railway"
 tags = ["Anime", "Anime Tourism", "Yuru Camp", "Japan"]
-date = 2025-02-13
+date = 2025-02-14
 dateContent = 2024-06-14
 +++
 
@@ -27,7 +27,7 @@ dateContent = 2024-06-14
 
 I have been a fan of Yuru Camp since the first season, and I was very excited when the third season was announced. It was releasing while I was in Japan and easily reacheable from my location in Tsu by local and express trains. So I decided to visit the Ōigawa Railway and the surrounding area.
 
-It took a while to get this blog post up, but I actually visited the spots fairly soon after the anime aired (less than two months after the release of episode 3 and 4, the episodes that features the locations I visited" >}}. I hope you enjoy the pictures and the little trip report.
+It took a while to get this blog post up (exactly 8 months), but I actually visited the spots fairly soon after the anime aired (less than two months after the release of episode 3 and 4, the episodes that features the locations I visited). I hope you enjoy the pictures and the little trip report.
 
 ## TODO: navigation
 
