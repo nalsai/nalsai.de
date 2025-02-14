@@ -25,34 +25,30 @@ dateContent = 2024-06-14
 
 ## Introduction
 
-I have been a fan of Yuru Camp since the first season, and I was very excited when the third season was announced. It was releasing while I was in Japan and easily reacheable from my location in Tsu by local and express trains. So I decided to visit the Ōigawa Railway and the surrounding area.
+I have been a fan of Yuru Camp since the first season, and I was very excited when the third season was announced. It was airing while I was in Japan and easily reachable from my location in Tsu by local and express trains. So I decided to visit the Ōigawa Railway and the surrounding area.
 
-It took a while to get this blog post up (exactly 8 months), but I actually visited the spots fairly soon after the anime aired (less than two months after the release of episode 3 and 4, the episodes that features the locations I visited). I hope you enjoy the pictures and the little trip report.
-
-## TODO: navigation
+It took a while to get this blog post up (exactly 8 months), but I actually visited the spots fairly soon after the anime aired (less than two months after the release of episodes 3 and 4, the episodes that features the locations I visited). I hope you enjoy the pictures and the little trip report.
 
 ## The Plan
 
-Since it is a pretty remote area trains are not very frequent, I had to plan my trip carefully. I checked the train and bus schedules and made a plan for the day so I wouldn't end up stranded.
+Since it is a pretty remote area and trains are not very frequent, I had to plan my trip carefully. I checked the train and bus schedules and made a plan for the day, so I wouldn't end up stranded.
 
-Starting from my Hotel in Hamamatsu I took the train to Kanaya at 6:23 AM  wher I changed to the Ōigawa Railway.
-Due to typhoon damage in 2022 the train was not running all the way to Senzu, so I had to get off at Ieyama at 7:49 AM and took the community bus to Senzu at 8:15 AM.
+Starting from my Hotel in Hamamatsu, I took the train to Kanaya at 6:23 AM, where I changed to the Ōigawa Railway.
+Due to typhoon damage in 2022, the train was not running all the way to Senzu, so I had to get off at Ieyama at 7:49 AM and took the community bus to Senzu at 8:15 AM.
 
-From there I took the train to Sessokyō Onsen, where I arrived at 10:28 AM.
+From there, I took the train to Sessokyō Onsen, where I arrived at 10:28 AM.
 
-The train ride itself was already very scenic and I could see the beautiful valley of the river Ōi. The announcer in the train also pointed out some of the sights along the way. Unfortunately I could not understand much due to the train noise.
+The train ride itself was already very scenic, and I could see the beautiful valley of the river Ōi. The announcer in the train also pointed out some of the sights along the way. Unfortunately I could not understand much due to the train noise.
 
-From there I took the *Yappashi Komichi Love Romance Road* as seen in the anime and walked back all the way to Abt-Ichishiro Station to enjoy the sights along the way and then catch the train back to Senzu.
+From there I took the Yappashi Komichi Love Romance Road as seen in the anime and walked back all the way to Abt-Ichishiro Station to enjoy the sights along the way and then catch the train back to Senzu.
 
-With that let's get to the pictures:
-
----
+With that, let's get to the pictures!
 
 ## Kanaya Station
 
-The start of the Ōigawa Railway. As I don't have a license I started my journey here, just like Nadeshiko. However, I didn't follow the Nadeshiko route as I wanted to also take the Yappashi Komichi Love Romance Road.
+The start of the Ōigawa Railway. As I don't have a license, I used the train, just like Nadeshiko. However, I didn't follow the Nadeshiko route as I wanted to also take the Yappashi Komichi Love Romance Road.
 
-I didn't have screenshots from the Nadeshiko route with me so here are the pictures I took freely.
+I didn't have screenshots from the Nadeshiko route with me, so here are the pictures I took freely.
 
 {{< img "img/Yuru Camp S3 - 03 - 12m27s539t.avif" "jpg" >}}
 {{< img "img/YFE24647.avif" "jpg" >}}
@@ -80,7 +76,7 @@ It was quite overgrown, so I didn't recognize it immediately.
 {{< img "img/Yuru Camp S3 - 03 - 14m06s388t.avif" "jpg" >}}
 {{< img "img/YFE38784.avif" "jpg" >}}
 
-Here comes the first of the seemingly endless series bridges:
+Here comes the first of the seemingly endless series of bridges:
 
 {{< img "img/Yuru Camp S3 - 03 - 14m13s770t.avif" "jpg" >}}
 {{< img "img/YFE39000.avif" "jpg" >}}
@@ -96,7 +92,7 @@ Here comes the first of the seemingly endless series bridges:
 {{< img "img/YFE39448.avif" "jpg" >}}
 
 Just like in the anime, one bridge, located to the right of the sign, isn't accessible.  
-But since we're only at the beggining, we've still got plenty to get through.
+But since we're only at the beginning, we've still got plenty to get through.
 
 {{< img "img/Yuru Camp S3 - 03 - 15m06s156t.avif" "jpg" >}}
 {{< img "img/YFE39500.avif" "jpg" >}}
@@ -107,7 +103,7 @@ But since we're only at the beggining, we've still got plenty to get through.
 {{< img "img/Yuru Camp S3 - 03 - 15m09s743t.avif" "jpg" >}}
 {{< img "img/YFE39666.avif" "jpg" >}}
 
-I'm already getting tired phtographing all these bridges.
+I'm already getting tired of photographing all these bridges.
 
 {{< img "img/Yuru Camp S3 - 03 - 15m19s086t.avif" "jpg" >}}
 {{< img "img/YFE39733.avif" "jpg" >}}
@@ -164,14 +160,14 @@ Only two more to go.
 {{< img "img/Yuru Camp S3 - 03 - 16m56s808t.avif" "jpg" >}}
 {{< img "img/YFE41571.avif" "jpg" >}}
 
-If I had brought a tripod I could have copied the poses and taken a picture of myself.
+If I had brought a tripod, I could have copied the poses and taken a picture of myself.
 
 That was a nice little walk, with a lot of bridges.  
 It took me about 40 minutes from the first bridge to the end, but only because I took a lot of pictures.
 
 ## Okuōikojō {#okuoikojo}
 
-Located on a cliff next to the Okuōi Reservoir created by the Nagashima, Dam Okuōikojō Station is a very scenic train station designated as one of the 100 most beautiful train stations in the Chūbu region.
+Located on a cliff next to the Okuōi Reservoir created by the Nagashima Dam, Okuōikojō Station is a very scenic train station designated as one of the 100 most beautiful train stations in the Chūbu region.
 
 {{< img "img/YFE43291.avif" "jpg" >}}
 {{< img "img/Yuru Camp S3 - 04 - 19m54s528t.avif" "jpg" >}}
@@ -205,24 +201,24 @@ Located on a cliff next to the Okuōi Reservoir created by the Nagashima, Dam Ok
 {{< img "img/Yuru Camp S3 - 04 - 07m36s456t.avif" "jpg" >}}
 {{< img "img/YFE51182.avif" "jpg" >}}
 
-Inside the small exhibition at the management office there was also a Yuru Camp map but the leaflets were all gone. I wonder if they made a version with the Anime now, because when I was there it was all from the Yuru Camp Manga.  
+Inside the small exhibition at the management office, there was also a Yuru Camp map, but the leaflets were all gone. I wonder if they made a version with the Anime now, because when I was there it was all from the Yuru Camp Manga.  
 
 {{< img "img/YFE52054.avif" "jpg" >}}
 
-At Nagashima Dam I also met a group of Japanese tourists who came with their car and were very friendly.
+At Nagashima Dam, I also met a group of Japanese tourists who came with their car and were very friendly.
 
 {{< img "img/Yuru Camp S3 - 04 - 06m42s236t.avif" "jpg" >}}
 {{< img "img/YFE51082.avif" "jpg" >}}
 
 This location is a little walk away, but I didn't go all the way there because I didn't want to risk missing the train back to Senzu.  
-In the end I still had some time left, but I didn't know how long it would take to get to Abt-Ichishiro Campground and then to the station.
+In the end, I still had some time left, but I didn't know that beforehand and didn't want to risk it.
 
 ## Abt-Ichishiro Campground
 
 {{< img "img/Yuru Camp S3 - 04 - 06m01s153t.avif" "jpg" >}}
 {{< img "img/YFE36082.avif" "jpg" >}}
 
-This is the campground where Rin and Nadeshiko stayed in the anime.
+This is the campground where Rin, Nadeshiko and Ayano stayed in the anime.
 It's just a short walk down the road from the Dam.
 
 {{< img "img/Yuru Camp S3 - 04 - 06m21s548t.avif" "jpg" >}}
@@ -243,9 +239,8 @@ Connecting the Campground and Abt-Ichishiro Station is a pitch black tunnel that
 
 {{< img "img/Yuru Camp S3 - 04 - 05m02s594t.avif" "jpg" >}}
 {{< img "img/YFE53696.avif" "jpg" >}}
-{{< img "img/YFE53576.avif" "jpg" >}}
 
-Without light it's way to dark to take a picture.
+Without light, it's way to dark too take a picture.
 
 {{< img "img/Yuru Camp S3 - 04 - 04m49s748t.avif" "jpg" >}}
 {{< img "img/YFE54193.avif" "jpg" >}}
@@ -282,6 +277,8 @@ She says goodbye to the ladies from Mie she met on the train here. I also lived 
 
 ---
 
+Here are some pictures and videos of the Abt System rack railway.
+
 {{< img "img/YFE54831.avif" "jpg" >}}
 {{< img "img/YFE54849.avif" "jpg" >}}
 {{< img "img/YFE54940.avif" "jpg" >}}
@@ -294,7 +291,7 @@ She says goodbye to the ladies from Mie she met on the train here. I also lived 
 
 ## Senzu
 
-Here is where you change between the Ikawa Line and the Ōigawa Main Line or the bus between Senzu Ieyama since part of the line is still closed due to typhoon damage.
+Here is where you change between the Ikawa Line and the Ōigawa Main Line or the bus between Senzu and Ieyama, since part of the line is still closed due to typhoon damage.
 
 {{< img "img/Yuru Camp S3 - 03 - 17m08s820t.avif" "jpg" >}}
 {{< img "img/YFE59061.avif" "jpg" >}}
@@ -313,13 +310,13 @@ Here is where you change between the Ikawa Line and the Ōigawa Main Line or the
 {{< img "img/Yuru Camp S3 - 03 - 07m28s991t.avif" "jpg" >}}
 {{< img "img/YFE59476.avif" "jpg" >}}
 
-Sadly I couldn't try the Dam Curry as it was only available from 11:00 to 16:00 and I was there too early and too late.  
-I did however get to eat the ice cream like Nadeshiko
+Sadly, I couldn't try the Dam Curry as it was only available from 11:00 to 16:00, and I was there too early and too late.  
+I did, however, get to eat the ice cream like Nadeshiko.
 
 {{< img "img/Yuru Camp S3 - 03 - 20m17s426t.avif" "jpg" >}}
 {{< img "img/YFE60005.avif" "jpg" >}}
 
-The pork skewers stand was also closed when I was there.
+The pork skewer stand was also closed when I was there.
 
 {{< img "img/YFE59874.avif" "jpg" >}}
 
@@ -328,7 +325,7 @@ The pork skewers stand was also closed when I was there.
 {{< img "img/Yuru Camp S3 - 03 - 06m33s685t.avif" "jpg" >}}
 {{< img "img/YFE32433-pano.avif" "jpg" >}}
 
-Inside the station the Yuru Camp characters were present.
+Inside the station, the Yuru Camp characters were present.
 
 {{< img "img/YFE32374.avif" "jpg" >}}
 
@@ -359,20 +356,20 @@ Inside the station the Yuru Camp characters were present.
 
 ---
 
-Walk a little bit down the road and you can see the crossing where Rin and Ayano continue their journey.
+Walk a little bit down the road, and you can see the crossing where Rin and Ayano continue their journey.
 
 {{< img "img/Yuru Camp S3 - 03 - 09m35s868t.avif" "jpg" >}}
 {{< img "img/YFE60437.avif" "jpg" >}}
 
 What happened here? I only took a picture from the other side??  
-Well, whatever, on the side here there's a gas station and if you're lucky you can see their Yamaha Vino — it's Rin's scooter! and even in the same color!  
+Well, whatever, on the side here there's a gas station, and if you're lucky you can see their Yamaha Vino — it's Rin's scooter! And even in the same color!  
 Yamaha actually made one in the same colors as Rin's scooter, but this one seems to be a custom wrap or paint job.
 
 {{< img "img/YFE60402.avif" "jpg" >}}
 
 ### Ryōgoku Tsuribashi {#ryogoku-tsuribashi}
 
-This suspension bridge can be visited with a short walk from Senzu Station. I had just enough time to visit it before my train back to Ieyama.
+This suspension bridge can be visited with a ~15 minute walk from Senzu Station. I had just enough time to visit it before my train back to Ieyama.
 
 {{< img "img/Yuru Camp S3 - 03 - 09m52s259t.avif" "jpg" >}}
 {{< img "img/YFE61336.avif" "jpg" >}}
@@ -382,16 +379,16 @@ This suspension bridge can be visited with a short walk from Senzu Station. I ha
 
 ## Afterword
 
-I had a great time visiting the locations from Yuru Camp Season 3 and I can only recommend it to other fans of the series. The area is very beautiful and the train ride is already worth it. Ideally you should plan for a night at one of the Onsen in the area to fully enjoy the experience or you can come with a car or motorbike and camp at Abt Ichishiro Campinground for a more Yuru Camp like experience.  
-I hope you enjoyed this little trip report and maybe it will inspire you to visit the area yourself.
-If I have the chance I would love to visit the Ōigawa again and maybe stay a night at one of the Onsen or camp at Abt-Ichishiro like Rin and Nadeshiko.
-Also, I want to visit the Hōrai Bridge nearby, it also appeared in the anime and is apparently the world's longest wooden pedestrian bridge.
+I had a great time visiting the locations from Yuru Camp Season 3 and I can only recommend it to other fans of the series. The area is very beautiful, and the train ride alone is worth it in my opininon. Ideally, you should stay for a night in the area for a more relaxed experience. I hope you enjoyed this little trip report, and maybe it will inspire you to visit the area yourself.
+If I have the chance, I would love to visit the Ōigawa again and maybe stay a night at one of the Onsen or camp at Abt-Ichishiro Campground.
+
+Also, I didn't get to visit the Hōrai Bridge nearby, which I want to do next time. It also appeared in the anime and is apparently the world's longest wooden pedestrian bridge.
 
 ---
 
-That was a long post with a lot of pictures, but I hope you enjoyed it.  
+That was a long post with a lot of pictures, but I hope you found it interesting.
 
-And as always let's end with some links to other people's reports:
+As always, let's end with some links to other people's reports:
 
 - <https://forum.gamer.com.tw/Co.php?bsn=47411&sn=3016>
 - <https://www.youtube.com/watch?v=1bwo3339TRI>
