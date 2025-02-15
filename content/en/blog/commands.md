@@ -24,6 +24,10 @@ ffmpeg -i in.mov -pix_fmt yuv420p10le -c:v libx265 -crf 20 -preset slow -c:a lib
 ffmpeg -i in.mov -pix_fmt yuv420p -c:v libx264 -crf 18 -preset slow -c:a aac -b:a 192k out.mkv
 ffmpeg -i in.mov -pix_fmt yuv420p -c:v libx264 -crf 16 -preset slow -c:a flac out.mkv
 
+# encode zoom recordings with ffmpeg
+ffmpeg -i Timeline\ 1.mkv -pix_fmt yuv420p -c:v libx264 -crf 24 -maxrate 1600k -bufsize 4M -c:a aac -b:a 128k -ac 1 -ar 32000 enc.mkv
+ffmpeg -i enc.mkv -c copy -movflags +faststart enc.mp4
+
 # prores and pcm for editing (in resolve)
 ffmpeg -i in.mov -c:v prores_ks -profile:v 3 -qscale:v 9 -c:a pcm_s16le out.mov
 
