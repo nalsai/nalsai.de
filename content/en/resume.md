@@ -58,6 +58,7 @@ skills:
       - "German (native)"
       - "English (fluent)"
       - "Japanese (upper-intermediate, JLPT N2)"
+      - "Latin (Latinum)"
 
 hobb1ies:
   - "Programming"

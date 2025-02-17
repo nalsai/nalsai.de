@@ -58,6 +58,7 @@ skills:
       - "Deutsch (Muttersprache)"
       - "Englisch (fließend)"
       - "Japanisch (oberes Mittelstufen-Niveau, JLPT N2)"
+      - "Latein (Latinum)"
 
 hobbies:
   - "Programmieren"
