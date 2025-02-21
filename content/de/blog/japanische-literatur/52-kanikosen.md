@@ -9,7 +9,7 @@ japanese = "蟹工船"
 translation = "Das Krabbenschiff"
 description = ""
 authors = ["Kobayashi Takiji"]
-genres = ["chohen shosetsu", "Proletarische Literatur"]
+genres = ["chōhen shōsetsu", "Proletarische Literatur"]
 release = "1929"
 +++
 

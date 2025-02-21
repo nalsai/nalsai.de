@@ -3,6 +3,7 @@ type= "blog/japanische-literatur/genres"
 draft = false
 
 weight = 15
+slug = "otogizoshi"
 title = "otogizōshi"
 japanese = "御伽草子"
 deutsch = ""

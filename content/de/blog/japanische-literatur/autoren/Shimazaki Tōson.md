@@ -3,6 +3,7 @@ type= "blog/japanische-literatur/autoren"
 draft = false
 
 weight = 41
+slug = "shimazaki-toson"
 title = "Shimazaki Tōson"
 japanese = "島崎 藤村"
 life = "1872-1943"

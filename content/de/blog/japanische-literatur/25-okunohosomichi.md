@@ -9,7 +9,7 @@ japanese = "奥の細道"
 translation = "Auf schmalen Pfaden durchs Hinterland"
 description = "poetisches Reisetagebuch"
 authors = ["matsuo basho"]
-genres = ["kiko"]
+genres = ["kikō"]
 release = "1689, Erstdruck: 1702"
 +++
 

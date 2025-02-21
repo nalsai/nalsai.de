@@ -9,7 +9,7 @@ japanese = "雪国"
 translation = "Schneeland"
 description = ""
 authors = ["Kawabata Yasunari"]
-genres = ["chohen shosetsu"]
+genres = ["chōhen shōsetsu"]
 release = "1935-37"
 +++
 

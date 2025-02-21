@@ -43,6 +43,6 @@ works = [
 
   #### gunki monogatari z.B. Heike monogatari
 
-    - Kriegsepos/Militärgeschichte
-    - Erzählprosa mit militärischem/kriegerischem Inhalt
-    - Beispiel: [Heike monogatari]({{< relref "18-heikemonogatari" >}})
+  - Kriegsepos/Militärgeschichte
+  - Erzählprosa mit militärischem/kriegerischem Inhalt
+  - Beispiel: [Heike monogatari]({{< relref "18-heikemonogatari" >}})

@@ -3,6 +3,7 @@ type= "blog/japanische-literatur/genres"
 draft = false
 
 weight = 6
+slug = "kiko"
 title = "kikō"
 japanese = "紀行"
 deutsch = ""

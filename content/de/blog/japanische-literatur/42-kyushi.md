@@ -9,7 +9,7 @@ japanese = "窮死"
 translation = "Tod aus Verzweiflung"
 description = ""
 authors = ["Kunikida Doppo"]
-genres = ["tanpen shosetsu", "Naturalismus"]
+genres = ["tanpen shōsetsu", "Naturalismus"]
 release = "1907"
 +++
 

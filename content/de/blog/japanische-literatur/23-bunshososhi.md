@@ -9,7 +9,7 @@ japanese = "文正草子"
 translation = ""
 #description = ""
 #authors = [""]
-genres = ["otogizoshi", "shussemono"]
+genres = ["otogizōshi", "shussemono"]
 release = "Mitte 17. Jh. (Muromachi-Zeit)"
 +++
 

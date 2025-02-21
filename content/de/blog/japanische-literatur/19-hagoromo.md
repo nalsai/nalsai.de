@@ -9,7 +9,7 @@ japanese = "羽衣"
 transaltion = "Das Federkleid"
 #description = ""
 authors = ["Zeami Motokiyo"]
-genres = ["No"]
+genres = ["nō"]
 #release = ""
 +++
 

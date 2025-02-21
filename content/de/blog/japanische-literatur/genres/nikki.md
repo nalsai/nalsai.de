@@ -15,7 +15,6 @@ works = [
 ]
 +++
 
-
 |                 | nikki (nach ursprünglicher Bedeutung)                                                | nikki / nikki bungaku                                       |
 | --------------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------- |
 | Wer?            | Männer                                                                               | Frauen                                                      |
@@ -28,4 +27,4 @@ works = [
 
 ---
 
--> Reisetagebuch [kikō]({{< relref "kiko" >}})
+-> Reisetagebuch [kikō]({{< relref "kikō" >}})

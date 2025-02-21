@@ -1,21 +1,12 @@
 +++
 #type= "blog/japanische-literatur"
 draft = false
+title = "Info"
 
 unlisted = true
 +++
 
-<div class="mb-5">
-    <a href="../" class="btn btn-primary btn-sm mt-4">
-        <i class="bi bi-chevron-left"></i> Zurück
-    </a>
-</div>
-
----
-
-Falls Sie Fragen, Anmerkungen, weitere Informationen, Literaturverweise o.ä. haben würde ich mich sehr darüber freuen, wenn Sie mir eine [E-Mail schreiben](mailto:contact@nalsai.de), ein [Issue auf GitHub öffnen](https://github.com/nalsai/nalsai.de/issues/new) oder mich auf anderer Weise kontaktieren.
-
----
+<a href="../" class="bi-chevron-left text-decoration-none d-print-none"> Zur Übersicht</a>
 
 ## Literarische Texte
 

@@ -17,5 +17,6 @@ The photo is not lined up perfectly, as it is just a quick phone shot before nic
 (Also, there is a pole in the way and the geometry is not exactly the same.)
 
 {{< img 1.jpg >}}
-{{< img YDR40326.jpg >}}  
+{{< img YDR40326.jpg >}}
+
 Date: 2024-04-27

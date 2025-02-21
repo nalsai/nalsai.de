@@ -9,7 +9,7 @@ japanese = "布団"
 translation = "das Bettzeug"
 description = ""
 authors = ["Tayama Katai"]
-genres = ["chuhen shosetsu", "Naturalismus", "shishōsetsu"]
+genres = ["chūhen shōsetsu", "Naturalismus", "shishōsetsu"]
 release = "1907"
 +++
 

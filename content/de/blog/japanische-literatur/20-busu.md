@@ -9,7 +9,7 @@ japanese = "附子"
 translation = "Das köstliche Gift"
 #description = ""
 #authors = [""]
-genres = ["kyogen"]
+genres = ["kyōgen"]
 release = "1399 (Erstaufführung)"
 +++
 

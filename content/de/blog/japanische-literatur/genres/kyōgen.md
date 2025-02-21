@@ -3,6 +3,7 @@ type= "blog/japanische-literatur/genres"
 draft = false
 
 weight = 11
+slug = "kyogen"
 title = "kyōgen"
 japanese = "狂言"
 deutsch = "Kyōgen-Theater"
@@ -42,4 +43,4 @@ e  igenständiges heiteres Stück zwischen zwei verschiedenen, ernsten Nō-Stüc
 - ado アド Nebendarsteller
 - koado 小アド Begleiter des Nebendarstellers
 
-<!--TODO: Bild Bühne-->
+![Bühne](../img/no-stage.jpg)

@@ -3,6 +3,7 @@ type= "blog/japanische-literatur/autoren"
 draft = false
 
 weight = 10
+slug = "sei-shonagon"
 title = "Sei Shōnagon"
 japanese = "清 少納言"
 translation = ""

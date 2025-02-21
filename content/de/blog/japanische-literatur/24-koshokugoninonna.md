@@ -9,7 +9,7 @@ japanese = "好色五人女"
 translation = "Fünf Frauen, die die Liebe lieben"
 description = "5 Geschichten in denen es um leidenschaftliche Liebe geht (4 enden tragisch)"
 authors = ["ihara saikaku"]
-genres = ["ukiyozoshi"]
+genres = ["ukiyozōshi"]
 release = "1687"
 +++
 

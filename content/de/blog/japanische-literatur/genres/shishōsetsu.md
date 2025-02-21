@@ -3,6 +3,7 @@ type= "blog/japanische-literatur/genres"
 draft = false
 
 weight = 52
+slug = "shishosetsu"
 title = "shishōsetsu / watakushi shōsetsu"
 japanese = "私小説"
 deutsch = ""

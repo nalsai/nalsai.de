@@ -9,7 +9,7 @@ japanese = "猿源氏草紙"
 translation = "Der Affen-Genji"
 #description = ""
 #authors = [""]
-genres = ["otogizoshi"]
+genres = ["otogizōshi"]
 release = "frühes 16. Jh."
 +++
 

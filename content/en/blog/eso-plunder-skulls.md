@@ -48,7 +48,7 @@ You can get each type of Dremora Plunder Skull once a day. The reset is at 06:00
 
 Click on <button type="button" class="btn btn-outline-danger" OnClick="uncheck_all()">Uncheck all</button>, to uncheck all checkboxes.
 
-<hr class="my-5">
+<hr>
 
 You can find more info about the witches festival at <https://eso-hub.com/en/events/witches-festival>.
 

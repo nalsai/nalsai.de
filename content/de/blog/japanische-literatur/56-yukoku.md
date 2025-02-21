@@ -9,7 +9,7 @@ japanese = "憂国"
 translation = "Patriotismus” / eigentlich: „Sorge um das Vaterland"
 description = ""
 authors = ["Kawabata Yasunari"]
-genres = ["tanpen shosetsu", "sengo bungaku („Nachkriegsliteratur”)"]
+genres = ["tanpen shōsetsu", "sengo bungaku („Nachkriegsliteratur”)"]
 release = "1961"
 +++
 

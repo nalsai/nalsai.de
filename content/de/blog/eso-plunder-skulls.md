@@ -48,7 +48,7 @@ Man kann jede Art von Dremora-Plünderschädel einmal am Tag erhalten. Der Reset
 
 Klicken Sie auf <button type="button" class="btn btn-outline-danger" OnClick="uncheck_all()">alle deaktivieren</button>, um alle Kontrollkästchen zu deaktivieren..
 
-<hr class="my-5">
+<hr>
 
 Weitere Informationen zum Hexenfest finden Sie unter <https://eso-hub.com/de/events/hexenfest>.
 

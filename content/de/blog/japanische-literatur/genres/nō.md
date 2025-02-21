@@ -3,6 +3,7 @@ type= "blog/japanische-literatur/genres"
 draft = false
 
 weight = 10
+slug = "no"
 title = "nō"
 japanese = "能"
 deutsch = "Nō-Theater"
@@ -20,6 +21,8 @@ works = [
 - bis zum Ende der Edo-Zeit war Nō fester Bestandteil in den Residenzen der Shōgune und Samurai-Fürsten; in der Meiji-Zeit fand es unter dem Schutz des Kaiserhauses zu neuer Blüte
 - Text, Rezitation, Bewegungen, Tänze, Schauspiel, Begleitmusik, Kostüme, Requisiten (Masken!) -> machen Nō zu einem Gesamtkunstwerk
 - Entwickelte sich aus dem sangaku (8. Jh.; Gesang, Tanz, Pantomime und Akrobatik); dengaku („Feldmusik“; Tanz in Verbindung mit Shintō-Zeremonien) und sarugaku („Affenmusik/spiele“; urspr. humoristische Pantomime, später Tanzelemente und Handlung -> wurde zu sarugaku nō durch Entfernung komischer Elemente)
+
+![Bühne](../img/no-stage.jpg)
 
 ## Begründer
 
@@ -110,5 +113,3 @@ Anmerkung: alle Darsteller und meistens auch alle anderen Akteure im Nō sind M�
 - shite 仕手: Hauptdarsteller (mit Maske)
 - waki 脇: Gegenspieler
 - tsure 連: Nebenschauspieler, Begleiter des shite (bzw. wakizure 脇連: Begleiter des waki)
-
-<!--TODO: Bild Bühne-->

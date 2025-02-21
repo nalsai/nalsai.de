@@ -9,7 +9,7 @@ japanese = "こころ"
 translation = ""
 description = ""
 authors = ["Natsume Sōseki"]
-genres = ["chohen shosetsu", "Yoyū-ha („Gelassenheit“, „Freiraum“)"]
+genres = ["chōhen shōsetsu", "Yoyū-ha („Gelassenheit“, „Freiraum“)"]
 release = "1914"
 +++
 

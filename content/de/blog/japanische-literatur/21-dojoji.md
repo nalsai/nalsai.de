@@ -9,7 +9,7 @@ japanese = "道成寺"
 translation = ""
 #description = ""
 authors = ["Kan’ami oder Kanze Nobumitsu (nicht eindeutig)"]
-genres = ["No"]
+genres = ["nō"]
 release = "15. Jahrhundert"
 +++
 

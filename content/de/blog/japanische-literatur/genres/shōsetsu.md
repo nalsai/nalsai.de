@@ -3,6 +3,7 @@ type= "blog/japanische-literatur/genres"
 draft = false
 
 weight = 40
+slug = "shosetsu"
 title = "shōsetsu"
 japanese = "小説"
 deutsch = "Erzählprosa"

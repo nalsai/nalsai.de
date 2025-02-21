@@ -9,7 +9,7 @@ japanese = "浮雲"
 translation = "Treibende Wolken"
 description = ""
 authors = ["Futabatei Shimei"]
-genres = ["chohen shosetsu", "Realismus"]
+genres = ["chōhen shōsetsu", "Realismus"]
 release = "1887-89"
 +++
 

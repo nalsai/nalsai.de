@@ -3,7 +3,8 @@ type= "blog/japanische-literatur/genres"
 draft = false
 
 weight = 40
-title = "chōhen shōsetsu"
+slug = "chuhen-shosetsu"
+title = "chūhen shōsetsu"
 japanese = ""
 deutsch = ""
 translation = ""
