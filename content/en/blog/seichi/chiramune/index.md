@@ -234,4 +234,7 @@ And here are some other blog posts about Chiramune and Fukui:
 - <https://kimamanidance.hatenablog.com/entry/2023/09/30/180000>
 - <https://teruhuai.com/content/zakki/tiramune_matome>
 
-There's also this fan made map: <https://mimosa21.sakura.ne.jp/MappingProject/html/map.html>
+There's also there two fan made maps:
+
+- <https://www.google.com/maps/d/u/0/viewer?mid=1nqOlmBc8iexvk5y7B3cJd2laH_mojMSs>
+- <https://mimosa21.sakura.ne.jp/MappingProject/html/map.html>
