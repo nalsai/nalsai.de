@@ -19,12 +19,12 @@ Even though I lived in Mie at the time, I went there from Tokyo because the Hoku
 I arrived at Fukui Station just before 15:00 with the shinkansen from Ueno and was greeted by many dinosaurs.
 The city of Fukui is known for its dinosaur fossils and also calls itself the "Dinosaur Kingdom".
 
-{{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="64586ab0-ec8b-439c-b36f-084135d786d9" >}}
+{{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="706e4c72-69c4-4c8d-8b14-9a8b6ff8abcd" >}}
 {{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="31acdb83-eb38-4b48-b3d1-c8fb7dfc5e1f" >}}
 {{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="de20bbde-89df-4e25-b27e-1c53a6e9652d" >}}
+{{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="64586ab0-ec8b-439c-b36f-084135d786d9" >}}
 {{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="8dca6f9f-0fe0-4f07-8198-71f54009d136" >}}
 {{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="6569ab58-96ae-4b42-95fd-f440ab73e516" >}}
-{{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="706e4c72-69c4-4c8d-8b14-9a8b6ff8abcd" >}}
 {{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="90dbb777-5ba5-423f-8375-02d5a5a948fa" >}}
 
 They even moved and made sounds. One of them frequently roars at passersbys.  
@@ -32,7 +32,7 @@ The dinosaur square in front of the station appears in volume 4 as a meeting pla
 
 Also at the station, paper standees of the characters from the light novel were displayed inside the station building, and at the tourist information center in front of the station, the characters from Chiramune could be seen:  
 {{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="f7b27be6-2f2e-4d2b-b3bf-2810cae2bb73" >}}
-{{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="a8bcccb9-b7b3-4b34-8102-dfd94ae04eb5" >}}
+{{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="a8bcccb9-b7b3-4b34-8102-dfd94ae04eb5" width="429px" class="aspect-16-9 of-cover" >}}
 
 But before exploring the city, I went to my hotel to check in and drop off my luggage (although it was just a backpack).
 On the way, I encountered construction work on the street that had information and images about Chiramune on the fence.
@@ -75,10 +75,10 @@ Coming back down, I walked along the river to the east side of the city.
 The sun was setting, giving the city a warm glow.
 
 {{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="5ed6507a-9392-44f8-8e99-d1cb10703528" >}}
-{{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="30c0e038-e811-4364-8d1c-b43af4925be2" >}}
-{{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="5ec4311b-7ae4-422f-8406-a36505c26322" >}}
-{{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="f3a5bfd6-9a7d-4ade-ba72-c0e00a100145" >}}
-{{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="56d46cb1-8940-41d1-a39e-3fedd516a1c2" >}}
+{{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="30c0e038-e811-4364-8d1c-b43af4925be2" width="429px" class="aspect-16-9 of-cover" >}}
+{{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="5ec4311b-7ae4-422f-8406-a36505c26322" width="429px" class="aspect-16-9 of-cover" >}}
+{{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="f3a5bfd6-9a7d-4ade-ba72-c0e00a100145" width="429px" class="aspect-16-9 of-cover" >}}
+{{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="56d46cb1-8940-41d1-a39e-3fedd516a1c2" width="429px" class="aspect-16-9 of-cover" >}}
 {{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="58e9dd2b-8ee5-4eb7-bb07-ec6b825a4b47" >}}
 
 ## Eiheiji Temple
@@ -140,8 +140,8 @@ On my last day in Fukui, I first walked around the city to visit some more locat
 
 In the center of the city, Fukui Castle used to be located. After the main keep burned down in 1669, it was ultimately destroyed in 1871. Now the Fukui Prefectural Government Office stands on the site.
 
-{{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="7802878c-aae5-4c6f-865d-46b98a32de22" >}}
 {{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="24d9bbf6-84f1-429b-9a76-db9ce2cddbb1" >}}
+{{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="7802878c-aae5-4c6f-865d-46b98a32de22" >}}
 
 ## Yōkōkan Garden
 
@@ -150,9 +150,9 @@ It doesn't appear in the light novel but is highly recommended to visit by the a
 
 {{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="2b50925c-d6f6-4e40-9d60-bfcc6df02e70" >}}
 {{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="337cb9d3-659a-40f4-a322-9c64286b6ddb" >}}
+{{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="899944f5-947b-4671-9d73-4a2c2285d886" >}}
 {{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="f97e9dae-3ea7-49d5-ae06-19c6de7ee397" >}}
 {{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="6e3ead9b-de1e-4586-9b06-d700af015d46" >}}
-{{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="899944f5-947b-4671-9d73-4a2c2285d886" >}}
 
 ## Arakawa Riverside
 
@@ -207,7 +207,7 @@ Overall, a pleasant experience with a very local feel to it.
 
 {{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="84c40ef6-1990-45e7-9751-89e4776b711b" >}}
 {{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="e1fcadb6-a5d2-479a-b284-9f0e0dad5a77" >}}
-{{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="2b364769-7ddd-4f0d-a15a-188a9d46691e" >}}
+{{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="2b364769-7ddd-4f0d-a15a-188a9d46691e" width="429px" class="aspect-16-9 of-cover" >}}
 {{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="848f286a-bcbf-41c2-bc85-a12502296fc8" >}}
 {{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="8f94a158-1d8e-40b2-88ed-42fa388f979e" >}}
 {{< img-immich immich="nJu-wZ_YHJOx-DCo8mjFXbLgTXcrUhpHfJqnLiuT3YTQZNbC2lZMfXWYAkIAWYUj9iQ" img="667c1a80-ffcb-4bf1-97d2-7df9148ec7c8" >}}
@@ -238,3 +238,9 @@ There's also there two fan made maps:
 
 - <https://www.google.com/maps/d/u/0/viewer?mid=1nqOlmBc8iexvk5y7B3cJd2laH_mojMSs>
 - <https://mimosa21.sakura.ne.jp/MappingProject/html/map.html>
+
+<style>
+.container img {
+    max-width: 429px;
+}
+</style>

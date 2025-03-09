@@ -51,13 +51,13 @@ The start of the Ōigawa Railway. As I don't have a license, I used the train, j
 I didn't have screenshots from the Nadeshiko route with me, so here are the pictures I took freely.
 
 {{< img "img/Yuru Camp S3 - 03 - 12m27s539t.avif" "jpg" >}}
-{{< img "img/YFE24647.avif" "jpg" >}}
+{{< img "img/YFE24647.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 03 - 12m31s710t.avif" "jpg" >}}
-{{< img "img/YFE24713.avif" "jpg" >}}
+{{< img "img/YFE24713.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 03 - 12m37s466t.avif" "jpg" >}}
-{{< img "img/YFE25169.avif" "jpg" >}}
+{{< img "img/YFE25169.avif" "jpg" "a640x360" >}}
 
 The train you can see on the right looks similar to the Tōkaido Main Line trains that run there in real life, but the Ōigawa Railway train is a different model than the one I took.
 
@@ -66,20 +66,20 @@ The train you can see on the right looks similar to the Tōkaido Main Line train
 From Kanaya I first went all the way to the Yappashi Komichi Love Romance Road, so I arranged the pictures in that order too.
 
 {{< img "img/Yuru Camp S3 - 03 - 13m44s408t.avif" "jpg" >}}
-{{< img "img/YFE38829.avif" "jpg" >}}
+{{< img "img/YFE38829.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 03 - 13m52s749t.avif" "jpg" >}}
-{{< img "img/YFE38895.avif" "jpg" >}}
+{{< img "img/YFE38895.avif" "jpg" "a640x360" >}}
 
 It was quite overgrown, so I didn't recognize it immediately.
 
 {{< img "img/Yuru Camp S3 - 03 - 14m06s388t.avif" "jpg" >}}
-{{< img "img/YFE38784.avif" "jpg" >}}
+{{< img "img/YFE38784.avif" "jpg" "a640x360" >}}
 
 Here comes the first of the seemingly endless series of bridges:
 
 {{< img "img/Yuru Camp S3 - 03 - 14m13s770t.avif" "jpg" >}}
-{{< img "img/YFE39000.avif" "jpg" >}}
+{{< img "img/YFE39000.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 03 - 14m50s682t.avif" "jpg" >}}
 {{< img "img/YFE39215.avif" "jpg" >}}
@@ -87,7 +87,7 @@ Here comes the first of the seemingly endless series of bridges:
 ---
 
 {{< img "img/Yuru Camp S3 - 03 - 14m53s352t.avif" "jpg" >}}
-{{< img "img/YFE39440.avif" "jpg" >}}
+{{< img "img/YFE39440.avif" "jpg" "a640x360" >}}
 
 {{< img "img/YFE39448.avif" "jpg" >}}
 
@@ -95,70 +95,70 @@ Just like in the anime, one bridge, located to the right of the sign, isn't acce
 But since we're only at the beginning, we've still got plenty to get through.
 
 {{< img "img/Yuru Camp S3 - 03 - 15m06s156t.avif" "jpg" >}}
-{{< img "img/YFE39500.avif" "jpg" >}}
+{{< img "img/YFE39500.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 03 - 15m06s865t.avif" "jpg" >}}
-{{< img "img/YFE39550.avif" "jpg" >}}
+{{< img "img/YFE39550.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 03 - 15m09s743t.avif" "jpg" >}}
-{{< img "img/YFE39666.avif" "jpg" >}}
+{{< img "img/YFE39666.avif" "jpg" "a640x360" >}}
 
 I'm already getting tired of photographing all these bridges.
 
 {{< img "img/Yuru Camp S3 - 03 - 15m19s086t.avif" "jpg" >}}
-{{< img "img/YFE39733.avif" "jpg" >}}
+{{< img "img/YFE39733.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 03 - 15m19s920t.avif" "jpg" >}}
-{{< img "img/YFE39790.avif" "jpg" >}}
+{{< img "img/YFE39790.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 03 - 15m32s140t.avif" "jpg" >}}
-{{< img "img/YFE40007.avif" "jpg" >}}
+{{< img "img/YFE40007.avif" "jpg" "a640x360" >}}
 
 Luckily no water on the bridge for me. The weather was really nice that day.  
 The sun was actually quite strong through the open windows of the train on the way here.
 
 {{< img "img/Yuru Camp S3 - 03 - 15m34s142t.avif" "jpg" >}}
-{{< img "img/YFE40198.avif" "jpg" >}}
+{{< img "img/YFE40198.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 03 - 15m36s603t.avif" "jpg" >}}
-{{< img "img/YFE40273.avif" "jpg" >}}
+{{< img "img/YFE40273.avif" "jpg" "a640x360" >}}
 
 Tsubaki Bridge is what every foreigner thinks of when they think of Japanese bridges.
 
 {{< img "img/Yuru Camp S3 - 03 - 15m42s359t.avif" "jpg" >}}
-{{< img "img/YFE40697.avif" "jpg" >}}
+{{< img "img/YFE40697.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 03 - 15m51s451t.avif" "jpg" >}}
-{{< img "img/YFE40738.avif" "jpg" >}}
+{{< img "img/YFE40738.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 03 - 15m59s543t.avif" "jpg" >}}
-{{< img "img/YFE39470.avif" "jpg" >}}
+{{< img "img/YFE39470.avif" "jpg" "a640x360" >}}
 
 Only two more to go.
 
 {{< img "img/Yuru Camp S3 - 03 - 16m04s298t.avif" "jpg" >}}
-{{< img "img/YFE40934.avif" "jpg" >}}
+{{< img "img/YFE40934.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 03 - 16m08s385t.avif" "jpg" >}}
-{{< img "img/YFE40985.avif" "jpg" >}}
+{{< img "img/YFE40985.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 03 - 16m11s972t.avif" "jpg" >}}
-{{< img "img/YFE41036.avif" "jpg" >}}
+{{< img "img/YFE41036.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 03 - 16m40s000t.avif" "jpg" >}}
-{{< img "img/YFE41138.avif" "jpg" >}}
+{{< img "img/YFE41138.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 03 - 16m40s542t.avif" "jpg" >}}
-{{< img "img/YFE41341.avif" "jpg" >}}
+{{< img "img/YFE41341.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 03 - 16m52s179t.avif" "jpg" >}}
-{{< img "img/YFE41279.avif" "jpg" >}}
+{{< img "img/YFE41279.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 03 - 16m52s262t.avif" "jpg" >}}
-{{< img "img/YFE41481.avif" "jpg" >}}
+{{< img "img/YFE41481.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 03 - 16m56s808t.avif" "jpg" >}}
-{{< img "img/YFE41571.avif" "jpg" >}}
+{{< img "img/YFE41571.avif" "jpg" "a640x360" >}}
 
 If I had brought a tripod, I could have copied the poses and taken a picture of myself.
 
@@ -169,37 +169,37 @@ It took me about 40 minutes from the first bridge to the end, but only because I
 
 Located on a cliff next to the Okuōi Reservoir created by the Nagashima Dam, Okuōikojō Station is a very scenic train station designated as one of the 100 most beautiful train stations in the Chūbu region.
 
-{{< img "img/YFE43291.avif" "jpg" >}}
+{{< img "img/YFE43291.avif" "jpg" "a640x360" >}}
 {{< img "img/Yuru Camp S3 - 04 - 19m54s528t.avif" "jpg" >}}
 
 {{< img "img/Yuru Camp S3 - 04 - 19m41s974t.avif" "jpg" >}}
-{{< img "img/YFE43195.avif" "jpg" >}}
+{{< img "img/YFE43195.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 04 - 19m18s951t.avif" "jpg" >}}
-{{< img "img/YFE44808.avif" "jpg" >}}
+{{< img "img/YFE44808.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 04 - 19m08s065t.avif" "jpg" >}}
-{{< img "img/YFE44970.avif" "jpg" >}}
+{{< img "img/YFE44970.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 04 - 19m16s865t.avif" "jpg" >}}
-{{< img "img/YFE45033.avif" "jpg" >}}
+{{< img "img/YFE45033.avif" "jpg" "a640x360" >}}
 
 ## Nagashima Dam
 
 {{< img "img/Yuru Camp S3 - 04 - 06m32s142t.avif" "jpg" >}}
-{{< img "img/YFE36200.avif" "jpg" >}}
+{{< img "img/YFE36200.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 04 - 07m17s312t.avif" "jpg" >}}
-{{< img "img/YFE50952.avif" "jpg" >}}
+{{< img "img/YFE50952.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 04 - 07m27s239t.avif" "jpg" >}}
-{{< img "img/YFE51045.avif" "jpg" >}}
+{{< img "img/YFE51045.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 04 - 07m28s615t.avif" "jpg" >}}
-{{< img "img/YFE51229.avif" "jpg" >}}
+{{< img "img/YFE51229.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 04 - 07m36s456t.avif" "jpg" >}}
-{{< img "img/YFE51182.avif" "jpg" >}}
+{{< img "img/YFE51182.avif" "jpg" "a640x360" >}}
 
 Inside the small exhibition at the management office, there was also a Yuru Camp map, but the leaflets were all gone. I wonder if they made a version with the Anime now, because when I was there it was all from the Yuru Camp Manga.  
 
@@ -208,7 +208,7 @@ Inside the small exhibition at the management office, there was also a Yuru Camp
 At Nagashima Dam, I also met a group of Japanese tourists who came with their car and were very friendly.
 
 {{< img "img/Yuru Camp S3 - 04 - 06m42s236t.avif" "jpg" >}}
-{{< img "img/YFE51082.avif" "jpg" >}}
+{{< img "img/YFE51082.avif" "jpg" "a640x360" >}}
 
 This location is a little walk away, but I didn't go all the way there because I didn't want to risk missing the train back to Senzu.  
 In the end, I still had some time left, but I didn't know that beforehand and didn't want to risk it.
@@ -216,43 +216,43 @@ In the end, I still had some time left, but I didn't know that beforehand and di
 ## Abt-Ichishiro Campground
 
 {{< img "img/Yuru Camp S3 - 04 - 06m01s153t.avif" "jpg" >}}
-{{< img "img/YFE36082.avif" "jpg" >}}
+{{< img "img/YFE36082.avif" "jpg" "a640x360" >}}
 
 This is the campground where Rin, Nadeshiko and Ayano stayed in the anime.
 It's just a short walk down the road from the Dam.
 
 {{< img "img/Yuru Camp S3 - 04 - 06m21s548t.avif" "jpg" >}}
-{{< img "img/YFE52949.avif" "jpg" >}}
+{{< img "img/YFE52949.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 04 - 06m04s907t.avif" "jpg" >}}
-{{< img "img/YFE53402.avif" "jpg" >}}
+{{< img "img/YFE53402.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 04 - 05m45s304t.avif" "jpg" >}}
-{{< img "img/YFE53437.avif" "jpg" >}}
+{{< img "img/YFE53437.avif" "jpg" "a640x360" >}}
 
 ## Mystery Tunnel
 
 Connecting the Campground and Abt-Ichishiro Station is a pitch black tunnel that is apparently the remains of the old Ikawa line that used to run there before the dam was built. It now has various "ghosts" placed inside so it doesn't get boring walking through it. Don't forget to bring a flashlight or use your phone's flashlight because it really is pitch black inside.
 
 {{< img "img/Yuru Camp S3 - 04 - 05m35s878t.avif" "jpg" >}}
-{{< img "img/YFE53828.avif" "jpg" >}}
+{{< img "img/YFE53828.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 04 - 05m02s594t.avif" "jpg" >}}
-{{< img "img/YFE53696.avif" "jpg" >}}
+{{< img "img/YFE53696.avif" "jpg" "a640x360" >}}
 
 Without light, it's way to dark too take a picture.
 
 {{< img "img/Yuru Camp S3 - 04 - 04m49s748t.avif" "jpg" >}}
-{{< img "img/YFE54193.avif" "jpg" >}}
+{{< img "img/YFE54193.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 04 - 04m42s032t.avif" "jpg" >}}
-{{< img "img/YFE54237.avif" "jpg" >}}
+{{< img "img/YFE54237.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 04 - 04m00s991t.avif" "jpg" >}}
-{{< img "img/YFE54495.avif" "jpg" >}}
+{{< img "img/YFE54495.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 04 - 03m59s239t.avif" "jpg" >}}
-{{< img "img/YFE54533.avif" "jpg" >}}
+{{< img "img/YFE54533.avif" "jpg" "a640x360" >}}
 
 ## Abt-Ichishiro
 
@@ -260,13 +260,13 @@ This is the station where the Abt rack railway starts.
 You get off the train here to watch the rack locomotive connect to the train and then take you up the mountain with a maximum gradient of 9%.
 
 {{< img "img/Yuru Camp S3 - 04 - 04m06s371t.avif" "jpg" >}}
-{{< img "img/YFE54329.avif" "jpg" >}}
+{{< img "img/YFE54329.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 04 - 03m50s898t.avif" "jpg" >}}
-{{< img "img/YFE54727.avif" "jpg" >}}
+{{< img "img/YFE54727.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 04 - 03m56s570t.avif" "jpg" >}}
-{{< img "img/YFE54527.avif" "jpg" >}}
+{{< img "img/YFE54527.avif" "jpg" "a640x360" >}}
 
 ---
 
@@ -281,7 +281,7 @@ Here are some pictures and videos of the Abt System rack railway.
 
 {{< img "img/YFE54831.avif" "jpg" >}}
 {{< img "img/YFE54849.avif" "jpg" >}}
-{{< img "img/YFE54940.avif" "jpg" >}}
+{{< img "img/YFE54940.avif" "jpg" "a640x360" >}}
 {{< img "img/Yuru Camp S3 - 04 - 03m16s989t.avif" "jpg" >}}
 
 <img width="560" height="315" src="0r8DcSc2Wfg.avif" onclick="this.outerHTML='<iframe width=\'560\' height=\'315\' src=\'https://www.youtube.com/embed/0r8DcSc2Wfg?autoplay=1\' allow=\'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture web-share\' allowfullscreen></iframe>'" style="cursor: pointer">
@@ -294,27 +294,27 @@ Here are some pictures and videos of the Abt System rack railway.
 Here is where you change between the Ikawa Line and the Ōigawa Main Line or the bus between Senzu and Ieyama, since part of the line is still closed due to typhoon damage.
 
 {{< img "img/Yuru Camp S3 - 03 - 17m08s820t.avif" "jpg" >}}
-{{< img "img/YFE59061.avif" "jpg" >}}
+{{< img "img/YFE59061.avif" "jpg" "a640x360" >}}
 {{< img "img/Yuru Camp S3 - 03 - 07m59s188t.avif" "jpg" >}}
-{{< img "img/YFE59596.avif" "jpg" >}}
+{{< img "img/YFE59596.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 03 - 06m25s844t.avif" "jpg" >}}
-{{< img "img/YFE59144.avif" "jpg" >}}
+{{< img "img/YFE59144.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 03 - 06m36s522t.avif" "jpg" >}}
-{{< img "img/YFE59559.avif" "jpg" >}}
+{{< img "img/YFE59559.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 03 - 06m41s276t.avif" "jpg" >}}
-{{< img "img/YFE59430.avif" "jpg" >}}
+{{< img "img/YFE59430.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 03 - 07m28s991t.avif" "jpg" >}}
-{{< img "img/YFE59476.avif" "jpg" >}}
+{{< img "img/YFE59476.avif" "jpg" "a640x360" >}}
 
 Sadly, I couldn't try the Dam Curry as it was only available from 11:00 to 16:00, and I was there too early and too late.  
 I did, however, get to eat the ice cream like Nadeshiko.
 
 {{< img "img/Yuru Camp S3 - 03 - 20m17s426t.avif" "jpg" >}}
-{{< img "img/YFE60005.avif" "jpg" >}}
+{{< img "img/YFE60005.avif" "jpg" "a640x360" >}}
 
 The pork skewer stand was also closed when I was there.
 
@@ -330,36 +330,36 @@ Inside the station, the Yuru Camp characters were present.
 {{< img "img/YFE32374.avif" "jpg" >}}
 
 {{< img "img/Yuru Camp S3 - 03 - 07m05s467t.avif" "jpg" >}}
-{{< img "img/YFE58999.avif" "jpg" >}}
+{{< img "img/YFE58999.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 03 - 20m28s187t.avif" "jpg" >}}
-{{< img "img/YFE58957.avif" "jpg" >}}
+{{< img "img/YFE58957.avif" "jpg" "a640x360" >}}
 
 ---
 
 {{< img "img/Yuru Camp S3 - 03 - 06m46s990t.avif" "jpg" >}}
-{{< img "img/YFE59520.avif" "jpg" >}}
+{{< img "img/YFE59520.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 03 - 07m09s304t.avif" "jpg" >}}
-{{< img "img/YFE60143.avif" "jpg" >}}
+{{< img "img/YFE60143.avif" "jpg" "a640x360" >}}
 
 ---
 
 {{< img "img/Yuru Camp S3 - 03 - 06m16s418t.avif" "jpg" >}}
-{{< img "img/YFE59233.avif" "jpg" >}}
+{{< img "img/YFE59233.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 03 - 06m00s360t.avif" "jpg" >}}
-{{< img "img/YFE59275.avif" "jpg" >}}
+{{< img "img/YFE59275.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 03 - 06m15s292t.avif" "jpg" >}}
-{{< img "img/YFE59347.avif" "jpg" >}}
+{{< img "img/YFE59347.avif" "jpg" "a640x360" >}}
 
 ---
 
 Walk a little bit down the road, and you can see the crossing where Rin and Ayano continue their journey.
 
 {{< img "img/Yuru Camp S3 - 03 - 09m35s868t.avif" "jpg" >}}
-{{< img "img/YFE60437.avif" "jpg" >}}
+{{< img "img/YFE60437.avif" "jpg" "a640x360" >}}
 
 What happened here? I only took a picture from the other side??  
 Well, whatever, on the side here there's a gas station, and if you're lucky you can see their Yamaha Vino — it's Rin's scooter! And even in the same color!  
@@ -372,10 +372,10 @@ Yamaha actually made one in the same colors as Rin's scooter, but this one seems
 This suspension bridge can be visited with a ~15 minute walk from Senzu Station. I had just enough time to visit it before my train back to Ieyama.
 
 {{< img "img/Yuru Camp S3 - 03 - 09m52s259t.avif" "jpg" >}}
-{{< img "img/YFE61336.avif" "jpg" >}}
+{{< img "img/YFE61336.avif" "jpg" "a640x360" >}}
 
 {{< img "img/Yuru Camp S3 - 03 - 21m33s669t.avif" "jpg" >}}
-{{< img "img/YFE61358.avif" "jpg" >}}
+{{< img "img/YFE61358.avif" "jpg" "a640x360" >}}
 
 ## Afterword
 

@@ -345,3 +345,19 @@ li:hover.timeline-item {
 h2,h3,h4,h5,h6 {
     scroll-margin-top: 90px;
 }
+
+.of-cover {
+    object-fit: cover;
+}
+
+.a640x360 {
+    width: 640px !important;
+    height: 360px !important;
+    object-fit: cover;
+} 
+
+.a645x363 {
+    width: 645px !important;
+    height: 363px !important;
+    object-fit: cover;
+} 
