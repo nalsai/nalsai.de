@@ -28,7 +28,7 @@ You can reach Tomogashima by taking a ferry for about 20 minutes from Kada Port 
 
 {{< img "map-2.avif" png >}}
 
-[Map](https://files.nils.moe/www/nalsai.de/blog/seichi/summertime-render/img/map.pdf) by [Wakayama Tourism Association](https://www.wakayama-kanko.or.jp/features/detail_127.html)
+[Map](https://files.nils.moe/www/nalsai.de/blog/seichi/summertime-render/img/map.pdf) from [Wakayama Tourism Association](https://www.wakayama-kanko.or.jp/features/detail_127.html)
 
 {{< img "17.avif" jpg >}}
 {{< img-immich immich="lawLXVyjacGjvfX-pj8c0SSkTyWb_vXx25cyOiyZvq1aXTvZ6ZKfzt72wyROWW33r6o" img="3a69ff9f-5d46-4e19-8315-68fa0f27080d" class="a645x363" >}}
@@ -76,7 +76,7 @@ In real life, many locations that appear on the island in the anime are actually
 
 {{< img "kada.avif" png >}}
 
-Map by [Nankai otent](https://otent-nankai.jp/category/topic/220809_summer-time-rendering-tomogashima_760)
+Map from [Nankai otent](https://otent-nankai.jp/category/topic/220809_summer-time-rendering-tomogashima_760)
 
 {{< img "02.avif" webp >}}
 {{< img-immich immich="lawLXVyjacGjvfX-pj8c0SSkTyWb_vXx25cyOiyZvq1aXTvZ6ZKfzt72wyROWW33r6o" img="a794e7de-c74b-4466-a4cd-6ba656371c9e" class="a645x363" >}}
