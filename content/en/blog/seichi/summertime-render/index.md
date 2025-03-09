@@ -55,7 +55,7 @@ She was also at Wakayamashi Station, and I even found her at Namba Station in Os
 {{< img-immich immich="lawLXVyjacGjvfX-pj8c0SSkTyWb_vXx25cyOiyZvq1aXTvZ6ZKfzt72wyROWW33r6o" img="d8508aa4-c615-429c-9607-c41cc554ce72" >}}
 
 {{< img "img/12.avif" webp >}}
-{{< img-immich immich="lawLXVyjacGjvfX-pj8c0SSkTyWb_vXx25cyOiyZvq1aXTvZ6ZKfzt72wyROWW33r6o" img="57e299d3-eb38-4973-8709-eea7a5bdc5a0" height="640px" >}}
+{{< img-immich immich="lawLXVyjacGjvfX-pj8c0SSkTyWb_vXx25cyOiyZvq1aXTvZ6ZKfzt72wyROWW33r6o" img="57e299d3-eb38-4973-8709-eea7a5bdc5a0" width="240px" >}}
 
 {{< img "img/13.avif" webp >}}
 {{< img "img/YCE50133-crop.avif" jpg >}}
@@ -130,8 +130,8 @@ Shin-Wakaura Lighthouse as well as Wakaura South Beach appear in the last episod
 I didn't prepare any pictures, so here are the ones I took freely.
 
 {{< img "img/Summer Time Rendering - 25 - 10m08s650t.avif" png >}}
-{{< img-immich immich="lawLXVyjacGjvfX-pj8c0SSkTyWb_vXx25cyOiyZvq1aXTvZ6ZKfzt72wyROWW33r6o" img="bd160545-cc69-4a9b-a058-a45f72040a53" >}}
 {{< img-immich immich="lawLXVyjacGjvfX-pj8c0SSkTyWb_vXx25cyOiyZvq1aXTvZ6ZKfzt72wyROWW33r6o" img="df80022f-ee60-4f1a-a50f-89ccd8d50e48" >}}
+{{< img-immich immich="lawLXVyjacGjvfX-pj8c0SSkTyWb_vXx25cyOiyZvq1aXTvZ6ZKfzt72wyROWW33r6o" img="bd160545-cc69-4a9b-a058-a45f72040a53" >}}
 
 ## Bonus: Tano and Saikazaki
 
