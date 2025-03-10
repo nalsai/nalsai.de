@@ -9,19 +9,14 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            {{ $currentPage := . }}
-            {{ range .Site.Menus.main }}
-            <li class="nav-item">
-                <a class="nav-link{{ if $currentPage.IsMenuCurrent "main" . }} active" aria-current="page{{ end }}" href="{{ .URL }}">
-                    {{ .Name }}
-                </a>
-            </li>
-            {{ end }}
-            <li class="nav-item">
-                <a class="nav-link" href="https://files.nils.moe/" target="_blank">
-                    Files
-                </a>
-            </li>
+                {{ $currentPage := . }}
+                {{ range .Site.Menus.main }}
+                <li class="nav-item">
+                    <a class="nav-link{{ if $currentPage.IsMenuCurrent "main" . }} active" aria-current="page{{ end }}" href="{{ .URL }}">
+                        {{ .Name }}
+                    </a>
+                </li>
+                {{ end }}
             </ul>
             <div class="nav-item w-fit-content">
                 <a class="nav-link py-2 px-1 px-lg-2 text-white" id="feedback-button" data-bs-toggle="tooltip"

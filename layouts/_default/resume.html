@@ -62,7 +62,7 @@
     
 {{ define "main" }}
 <div class="container my-5 print-mt-0">
-    <div class="header text-center">
+    <div class="header text-center my-5">
         <h1 class="name display-4">{{ .Params.name }}</h1>
         <div class="contact-info">
             {{ with .Params.email }}<span class="bi bi-envelope mx-1"> {{ . }}</span>{{ end }}

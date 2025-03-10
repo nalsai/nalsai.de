@@ -1,0 +1,59 @@
+{{ define "head" }}
+<style>
+    .hover-effect {
+      transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    }
+    .hover-effect:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 10px 20px rgba(0,0,0,0.1) !important;
+    }
+</style>
+{{ end }}
+
+{{ define "main" }}
+<section class="container my-4">
+  <div class="row justify-content-center">
+    <div class="col-lg-10">
+      {{ if .Params.displayheader }}
+      <h2 class="text-center mt-4 mb-3">{{ .Title }}</h2>
+      <p class="text-center">{{ .Params.description }}</p>
+      {{ end }}
+
+      <div class="row">
+        {{ $categoryCount := len .Params.categories }}
+        {{ range $index, $category := .Params.categories }}
+
+          <div class="col-12 my-4">
+            <h3 class="d-flex align-items-center">
+              {{ if .icon }}<i class="bi {{ .icon }} me-2"></i>{{ end }}{{ .name }}
+            </h3>
+            {{ if .description }}<p>{{ .description }}</p>{{ end }}
+          </div>
+
+          <div class="col-12">
+            <div class="row row-cols-2 row-cols-md-3 row-cols-lg-4 g-4 mb-2">
+              {{ range .items }}
+                <div class="col">
+                <a href="{{ .url }}" class="text-decoration-none">
+                    <div class="card h-100 shadow-sm hover-effect">
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            {{ if .icon }}<i class="bi {{ .icon }} me-2"></i>{{ end }}{{ with .logo }}<img class="align-text-top" width="27px" height="27px" src="{{ . }}"> {{ end }}{{ .name }}
+                        </h5>
+                        {{ if .description }}<p class="card-text text-body">{{ .description }}</p>{{ end }}
+                    </div>
+                    <div class="card-footer" style="background-color: {{ $category.color | default "#6c757d" }}; color: white;">
+                        <small>{{ strings.TrimSuffix "/" (strings.TrimPrefix "www." (strings.TrimPrefix "http://" (strings.TrimPrefix "https://" .url))) }}</small>
+                    </div>
+                    </div>
+                </a>
+                </div>
+              {{ end }}
+            </div>
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

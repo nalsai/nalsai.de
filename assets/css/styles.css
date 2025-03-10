@@ -297,7 +297,7 @@ li:hover.timeline-item {
     filter: invert(1);
 }
 
-.blog-post h1,h2,h3,h4,h5,h6 {
+.blog-post h1,.blog-post h2,.blog-post h3,.blog-post h4,.blog-post h5,.blog-post h6 {
     margin-top: 1.5rem;
     margin-bottom: 1rem;
 }
