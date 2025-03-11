@@ -1,7 +1,7 @@
 +++
-title = "Visiting Places from Oregairu"
+title = "Visiting Places from Oregairu in Real Life"
 description = "The real-life locations of Yahari Ore no Seishun Rabukome wa Machigatteiru (My Teen Romantic Comedy SNAFU) in Chiba, Kyōto, and Yokohama"
-tags = ["Anime", "Anime Tourism", "Oregairu", "Japan"]
+tags = ["Anime", "Anime Tourism"]
 date = 2025-03-11
 +++
 
