@@ -1,8 +1,3 @@
-{{ define "head" }}
-{{ $css := resources.Get "css/md.css" }}{{ if hugo.IsProduction}}{{ $css = $css | minify | fingerprint }}{{ end }}
-<link rel="stylesheet" href="{{ $css.RelPermalink }}">
-{{ end }}
-
 {{ define "main" }}
 <div class="container">
     <main>
