@@ -51,6 +51,10 @@ function getCookie(name) {
         } else {
             document.documentElement.setAttribute('data-bs-theme', theme)
         }
+
+        if (window.REMARK42 && typeof window.REMARK42.changeTheme === 'function') {
+            window.REMARK42.changeTheme(theme);
+        }
     }
 
     setTheme(getPreferredTheme())
