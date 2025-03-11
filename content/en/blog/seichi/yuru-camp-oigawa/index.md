@@ -285,7 +285,6 @@ Here are some pictures and videos of the Abt System rack railway.
 {{< img "img/Yuru Camp S3 - 04 - 03m16s989t.avif" "jpg" >}}
 
 <img width="560" height="315" src="0r8DcSc2Wfg.avif" onclick="this.outerHTML='<iframe width=\'560\' height=\'315\' src=\'https://www.youtube.com/embed/0r8DcSc2Wfg?autoplay=1\' allow=\'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture web-share\' allowfullscreen></iframe>'" style="cursor: pointer">
-</div>
 
 <img width="560" height="315" src="0r8DcSc2Wfg.avif" onclick="this.outerHTML='<iframe width=\'560\' height=\'315\' src=\'https://www.youtube.com/embed/jjdzBgknCFY?autoplay=1\' allow=\'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture web-share\' allowfullscreen></iframe>'" style="cursor: pointer">
 
