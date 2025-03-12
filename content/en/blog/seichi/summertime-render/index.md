@@ -28,7 +28,7 @@ You can reach Tomogashima by taking a ferry for about 20 minutes from Kada Port 
 
 {{< img "map-2.avif" png >}}
 
-[Map](https://files.nils.moe/www/nalsai.de/blog/seichi/summertime-render/img/map.pdf) from [Wakayama Tourism Association](https://www.wakayama-kanko.or.jp/features/detail_127.html)
+[Map](https://files.nils.moe/www/nalsai.de/blog/seichi/summertime-render/map.pdf) from [Wakayama Tourism Association](https://www.wakayama-kanko.or.jp/features/detail_127.html)
 
 {{< img "17.avif" jpg >}}
 {{< img-immich immich="lawLXVyjacGjvfX-pj8c0SSkTyWb_vXx25cyOiyZvq1aXTvZ6ZKfzt72wyROWW33r6o" img="3a69ff9f-5d46-4e19-8315-68fa0f27080d" class="a645x363" >}}
