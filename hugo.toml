@@ -35,6 +35,10 @@ DefaultContentLanguage = "en"
   [params.umami]
     id = "b0d36943-ce3a-42e9-ae7e-c3c7209594db"
     src = "https://umami.nils.moe/script.js"
+  [params.remark42]
+    host = "https://remark42.alya.nils.moe"
+    site = "nalsai"
+
 
 [module]
   [[module.imports]]

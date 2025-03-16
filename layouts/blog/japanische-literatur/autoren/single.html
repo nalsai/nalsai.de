@@ -1,8 +1,9 @@
 {{ define "head" }}
 <script>
 	var remark_config = {
-		host: "https://remark42.alya.nils.moe",
-		site_id: "nalsai",
+		host: "{{ .Site.Params.remark42.host }}",
+		site_id: "{{ .Site.Params.remark42.site }}",
+        locale: "{{ .Site.Language.Lang }}",
         theme: document.documentElement.getAttribute('data-bs-theme') || "dark"
 	}
 </script>
