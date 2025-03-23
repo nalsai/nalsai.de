@@ -284,9 +284,9 @@ Here are some pictures and videos of the Abt System rack railway.
 {{< img "img/YFE54940.avif" "jpg" "a640x360" >}}
 {{< img "img/Yuru Camp S3 - 04 - 03m16s989t.avif" "jpg" >}}
 
-<img width="560" height="315" src="0r8DcSc2Wfg.avif" onclick="this.outerHTML='<iframe width=\'560\' height=\'315\' src=\'https://www.youtube.com/embed/0r8DcSc2Wfg?autoplay=1\' allow=\'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture web-share\' allowfullscreen></iframe>'" style="cursor: pointer">
+<img width="560" height="315" src="0r8DcSc2Wfg.avif" alt="YouTube Video 0r8DcSc2Wfg (Ōigawa Railway Ikawa Line Train leaving Abt-Ichishiro Station) preview image" onclick="this.outerHTML='<iframe width=\'560\' height=\'315\' src=\'https://www.youtube.com/embed/0r8DcSc2Wfg?autoplay=1\' allow=\'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture web-share\' allowfullscreen></iframe>'" style="cursor: pointer">
 
-<img width="560" height="315" src="0r8DcSc2Wfg.avif" onclick="this.outerHTML='<iframe width=\'560\' height=\'315\' src=\'https://www.youtube.com/embed/jjdzBgknCFY?autoplay=1\' allow=\'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture web-share\' allowfullscreen></iframe>'" style="cursor: pointer">
+<img width="560" height="315" src="jjdzBgknCFY.avif" alt="YouTube Video jjdzBgknCFY (Abt System Rack Railway Locomotive ED903 Connecting to Ōigawa Railway Ikawa Line Train) preview image" onclick="this.outerHTML='<iframe width=\'560\' height=\'315\' src=\'https://www.youtube.com/embed/jjdzBgknCFY?autoplay=1\' allow=\'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture web-share\' allowfullscreen></iframe>'" style="cursor: pointer">
 
 ## Senzu
 
