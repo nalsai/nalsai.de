@@ -22,11 +22,11 @@ I first visited Hibiya Park during the day, and the next day I went there again 
 
 ### The Fountain
 
-![bg_28a2](bg_28a2.jpg)
-![XII51752](XII51752.jpg)
-![XIJ69099](XIJ69099.jpg)
-
-Date: 2023-09-18, 2023-09-19
+{{< img bg_28a2.avif jpg >}}
+{{< img XII51752-crop.avif jpg >}}
+{{< img XIJ69099-crop.avif jpg >}}
+{{< img YHT45219-crop.avif jpg >}}  
+Dates: 2023-09-18, 2023-09-19, 2024-08-29
 
 I assume that the image in Tsukihime was taken during the day, but I think it looked better at night.
 The fountain jets have probably been replaced, so it looks a bit different.
@@ -39,17 +39,23 @@ Here is a short video: <https://photos.google.com/share/AF1QipNmrFuproa0wQsEfc7w
 ## The path with the trees
 
 There was construction going on, so the view of the trees was blocked. The original photo was probably taken in the winter, seeing as the trees are bare.
-So even if there had been no construction, it would not have looked the same. (When I came back in winter the construction was still ongoing, so I didn't take another photo.)
+So even if there had been no construction, it would not have looked the same.
 
-![bg_27a2](bg_27a2.jpg)
-![XII53559](XII53559.jpg)
-
+{{< img bg_27a2.avif jpg >}}
+{{< img XII53559-crop.avif jpg >}}  
 Date: 2023-09-18
+
+When I came back in winter the construction was still ongoing, so I didn't take another photo.
+
+{{< img bg_27a2.avif jpg >}}
+{{< img YHT45648-crop.avif jpg >}}  
+Date: 2024-08-29
+
+When I revisited Hibiya Park a year later, the construction was mostly finished, with only a smaller orange fence remaining. I'm quite happy with how well this photo matches the original.
 
 The path leads to Hibiya Public Hall:
 
-![XIJ69523](XIJ69523.jpg)
-
+{{< img XIJ69523-crop.avif jpg >}}  
 Date: 2023-09-19
 
 Afterward, I walked to the Sukiyaba Crossing in Ginza.
@@ -60,10 +66,9 @@ A short walk from Hibiya Park is the Sukiyabashi Crossing in Ginza, right next t
 
 It looks nice at night, with the big Fujiya signboard and the other lights shining brightly but not overwhelmingly.
 
-![bg_26a2](bg_26a2.jpg)
-![XIJ68414](XIJ68414.jpg)
-![XII55843](XII55843.jpg)
-
+{{< img bg_26a2.avif jpg >}}
+{{< img XIJ68414-crop.avif jpg >}}
+{{< img XII55843-crop.avif jpg >}}  
 Date: 2023-09-19, 2023-09-18
 
 ## Shibuya Modi (previously Shibuya Marui)
@@ -73,9 +78,8 @@ The shape of the pillars has changed, and they are now covered in plants, but th
 
 With the cars and the people, it was hard to get the photo. Also, the rounded shape makes it difficult to find the right angle, but I think I got close enough.
 
-![bg_25a2](bg_25a2.jpg)
-![XIM46856](XIM46856.jpg)
-
+{{< img bg_25a2.avif jpg >}}
+{{< img XIM46856-crop.avif jpg >}}  
 Date: 2023-09-22
 
 ## School
@@ -91,9 +95,8 @@ This is the entrance gate. It seems like the metal gate was completely opened wh
 Despite this I got quite close to the original image.  
 It's crazy how it has stayed almost the same all these years.
 
-![bg_01b](bg_01b.jpg)
-![XL159141](XL159141.jpg)
-
+{{< img bg_01b.avif jpg >}}
+{{< img XL159141-crop.avif jpg >}}  
 Date: 2023-12-01
 
 ### Side of School
@@ -102,24 +105,17 @@ The original picture was probably taken from inside the school, but you can also
 This was the only angle where you could see the pillars even a little, as the hedge has gotten quite thick.
 (My image is mirrored to be closer to the original, even though it is a different place and perspective.)
 
-![bg_05a](bg_05a.jpg)
-![XL158280](XL158280.jpg)
-
+{{< img bg_05a.avif jpg >}}
+{{< img XL158280-crop.avif jpg >}}  
 Date: 2023-12-01
 
 ### School Courtyard
 
 I didn't enter the school, so I had to take this picture from behind the net.
-Every time I look at this image and think back, it feels kind of unreal that I've been to Shiki's school.
 
-![bg_02a](bg_02a.jpg)
-![XL158832](XL158832.jpg)
-
+{{< img bg_02a.avif jpg >}}
+{{< img XL158832-crop.avif jpg >}}  
 Date: 2023-12-01
-
-Here is a less cropped image:
-
-![XL158832-full](XL158832-full.jpg)
 
 ## Restaurant Shangri-La
 
@@ -129,9 +125,8 @@ I was in Kawasaki for the Hakurei Shrine Uta Matsuri, so I decided to eat dinner
 I got Chicken and Shnangri-La Special Nan. It was very delicous and the store owner was very friendly.
 As it was late in the evening, nobody was there besides me.
 
-![bg_90](bg_90.jpg)
-![XL281354](XL281354.jpg)
-
+{{< img bg_90.avif jpg >}}
+{{< img XL281354-crop.avif jpg >}}  
 Date: 2023-12-01
 
 ## Bonus 1: The Arc de Triomphe in Paris
@@ -140,19 +135,37 @@ These bonus images appear when Shiki dreams about the past of Roa's seventeenth 
 
 I went to Paris in August 2016 with my family and, of course, visited the Arc de Triomphe too. I didn't take a photo from the same angle as the one in Tsukihime.
 
-![cmo_11](cmo_11.jpg)
-![QHP40073](QHP40073.jpg)
-
+{{< img cmo_11.avif jpg >}}
+{{< img QHP40073-crop.avif jpg >}}  
 Date: 2016-08-25
 
 ## Bonus 2: The Trevi Fountain in Rome
 
 In July 2019, I went to Rome as part of a school trip. It was very crowded around the fountain, so I couldn't get any closer.
 
-![cmo_09](cmo_09.jpg)
-![TGE56518](TGE56518.jpg)
-
+{{< img cmo_09.avif jpg >}}
+{{< img TGE56518-crop.avif jpg >}}  
 Date: 2019-07-14
+
+## Bonus 3: Arcueid's Home
+
+This is an large apartment complex in Komae, Tokyo. Since it is a private residence, I could only take a photo from the outside.
+
+{{< img bg_12a.avif jpg >}}
+{{< img bg_13a.avif jpg >}}
+{{< img-immich immich="ZMaeV9MPLmQGi4jj1msdSoZi3p1Tk8I1z4Y4MomHA1HfW7PTpXpTUhtkNHsfnCzilNs" img="8309cd3f-314f-4a94-926b-cba54269efcb" class="a640x360" >}}
+
+## Bonus 4: More Locations
+
+The Tohno Mansion is quite clearly Château de Remaisnil in France. I wonder about the backstory of this picture.
+It is private property, but it seems like it was a hotel at some point between 1987 and 2000. I want to visit it someday but being far from any typical tourist spots, it is quite difficult to get to and you can only see it from the outside anyway.
+
+{{< img bg_48a.avif jpg >}}
+
+These pictures appeared during the backstory of Ciel. The first one is the restaurant Maximiliaan van Oostenrijk in Brugge, Belgium and the second one seems to be in Quedlinburg, Germany, but I'm not 100% sure.
+
+{{< img cmo_12.avif jpg >}}
+{{< img cmo_13.avif jpg >}}
 
 ## Afterword
 
@@ -165,7 +178,7 @@ Look forward to another blog post about that!
 
 ## Acknowledgments
 
-Thanks to 職業:魔法使い死亡 for their very comprehensive blog post on places from Tsukihime (in Japanese):  
+Thanks to @harumukotan, the author of the website 職業:魔法使い死亡 for their very comprehensive blog post on places from Tsukihime (in Japanese):  
 <https://dtman.info/seichijunrei-butaitanbou-tsukihime-shinjuku-ginza-hibiya-nakano-nerima-kamata-komae-koshigaya/>  
 Check it out for more details, and check out their other posts as well!
 
@@ -179,5 +192,3 @@ Here are some other posts by people who have made a similar pilgrimage.
 - <http://blog.livedoor.jp/anglerpon/archives/1001913152.html>
 - <https://ameblo.jp/pachuca33/entry-10045768084.html>
 - <https://ajin-movie.com/tukihime-seitijyunrei/>
-
-And here is one about Tsukihime Remake: <https://hayabusa8823.hatenablog.com/entry/2021/09/09/000000>
