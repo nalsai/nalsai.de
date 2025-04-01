@@ -212,7 +212,6 @@ Here are some other posts by people who have made a similar pilgrimage.
 
 - <http://blog.livedoor.jp/anglerpon/archives/1001913152.html>
 - <https://ameblo.jp/pachuca33/entry-10045768084.html>
-- <https://ajin-movie.com/tukihime-seitijyunrei/>
 
 ---
 

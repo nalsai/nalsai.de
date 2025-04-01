@@ -1,0 +1,327 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hibya Park - Fountain",
+        "image": "http://en.nalsai.de/blog/seichi/tsukihime/bg_28a2.avif",
+        "link": "https://en.nalsai.de/blog/seichi/tsukihime/#hibiya-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7570266679606,
+          35.673474778122284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hibya Park - Path with Trees",
+        "image": "https://en.nalsai.de/blog/seichi/tsukihime/bg_27a2.avif",
+        "link": "https://en.nalsai.de/blog/seichi/tsukihime/#the-path-with-the-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.75618221968034,
+          35.67348716335938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sukiyabashi Crossing",
+        "image": "https://en.nalsai.de/blog/seichi/tsukihime/bg_26a2.avif",
+        "link": "https://en.nalsai.de/blog/seichi/tsukihime/#the-sukiyabashi-crossing-in-ginza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76295486040138,
+          35.67252769103069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bic Camera Shibuya Hachiko Exit Store Sign",
+        "image": "http://en.nalsai.de/blog/seichi/tsukihime/bg_86.avif",
+        "link": "https://en.nalsai.de/blog/seichi/tsukihime/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.69952911359783,
+          35.659604330724015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shibuya Modi",
+        "image": "https://en.nalsai.de/blog/seichi/tsukihime/bg_25a2.avif",
+        "link": "https://en.nalsai.de/blog/seichi/tsukihime/#shibuya-modi-previously-shibuya-marui"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70091918590805,
+          35.66101663628669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "School - Gate",
+        "image": "https://en.nalsai.de/blog/seichi/tsukihime/bg_01a.avif",
+        "link": "https://en.nalsai.de/blog/seichi/tsukihime/#school-gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6423105728368,
+          35.759587454230164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "School - Gate",
+        "image": "https://en.nalsai.de/blog/seichi/tsukihime/bg_03a.avif",
+        "link": "https://en.nalsai.de/blog/seichi/tsukihime/#school-gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.64221396808387,
+          35.75955312685008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "School - Side",
+        "image": "https://en.nalsai.de/blog/seichi/tsukihime/bg_05a.avif",
+        "link": "https://en.nalsai.de/blog/seichi/tsukihime/#side-of-school",
+        "description": "Inside the school, not accessible to the public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.64209131654007,
+          35.75888088764171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "School - Courtyard",
+        "image": "https://en.nalsai.de/blog/seichi/tsukihime/bg_02a.avif",
+        "link": "https://en.nalsai.de/blog/seichi/tsukihime/#school-courtyard",
+        "description": "The original image was taken from inside the school, but a similar view can be seen from the outside through the fence"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.64065217118286,
+          35.758949303181645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restaurant Shangri-La",
+        "image": "https://en.nalsai.de/blog/seichi/tsukihime/bg_90.avif",
+        "link": "https://en.nalsai.de/blog/seichi/tsukihime/#restaurant-shangri-la"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.71378252513418,
+          35.562895207633076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arcueid's Home",
+        "image": "http://en.nalsai.de/blog/seichi/tsukihime/bg_12a.avif",
+        "link": "https://en.nalsai.de/blog/seichi/tsukihime/#bonus-3-arcueids-home",
+        "description": "Private property"
+      },
+      "geometry": {
+        "coordinates": [
+          139.57371833179766,
+          35.62519737881997
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arcueid's Home",
+        "image": "http://en.nalsai.de/blog/seichi/tsukihime/bg_13a.avif",
+        "link": "https://en.nalsai.de/blog/seichi/tsukihime/#bonus-3-arcueids-home",
+        "description": "Private property"
+      },
+      "geometry": {
+        "coordinates": [
+          139.5737194952332,
+          35.62509224198518
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nakano Residential Street",
+        "image": "http://en.nalsai.de/blog/seichi/tsukihime/bg_23a.avif",
+        "link": "https://en.nalsai.de/blog/seichi/tsukihime/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66851191753747,
+          35.703215458761484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shinjuku Sumitomo Building",
+        "description": "The area has been renovated",
+        "image": "http://en.nalsai.de/blog/seichi/tsukihime/bg_29a.avif",
+        "link": "https://en.nalsai.de/blog/seichi/tsukihime/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.69238264643624,
+          35.690980122586744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yokota Clinic",
+        "image": "http://en.nalsai.de/blog/seichi/tsukihime/bg_67.avif",
+        "link": "https://en.nalsai.de/blog/seichi/tsukihime/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.78768996917856,
+          35.89155773282753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arc de Triomphe",
+        "image": "http://en.nalsai.de/blog/seichi/tsukihime/cmo_11.avif",
+        "link": "https://en.nalsai.de/blog/seichi/tsukihime/#bonus-1-the-arc-de-triomphe-in-paris"
+      },
+      "geometry": {
+        "coordinates": [
+          2.2962159786384517,
+          48.87249578294641
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fontana di Trevi",
+        "image": "http://en.nalsai.de/blog/seichi/tsukihime/cmo_09.avif",
+        "link": "https://en.nalsai.de/blog/seichi/tsukihime/#bonus-2-the-trevi-fountain-in-rome"
+      },
+      "geometry": {
+        "coordinates": [
+          12.483353057571593,
+          41.900864482907025
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Peter's Basilica",
+        "image": "http://en.nalsai.de/blog/seichi/tsukihime/bg_65.avif",
+        "link": "https://en.nalsai.de/blog/seichi/tsukihime/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.454161017541624,
+          41.90201380481941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Château de Remaisnil",
+        "image": "http://en.nalsai.de/blog/seichi/tsukihime/bg_48a.avif",
+        "link": "https://en.nalsai.de/blog/seichi/tsukihime/#bonus-4-more-locations",
+        "description": "Private property"
+      },
+      "geometry": {
+        "coordinates": [
+          2.2428306071676616,
+          50.19907482370245
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restaurant Maximiliaan van Oostenrijk",
+        "image": "http://en.nalsai.de/blog/seichi/tsukihime/cmo_12.avif",
+        "link": "https://en.nalsai.de/blog/seichi/tsukihime/#bonus-4-more-locations"
+      },
+      "geometry": {
+        "coordinates": [
+          3.2243376064755163,
+          51.20167039009655
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quedlinburg",
+        "image": "http://en.nalsai.de/blog/seichi/tsukihime/cmo_13.avif",
+        "link": "https://en.nalsai.de/blog/seichi/tsukihime/#bonus-4-more-locations",
+        "description": "Exact location unknown"
+      },
+      "geometry": {
+        "coordinates": [
+          11.141535805170275,
+          51.78922595747151
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
