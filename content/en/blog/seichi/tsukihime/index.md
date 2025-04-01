@@ -1,12 +1,33 @@
 +++
 title = "Visiting Places from Tsukihime"
 description = "OG Tsukihime locations in Tōkyō"
-tags = [
-  "Visual Novel",
-  "Anime Tourism",
-]
+tags = ["Visual Novel", "Anime Tourism"]
 date = 2023-11-25
 +++
+
+<div class="card mb-4">
+  <div class="card-header cursor-pointer" data-bs-toggle="collapse" data-bs-target="#tableOfContents"><i class="bi bi-list-ul"></i> Table of Contents <i class="bi bi-chevron-down float-end"></i></div>
+  <div id="tableOfContents" class="collapse"><div class="card-body">
+
+- [Introduction](#introduction)
+- [Hibiya Park](#hibiya-park)
+  - [Fountain](#the-fountain)
+  - [Path with Trees](#the-path-with-the-trees)
+- [Sukiyabashi Crossing in Ginza](#the-sukiyabashi-crossing-in-ginza)
+- [Shibuya Modi](#shibuya-modi-previously-shibuya-marui)
+- [School](#school)
+  - [School Gate](#school-gate)
+  - [Side of School](#side-of-school)
+  - [School Courtyard](#school-courtyard)
+- [Restaurant Shangri-La](#restaurant-shangri-la)
+- [Bonus 1: The Arc de Triomphe in Paris](#bonus-1-the-arc-de-triomphe-in-paris)
+- [Bonus 2: The Trevi Fountain in Rome](#bonus-2-the-trevi-fountain-in-rome)
+- [Bonus 3: Arcueid's Home](#bonus-3-arcueids-home)
+- [Bonus 4: More Locations](#bonus-4-more-locations)
+- [Afterword](#afterword)
+- [Map](#map)
+
+</div></div></div>
 
 ## Introduction
 
@@ -192,3 +213,9 @@ Here are some other posts by people who have made a similar pilgrimage.
 - <http://blog.livedoor.jp/anglerpon/archives/1001913152.html>
 - <https://ameblo.jp/pachuca33/entry-10045768084.html>
 - <https://ajin-movie.com/tukihime-seitijyunrei/>
+
+---
+
+## Map
+
+{{< map >}}

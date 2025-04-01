@@ -6,22 +6,22 @@ date = 2025-02-14
 dateContent = 2024-06-14
 +++
 
-## Table of Contents
+<div class="card mb-4">
+  <div class="card-header cursor-pointer" data-bs-toggle="collapse" data-bs-target="#tableOfContents"><i class="bi bi-list-ul"></i> Table of Contents <i class="bi bi-chevron-down float-end"></i></div>
+  <div id="tableOfContents" class="collapse"><div class="card-body">
 
-1. [Introduction](#introduction)
-2. [The Plan](#the-plan)
-3. [Kanaya Station](#kanaya-station)
-4. [Yappashi Komichi Love Romance Road](#yappashi-komichi-love-romance-road)
-5. [Okuōikojō](#okuoikojo)
-6. [Nagashima Dam](#nagashima-dam)
-7. [Abt-Ichishiro Campground](#abt-ichishiro-campground)
-8. [Mystery Tunnel](#mystery-tunnel)
-9. [Abt-Ichishiro](#abt-ichishiro)
-10. [Senzu](#senzu)
-11. [Ryōgoku Tsuribashi](#ryogoku-tsuribashi)
-12. [Afterword](#afterword)
+- [Kanaya Station](#kanaya-station)
+- [Yappashi Komichi Love Romance Road](#yappashi-komichi-love-romance-road)
+- [Okuōikojō](#okuoikojo)
+- [Nagashima Dam](#nagashima-dam)
+- [Abt-Ichishiro Campground](#abt-ichishiro-campground)
+- [Mystery Tunnel](#mystery-tunnel)
+- [Abt-Ichishiro](#abt-ichishiro)
+- [Senzu](#senzu)
+- [Ryōgoku Tsuribashi](#ryogoku-tsuribashi)
+- [Afterword](#afterword)
 
----
+</div></div></div>
 
 ## Introduction
 

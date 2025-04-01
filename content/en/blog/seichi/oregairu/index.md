@@ -5,7 +5,9 @@ tags = ["Anime", "Anime Tourism"]
 date = 2025-03-12
 +++
 
-## Table of Contents
+<div class="card mb-4">
+  <div class="card-header cursor-pointer" data-bs-toggle="collapse" data-bs-target="#tableOfContents"><i class="bi bi-list-ul"></i> Table of Contents <i class="bi bi-chevron-down float-end"></i></div>
+  <div id="tableOfContents" class="collapse"><div class="card-body">
 
 - [Chiba](#chiba)
   - [Chiba Station](#chiba-station)
@@ -35,7 +37,7 @@ date = 2025-03-12
   - [Fushimi Inari Taisha](TODO)
   - [Kyoto Station](#kyoto-station)
 
----
+</div></div></div>
 
 Thanks to this awesome fan-made map, you can easily visit the real-life locations of Oregairu in Chiba, Kyōto, and Yokohama:
 <https://www.google.com/maps/d/u/0/viewer?mid=1WUBCnqTi1gTo8A2xucPVCrGKglFI5he9>

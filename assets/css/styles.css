@@ -359,3 +359,11 @@ h2,h3,h4,h5,h6 {
     height: 363px !important;
     object-fit: cover;
 } 
+
+.blog-post ul li p {
+    margin: 0;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
