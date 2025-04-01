@@ -1,5 +1,5 @@
 +++
-type= "blog/japanische-literatur-vormoderne/autoren"
+type = "blog/japanische-literatur-vormoderne/autoren"
 draft = false
 
 weight = 39

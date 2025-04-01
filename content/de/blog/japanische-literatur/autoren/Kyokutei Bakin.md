@@ -1,5 +1,5 @@
 +++
-type= "blog/japanische-literatur/autoren"
+type = "blog/japanische-literatur/autoren"
 draft = false
 
 weight = 25
