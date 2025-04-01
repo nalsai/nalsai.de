@@ -1,13 +1,209 @@
 {{ define "head" }}
-{{ partial "index/head" . }}
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        console.log("Hello there! 👋");
+        console.log("( ⸝⸝•ᴗ•⸝⸝ )੭⁾⁾");
+
+        // make navbar opaque/transparent depending on scroll position
+        const o = document.getElementById("main-nav");
+        window.addEventListener("scroll", (function (e) {
+            let scrollPos = window.scrollY || window.scrollTop || document.getElementsByTagName("html")[0].scrollTop;
+            scrollPos > 120 ? o.classList.remove("nav-at-top") : o.classList.add("nav-at-top")
+        }))
+
+        // get date
+        const d = new Date();
+        const Year = d.getFullYear();
+        const Month = d.getMonth();
+        const DayOfWeek = d.getDay();
+        const DayOfMonth = d.getDate();
+        const Hours = d.getHours();
+
+        // change to daytime image between 8 and 18 o'clock
+        if (Hours > 7 && Hours < 18) {
+            document.getElementById("intro").style.background = "linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2)), url('/img/THA45242.jpg') no-repeat center center fixed";
+            document.getElementById("intro").style.backgroundSize = "cover";
+        }
+
+        // update age
+        const birthDate = new Date("2002-12-13");
+        let age = Year - birthDate.getFullYear();
+        const m = Month - birthDate.getMonth();
+        if (m < 0 || (m === 0 && DayOfMonth < birthDate.getDate())) { age--; }
+        document.getElementById("age").innerHTML = age;
+
+        // random quotes
+        if (Month === 11 && DayOfMonth === 13) {
+            quotes = ["Ich habe Geburtstag!"];
+        }
+        else if (Month === 11 && DayOfMonth === 24 || Month === 11 && DayOfMonth === 25 || Month === 11 && DayOfMonth === 26) {
+            quotes = [
+                "<a href=\"https://www.youtube.com/watch?v=dQ_d_VKrFgM\" class=\"link-info\" target=\"_blank\" rel=\"noopener\">Frohe Weihnachten<\a>",
+                "<a href=\"https://www.youtube.com/watch?v=dQ_d_VKrFgM\" class=\"link-info\" target=\"_blank\" rel=\"noopener\">Merry Christmas<\a>",
+                "<a href=\"https://www.youtube.com/watch?v=dQ_d_VKrFgM\" class=\"link-info\" target=\"_blank\" rel=\"noopener\">メリークリスマス<\a>",
+                "<a href=\"https://www.youtube.com/watch?v=efdN69QscAg\" class=\"link-info\" target=\"_blank\" rel=\"noopener\">hashire sori yo kaze no you ni tsukimihara wo padoru padoru<\a>",
+            ];
+        }
+        else if (Month === 11 && DayOfMonth === 31 || Month === 0 && DayOfMonth === 1) {
+            quotes = [
+                "Frohes neues Jahr!",
+                "Happy new year",
+                "明けましておめでとうございます。",
+            ];
+        }
+        else {
+            quotes = [
+                "&nbsp;",
+                "Why do Java Developers need glasses? Because they can't C#.",
+                "„Das Problem mit Zitaten im Internet ist, dass man nie weiß, ob sie echt sind.“<br>- Goethe",
+                "seven ate nine",
+                "Fall.net",
+                "Have a nice trip, see you next fall!",
+                "Illuminati confirmed!",
+                "お前はもう死んでいる",
+                "ちゅんちゅんまる",
+                "え アタシ！？",
+                "分かんない",
+                "時は金なり",
+                "遠くてちかきもの<br>極樂。船の道。男女の中。",
+                "<a href=\"https://www.youtube.com/watch?v=dQw4w9WgXcQ\" class=\"link-info\" target=\"_blank\" rel=\"noopener\">https://www.youtube.com/watch?v=dQw4w9WgXcQ</a>",
+                "<a href=\"https://www.youtube.com/watch?v=QdEOL1HGtXE\" class=\"link-info\" target=\"_blank\" rel=\"noopener\">https://www.youtube.com/watch?v=QdEOL1HGtXE</a>",
+                "<a href=\"https://www.youtube.com/watch?v=VyX6akEAE1s\" class=\"link-info\" target=\"_blank\" rel=\"noopener\">https://www.youtube.com/watch?v=VyX6akEAE1s</a>",
+                "<a href=\"https://www.youtube.com/watch?v=0NXLKOfXkoI\" class=\"link-info\" target=\"_blank\" rel=\"noopener\">https://www.youtube.com/watch?v=0NXLKOfXkoI</a>",
+                "<a href=\"https://www.youtube.com/watch?v=ShDyYY6X8Mg\" class=\"link-info\" target=\"_blank\" rel=\"noopener\">https://www.youtube.com/watch?v=ShDyYY6X8Mg</a>",
+                "<a href=\"https://www.youtube.com/watch?v=LNaD6Q-ybxE\" class=\"link-info\" target=\"_blank\" rel=\"noopener\">https://www.youtube.com/watch?v=LNaD6Q-ybxE</a>",
+                "No ads here!",
+            ];
+            quotes.push("Hello there! 👋");
+
+            if (DayOfWeek === 3)
+                quotes.push("It's wednesday my dudes!");
+            if (Month === 10 | Month === 11)
+                quotes.push("<a href=\"https://www.youtube.com/watch?v=efdN69QscAg\" class=\"link-info\" target=\"_blank\" rel=\"noopener\">hashire sori yo kaze no you ni tsukimihara wo padoru padoru<\a>");
+            if (typeof InstallTrigger !== 'undefined')
+                quotes.push("Nice, you're using Firefox!");
+            if (!!window.chrome && (!!window.chrome.webstore || !!window.chrome.runtime))
+                quotes.push("You're using Chrome or a browser based on it 😒");
+        }
+        index = Math.floor(Math.random() * quotes.length);
+        document.getElementById("QuotesEtc").innerHTML = quotes[index];
+    });
+</script>
 {{ end }}
 
 {{ define "main" }}
-{{ partial "index/header" . }}
+<header id="intro" class="text-center bg-dark text-white">
+    <div class="col-lg-10 col-xl-8 p-lg-5 mx-auto" id="intro-text">
+        <h1 class="d-none d-sm-block display-3 font-weight-normal pb-3 animate animate-slide">{{ .Site.Title }}</h1>
+        <h1 class="d-block d-sm-none font-weight-normal pb-3 animate animate-slide">{{ .Site.Title }}</h1>
+        <p id="QuotesEtc" class="lead font-weight-normal py-3 mb-5 animate animate-blur delay-1">I see that you don't have JavaScript enabled...</p>
+    </div>
+    <svg xmlns="http://www.w3.org/2000/svg" width="2476" height="456" version="1.1" viewBox="0 0 1857 342" fill="currentColor" class="bottom-svg">
+        <path d="M-6 275v67h1863c0-56 280-307-187-180-402 96-451 124-748 68-74-14-272-49-463 9-169 58-266 48-465 2z"/>
+    </svg>
+</header>
 <div class="container mt-5">
-    {{ partial "index/about" . }}
-    {{ partial "index/projects" . }}
-    {{ partial "index/sns" . }}
-    {{ partial "index/buttons" . }}
+
+    <div class="row my-5 py-4">
+        <div class="col-lg-6 mb-4">
+            <div id="Me-Carousel" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner rounded">
+                    <div class="carousel-item active">
+                        <img class="d-block w-100" src="/img/me/WDA60132.jpg" alt="Slide 1">
+                    </div>
+                    <div class="carousel-item">
+                        <img class="d-block w-100" src="/img/me/TH226402.jpg" alt="Slide 2">
+                    </div>
+                    <div class="carousel-item">
+                        <img class="d-block w-100" src="/img/me/TH644130.jpg" alt="Slide 3">
+                    </div>
+                    <div class="carousel-item">
+                        <img class="d-block w-100" src="/img/me/UH655009.jpg" alt="Slide 5">
+                    </div>
+                    <div class="carousel-item">
+                        <img class="d-block w-100" src="/img/me/WDA59455.jpg" alt="Slide 6">
+                    </div>
+                    <div class="carousel-item">
+                        <img class="d-block w-100" src="/img/me/WDC40705.jpg" alt="Slide 7">
+                    </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#Me-Carousel" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">{{ i18n "previous" }}</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#Me-Carousel" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">{{ i18n "next" }}</span>
+                </button>
+            </div>
+        </div>
+        <div class="col-lg-6 lead">
+            <p class="mb-3 h3">{{ i18n "about-me" }}</p>
+            <p>
+                {{ i18n "about-me-1" }}
+                <span id="age">{{ (now.AddDate -2002 -11 -12).Year }}</span>
+                {{ i18n "about-me-2" }}
+            </p>
+            <p>
+                {{ i18n "about-me-3" }}
+            </p>
+        </div>
+    </div>
+
+    <div class="row my-5 py-4">
+        {{ range .Site.Menus.projects }}
+        <div class="col-sm">
+            <a class="card h-100 text-decoration-none card-hover" href="{{ .URL }}">
+                {{ if $image := .Page.Resources.GetMatch "img/thumb*" }}
+                <div class="view overlay">
+                    <img class="card-img-top" src="{{ $image.Permalink }}" alt="{{ .Title }} Thumbnail">
+                    <div class="mask rgba-white-slight"></div>
+                </div>
+                {{ end }}
+                <div class="card-body">
+                    <p class="card-title h4">{{ .Title }}</p>
+                    <p class="card-text">
+                        {{ .Page.Description }}
+                    </p>
+                </div>
+            </a>
+        </div>
+        {{ end }}
+    </div>
+
+    <div class="text-center my-5 py-4 pb-2">
+        <a class="logo" href="mailto:contact@nalsai.de" target="_blank" rel="noopener"><img src="/img/logos/E-Mail.svg" alt="E-Mail Logo"></a>
+        <a class="logo invert-light" href="https://github.com/nalsai" target="_blank" rel="noopener"><img src="/img/logos/GitHub.svg" alt="GitHub Logo"></a>
+        <a class="logo" href="https://twitter.com/nalsai_" target="_blank" rel="noopener"><img src="/img/logos/twitter.svg" alt="Twitter Logo"></a>
+        <a class="logo" href="https://www.instagram.com/nalsai_/" target="_blank" rel="noopener"><img src="/img/logos/Instagram.svg" alt="Instagram Logo"></a>
+        <a class="logo" href="https://www.youtube.com/channel/UC-wQRakfwvTqrgPBF0_h_BQ" target="_blank" rel="noopener"><img src="/img/logos/YouTube.svg" alt="YouTube Logo"></a>
+        <a class="logo" href="https://www.amazon.de/hz/wishlist/ls/1SBKLNVR41QIR" target="_blank" rel="noopener"><img src="/img/logos/Amazon.svg" alt="Amazon Germany Logo"></a>
+        <a class="logo" href="https://www.amazon.co.jp/hz/wishlist/ls/3EEGZY8N84QQB" target="_blank" rel="noopener"><img src="/img/logos/AmazonJP.svg" alt="Amazon Japan Logo"></a>
+        <a class="logo" href="http://steamcommunity.com/id/nalsai/" target="_blank" rel="noopener"><img src="/img/logos/Steam.svg" alt="Steam Logo"></a>
+        <a class="logo" href="https://anilist.co/user/nalsai/" target="_blank" rel="noopener"><img src="/img/logos/AniList.svg" alt="AniList Logo"></a>
+        <a class="logo" href="https://musicbrainz.org/user/nalsai" target="_blank" rel="noopener"><img src="/img/logos/MusicBrainz.svg" alt="MusicBrainz Logo"></a>
+        <a class="logo" href="https://en.wikipedia.org/wiki/User:Nalsai" target="_blank" rel="noopener"><img src="/img/logos/Wikipedia.svg" alt="Wikipedia Logo"></a>
+    </div>
+
+    <div class="text-center my-5 pt-4">
+        <a class="web-button" href="https://nalsai.de"><img src="/img/button.png" alt="nalsai.de button"></a>
+        <p class="h3 mt-4 mb-1">Cool people</p>
+        <p>Feel free to send me a message, if you want your button to be added.</p>
+        <a class="web-button" href="https://astrothewhiteshadow.github.io" target="_blank"><img src="/img/buttons/astro.png" alt="astrothewhiteshadow.github.io button"></a>
+        <a class="web-button" href="https://mariomasta64.me" target="_blank"><img src="/img/buttons/mariomasta64.png" alt="mariomasta64.me button"></a>
+        <p class="h3 mt-4 mb-3">Cool stuff</p>
+        <a class="web-button" href="https://fedoraproject.org/" target="_blank"><img src="/img/buttons/fedora.png" alt="fedora button"></a>
+        <a class="web-button" href="https://www.mozilla.org/en-US/firefox/new/" target="_blank"><img src="/img/buttons/firefox.png" alt="firefox button"></a>
+        <a class="web-button" href="https://jellyfin.org/" target="_blank"><img src="/img/buttons/jellyfin.gif" alt="jellyfin button"></a>
+        <a class="web-button" href="magnet:?xt=urn:btih:2bcb5dff67c1cd2ed8979747351e9415127084ae&dn=seed_this_torrent.png&tr=wss%3a%2f%2ftracker.btorrent.xyz&tr=wss%3a%2f%2ftracker.openwebtorrent.com&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337&tr=udp%3a%2f%2fexplodie.org%3a6969&tr=udp%3a%2f%2ftracker.empire-js.us%3a1337"><img src="/img/buttons/sharingiscaring.gif" alt="sharingiscaring button"></a>
+        <a class="web-button" href="https://www.karosserie-fuerniss.de/" target="_blank"><img src="/img/buttons/karosserie-fuerniss.png" alt="karosserie-fuerniss.de button"></a>
+        <a class="web-button" href="https://hellmannimmobilien.eu/" target="_blank"><img src="/img/buttons/hellmannimmobilien.png" alt="hellmannimmobilien.png button"></a>
+        <a class="web-button" href="http://kikuko-nagoya.com/" target="_blank"><img src="/img/buttons/kikuko-nagoya.png" alt="kikuko-nagoya.com button"></a>
+        <div>
+            <a class="web-button" href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fnalsai.de&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en" target="_blank"><img src="/img/buttons/vcss.png" alt="Valid CSS"></a>
+            <a class="web-button" href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fnalsai.de" target="_blank"><img src="/img/buttons/html5.svg" alt="Valid HTML5"></a>
+        </div>
+    </div>
+
 </div>
 {{ end }}

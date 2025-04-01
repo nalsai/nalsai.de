@@ -62,8 +62,7 @@ document.addEventListener("DOMContentLoaded", () => {
 (() => {
   'use strict'
 
-  const queryString = window.location.search;
-  const urlParams = new URLSearchParams(queryString);
+  const urlParams = new URLSearchParams(window.location.search);
   const lang = urlParams.get("lang");
   if (lang) {
     document.getElementById("lang-alert").classList.remove("d-none");

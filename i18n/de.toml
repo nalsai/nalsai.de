@@ -42,3 +42,19 @@ other = "Interessen und Hobbies"
 
 [comments]
 other = "Kommentare"
+
+[previous]
+other = "Vorheriges"
+
+[next]
+other = "Nächstes"
+
+[about-me]
+other = "Über mich"
+
+[about-me-1]
+other = "Hallo, ich bin Nils Fürniß. Ich bin "
+[about-me-2]
+other = " Jahre alt und studiere an der Uni Heidelberg. Ich fotografiere und programmiere gerne (hauptsächlich in C#, Go oder Rust; Python und JavaScript auch manchmal) und schreibe gerne Webseiten. Obwohl ich die meisten statischen Webseiten auf Cloudflare Pages hoste, betreibe ich auch privat ein paar Server."
+[about-me-3]
+other = "In meiner Freizeit spiele ich gerne Musik-/Rhythmusspiele, schaue Anime oder lese Visual Novels. Außerdem mag ich Touhou Project, The Elder Scrolls und NieR:Automata."
