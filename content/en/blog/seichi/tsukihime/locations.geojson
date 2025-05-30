@@ -127,8 +127,7 @@
       "properties": {
         "name": "School - Courtyard",
         "image": "https://en.nalsai.de/blog/seichi/tsukihime/bg_02a.avif",
-        "link": "https://en.nalsai.de/blog/seichi/tsukihime/#school-courtyard",
-        "description": "The original image was taken from inside the school, but a similar view can be seen from the outside through the fence"
+        "link": "https://en.nalsai.de/blog/seichi/tsukihime/#school-courtyard"
       },
       "geometry": {
         "type": "Point",
