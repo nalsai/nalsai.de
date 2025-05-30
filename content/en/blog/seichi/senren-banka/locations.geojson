@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Senren*Banka: THE GARDEN PLACE SOSHUEN (Kobe)",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20220929/20220929000849_original.png",
+        "link": "https://rinnow.hatenablog.com/entry/senren#%E8%98%87%E5%B7%9E%E5%9C%92"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.2544855734471,
+          34.727578210114395
+        ]
+      }
+    }
+  ]
+}
