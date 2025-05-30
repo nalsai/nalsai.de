@@ -49,7 +49,13 @@
             "prefecture": "Tōkyō",
             "location": "Sengaku-ji",
             "locationJp": "泉岳寺",
-            "date": "2023-09-19"
+            "date": "2023-09-19",
+            "attachments": [
+                {
+                    "name": "Info Sheet",
+                    "file": "sengaku-ji_info.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -412,7 +418,13 @@
             "location": "Ueno Tōshōgū",
             "locationJp": "上野東照宮",
             "notes": "New Year's Limited Vintage Letterpress Goshuin",
-            "date": "2024-01-03"
+            "date": "2024-01-03",
+            "attachments": [
+                {
+                    "name": "Sleeve",
+                    "file": "ueno-toshogu_sleeve.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -715,7 +727,13 @@
             "location": "Ikuta Jinja",
             "locationJp": "生田神社",
             "date": "2024-03-11",
-            "notes": "The text is golden but it doesn't show up well in the scan"
+            "notes": "The text is golden but it doesn't show up well in the scan",
+            "attachments": [
+                {
+                    "name": "Leaflet (2024)",
+                    "file": "ikuta-jinja_leaflet-2024.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -723,7 +741,25 @@
             "prefecture": "Wakayama",
             "location": "Sasutahiko Jinja",
             "locationJp": "刺田比古神社",
-            "date": "2024-03-12"
+            "date": "2024-03-12",
+            "attachments": [
+                {
+                    "name": "Info",
+                    "file": "sasutahiko-jinja_info.pdf"
+                },
+                {
+                    "name": "History Info",
+                    "file": "sasutahiko-jinja_info-history.pdf"
+                },
+                {
+                    "name": "Support Request",
+                    "file": "sasutahiko-jinja_support-request.pdf"
+                },
+                {
+                    "name": "Support Transfer Slip",
+                    "file": "sasutahiko-jinja_support-transfer-slip.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
