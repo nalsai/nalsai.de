@@ -1898,6 +1898,162 @@
                     "file": "haneda-jinja_blotter.jpg"
                 }
             ]
+        },
+        {
+            "type": "shrine",
+            "image": "2025-04-25_kanda-jinja.jpg",
+            "prefecture": "Tōkyō",
+            "location": "Kanda Jinja",
+            "locationJp": "神田神社",
+            "date": "2025-04-25"
+        },
+        {
+            "type": "shrine",
+            "image": "2025-04-29_daishogun-hachiman-gu.jpg",
+            "prefecture": "Kyōto",
+            "location": "Daishōgun Hachiman-gū",
+            "locationJp": "大将軍八幡宮",
+            "date": "2025-04-29",
+            "attachments": [
+                {
+                    "name": "Leaflet",
+                    "file": "daishogun-hachiman-gu_leaflet.pdf"
+                },
+                {
+                    "name": "Info Sheet (English)",
+                    "file": "daishogun-hachiman-gu_info-en.pdf"
+                },
+                {
+                    "name": "Goshuinchō Info Sheet (English)",
+                    "file": "daishogun-hachiman-gu_goshuincho-info-en.pdf"
+                }
+            ]
+        },
+        {
+            "type": "shrine",
+            "image": "2025-04-29_kitano-tenman-gu.jpg",
+            "prefecture": "Kyōto",
+            "location": "Kitano Tenman-gū",
+            "locationJp": "北野天満宮",
+            "date": "2025-04-29",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "kitano-tenman-gu_blotter.pdf"
+                }
+            ]
+        },
+        {
+            "type": "temple",
+            "image": "2025-04-29_kodai-ji.jpg",
+            "prefecture": "Kyōto",
+            "location": "Kōdai-ji",
+            "locationJp": "高台寺",
+            "date": "2025-04-29",
+            "attachments": [
+                {
+                    "name": "Leaflet",
+                    "file": "kodai-ji_leaflet.pdf"
+                }
+            ]
+        },
+        {
+            "type": "shrine",
+            "image": "2025-05-01_ikuta-jinja.jpg",
+            "prefecture": "Hyōgo",
+            "location": "Ikuta Jinja",
+            "locationJp": "生田神社",
+            "date": "2025-05-01",
+            "attachments": [
+                {
+                    "name": "Leaflet (2025)",
+                    "file": "ikuta-jinja_leaflet-2025.pdf"
+                }
+            ]
+        },
+        {
+            "type": "shrine",
+            "image": "2025-05-01_ikuta-jinja_benzaiten.jpg",
+            "prefecture": "Hyōgo",
+            "location": "Ikuta Jinja",
+            "locationJp": "生田神社",
+            "date": "2025-05-01",
+            "attachments": [
+                {
+                    "name": "Leaflet (2025)",
+                    "file": "ikuta-jinja_leaflet-2025.pdf"
+                }
+            ]
+        },
+        {
+            "type": "shrine",
+            "image": "2025-05-01_ikuta-jinja_shisui.jpg",
+            "prefecture": "Hyōgo",
+            "location": "Ikuta Jinja",
+            "locationJp": "生田神社",
+            "date": "2025-05-01",
+            "attachments": [
+                {
+                    "name": "Leaflet (2025)",
+                    "file": "ikuta-jinja_leaflet-2025.pdf"
+                }
+            ]
+        },
+        {
+            "type": "shrine",
+            "image": "2025-05-01_kitano-tenman-jinja.jpg",
+            "prefecture": "Hyōgo",
+            "location": "Kitano Tenman Jinja",
+            "locationJp": "北野天満神社",
+            "date": "2025-05-01",
+            "attachments": [
+                {
+                    "name": "Leaflet",
+                    "file": "kitano-tenman-jinja_leaflet.pdf"
+                }
+            ]
+        },
+        {
+            "type": "shrine",
+            "image": "2025-05-02_hotoku-ninomiya-jinja.jpg",
+            "prefecture": "Kanagawa",
+            "location": "Hōtoku Ninomiya Jinja",
+            "locationJp": "報徳二宮神社",
+            "date": "2025-05-02",
+            "attachments": [
+                {
+                    "name": "Leaflet",
+                    "file": "hotoku-ninomiya-jinja_leaflet.pdf"
+                }
+            ]
+        },
+        {
+            "type": "shrine",
+            "image": "2025-05-02_hotoku-ninomiya-jinja_ichien-yugo.jpg",
+            "prefecture": "Kanagawa",
+            "location": "Hōtoku Ninomiya Jinja",
+            "locationJp": "報徳二宮神社",
+            "date": "2025-05-02",
+            "attachments": [
+                {
+                    "name": "Ichien Yūgō Info Sheet",
+                    "file": "hotoku-ninomiya-jinja_ichien-yugo.pdf"
+                }
+            ]
+        },
+        {
+            "type": "shrine",
+            "image": "2025-05-02_tamagawa-sengen-jinja.jpg",
+            "prefecture": "Tōkyō",
+            "location": "Tamagawa Sengen Jinja",
+            "locationJp": "玉川浅間神社",
+            "date": "2025-05-02",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "tamagawa-sengen-jinja_blotter.pdf"
+                }
+            ]
         }
     ]
 }
