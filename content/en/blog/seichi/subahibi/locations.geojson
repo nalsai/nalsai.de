@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SubaHibi: Parthenon Avenue (Maghreb Building)",
+        "image": "https://en.nalsai.de/blog/seichi/subahibi/maghreb-biru.avif",
+        "link": "https://en.nalsai.de/blog/seichi/subahibi/#tama-center---maghreb-building-from-parthenon-avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.424761304447,
+          35.62414840183171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SubaHibi: Renga Bridge",
+        "image": "https://en.nalsai.de/blog/seichi/subahibi/renga-bashi.avif",
+        "link": "https://en.nalsai.de/blog/seichi/subahibi/#renga-bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.42387310769774,
+          35.62154323630518
+        ]
+      }
+    }
+  ]
+}
