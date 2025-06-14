@@ -50,22 +50,22 @@ It seems that the angle will be the same if you take a photo from a place called
 
 ## Nuremberg
 
-![](nuremberg/hauptmarkt.png)
+![]([nuremberg/koenigstrasse.png](https://www.j-junk.de/wp-content/gallery/violet-evergarden-nuremberg/Strassenlaterne.jpg))
 
-![](nuremberg/kaiserburg.png)
+![](https://www.j-junk.de/wp-content/gallery/violet-evergarden-nuremberg/nahe-Bahnhof.jpg)
 
-![](nuremberg/koenigstrasse.png)
+![](https://www.j-junk.de/wp-content/gallery/violet-evergarden-nuremberg/altstadt-1.jpg)
 
-![](nuremberg/koenigstrasse-2.png)
+![](https://www.j-junk.de/wp-content/gallery/violet-evergarden-nuremberg/rathaus.jpg)
 
-![](nuremberg/nassauer-haus.png)
-
-![](nuremberg/schildgasse.png)
+![]([https://www.j-junk.de/wp-content/gallery/violet-evergarden-nuremberg/nahe-burg-2.jpg](https://www.j-junk.de/wp-content/gallery/violet-evergarden-nuremberg/nahe-burg-1.jpg))
 
 ![](https://www.j-junk.de/wp-content/gallery/violet-evergarden-nuremberg/nahe-burg-2.jpg)
 
+![](https://www.j-junk.de/wp-content/gallery/violet-evergarden-nuremberg/nahe-burg-3.jpg)
 
 
 ---
 
 - <https://www.j-junk.de/violet-evergarden-gaiden-real-life-locations-in-germany/>
+- <https://www.google.com/maps/d/viewer?mid=1bQOd8C7ytKQkgwHvJaagajzM26VCMC9D&ll=49.83846939148395%2C9.122036400000022&z=7>
