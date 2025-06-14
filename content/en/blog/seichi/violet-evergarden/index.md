@@ -50,7 +50,7 @@ It seems that the angle will be the same if you take a photo from a place called
 
 ## Nuremberg
 
-![]([nuremberg/koenigstrasse.png](https://www.j-junk.de/wp-content/gallery/violet-evergarden-nuremberg/Strassenlaterne.jpg))
+![](https://www.j-junk.de/wp-content/gallery/violet-evergarden-nuremberg/Strassenlaterne.jpg)
 
 ![](https://www.j-junk.de/wp-content/gallery/violet-evergarden-nuremberg/nahe-Bahnhof.jpg)
 
