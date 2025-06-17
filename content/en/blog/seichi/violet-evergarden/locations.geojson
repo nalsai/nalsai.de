@@ -6,6 +6,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.4617004,
+          49.4829749,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mannheim Baroque Palace (Knights Hall)\n",
+        "image": "https://en.nalsai.de/blog/seichi/violet-evergarden-mannheim/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h27m37s906t.avif",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4615019,
+          49.4836249,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mannheim Barque Palace (Outside, inner courtyard)",
+        "image": "https://en.nalsai.de/blog/seichi/violet-evergarden-mannheim/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h20m05s371t.avif",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.1631665,
           50.1500538,
           0
@@ -166,15 +198,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.4617004,
-          49.4829749,
+          7.1663094,
+          50.144773,
           0
         ]
       },
       "properties": {
-        "name": "Mannheim Baroque Palace (Knights Hall)\n",
-        "image": "https://en.nalsai.de/blog/seichi/violet-evergarden-mannheim/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h27m37s906t.avif",
-        "description": ""
+        "name": "Cochem - Alte Gutsschänke\n",
+        "image": "https://en.nalsai.de/blog/seichi/violet-evergarden-cochem/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h52m10s627t.avif",
+        "description": "Some elements on the houses have been slightly changed. It's another stop on Taylors and Benedicts mail delivery tour in the second part of the movie."
       }
     },
     {
@@ -182,14 +214,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.4615019,
-          49.4836249,
+          7.4207162,
+          50.2256102,
           0
         ]
       },
       "properties": {
-        "name": "Mannheim Barque Palace (Outside, inner courtyard)",
-        "image": "https://en.nalsai.de/blog/seichi/violet-evergarden-mannheim/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h20m05s371t.avif",
+        "name": "Hatzenport - St. Johannes\n",
+        "image": "TODO",
         "description": ""
       }
     },
@@ -262,22 +294,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.1663094,
-          50.144773,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Cochem - Alte Gutsschänke\n",
-        "image": "https://en.nalsai.de/blog/seichi/violet-evergarden-cochem/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h52m10s627t.avif",
-        "description": "Some elements on the houses have been slightly changed. It's another stop on Taylors and Benedicts mail delivery tour in the second part of the movie."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           11.0809063,
           49.4482039,
           0
@@ -303,22 +319,6 @@
         "name": "Nuremberg - Königstraße2",
         "image": "https://files.hachiman.nils.moe/www/nalsai.de/blog/seichi/violet-evergarden-nuremberg/out/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h51m39s138t.avif",
         "description": "Unlike most of the cuts using Nuremberg locations in the movie, this one is from Taylors and Benedicts mail delivery tour, not the later one with Violet. The real-life counterpart is located at the intersection of Königstraße and Theatergasse."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.4207162,
-          50.2256102,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Hatzenport - St. Johannes\n",
-        "image": "TODO",
-        "description": ""
       }
     }
   ]
