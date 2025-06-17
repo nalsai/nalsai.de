@@ -6,7 +6,7 @@
 {{/* Load Bootstrap SCSS */}}
 {{ $options := dict "enableSourceMap" true }}{{ if hugo.IsProduction}}{{ $options := dict "enableSourceMap" false "outputStyle" "compressed" }}{{ end }}
 {{ $styles := resources.Get "scss/styles.scss" }}
-{{ $styles = $styles | resources.ToCSS $options }}{{ if hugo.IsProduction }}{{ $styles = $styles | minify | fingerprint }}{{ end }}
+{{ $styles = $styles | css.Sass $options }}{{ if hugo.IsProduction }}{{ $styles = $styles | minify | fingerprint }}{{ end }}
 <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
 <link rel="stylesheet" href="/fonts/bootstrap-icons.min.css">
 
