@@ -41,3 +41,9 @@ It seems that the angle will be the same if you take a photo from a place called
 
 - <https://www.j-junk.de/violet-evergarden-gaiden-real-life-locations-in-germany/>
 - <https://www.google.com/maps/d/viewer?mid=1bQOd8C7ytKQkgwHvJaagajzM26VCMC9D&ll=49.83846939148395%2C9.122036400000022&z=7>
+
+---
+
+## Map
+
+{{< map >}}

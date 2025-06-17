@@ -1,0 +1,325 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1631665,
+          50.1500538,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cochem - Pinnerkreuz",
+        "image": "https://en.nalsai.de/blog/seichi/violet-evergarden-cochem/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h02m28s106t.avif",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1673369,
+          50.1420953,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cochem Castle - Inner Gate\n",
+        "image": "https://en.nalsai.de/blog/seichi/violet-evergarden-cochem/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h08m18s081t.avif",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1663687,
+          50.1425908,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cochem Castle - Outer Gate\n",
+        "image": "https://en.nalsai.de/blog/seichi/violet-evergarden-cochem/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h38m44s489t.avif",
+        "description": "The Gate matches what is shown in the Animation, but area on the left side is different"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1672596,
+          50.1425441,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cochem Castle - 00:03:21\n",
+        "image": "https://en.nalsai.de/blog/seichi/violet-evergarden-cochem/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h03m20s909t.avif",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1672401,
+          50.1420605,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cochem Castle - courtyard\n",
+        "image": "https://en.nalsai.de/blog/seichi/violet-evergarden-cochem/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h23m40s961t.avif",
+        "description": "Only the building on the left side and the well match up with the courtyard in real life. The little tower behind the well, which is one of the few still existing medieval structures has been replaced with a larger building in the animation."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.164812,
+          50.1469209,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cochem - Staircases (Hinter Kempeln)",
+        "image": "https://en.nalsai.de/blog/seichi/violet-evergarden-cochem/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h52m12s338t.avif",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1704498,
+          50.1423584,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cochem - Uferstraße\n",
+        "image": "https://en.nalsai.de/blog/seichi/violet-evergarden-cochem/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h02m24s019t.avif",
+        "description": "view of the castle in real life, sourounding area looks different"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1730453,
+          50.1356238,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cochem - Valley View\n",
+        "image": "TODO",
+        "description": "Approximation based on the location of the castle and nearby hills. Might not be be possible to get a 100% matching picture due to vegetation in the area."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1653476,
+          50.1455719,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cochem - Obergasse",
+        "image": "TODO",
+        "description": "This stop on Taylors first tour is at Obergasse, next to a hotel called \"Lohspeicher\". The house looks a bit different in real life and is a private home. So please don't put anything in the actual mailboxes there. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1650475,
+          50.1453153,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cochem - Branntweingässchen\n",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/violet-evergarden-cochem/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h53m02s554t.jpg",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4617004,
+          49.4829749,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mannheim Baroque Palace (Knights Hall)\n",
+        "image": "https://en.nalsai.de/blog/seichi/violet-evergarden-mannheim/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h27m37s906t.avif",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4615019,
+          49.4836249,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mannheim Barque Palace (Outside, inner courtyard)",
+        "image": "https://en.nalsai.de/blog/seichi/violet-evergarden-mannheim/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h20m05s371t.avif",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0777682,
+          49.4511922,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nuremberg - Nassauer Haus\n",
+        "image": "https://files.hachiman.nils.moe/www/nalsai.de/blog/seichi/violet-evergarden-nuremberg/out/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2001h05m23s920t.avif",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0776104,
+          49.4571506,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nuremberg - Schildgasse\n",
+        "image": "https://files.hachiman.nils.moe/www/nalsai.de/blog/seichi/violet-evergarden-nuremberg/out/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2001h00m49s104t.avif",
+        "description": "Violet and Taylor walk down this street when they're delivering mail in the \"new town\" of Leiden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0766155,
+          49.4575833,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nuremberg - Kaiserburg\n",
+        "image": "https://files.hachiman.nils.moe/www/nalsai.de/blog/seichi/violet-evergarden-nuremberg/out/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2001h05m03s358t.avif",
+        "description": "View from the entrance to Kaiserburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0779047,
+          49.4535697,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nuremberg - Hauptmarkt\n",
+        "image": "https://files.hachiman.nils.moe/www/nalsai.de/blog/seichi/violet-evergarden-nuremberg/out/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2001h11m50s264t.avif",
+        "description": "In the movie we're only getting a short glympse at this place. In real-life it's probably mostly known for hosting\"Nuremberg Christkindlesmarkt\", a Christmas market held here annually from the end of November until christmas eve. Outside this period it is mainly uses as a market for local produce or as an event space."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1663094,
+          50.144773,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cochem - Alte Gutsschänke\n",
+        "image": "https://en.nalsai.de/blog/seichi/violet-evergarden-cochem/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h52m10s627t.avif",
+        "description": "Some elements on the houses have been slightly changed. It's another stop on Taylors and Benedicts mail delivery tour in the second part of the movie."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0809063,
+          49.4482039,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nuremberg - Königsstraße",
+        "image": "https://files.hachiman.nils.moe/www/nalsai.de/blog/seichi/violet-evergarden-nuremberg/out/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2001h03m20s922t.avif",
+        "description": "Another cut from Violets and Taylors tour to new town. The buildings on the left exist, but the one on the right is either located somewhere else or completely made up."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0793579,
+          49.4493432,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nuremberg - Königstraße2",
+        "image": "https://files.hachiman.nils.moe/www/nalsai.de/blog/seichi/violet-evergarden-nuremberg/out/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h51m39s138t.avif",
+        "description": "Unlike most of the cuts using Nuremberg locations in the movie, this one is from Taylors and Benedicts mail delivery tour, not the later one with Violet. The real-life counterpart is located at the intersection of Königstraße and Theatergasse."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4207162,
+          50.2256102,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hatzenport - St. Johannes\n",
+        "image": "TODO",
+        "description": ""
+      }
+    }
+  ]
+}
