@@ -64,8 +64,13 @@ Chiba is the main setting of the series. Here are the locations I visited:
 {{< img 5.avif jpg >}}
 <img width="645" height="363" src="3SZBJsow3oA.avif" alt="YouTube Video 3SZBJsow3oA (Chiba Monorail) preview image" onclick="this.outerHTML='<iframe width=\'645\' height=\'363\' src=\'https://www.youtube.com/embed/3SZBJsow3oA?autoplay=1\' allow=\'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture web-share\' allowfullscreen></iframe>'" style="cursor: pointer">
 
-{{< img 33.avif jpg >}}
-{{< img-immich immich="uyeYwSg-4GtsC0xesft6bWll3b6drpO5pyTPb3xFLkxEqPjOiIDgy6rSPUxozXiKzgk" img="fb5cce4a-d9c5-4015-b893-0b489a9c385f" class="a645x363" >}}
+#### Sogo
+
+A large department store located next to Chiba Station, which is featured in the anime with the name Solo.
+You can see it rigth behind the Monorail in the above video.
+
+{{< img sogo.avif png >}}
+{{< img ZDQ64771-crop.avif jpg >}}
 
 ### Mio
 
@@ -207,6 +212,11 @@ I've been to Kaihin Makuhari Station a few times, since it's the closest station
 
 {{< img 32.avif jpg >}}
 {{< img-immich immich="uyeYwSg-4GtsC0xesft6bWll3b6drpO5pyTPb3xFLkxEqPjOiIDgy6rSPUxozXiKzgk" img="89ad2acc-d6f8-4a13-8c0e-b8f181ff8c88" >}}
+
+### Yukino's Apartment Building
+
+{{< img yukino-apartment.avif png >}}
+{{< img ZDQ58695-crop.avif jpg >}}
 
 ## Tokyo
 
