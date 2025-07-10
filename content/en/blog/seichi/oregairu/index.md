@@ -3,6 +3,7 @@ title = "Visiting Places from Oregairu in Real Life"
 description = "The real-life locations of Yahari Ore no Seishun Rabukome wa Machigatteiru (My Teen Romantic Comedy SNAFU) in Chiba, Tokyo, Yokohama and Kyōto."
 tags = ["Anime", "Anime Tourism"]
 date = 2025-03-12
+update = 2025-07-10
 +++
 
 <div class="card mb-4">
@@ -15,6 +16,7 @@ date = 2025-03-12
   - [Mio](#mio)
   - [Chibaminato Station](#chibaminato-station)
   - [Inagekaigan Station](#inagekaigan-station)
+  - [Chiba Port Park](#chiba-port-park)
   - [Chibashi Takasu Community Center](#chibashi-takasu-community-center)
   - [Yui's Apartment Building](#yuis-apartment-building)
   - [Nakatakahama Park](#nakatakahama-park)
@@ -76,7 +78,21 @@ Chiba is the main setting of the series. Here are the locations I visited:
 {{< img-immich immich="uyeYwSg-4GtsC0xesft6bWll3b6drpO5pyTPb3xFLkxEqPjOiIDgy6rSPUxozXiKzgk" img="20592ce1-cae0-4a3c-a590-1615dce262e2" class="a645x363" >}}
 
 Chibaminato Station is the closest station to Chiba Port Park with its tower, which appeared in the anime during Yui and Hachimans first date to the fireworks festival.
-I really want to visit there too, but I haven't been able to yet.
+I really want to visit there too, but I haven't been able to yet.  
+UPDATE: I have now visited Chiba Port Park, see below.
+
+### Chiba Port Park
+
+Chiba Port Park is the location of the fireworks festival in Season 2 Episode 11.
+
+{{< img 90.avif jpg >}}
+{{< img-immich immich="TiDS1UaepH5ltGT2hpYSa5D3_EyeTtCtHw1xH6tEK17yGUQN-8r9YRsEWy0xGatRyyY" img="b10fc11d-5451-4eba-8596-d72a66f7dff3" class="a645x363" >}}
+
+There is no place where you can take a picture like the one in the anime, but there are places that look similar. I think, if you take a picture from opposite the tower and mirror it, it's the closest you can get. There's also a small patch of grass there.
+
+{{< img-immich immich="TiDS1UaepH5ltGT2hpYSa5D3_EyeTtCtHw1xH6tEK17yGUQN-8r9YRsEWy0xGatRyyY" img="7fc87b40-7467-4ad5-ab93-79836a77b214" class="a645x363" >}}
+
+In the elevator up the tower, I learned that the 125m tall tower, which opened in 1986, was built in commemoration of the population of Chiba exceeding five million in 1983.
 
 ### Inagekaigan Station
 
@@ -88,6 +104,7 @@ I really want to visit there too, but I haven't been able to yet.
 
 {{< img 12.avif jpg >}}
 {{< img-immich immich="uyeYwSg-4GtsC0xesft6bWll3b6drpO5pyTPb3xFLkxEqPjOiIDgy6rSPUxozXiKzgk" img="216ec37c-9316-494a-bcee-5a26a096cc57" class="a645x363" >}}
+{{< img-immich immich="TiDS1UaepH5ltGT2hpYSa5D3_EyeTtCtHw1xH6tEK17yGUQN-8r9YRsEWy0xGatRyyY" img="897d7607-4b8d-477b-8442-e031a3b11c28" class="a645x363" >}}
 
 {{< img 13.avif jpg >}}
 {{< img-immich immich="uyeYwSg-4GtsC0xesft6bWll3b6drpO5pyTPb3xFLkxEqPjOiIDgy6rSPUxozXiKzgk" img="766a9bff-d5da-4beb-9b8d-e7b40875e820" class="a645x363" >}}
