@@ -1,0 +1,330 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Former Den-en-chofu Station Building",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191103/20191103005814.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6668649768015,
+          35.59716770476236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Former Den-en-chofu Station Building - Side",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191103/20191103005830.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6669688865518,
+          35.59704041688326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Fountain in Front of the Former Den-en-chofu Station Building",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191103/20191103005918.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66701332857173,
+          35.597173945468626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Maruko Bridge",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191211/20191211161247.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66942384923206,
+          35.58573418156489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Maruko Bridge 2",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191211/20191211161336.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66991275455516,
+          35.586018484306685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Maruko Bridge 3",
+        "image": "https://livedoor.blogimg.jp/fly_ask/imgs/3/3/33d813d3.jpg",
+        "link": "https://furaba-animeseichi.blog.jp/archives/16624225.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.669302380793,
+          35.58620711871249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Maruko Bridge 4",
+        "image": "https://livedoor.blogimg.jp/fly_ask/imgs/5/4/54482e73.jpg",
+        "link": "https://furaba-animeseichi.blog.jp/archives/16624225.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66931863220452,
+          35.5860320145553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Gyokusendo Book Store",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191211/20191211160856.jpg",
+        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/19/180000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6618957521618,
+          35.59813813381133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Road East of Gyokusendo Book Store",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191211/20191211160525.jpg",
+        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/19/180000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66187143515876,
+          35.59818736360064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Gyokusendo Book Store 2",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191211/20191211160913.jpg",
+        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/19/180000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66177516915783,
+          35.598156496821545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Akiba Black Pine",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191211/20191211153649.jpg",
+        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/19/180000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65923799276192,
+          35.59564111956207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Hōrai Park Street",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191104/20191104153840.jpg",
+        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/18/180000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66361855383855,
+          35.59441814409177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Hōrai Park South East Entrance",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191104/20191104153333.jpg",
+        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/18/180000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66504757185012,
+          35.59437508872899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Street along the Train Tracks 1",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191104/20191104152403.jpg",
+        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/18/180000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6673469376963,
+          35.5950309506068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Street along the Train Tracks 2",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191104/20191104152436.jpg",
+        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/18/180000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6673014510052,
+          35.594823100226996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Street along the Train Tracks 3",
+        "image": "https://livedoor.blogimg.jp/fly_ask/imgs/6/7/67522ca3.jpg",
+        "link": "https://furaba-animeseichi.blog.jp/archives/16624225.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66716725161606,
+          35.59483272064571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: Street along the Train Tracks 3 - T-Junction",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191104/20191104152538.jpg",
+        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/18/180000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66736591308174,
+          35.59483652884797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: 4-chome 1",
+        "image": "https://livedoor.blogimg.jp/fly_ask/imgs/e/5/e545e77f.jpg",
+        "link": "https://furaba-animeseichi.blog.jp/archives/16624225.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6612102982113,
+          35.59352504202173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: 4-chome Stairs",
+        "image": "https://livedoor.blogimg.jp/fly_ask/imgs/4/3/4386af5b.jpg",
+        "link": "https://furaba-animeseichi.blog.jp/archives/16624225.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66114322412963,
+          35.59336884692854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: 4-chome Corner",
+        "image": "https://livedoor.blogimg.jp/fly_ask/imgs/2/8/28ff77f0.jpg",
+        "link": "https://furaba-animeseichi.blog.jp/archives/16624225.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6611847062944,
+          35.59346438315876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: 4-chome 2",
+        "image": "https://livedoor.blogimg.jp/fly_ask/imgs/d/f/dfd2834f.jpg",
+        "link": "https://furaba-animeseichi.blog.jp/archives/16624225.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66125522683552,
+          35.59341108252701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits Basket: 4-chome 3",
+        "image": "https://livedoor.blogimg.jp/fly_ask/imgs/3/e/3ecd38e0.jpg",
+        "link": "https://furaba-animeseichi.blog.jp/archives/16624225.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66107691313633,
+          35.59330645326181
+        ]
+      }
+    }
+  ]
+}
