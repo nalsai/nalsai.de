@@ -1,0 +1,204 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riddle Joker: Queen's Square (Yokohama)",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210221/20210221195948.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/riddle/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.63413785001913,
+          35.4563847056365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riddle Joker: Landmark Tower 2F (Yokohama)",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210221/20210221200139.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/riddle/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.63092918779444,
+          35.45486429340934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riddle Joker: Minatomirai Center Building (Yokohama)",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210221/20210221200008.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/riddle/",
+        "description": "The building in the background of the station is the Minato Mirai Center Building, but the station itself is actually Genbaku Dome-Mae Station in Hiroshima."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.63388441826692,
+          35.45762829401641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riddle Joker: Keyaki Avenue (Yokohama)",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210221/20210221195938.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/riddle/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.63414046166028,
+          35.457797457052784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riddle Joker: Shinkyogoku Shopping Street (Kyoto)",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210816/20210816002243.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/riddle/",
+        "description": "The store has changed so it looks a little different now."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7673731413051,
+          35.0073116771607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riddle Joker: Kyoto Botanical Garden (Kyoto) 1",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210816/20210816002223.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/riddle/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.76394824413768,
+          35.05014785024713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riddle Joker: Kyoto Botanical Garden (Kyoto) 2",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210816/20210816002213.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/riddle/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7645269795909,
+          35.047478115722136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riddle Joker: Kyoto University Katsura Campus 1",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210816/20210816002154.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/riddle/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.68385262784662,
+          34.979084670721065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riddle Joker: Kyoto University Katsura Campus 2",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210816/20210816002144.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/riddle/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.68009477830495,
+          34.98082165281947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riddle Joker: Kyoto University Katsura Campus 3",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210816/20210816002204.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/riddle/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.67906855662096,
+          34.98207408578309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riddle Joker: Kyoto University Katsura Campus 4",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210816/20210816002233.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/riddle/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6773843747983,
+          34.983059702993415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riddle Joker: Ōyodo Naka Park (Osaka)",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210816/20210816002133.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/riddle/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.48903352087626,
+          34.70530174818592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riddle Joker: Genbaku Dome-Mae Station (Hiroshima)",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210221/20210221200008.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/riddle/",
+        "description": "The station is Genbaku Dome-Mae Station in Hiroshima, but the building in the background is the Minato Mirai Center Building in Yokohama.",
+        "hidden": "true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.45422773207113,
+          34.39611977088741
+        ]
+      }
+    }
+  ]
+}
