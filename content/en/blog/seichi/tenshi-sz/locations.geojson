@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tenshi☆Souzou RE-BOOT!: Ichō Avenue (Yokohama)",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20230505/20230505220254.png",
+        "link": "https://rinnow.hatenablog.com/entry/ten_sz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.63107193726168,
+          35.4586314605782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tenshi☆Souzou RE-BOOT!: Gokomachi Avenue (Kyoto)",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20230518/20230518223619.png",
+        "link": "https://rinnow.hatenablog.com/entry/ten_sz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.76643908397213,
+          35.00747408830734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tenshi☆Souzou RE-BOOT!: Takatsuki Station (Takatsuki, Osaka)",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20230327/20230327145922.png",
+        "link": "https://rinnow.hatenablog.com/entry/ten_sz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.61889284902227,
+          34.8516868013059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tenshi☆Souzou RE-BOOT!: Nigawagokayamacho (Nishinomiya)",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20230327/20230327145935.png",
+        "link": "https://rinnow.hatenablog.com/entry/ten_sz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.3486825375915,
+          34.771365852936896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tenshi☆Souzou RE-BOOT!: Hankyu Nishinomiya Gardens (Nishinomiya)",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20230505/20230505220926.png",
+        "link": "https://rinnow.hatenablog.com/entry/ten_sz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.35989528822822,
+          34.744062736394326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tenshi☆Souzou RE-BOOT!: Kobe Fruit Flower Park Ozo (Kobe)",
+        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20230327/20230327145950.png",
+        "link": "https://rinnow.hatenablog.com/entry/ten_sz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.19174517723363,
+          34.84775978538305
+        ]
+      }
+    }
+  ]
+}
