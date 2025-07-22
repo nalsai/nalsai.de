@@ -286,7 +286,8 @@
       "properties": {
         "name": "Fruits Basket: 4-chome Corner",
         "image": "https://livedoor.blogimg.jp/fly_ask/imgs/2/8/28ff77f0.jpg",
-        "link": "https://furaba-animeseichi.blog.jp/archives/16624225.html"
+        "link": "https://furaba-animeseichi.blog.jp/archives/16624225.html",
+        "description": "TODO: fix mistake in coordinates"
       },
       "geometry": {
         "type": "Point",
