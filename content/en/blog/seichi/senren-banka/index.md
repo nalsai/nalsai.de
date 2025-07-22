@@ -7,6 +7,7 @@ tags = [
   "Yuzusoft",
 ]
 date = 2024-05-26
+update = 2025-07-22
 +++
 
 Welcome back to another pilgrimage! This time, I visited places from the Yuzusoft visual novels Senren\*Banka (2016) and Sanoba Witch (2018). Since the two visual novels settings take inspiration from Kyōto, I visited them together. This is the page for Senren\*Banka. You can find the [Sanoba Witch Pilgrimage by following this link]({{< relref sanoba-witch >}}).
@@ -132,7 +133,19 @@ Date: 2024-03-11
 
 And that's it for my Senren\*Banka pilgrimage! I hope you enjoyed it as much as I did.
 
-One place I still need to visit is "THE GARDEN PLACE SOSHUEN" in Kōbe which is the image used for the inn owned by Masaomi's grandfather in the visual novel.
+## THE GARDEN PLACE SOSHUEN
+
+Once a Japanese style residence of the head of a former zaibatsu conglomerate, it is now a restaurant and venue for weddings, parties, and other events.
+It is located in a quiet residential area of Kōbe, accesible with a short walk from Mikage Station on the Hankyu Railway.
+
+The entrance is used as the entrance to the inn owned by Masaomi's grandfather in the visual novel.
+
+![10.jpg](img/cg/10.jpg)
+![ZE141216.jpg](img/ZE141216.jpg)
+
+Date: 2025-05-01
+
+In reality, the building is more curved than in the visual novel.
 
 ---
 
@@ -153,3 +166,12 @@ Feel free to contact me if you made the pilgrimage too and want to be added to t
 - <https://ameblo.jp/yuki-mitoppo/entry-12203541732.html>
 - <https://www.youtube.com/watch?v=iV-8C-ymIp4>
 - <https://www.youtube.com/watch?v=oARwox6U104>
+
+<!--TODO
+---
+
+## Map
+
+{{< map >}}
+
+-->

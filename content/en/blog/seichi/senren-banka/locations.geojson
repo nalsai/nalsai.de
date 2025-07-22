@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kobe - THE GARDEN PLACE SOSHUEN",
+        "image": "https://en.nalsai.de/blog/seichi/senren-banka/img/cg/10.jpg",
+        "link": "https://rinnow.hatenablog.com/entry/senren#%E8%98%87%E5%B7%9E%E5%9C%92"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.2544855734471,
+          34.727578210114395
+        ]
+      }
+    }
+  ]
+}
