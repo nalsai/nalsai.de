@@ -1,0 +1,245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Chiba Port Park",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/91.png",
+        "link": "https://www.google.com/maps/d/u/0/viewer?mid=1WUBCnqTi1gTo8A2xucPVCrGKglFI5he9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0993942468515,
+          35.5981914528429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Chiba Station",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/4.jpg",
+        "link": "https://www.google.com/maps/d/u/0/viewer?mid=1WUBCnqTi1gTo8A2xucPVCrGKglFI5he9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1145394592334,
+          35.612622683931775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Inage Overpass",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Kan%20-%2011%20-%2015m47s989t.jpg",
+        "link": "https://www.google.com/maps/d/u/0/viewer?mid=1WUBCnqTi1gTo8A2xucPVCrGKglFI5he9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.08439188589693,
+          35.63195715477925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Takasu Community Center Chiba",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/14.jpg",
+        "link": "https://www.google.com/maps/d/u/0/viewer?mid=1WUBCnqTi1gTo8A2xucPVCrGKglFI5he9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.07060703976532,
+          35.62713512702018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Yukino's Apartment",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/92.png",
+        "link": "https://www.google.com/maps/d/u/0/viewer?mid=1WUBCnqTi1gTo8A2xucPVCrGKglFI5he9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0453960750856,
+          35.64564873347074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Kasai Rinkai Park - Crystal View Observation Rest House",
+        "image": "https://en.nalsai.de/blog/seichi/oregairu/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Zoku%20-%2013%20-%2015m36s978t.avif",
+        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.86086896852163,
+          35.63915386129988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Kasai Rinkai Park - behind Crystal View Observation Rest House",
+        "image": "https://en.nalsai.de/blog/seichi/oregairu/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Zoku%20-%2013%20-%2017m52s488t.avif",
+        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.85959948458853,
+          35.64097020791387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Kasai Rinkai Park - Tokyo Sea Life Park Dome",
+        "image": "https://en.nalsai.de/blog/seichi/oregairu/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Zoku%20-%2013%20-%2015m31s681t.avif",
+        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.86235933931994,
+          35.640362391059135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Kasai Rinkai Park - Diamond and Flower Ferris Wheel",
+        "image": "https://en.nalsai.de/blog/seichi/oregairu/83.avif",
+        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.858069216516,
+          35.64254797429428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Kasai Rinkai Park - Diamond and Flower Ferris Wheel (close-up)",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/93.png",
+        "link": "https://www.google.com/maps/d/u/0/viewer?mid=1WUBCnqTi1gTo8A2xucPVCrGKglFI5he9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8574197852503,
+          35.64403794056119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Kasai Rinkai Park Station",
+        "image": "https://en.nalsai.de/blog/seichi/oregairu/81.avif",
+        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.86116041224824,
+          35.6440769278199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Kasai Rinkai Park - Tokyo Sea Life Park 1",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Zoku%20-%2013%20-%2009m13s511t.jpg",
+        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.86181714771593,
+          35.64015331821779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Kasai Rinkai Park - Tokyo Sea Life Park 2",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Zoku%20-%2013%20-%2009m22s687t.jpg",
+        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8619417227825,
+          35.64023623810969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Kasai Rinkai Park - Tokyo Sea Life Park 3",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Zoku%20-%2013%20-%2010m02s936t.jpg",
+        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.86199818893687,
+          35.64013618278943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Kasai Rinkai Park - Tokyo Sea Life Park 4",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/oregairu/_/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Zoku%20-%2013%20-%2014m29s452t.jpg",
+        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.86213889276323,
+          35.64012414543344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oregairu: Kasai Rinkai Park - Trackless Train",
+        "image": "https://en.nalsai.de/blog/seichi/oregairu/Yahari%20Ore%20no%20Seishun%20LoveCome%20wa%20Machigatte%20Iru.%20Zoku%20-%2013%20-%2015m26s717t.avif",
+        "link": "https://en.nalsai.de/blog/seichi/oregairu/#kasai-rinkai-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.86051463131534,
+          35.64278079245109
+        ]
+      }
+    }
+  ]
+}

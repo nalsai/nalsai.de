@@ -361,6 +361,12 @@ At Mie University, where I was studying, they also sold Georgia MAX COFFEE, the 
 
 ---
 
+## Map
+
+{{< map >}}
+
+---
+
 And at the end, here are other people's posts if you want to see more:
 
 - <https://www.reddit.com/r/OreGairuSNAFU/comments/j4tlyy/i_present_the_oregairu_holy_pilgrimage_map/>
