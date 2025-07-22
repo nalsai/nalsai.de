@@ -1,0 +1,311 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fate: Shoraitei Makuhari Seaside Park",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Emiya%20Household/Backyard/o%E5%BA%AD-%28%E6%98%BC%29.png",
+        "link": "https://torusu7.hatenablog.com/entry/2023/09/21/233212",
+        "description": "Emiya Residence"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.03958090183124,
+          35.642882802480415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fate: Kaihimmakuhari Station South Exit",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Shinto/Central%20Shinto/o%E9%A7%85%E5%89%8D%E3%83%91%E3%83%BC%E3%82%AF-%28%E6%98%BC%29.png",
+        "link": "https://home.gamer.com.tw/artwork.php?sn=5718048"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.04180727761195,
+          35.6481621845068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fate: M Bay Point Makuhari Building",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Shinto/Building%20%28Outside%29/o%E3%83%93%E3%83%AB%E8%A1%97-%28%E6%98%BC%29.png",
+        "link": "https://home.gamer.com.tw/artwork.php?sn=5718048"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0394247079622,
+          35.65178426441894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fate: Sakuragaoka, Tama City, Tokyo",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Miyama/Intersection/o%E4%BA%A4%E5%B7%AE%E7%82%B9-%28%E6%98%BC%29.png",
+        "link": "https://kimamanidance.hatenablog.com/entry/2020/05/16/180000",
+        "description": "At the other end of Iroha-zaka Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.44000444073222,
+          35.637631716218024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fate: Japan Christian Junior College",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Homurahara%20Academy/Entrance/o%E5%AD%A6%E5%9C%92%E6%AD%A3%E9%96%80-%28%E6%98%BC%29.png",
+        "description": "The college was demolished in 2009 and the site is now filled with rows of detached houses."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.15077963342276,
+          35.65722782701316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fate: Plena Makuhari 2F",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Shinto/i%E6%96%B0%E9%83%BD_%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%83%A2%E3%83%BC%E3%83%AB.png",
+        "link": "https://www.google.com/maps/d/u/0/viewer?hl=ja&mid=1xFHW6NyXTLerfvGu_fP9b4qpXEWFBF5m&ll=35.647670449938026%2C140.04058998034674&z=20",
+        "description": "mirrored"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.04048854725534,
+          35.64772904558052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fate: Umeyashiki Street",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Miyama/Shopping%20District/o%E5%95%86%E5%BA%97%E8%A1%97-%28%E6%98%BC%29.png",
+        "link": "https://kimamanidance.hatenablog.com/entry/2021/02/21/180000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.727719595335,
+          35.56740668534043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fate: Iroha-zaka Street",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Miyama/To%20Homurahara/o%E6%A0%A1%E8%88%8E%E3%81%AB%E7%B6%9A%E3%81%8F%E9%81%93-%28%E6%98%BC%29.png",
+        "link": "https://home.gamer.com.tw/artwork.php?sn=5718048",
+        "description": "The same street is also a holy place for the Ghibli movie \"Whisper of the Heart\"."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.44619319710065,
+          35.646109012755176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fate: Kobe Bridge from Port Island Kita Park",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Fuyuki%20Bridge/Riverside%20Park%20A/o%E5%86%AC%E6%9C%A8%E5%A4%A7%E6%A9%8B%E8%A2%82%E3%81%AE%E5%85%AC%E5%9C%921-%28%E6%98%BC%29.png",
+        "link": "https://torusu7.hatenablog.com/entry/2018/12/06/120157"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.2042098097839,
+          34.67666861549114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fate: Kobe Bridge from Port Island Kita Park 2",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Fuyuki%20Bridge/o%E6%A9%8B%E3%81%8C%E8%A6%8B%E3%81%88%E3%82%8B%E5%B7%9D%E3%81%B9%E3%82%8A-%28%E6%98%BC%29.png",
+        "link": "https://torusu7.hatenablog.com/entry/2018/12/06/120157"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.2039368569459,
+          34.677195281042536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fate: Port Island Kita Park",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Fuyuki%20Bridge/Riverside%20Park%20B/o%E5%86%AC%E6%9C%A8%E5%A4%A7%E6%A9%8B%E8%A2%82%E3%81%AE%E5%85%AC%E5%9C%922-%28%E5%A4%9C%29.png",
+        "link": "https://torusu7.hatenablog.com/entry/2018/12/06/120157",
+        "description": "In real life the bridge is in the background and the shrubs are behind the camera."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.20413506248755,
+          34.67706272437965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fate: Kobe Bridge Sidewalk (towards Kobe)",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Fuyuki%20Bridge/Towards%20Shinto/o%E6%AD%A9%E9%81%93%E6%A9%8B%28%E8%A1%8C%E3%81%8D%29-%28%E6%98%BC%29.png",
+        "link": "https://torusu7.hatenablog.com/entry/2018/12/06/120157"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.2039970039345,
+          34.67782847915159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fate: Kobe Bridge Sidewalk (towards Port Island)",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Fuyuki%20Bridge/Towards%20Miyama/o%E6%AD%A9%E9%81%93%E6%A9%8B%28%E5%B8%B0%E3%82%8A%29-%28%E6%98%BC%29.png",
+        "link": "https://torusu7.hatenablog.com/entry/2018/12/06/120157"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.20334419531284,
+          34.67860432594945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fate: Kitano Street",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Shinto/To%20Fuyuki%20Church/o%E6%95%99%E4%BC%9A%E4%BB%98%E8%BF%91%E3%81%AE%E8%A1%97%E4%B8%A6-%28%E6%9B%87%29.png",
+        "link": "https://torusu7.hatenablog.com/entry/2018/12/06/120157"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.19420907297416,
+          34.70311830827112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fate: Fudo-Zaka Street",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Miyama/Neighbourhood/o%E9%81%A0%E5%9D%82%E9%82%B8%E4%BB%98%E8%BF%91%E3%81%AE%E8%A1%97%E4%B8%A6-%28%E6%98%BC%29.png",
+        "link": "https://torusu7.hatenablog.com/entry/2023/09/21/233212"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1920942068314,
+          34.70187437537667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fate: Oda Family Nagaya-mon Gate",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Emiya%20Household/Entrance%20%28Outside%29/o%E8%A1%9B%E5%AE%AE%E9%82%B8%E5%A4%96%E8%A6%B3-%28%E6%98%BC%29.png",
+        "description": "Emiya Residence Outer Wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.98884206237176,
+          34.650195656072476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fate: Hyogo Prefectural Archery Dojo",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Homurahara%20Academy/Archery%20Dojo%20%28Outside%29/o%E5%BC%93%E9%81%93%E5%A0%B4%E5%89%8D-%28%E6%98%BC%29.png",
+        "link": "https://torusu7.hatenablog.com/entry/2023/09/21/233212"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.99707990190504,
+          34.65888314935968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fate: Weathercock House",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Tohsaka%20Manor/Outside/o%E9%81%A0%E5%9D%82%E9%82%B8%E5%A4%96%E8%A6%B3-%28%E6%98%BC%29.png",
+        "link": "https://torusu7.hatenablog.com/entry/2023/09/21/233212",
+        "description": "Tohsaka Residence"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1895776010249,
+          34.701341470504715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fate: Uroko House",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Tohsaka%20Manor/Outside/o%E9%81%A0%E5%9D%82%E9%82%B8%E5%A4%96%E8%A6%B3-%28%E6%98%BC%29.png",
+        "description": "Matou Residence"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.19069997380848,
+          34.7028391772065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fate: Uroko House (Interior)",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Tohsaka%20Manor/Living%20Room/i%E9%81%A0%E5%9D%82%E9%82%B8%E5%B1%85%E9%96%93.png",
+        "description": "Interior of the Tohsaka Residence"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.190571915089,
+          34.70290064494094
+        ]
+      }
+    }
+  ]
+}
