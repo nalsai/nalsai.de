@@ -1,0 +1,146 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1631665,
+          50.1500538
+        ]
+      },
+        "properties": {
+        "name": "Cochem - Pinnerkreuz",
+        "image": "https://en.nalsai.de/blog/seichi/violet-evergarden-cochem/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h02m28s106t.avif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1673369,
+          50.1420953
+        ]
+      },
+      "properties": {
+        "name": "Cochem Castle - Inner Gate",
+        "image": "https://en.nalsai.de/blog/seichi/violet-evergarden-cochem/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h08m18s081t.avif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1663687,
+          50.1425908
+        ]
+      },
+      "properties": {
+        "name": "Cochem Castle - Outer Gate",
+        "image": "https://en.nalsai.de/blog/seichi/violet-evergarden-cochem/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h38m44s489t.avif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1672596,
+          50.1425441
+        ]
+      },
+      "properties": {
+        "name": "Cochem Castle - Mosel River View",
+        "image": "https://en.nalsai.de/blog/seichi/violet-evergarden-cochem/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h03m20s909t.avif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1672401,
+          50.1420605
+        ]
+      },
+      "properties": {
+        "name": "Cochem Castle - Courtyard",
+        "image": "https://en.nalsai.de/blog/seichi/violet-evergarden-cochem/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h23m40s961t.avif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.164812,
+          50.1469209
+        ]
+      },
+      "properties": {
+        "name": "Cochem - Hinter Kempeln",
+        "image": "https://en.nalsai.de/blog/seichi/violet-evergarden-cochem/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h52m12s338t.avif",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1704498,
+          50.1423584
+        ]
+      },
+      "properties": {
+        "name": "Cochem - Uferstraße",
+        "image": "https://en.nalsai.de/blog/seichi/violet-evergarden-cochem/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h02m24s019t.avif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1653476,
+          50.1455719
+        ]
+      },
+      "properties": {
+        "name": "Cochem - Obergasse",
+        "image": "https://en.nalsai.de/blog/seichi/violet-evergarden-cochem/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h51m40s806t.avif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1650475,
+          50.1453153
+        ]
+      },
+      "properties": {
+        "name": "Cochem - Branntweingässchen",
+        "image": "https://en.nalsai.de/blog/seichi/violet-evergarden-cochem/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h53m02s554t.avif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1663094,
+          50.144773
+        ]
+      },
+      "properties": {
+        "name": "Cochem - Alte Gutsschänke",
+        "image": "https://en.nalsai.de/blog/seichi/violet-evergarden-cochem/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h52m10s627t.avif"
+      }
+    }
+  ]
+}

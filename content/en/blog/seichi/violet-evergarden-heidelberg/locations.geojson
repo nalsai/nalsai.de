@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.714026600607122,
+          49.410113231662294
+        ]
+      },
+      "properties": {
+        "name": "Heidelberg Castle - View of the City",
+        "image": "https://en.nalsai.de/blog/seichi/violet-evergarden-heidelberg/Violet%20Evergarden%20-%2013%20-%2004m12s836t.avif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.71546351782776,
+          49.41085866282312
+        ]
+      },
+      "properties": {
+        "name": "Heidelberg Castle - Friedrichsbau",
+        "image": "https://en.nalsai.de/blog/seichi/violet-evergarden-heidelberg/Violet%20Evergarden%20-%2013%20-%2004m15s088t.avif"
+      }
+    }
+  ]
+}

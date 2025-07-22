@@ -1,11 +1,13 @@
 +++
-title = "Violet Evergarden Gaiden - Mannheim Locations in Real Life"
+title = "Violet Evergarden - Mannheim Locations"
 description = ""
 tags = [
   "Anime",
-  "Anime Tourism"
+  "Anime Tourism",
+  "Violet Evergarden"
 ]
 date = 2025-06-14
+update = 2025-07-22
 +++
 
 Last thursday, I visited the Baroque Palace Mannheim, one of the locations used for the movie "Violet Evergarden: Eternity and the Auto Memory Doll".
@@ -27,8 +29,8 @@ The rooms I visited were just a part of the palace, that has been restored and t
 {{< img "Violet Evergarden Gaiden - Eien to Jidou Shuki Ningyou - 00h10m43s434t.avif" jpg>}}
 {{< img "ZFC58536-crop.avif" jpg >}}
 
-
-<!--{{< img "Violet Evergarden Gaiden - Eien to Jidou Shuki Ningyou - 00h11m01s995t.avif" jpg>}} TODO-->
+{{< img "Violet Evergarden Gaiden - Eien to Jidou Shuki Ningyou - 00h11m01s995t.avif" jpg>}}  
+I didn't take a photo from this angle, oops.
 
 {{< img "Violet Evergarden Gaiden - Eien to Jidou Shuki Ningyou - 00h26m47s356t.avif" jpg>}}
 {{< img "ZFC58583-crop.avif" jpg >}}
@@ -76,3 +78,9 @@ Also, the curtains are the same and there are two rooms with the same blue color
 
 {{< img "Violet Evergarden Gaiden - Eien to Jidou Shuki Ningyou - 00h16m51s886t.avif" jpg>}}
 {{< img "ZFC57608-crop.avif" jpg >}}
+
+---
+
+## Map
+
+{{< map >}}

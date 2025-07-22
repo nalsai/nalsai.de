@@ -348,12 +348,14 @@ h2,h3,h4,h5,h6 {
     object-fit: cover;
 }
 
+/* 16 by 9 (used for old pages) */
 .a640x360 {
     width: 640px !important;
     height: 360px !important;
     object-fit: cover;
 } 
 
+/* 16 by 9*/
 .a645x363 {
     width: 645px !important;
     height: 363px !important;

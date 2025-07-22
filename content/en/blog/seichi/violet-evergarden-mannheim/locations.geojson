@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.462783636710581,
+          49.48312788591021
+        ]
+      },
+      "properties": {
+        "name": "Mannheim Barque Palace - Outside / Courtyard",
+        "image": "https://en.nalsai.de/blog/seichi/violet-evergarden-mannheim/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h20m05s371t.avif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.461763927049441,
+          49.48298081497518
+        ]
+      },
+      "properties": {
+        "name": "Mannheim Baroque Palace - Staircase",
+        "image": "https://en.nalsai.de/blog/seichi/violet-evergarden-mannheim/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h26m44s978t.avif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4617155013829,
+          49.482898706078366
+        ]
+      },
+      "properties": {
+        "name": "Mannheim Baroque Palace - Knights Hall",
+        "image": "https://en.nalsai.de/blog/seichi/violet-evergarden-mannheim/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h27m37s906t.avif"
+      }
+    }
+  ]
+}

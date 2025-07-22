@@ -1,11 +1,13 @@
 +++
-title = "Violet Evergarden Gaiden - Cochem Locations in Real Life"
+title = "Violet Evergarden - Cochem Locations in Real Life"
 description = ""
 tags = [
   "Anime",
-  "Anime Tourism"
+  "Anime Tourism",
+  "Violet Evergarden"
 ]
 date = 2025-03-08
+update = 2025-07-22
 +++
 
 The location of the movie "Violet Evergarden: Eternity and the Auto Memory Doll" is based on the town of Cochem in Germany.
@@ -119,8 +121,9 @@ I don't have any pictures of the courtyard, as it was closed when I visited.
 
 ### Hatzenport - St. Johannes
 
-You need a car and drive ~15 minutes to the village of Hatzenport to take this picture, so I didn't go there.
-Above the townscape from the other side of the river, you can see the St. Johannes church.
+You need a car and about a 15-minute drive to reach the other side of the river near the village of Hatzenport to take this picture, so I didn’t go there.
+Above the townscape from the other side of the river, you can see the St. Johannes church.  
+Since the train runs on the other side of the river, you can't see this view from the train in reality.
 
 {{< img "Violet Evergarden Gaiden - Eien to Jidou Shuki Ningyou - 00h02m15s761t.avif" jpg>}}
 
@@ -132,3 +135,9 @@ I'm planning to also visit the locations of Violet Evergarden in Heidelberg, Man
 
 Thanks to J-Junk for the information, I found their *dōjinshi* at Comiket 104, which inspired me to make this trip:  
 <https://www.j-junk.de/violet-evergarden-gaiden-real-life-locations-in-germany/>
+
+---
+
+## Map
+
+{{< map >}}
