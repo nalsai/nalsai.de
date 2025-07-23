@@ -10,6 +10,8 @@ date = 2025-06-14
 update = 2025-07-22
 +++
 
+{{< youtube-audio id="RKrYHDbzVU8" title="The Voice in My Heart [Piano]" channel="PianoDeuss" >}}
+
 Last thursday, I visited the Baroque Palace Mannheim, one of the locations used for the movie "Violet Evergarden: Eternity and the Auto Memory Doll".
 The palace is located in Mannheim, Germany, and is easily accessible by public transport. Since I study in Heidelberg, it's only a short ride away for me.
 

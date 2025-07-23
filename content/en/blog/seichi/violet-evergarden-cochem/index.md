@@ -10,6 +10,8 @@ date = 2025-03-08
 update = 2025-07-22
 +++
 
+{{< youtube-audio id="hOVrcUrlUIc" title="Amy [Piano]" channel="Rexana Noer F." >}}
+
 The location of the movie "Violet Evergarden: Eternity and the Auto Memory Doll" is based on the town of Cochem in Germany.
 I visited the town (on 2025-01-16/17) and took pictures of the locations that appear in the movie.
 

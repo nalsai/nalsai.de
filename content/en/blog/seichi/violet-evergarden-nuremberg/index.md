@@ -10,6 +10,8 @@ date = 2025-07-10
 update = 2025-07-22
 +++
 
+{{< youtube-audio id="vONLg8vMEsk" title="Violet Evergarden Piano Medley" channel="Ru's Piano" >}}
+
 I recently visited my uncle in Nuremberg and took the opportunity to explore several real-life locations featured in "Violet Evergarden: Eternity and the Auto Memory Doll".
 
 These spots are conveniently located within walking distance from Nuremberg Central Station. The route to Nuremberg Castle takes about 20 minutes on foot, with all locations along the way.

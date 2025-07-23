@@ -9,8 +9,9 @@ tags = [
 date = 2025-07-22
 +++
 
+{{< youtube-audio id="dJ0Xcu0vJNU" title="Sincerely" channel="Animenz Piano Sheets" >}}
 
-Heidelberg, the fifth-largest city in the German state of Baden-Württemberg, has a population of around 163,000 , about a quarter of whom are students, myself included.  
+Heidelberg, the fifth-largest city in the German state of Baden-Württemberg, has a population of around 163,000, about a quarter of whom are students, myself included.  
 One of its most famous landmarks is Heidelberg Castle, which served as the inspiration for the temporary embassy of the Gardarik Empire in episode 13 of Violet Evergarden.
 
 {{< img "Violet Evergarden - 13 - 04m12s836t.avif" jpg>}}
