@@ -1,0 +1,485 @@
+{{/*
+YouTube Audio Player Shortcode
+Usage: {{< youtube-audio id="BDgf9n2jKPs" title="Optional Custom Title" channel="Optional Custom Channel" >}}
+*/}}
+
+{{ $videoId := .Get "id" }}
+{{ $customTitle := .Get "title" }}
+{{ $customChannel := .Get "channel" }}
+{{ $uniqueId := printf "youtube-audio-%s" (substr $videoId 0 8) }}
+
+<div class="youtube-audio-player-container my-4">
+    <div class="card bg-dark text-white shadow">
+        <div class="card-body p-0">
+            <!-- Song Info Header -->
+            <div class="d-flex align-items-center p-3 border-bottom">
+                <div class="youtube-thumbnail me-3 rounded" 
+                     id="{{ $uniqueId }}-thumbnail"
+                     style="width: 48px; height: 48px; background-color: #333; background-size: cover; background-position: center; display: flex; align-items: center; justify-content: center;">
+                    <span class="text-muted">♪</span>
+                </div>
+                <div class="flex-grow-1 overflow-hidden">
+                    <div class="fw-semibold text-truncate" id="{{ $uniqueId }}-title">
+                        {{ if $customChannel }}{{ $customChannel }} - {{ end }}{{ if $customTitle }}{{ $customTitle }}{{ else }}Audio Player{{ end }}
+                    </div>
+                    <div class="small text-muted text-truncate" id="{{ $uniqueId }}-channel">
+                        Click play to load
+                    </div>
+                </div>
+                <a href="https://www.youtube.com/watch?v={{ $videoId }}" 
+                   target="_blank" 
+                   rel="noopener noreferrer"
+                   class="btn btn-link text-white p-1 ms-2"
+                   title="Open in YouTube">
+                    <i class="bi bi-arrow-up-right-square"></i>
+                </a>
+            </div>
+            
+            <!-- Player Controls -->
+            <div class="d-flex align-items-center p-3">
+                <!-- Play/Pause Button -->
+                <button class="btn btn-link text-white p-0 me-3" 
+                        id="{{ $uniqueId }}-play-button"
+                        style="width: 36px; height: 36px;">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <polygon points="5 3 19 12 5 21 5 3" id="{{ $uniqueId }}-play-icon"></polygon>
+                        <rect id="{{ $uniqueId }}-pause-icon" x="6" y="4" width="4" height="16" style="display: none"></rect>
+                        <rect id="{{ $uniqueId }}-pause-icon-2" x="14" y="4" width="4" height="16" style="display: none"></rect>
+                    </svg>
+                </button>
+                
+                <!-- Progress Bar -->
+                <div class="flex-grow-1 me-3">
+                    <div class="progress" style="height: 4px; cursor: pointer;" id="{{ $uniqueId }}-progress-bar">
+                        <div class="progress-bar bg-success" 
+                             role="progressbar" 
+                             style="width: 0%; transition: width 0.1s linear;" 
+                             id="{{ $uniqueId }}-progress-fill"></div>
+                    </div>
+                </div>
+                
+                <!-- Time Display -->
+                <div class="small text-muted me-3" style="min-width: 80px; text-align: right; display: none" id="{{ $uniqueId }}-time-display">
+                    0:00 / 0:00
+                </div>
+                
+                <!-- Volume Control -->
+                <div class="d-flex align-items-center position-relative" style="display: none !important;" id="{{ $uniqueId }}-volume-container">
+                    <button class="btn btn-link text-white p-0 me-2" 
+                            id="{{ $uniqueId }}-volume-button"
+                            style="width: 32px; height: 32px;">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+                            <path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+                            <path d="M19.07 4.93a10 10 0 0 1 0 14.14"></path>
+                        </svg>
+                    </button>
+                    <div class="volume-slider-container" 
+                         id="{{ $uniqueId }}-volume-slider-container"
+                         style="width: 0; height: 4px; overflow: hidden; transition: width 0.3s ease, margin-left 0.3s ease; position: relative;">
+                        <div class="volume-slider" 
+                             id="{{ $uniqueId }}-volume-slider"
+                             style="width: 100%; height: 100%; background: #444; border-radius: 2px; cursor: pointer; position: relative;">
+                            <div class="volume-level" 
+                                 id="{{ $uniqueId }}-volume-level"
+                                 style="height: 100%; background: #28a745; width: 100%; position: absolute; left: 0; top: 0;"></div>
+                            <div class="volume-handle" 
+                                 id="{{ $uniqueId }}-volume-handle"
+                                 style="position: absolute; right: 0; top: 50%; transform: translate(50%, -50%); width: 8px; height: 10px; background: white; border-radius: 50%; box-shadow: 0 0 4px rgba(0, 0, 0, 0.3); cursor: pointer; opacity: 0; transition: opacity 0.2s ease; z-index: 2;"></div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Loading Indicator -->
+                <small class="text-muted ms-2" style="display: none;" id="{{ $uniqueId }}-loading-indicator">
+                    <div class="spinner-border spinner-border-sm me-1" role="status">
+                        <span class="visually-hidden">Loading...</span>
+                    </div>
+                    Loading...
+                </small>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Hidden YouTube Player -->
+<div id="{{ $uniqueId }}-youtube-player" style="position: absolute; top: -9999px; left: -9999px; width: 1px; height: 1px;"></div>
+
+<style>
+/* Volume hover effects */
+#{{ $uniqueId }}-volume-container:hover #{{ $uniqueId }}-volume-slider-container,
+#{{ $uniqueId }}-volume-slider-container.active {
+    width: 80px !important;
+    margin-left: 8px;
+}
+
+#{{ $uniqueId }}-volume-slider:hover #{{ $uniqueId }}-volume-handle,
+#{{ $uniqueId }}-volume-slider.dragging #{{ $uniqueId }}-volume-handle,
+#{{ $uniqueId }}-volume-container:hover #{{ $uniqueId }}-volume-handle {
+    opacity: 1;
+}
+</style>
+
+<script>
+(function() {
+    // Configuration
+    const videoId = '{{ $videoId }}';
+    const uniqueId = '{{ $uniqueId }}';
+    
+    // Variables
+    let player;
+    let isPlaying = false;
+    let duration = 0;
+    let isApiLoaded = window.YT && window.YT.Player;
+    let isPlayerReady = false;
+    let isDraggingVolume = false;
+    
+    // Get saved volume from localStorage or use default
+    let currentVolume = parseInt(localStorage.getItem('youtubeAudioPlayerVolume') || '100');
+    
+    // Elements
+    const playButton = document.getElementById(uniqueId + '-play-button');
+    const progressBar = document.getElementById(uniqueId + '-progress-bar');
+    const progressFill = document.getElementById(uniqueId + '-progress-fill');
+    const timeDisplay = document.getElementById(uniqueId + '-time-display');
+    const volumeButton = document.getElementById(uniqueId + '-volume-button');
+    const volumeContainer = document.getElementById(uniqueId + '-volume-container');
+    const volumeSliderContainer = document.getElementById(uniqueId + '-volume-slider-container');
+    const volumeSlider = document.getElementById(uniqueId + '-volume-slider');
+    const volumeLevel = document.getElementById(uniqueId + '-volume-level');
+    const volumeHandle = document.getElementById(uniqueId + '-volume-handle');
+    const loadingIndicator = document.getElementById(uniqueId + '-loading-indicator');
+    const title = document.getElementById(uniqueId + '-title');
+    const channel = document.getElementById(uniqueId + '-channel');
+    const thumbnail = document.getElementById(uniqueId + '-thumbnail');
+    
+    // Initialize the player on first play click
+    playButton.addEventListener('click', function() {
+        if (!isApiLoaded) {
+            loadYouTubeApi();
+            loadingIndicator.style.display = 'inline-block';
+            playButton.disabled = true;
+        } else if (isPlayerReady) {
+            togglePlay();
+        }
+    });
+    
+    // Load the YouTube API if not already loaded
+    function loadYouTubeApi() {
+        if (window.YT && window.YT.Player) {
+            isApiLoaded = true;
+            initializePlayer();
+            return;
+        }
+        
+        // Check if API is already being loaded
+        if (!window.youtubeApiLoading) {
+            window.youtubeApiLoading = true;
+            
+            // Create script tag for YouTube API
+            const tag = document.createElement('script');
+            tag.src = 'https://www.youtube.com/iframe_api';
+            const firstScriptTag = document.getElementsByTagName('script')[0];
+            firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+            
+            // Set up global callback
+            window.onYouTubeIframeAPIReady = function() {
+                isApiLoaded = true;
+                // Initialize all waiting players
+                if (window.waitingPlayers) {
+                    window.waitingPlayers.forEach(initFunc => initFunc());
+                    window.waitingPlayers = [];
+                }
+            };
+        }
+        
+        // Add this player to the waiting list
+        if (!window.waitingPlayers) {
+            window.waitingPlayers = [];
+        }
+        window.waitingPlayers.push(initializePlayer);
+    }
+    
+    // Initialize the player
+    function initializePlayer() {
+        player = new YT.Player(uniqueId + '-youtube-player', {
+            height: '1',
+            width: '1',
+            videoId: videoId,
+            playerVars: {
+                'playsinline': 1,
+                'controls': 0,
+                'disablekb': 1
+            },
+            events: {
+                'onReady': onPlayerReady,
+                'onStateChange': onPlayerStateChange,
+                'onError': onPlayerError
+            }
+        });
+    }
+    
+    // When the player is ready
+    function onPlayerReady(event) {
+        isPlayerReady = true;
+        playButton.disabled = false;
+        loadingIndicator.style.display = 'none';
+        
+        // Get video duration
+        timeDisplay.style.display = 'block';
+        duration = player.getDuration();
+        updateTimeDisplay();
+        
+        // Update video metadata
+        fetchVideoDetails();
+        
+        // Set thumbnail
+        const thumbnailUrl = `https://img.youtube.com/vi/${videoId}/mqdefault.jpg`;
+        thumbnail.innerHTML = '';
+        thumbnail.style.backgroundImage = `url(${thumbnailUrl})`;
+        
+        // Setup event listeners for progress
+        progressBar.addEventListener('click', seekTo);
+        
+        // Set initial volume and setup volume controls
+        volumeContainer.style.display = 'flex';
+        setupVolumeControls();
+        
+        // Apply initial volume to player immediately
+        if (player && currentVolume > 0) {
+            player.unMute();
+        }
+        player.setVolume(currentVolume);
+        
+        // Start the video playing
+        player.playVideo();
+        
+        // Start tracking progress
+        setInterval(updateProgress, 500);
+    }
+    
+    // Fetch video details
+    function fetchVideoDetails() {
+        const videoData = player.getVideoData();
+        
+        {{ if $customTitle }}
+            title.textContent = "{{$customTitle}}";
+        {{ else }}
+            title.textContent = videoData.title || "Unknown Title";
+        {{ end }}
+        
+        {{ if $customChannel }}
+            channel.textContent = "{{$customChannel}}";
+        {{ else }}
+            channel.textContent = videoData.author || "Unknown Channel";
+        {{ end }}
+    }
+    
+    // Setup volume controls
+    function setupVolumeControls() {
+        // Apply initial volume to UI immediately
+        volumeLevel.style.width = currentVolume + '%';
+        volumeHandle.style.left = currentVolume - 10 + '%';
+        updateVolumeIcon(currentVolume);
+        
+        volumeButton.addEventListener('click', toggleMute);
+        
+        volumeSlider.addEventListener('click', function(e) {
+            if (!isDraggingVolume) {
+                changeVolume(e);
+            }
+        });
+        
+        volumeHandle.addEventListener('mousedown', startVolumeDrag);
+        document.addEventListener('mousemove', volumeDrag);
+        document.addEventListener('mouseup', endVolumeDrag);
+        
+        volumeHandle.addEventListener('touchstart', startVolumeDrag);
+        document.addEventListener('touchmove', volumeDrag);
+        document.addEventListener('touchend', endVolumeDrag);
+    }
+    
+    function startVolumeDrag(e) {
+        isDraggingVolume = true;
+        volumeSlider.classList.add('dragging');
+        volumeSliderContainer.classList.add('active');
+        e.preventDefault();
+    }
+    
+    function volumeDrag(e) {
+        if (!isDraggingVolume) return;
+        
+        let clientX = e.type.includes('touch') ? e.touches[0].clientX : e.clientX;
+        const rect = volumeSlider.getBoundingClientRect();
+        const position = Math.max(0, Math.min(1, (clientX - rect.left) / rect.width));
+        const newVolume = Math.round(position * 100);
+        
+        applyVolume(newVolume);
+    }
+    
+    function endVolumeDrag() {
+        if (isDraggingVolume) {
+            isDraggingVolume = false;
+            volumeSlider.classList.remove('dragging');
+            localStorage.setItem('youtubeAudioPlayerVolume', currentVolume.toString());
+            
+            setTimeout(() => {
+                if (!isDraggingVolume) {
+                    volumeSliderContainer.classList.remove('active');
+                }
+            }, 1500);
+        }
+    }
+    
+    function applyVolume(volume) {
+        if (!isPlayerReady) return;
+        
+        currentVolume = volume;
+        volumeLevel.style.width = volume + '%';
+        volumeHandle.style.left = volume - 10 + '%';
+        
+        if (player) {
+            if (volume > 0) {
+                player.unMute();
+            }
+            player.setVolume(volume);
+        }
+        
+        updateVolumeIcon(volume);
+    }
+    
+    function changeVolume(event) {
+        if (!isPlayerReady) return;
+        
+        const rect = volumeSlider.getBoundingClientRect();
+        const position = (event.clientX - rect.left) / rect.width;
+        const newVolume = Math.max(0, Math.min(100, Math.round(position * 100)));
+        
+        applyVolume(newVolume);
+        localStorage.setItem('youtubeAudioPlayerVolume', newVolume.toString());
+    }
+    
+    function onPlayerStateChange(event) {
+        if (event.data === YT.PlayerState.PLAYING) {
+            isPlaying = true;
+            showPauseIcon();
+        } else if (event.data === YT.PlayerState.PAUSED || event.data === YT.PlayerState.ENDED) {
+            isPlaying = false;
+            showPlayIcon();
+            
+            if (event.data === YT.PlayerState.ENDED) {
+                progressFill.style.width = '0%';
+                updateTimeDisplay();
+            }
+        }
+    }
+    
+    function onPlayerError(event) {
+        console.error("YouTube Player Error:", event.data);
+        title.textContent = "Error loading video";
+        channel.textContent = "Please check the video ID";
+        loadingIndicator.style.display = 'none';
+        playButton.disabled = false;
+    }
+    
+    function togglePlay() {
+        if (isPlaying) {
+            player.pauseVideo();
+        } else {
+            player.playVideo();
+        }
+    }
+    
+    function showPlayIcon() {
+        document.getElementById(uniqueId + '-play-icon').style.display = 'block';
+        document.getElementById(uniqueId + '-pause-icon').style.display = 'none';
+        document.getElementById(uniqueId + '-pause-icon-2').style.display = 'none';
+    }
+    
+    function showPauseIcon() {
+        document.getElementById(uniqueId + '-play-icon').style.display = 'none';
+        document.getElementById(uniqueId + '-pause-icon').style.display = 'block';
+        document.getElementById(uniqueId + '-pause-icon-2').style.display = 'block';
+    }
+    
+    function updateProgress() {
+        if (player && isPlaying) {
+            const currentTime = player.getCurrentTime();
+            const percentage = (currentTime / duration) * 100;
+            progressFill.style.width = percentage + '%';
+            updateTimeDisplay(currentTime);
+        }
+    }
+    
+    function updateTimeDisplay(currentTime = 0) {
+        const current = formatTime(currentTime);
+        const total = formatTime(duration);
+        timeDisplay.textContent = `${current} / ${total}`;
+    }
+    
+    function formatTime(seconds) {
+        seconds = Math.floor(seconds);
+        const minutes = Math.floor(seconds / 60);
+        seconds = seconds % 60;
+        return `${minutes}:${seconds < 10 ? '0' + seconds : seconds}`;
+    }
+    
+    function seekTo(event) {
+        if (!isPlayerReady) return;
+        
+        const rect = progressBar.getBoundingClientRect();
+        const position = (event.clientX - rect.left) / rect.width;
+        const newTime = duration * position;
+        
+        player.seekTo(newTime);
+        
+        // Update progress bar immediately, even when paused
+        const percentage = position * 100;
+        progressFill.style.width = percentage + '%';
+        updateTimeDisplay(newTime);
+    }
+    
+    function toggleMute() {
+        if (!isPlayerReady) return;
+        
+        if (player.isMuted() || player.getVolume() === 0) {
+            player.unMute();
+            const savedVolume = parseInt(localStorage.getItem('youtubeAudioPlayerVolume') || '100');
+            applyVolume(savedVolume > 0 ? savedVolume : 100);
+        } else {
+            player.mute();
+            volumeLevel.style.width = '0%';
+            updateVolumeIcon(0);
+        }
+    }
+    
+    function updateVolumeIcon(volume) {
+        let iconSvg;
+        if (volume === 0) {
+            iconSvg = `
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+                    <line x1="23" y1="9" x2="17" y2="15"></line>
+                    <line x1="17" y1="9" x2="23" y2="15"></line>
+                </svg>
+            `;
+        } else if (volume < 50) {
+            iconSvg = `
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+                    <path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+                </svg>
+            `;
+        } else {
+            iconSvg = `
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+                    <path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+                    <path d="M19.07 4.93a10 10 0 0 1 0 14.14"></path>
+                </svg>
+            `;
+        }
+        volumeButton.innerHTML = iconSvg;
+    }
+})();
+</script>
