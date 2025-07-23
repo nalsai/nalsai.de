@@ -6,6 +6,8 @@ date = 2025-03-12
 update = 2025-07-10
 +++
 
+{{< youtube-audio id="fub7WVBCReg" title="Harumodoki" channel="yanaginagi" >}}
+
 <div class="card mb-4">
   <div class="card-header cursor-pointer" data-bs-toggle="collapse" data-bs-target="#tableOfContents"><i class="bi bi-list-ul"></i> Table of Contents <i class="bi bi-chevron-down float-end"></i></div>
   <div id="tableOfContents" class="collapse"><div class="card-body">

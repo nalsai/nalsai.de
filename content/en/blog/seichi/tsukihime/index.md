@@ -5,6 +5,8 @@ tags = ["Visual Novel", "Anime Tourism"]
 date = 2023-11-25
 +++
 
+{{< youtube-audio id="0sgQOBJrPnI" title="Track 08" channel="Tsukihime" >}}
+
 <div class="card mb-4">
   <div class="card-header cursor-pointer" data-bs-toggle="collapse" data-bs-target="#tableOfContents"><i class="bi bi-list-ul"></i> Table of Contents <i class="bi bi-chevron-down float-end"></i></div>
   <div id="tableOfContents" class="collapse"><div class="card-body">

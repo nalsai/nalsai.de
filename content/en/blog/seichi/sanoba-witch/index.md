@@ -9,6 +9,8 @@ tags = [
 date = 2024-05-26
 +++
 
+{{< youtube-audio id="8mX-tlwJUt0" title="Koiseyo Otome!" channel="Chihiro Yonekura" >}}
+
 Welcome back to another pilgrimage! This time, I visited places from the Yuzusoft visual novels Senren\*Banka (2016) and Sanoba Witch (2018). Since the two visual novels settings take inspiration from Kyōto, I visited them together. This is the page for Sanoba Witch. You can find the [Senren*Banka Pilgrimage by following this link]({{< relref senren-banka >}}).
 
 I recommend getting the bus day ticket and starting early if you want to tour it in one day, especially in winter, as the sun sets quite early. A bicycle could also come in handy to reach some of the places from Sanoba Witch.  

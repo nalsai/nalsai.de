@@ -8,6 +8,8 @@ tags = [
 date = 2025-06-11
 +++
 
+{{< youtube-audio id="0PW5ZrZ3JCw" title="Tractatus Logico-Philosophicus" channel="SubaHibi OST" >}}
+
 I actually bought my flight tickets to Japan on the day of the 15th anniversary of Subahibi and visting Tama Center was one of the things I wanted to do for sure on this trip.
 
 I took the Keio Line to Tama Center Station from Shinjuku. I had taken this train once before, when I visited Yomiuri Land, which is located a couple of stops away from Tama Center.

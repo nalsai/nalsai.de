@@ -8,6 +8,8 @@ tags = [
 date = 2025-01-22
 +++
 
+{{< youtube-audio id="YT5ykhJl0d0" title="Girls' Carnival" channel="Yuuka" >}}
+
 While there is only one place that is known I made sure to go there and take a photo, as Making*Lovers is one of my favorite VNs.
 
 The location is the **Mitsui Outlet Park Makuhari in Chiba**, a shopping mall with a lot of stores and restaurants.

@@ -5,6 +5,8 @@ tags = ["Anime", "Anime Tourism"]
 date = 2025-03-09
 +++
 
+{{< youtube-audio id="ZlIdbht29kc" title="星が泳ぐ" channel="マカロニえんぴつ" >}}
+
 This post is mostly pictures without much text, because I want to get all planned posts done and explore new places. Let's get started!
 
 ### Wakayamashi Station

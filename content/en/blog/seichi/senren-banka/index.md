@@ -10,6 +10,8 @@ date = 2024-05-26
 update = 2025-07-22
 +++
 
+{{< youtube-audio id="Gln4Nsf0snc" title="A Brief Respite" channel="Senren Banka OST" >}}
+
 Welcome back to another pilgrimage! This time, I visited places from the Yuzusoft visual novels Senren\*Banka (2016) and Sanoba Witch (2018). Since the two visual novels settings take inspiration from Kyōto, I visited them together. This is the page for Senren\*Banka. You can find the [Sanoba Witch Pilgrimage by following this link]({{< relref sanoba-witch >}}).
 
 ---
