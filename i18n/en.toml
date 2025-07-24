@@ -58,3 +58,6 @@ other = "Hello, I am Nils Fürniß. I am "
 other = " years old and am a student at Heidelberg University. I like to photograph and program (mainly in C#, Go or Rust; sometimes also JavaScript and Python) and like to write websites. Although I host most static websites on Cloudflare Pages, I also run a few servers for various private purposes."
 [about-me-3]
 other = "In my spare time I like to play rhythm games, watch anime or read visual novels. I also like Touhou Project, The Elder Scrolls and NieR:Automata."
+
+[new]
+other = "New"
