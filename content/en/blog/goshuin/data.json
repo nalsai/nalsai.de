@@ -52,7 +52,15 @@
             "date": "2023-09-19",
             "attachments": [
                 {
-                    "name": "Info Sheet",
+                    "name": "Leaflet (English)",
+                    "file": "sengaku-ji_leaflet-en.pdf"
+                },
+                {
+                    "name": "Leaflet (English, monochrome)",
+                    "file": "sengaku-ji_leaflet-en-monochrome.pdf"
+                },
+                {
+                    "name": "Goshuin Info Sheet",
                     "file": "sengaku-ji_info.pdf"
                 }
             ]
@@ -157,7 +165,17 @@
             "prefecture": "Kanagawa",
             "location": "Tsurugaoka Hachimangū",
             "locationJp": "鶴岡八幡宮",
-            "date": "2023-09-25"
+            "date": "2023-09-25",
+            "attachments": [
+                {
+                    "name": "Leaflet",
+                    "file": "tsurugaoka-hachimangu_leaflet.pdf"
+                },
+                {
+                    "name": "Info Sheet (English)",
+                    "file": "tsurugaoka-hachimangu_info-en.pdf"
+                }
+            ]
         },
         {
             "type": "shrine",
@@ -515,6 +533,10 @@
                 {
                     "name": "2024 Information",
                     "file": "gohozan-kumano-jinja_2024.pdf"
+                },
+                {
+                    "name": "Calendar 2024",
+                    "file": "gohozan-kumano-jinja_calendar-2024.pdf"
                 }
             ]
         },
@@ -534,6 +556,10 @@
                 {
                     "name": "くまのこどもまつり Flyer",
                     "file": "gohozan-kumano-jinja_kumanokodomomatsuri-flyer-2024.pdf"
+                },
+                {
+                    "name": "Calendar 2024",
+                    "file": "gohozan-kumano-jinja_calendar-2024.pdf"
                 }
             ]
         },
@@ -744,6 +770,10 @@
             "date": "2024-03-12",
             "attachments": [
                 {
+                    "name": "Leaflet",
+                    "file": "sasutahiko-jinja_leaflet.pdf"
+                },
+                {
                     "name": "Info",
                     "file": "sasutahiko-jinja_info.pdf"
                 },
@@ -816,6 +846,10 @@
                 {
                     "name": "Leaflet",
                     "file": "tamatsushima-jinja_leaflet.pdf"
+                },
+                {
+                    "name": "Leaflet (Sanjūrokkasen)",
+                    "file": "tamatsushima-jinja_leaflet_sanjurokkasen.pdf"
                 }
             ]
         },
@@ -994,6 +1028,10 @@
                 {
                     "name": "Ticket",
                     "file": "hase-dera_ticket.pdf"
+                },
+                {
+                    "name": "Leaflet",
+                    "file": "hase-dera_leaflet.pdf"
                 }
             ]
         },
