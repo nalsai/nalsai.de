@@ -88,8 +88,8 @@
             {{ with .Params.website }}
             <a href="{{ . }}" class="social-link text-body" target="_blank" rel="noopener noreferrer">
                 <i class="bi bi-globe-europe-africa"></i>
-                <span class="d-print-none">Website</span>
-                <span class="d-none d-print-inline">Website: nalsai.de</span>
+                <span class="d-print-none">{{ i18n "website" }}</span>
+                <span class="d-none d-print-inline">{{ i18n "website" }}: nalsai.de</span>
             </a>
             {{ end }}
         </div>

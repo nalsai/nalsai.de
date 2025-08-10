@@ -60,7 +60,7 @@ skills:
       - "Japanese (upper-intermediate, JLPT N2)"
       - "Latin (Latinum)"
 
-hobb1ies:
+hobbies:
   - "Programming"
   - "Web Development"
   - "Photography"
