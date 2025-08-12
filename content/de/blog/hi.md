@@ -22,4 +22,4 @@ fn main() {
 
 und hier ist ein Bild einer Rose, das ich gestern aufgenommen habe:
 
-![](https://lh3.googleusercontent.com/pw/AM-JKLW5VYXqTtb2YlOJ7K31kxnVFvwxuUzdoQ1AJSr2aEzD_tSYT5kXRv4nKzvw6_S_G_3EB3i4iZ-xVmxkjWUIAKp0vOt5b66cN4LtImsIpmbGOTuGeMIvWDWmhz5QKJBtVqqyVEcnDelyYqXu5FFOgYP8qg=w1050-h700-no?authuser=0)
+{{< img-immich immich="iJvMN9cDW3Wb9lgbXGIk-6m93N-7ICB79rhQeAgdkeBlkQv2SlN9lxF1a9uOX41YrkQ" img="21efe729-aadc-45b0-a2a8-2ec9f92eabb8" >}}
