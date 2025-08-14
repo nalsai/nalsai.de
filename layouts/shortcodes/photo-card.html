@@ -1,11 +1,11 @@
 <div class="col-sm-6 col-lg-4 p-1 mt-1">
-    <a {{ with .Get "gid" }}href="https://photos.app.goo.gl/{{ . }}"{{end}} {{ with .Get  "immich" }}href="https://immich.hachiman.nils.moe/share/{{ . }}"{{end}} class="card-hover">
+    <a {{ with .Get "gid" }}href="https://photos.app.goo.gl/{{ . }}"{{end}} {{ with .Get  "immich" }}href="https://immich.nils.moe/share/{{ . }}"{{end}} class="card-hover">
         <div class="card text-bg-dark rounded-4 border-0 position-relative">
             {{ if .Get "new" }}
             <span class="badge bg-danger position-absolute top-0 end-0 m-2 z-1">{{ i18n "new" }}!</span>
             {{ end }}
             <img 
-                {{ with .Get "img" }}src="{{ . }}"{{end}} {{ if .Get "immich-img" }}src="https://immich.hachiman.nils.moe/api/assets/{{ .Get "immich-img" }}/thumbnail?size=thumbnail&key={{ .Get "immich" }}"{{end}}
+                {{ with .Get "img" }}src="{{ . }}"{{end}} {{ if .Get "immich-img" }}src="https://immich.nils.moe/api/assets/{{ .Get "immich-img" }}/thumbnail?size=thumbnail&key={{ .Get "immich" }}"{{end}}
                 class="card-img rounded-4 aspect-{{ .Get "aspect" }}" alt="{{ .Get "title" }} {{ i18n "preview-image" }}" loading="lazy">
             <div class="card-img-overlay d-flex">
                 <h5 class="card-title card-title-bg mt-auto mb-0">{{ .Get "title" }}</h5>
