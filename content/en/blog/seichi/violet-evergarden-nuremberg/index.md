@@ -7,7 +7,7 @@ tags = [
   "Violet Evergarden"
 ]
 date = 2025-07-10
-update = 2025-07-22
+update = 2025-08-16
 +++
 
 {{< youtube-audio id="vONLg8vMEsk" title="Violet Evergarden Piano Medley" channel="Ru's Piano" >}}
@@ -25,7 +25,12 @@ I sorted them in the order of distance from the station, so you can easily follo
 {{<img "ZFK41899-crop.avif" jpg>}}
 
 {{<img "Violet Evergarden Gaiden - Eien to Jidou Shuki Ningyou - 01h05m23s920t.avif" jpg>}}
-{{<img "ZFK42626-crop.avif" jpg>}}
+{{<img "ZFK42626-crop.avif" jpg>}}  
+Date: 2025-06-20
+
+{{<img "Violet Evergarden Gaiden - Eien to Jidou Shuki Ningyou - 01h05m23s920t.avif" jpg>}}
+{{<img "ZH473873-crop.avif" jpg>}}  
+Date: 2025-08-04
 
 Although this is not the same spot as in the movie, there was also a market. Though it made taking the previous picture a bit difficult, as there were stalls in the way.
 
@@ -39,6 +44,9 @@ I'm still missing this picture, as I walked a different route to the castle, but
 {{<img "Violet Evergarden Gaiden - Eien to Jidou Shuki Ningyou - 01h00m45s851t.avif" jpg>}}
 {{<img "Violet Evergarden Gaiden - Eien to Jidou Shuki Ningyou - 01h00m49s104t.avif" jpg>}}
 {{<img "Violet Evergarden Gaiden - Eien to Jidou Shuki Ningyou - 01h01m01s658t.avif" jpg>}}
+
+{{<img "Violet Evergarden Gaiden - Eien to Jidou Shuki Ningyou - 01h00m45s851t-merged.avif" jpg>}}
+{{<img "ZH544420-crop.avif" jpg>}}
 
 {{<img "Violet Evergarden Gaiden - Eien to Jidou Shuki Ningyou - 01h05m03s358t.avif" jpg>}}
 {{<img "ZFK60308-crop.avif" jpg>}}
