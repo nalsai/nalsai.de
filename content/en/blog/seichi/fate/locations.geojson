@@ -324,6 +324,21 @@
           35.34804540673058
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oura Church",
+        "image": "https://en.nalsai.de/blog/seichi/fate/church.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fate#kitano-street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.87017410252307,
+          32.73473228924671
+        ]
+      }
     }
   ]
 }

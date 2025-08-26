@@ -45,30 +45,45 @@ The foreground is almost the same if you shoot towards the bridge, but the light
 ### Weathercock House
 
 {{< img "kobe-weathercock.avif" png >}}
+{{< img "ZE154767-crop.avif" jpg >}}
 
 ### Uroko House
 
 {{< img "kobe-uroko.avif" png >}}
+{{< img "ZE149631-crop.avif" jpg >}}
 
 {{< img "kobe-uroko-interior.avif" png >}}
+{{< img "ZE148430-crop.avif" jpg >}}
 
 ### Fudo-zaka Street
 
 {{< img "kobe-fudozaka.avif" png >}}
+{{< img "ZE151407-crop.avif" jpg >}}
 
 ### Kitano Street
 
 {{< img "kobe-kitano.avif" png >}}
+{{< img "ZE146979-crop.avif" jpg >}}
+
+There is a church on the left side of the street on top of the hill, but it is not the same church as in the visual novel.
+{{< img "ZE146710-crop.avif" jpg >}}
+
+The one on in the visual novel is based on Oura Church in Nagasaki. It's actually said to be the oldest Christian church in Japan.
+
+{{< img "church.avif" png >}}
+{{< img "YBL58565-crop.avif" jpg >}}
 
 ## Akashi
 
 ### Oda Family Nagaya-mon Gate
 
 {{< img "akashi-nagayamon.avif" png >}}
+{{< img "ZE157701-crop.avif" jpg >}}
 
 ### Hyogo Prefectural Archery Dojo
 
 {{< img "akashi-kyudo-dojo.avif" png >}}
+{{< img "ZE159942-crop.avif" jpg >}}
 
 
 ## Chiba
