@@ -155,17 +155,28 @@ Date: 2023-12-01
 
 ## Shinjuku Sumitomo Building
 
-{{< img bg_29a.avif jpg >}}
+Since this building has been renovated, it is now very different from how it appeared in Tsukihime. Only the trees remain in their original positions, though thicker than before.
+With the building in the way, it was hard to get the photo from an angle that somewhat matched the original. I ended up entering the building and taking the photo through the glass wall.
 
+{{< img bg_29a.avif jpg >}}
+{{< img "ZE225137-crop.avif" "jpg" >}}  
+Date: 2025-05-01
 
 ## Bic Camera Shibuya Hachiko Exit Store Sign
 
+Given that this is in Shinjuku, this place has also changed quite a bit.
+
 {{< img bg_86.avif jpg >}}
+{{< img "ZE228235-crop.avif" "jpg" >}}  
+Date: 2025-05-02
 
 ## Nakano Residential Street
 
-{{< img bg_23a.avif jpg >}}
+It seems like the pole on the left has been replaced. On the manhole cover, you can still see the remains of the white paint.
 
+{{< img bg_23a.avif jpg >}}
+{{< img ZE644174-crop.avif jpg >}}  
+Date: 2025-05-06
 
 ## Bonus 1: The Arc de Triomphe in Paris
 
