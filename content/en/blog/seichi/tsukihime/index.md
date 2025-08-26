@@ -3,6 +3,7 @@ title = "Visiting Places from Tsukihime"
 description = "OG Tsukihime locations in Tōkyō"
 tags = ["Visual Novel", "Anime Tourism"]
 date = 2023-11-25
+update = 2025-08-26
 +++
 
 <div class="card mb-4">
