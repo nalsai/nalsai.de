@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "name": "Shōraitei Makuhari Seaside Park",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/fate/chiba-shoraitai.png",
+        "image": "https://en.nalsai.de/blog/seichi/fate/chiba-shoraitai.avif",
         "link": "https://en.nalsai.de/blog/seichi/fate#emiya-residence-shōraitai",
         "description": "Emiya Residence"
       },
@@ -21,7 +21,7 @@
       "type": "Feature",
       "properties": {
         "name": "Kaihimmakuhari Station South Exit",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/fate/chiba-kaihimmakuhari.png",
+        "image": "https://en.nalsai.de/blog/seichi/fate/chiba-kaihimmakuhari.avif",
         "link": "https://en.nalsai.de/blog/seichi/fate#kaihimmakuhari-station-south-exit"
       },
       "geometry": {
@@ -36,7 +36,7 @@
       "type": "Feature",
       "properties": {
         "name": "M Bay Point Makuhari Building",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/fate/chiba-mbaypoint.png",
+        "image": "https://en.nalsai.de/blog/seichi/fate/chiba-mbaypoint.avif",
         "link": "https://en.nalsai.de/blog/seichi/fate#m-bay-point-makuhari-building"
       },
       "geometry": {
@@ -51,7 +51,7 @@
       "type": "Feature",
       "properties": {
         "name": "Sakuragaoka, Tama City, Tokyo",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/fate/tama-sakuragaoka.png",
+        "image": "https://en.nalsai.de/blog/seichi/fate/tama-sakuragaoka.avif",
         "link": "https://en.nalsai.de/blog/seichi/fate#residential-street-in-sakuragaoka",
         "description": "At the other end of Iroha-zaka Street"
       },
@@ -82,7 +82,7 @@
       "type": "Feature",
       "properties": {
         "name": "Plena Makuhari 2F",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/fate/chiba-plenamakuhari.png",
+        "image": "https://en.nalsai.de/blog/seichi/fate/chiba-plenamakuhari.avif",
         "link": "https://en.nalsai.de/blog/seichi/fate#plena-makuhari",
         "description": "mirrored"
       },
@@ -113,7 +113,7 @@
       "type": "Feature",
       "properties": {
         "name": "Iroha-zaka Street",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/fate/tama-irohazaka.png",
+        "image": "https://en.nalsai.de/blog/seichi/fate/tama-irohazaka.avif",
         "link": "https://en.nalsai.de/blog/seichi/fate#iroha-zaka",
         "description": "The same street is also a holy place for the Ghibli movie \"Whisper of the Heart\"."
       },
@@ -129,7 +129,7 @@
       "type": "Feature",
       "properties": {
         "name": "Kobe Bridge from Port Island Kita Park",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/fate/kobe-portpark-1.png",
+        "image": "https://en.nalsai.de/blog/seichi/fate/kobe-portpark-1.avif",
         "link": "https://en.nalsai.de/blog/seichi/fate#kobe-port-island-kita-park"
       },
       "geometry": {
@@ -144,7 +144,7 @@
       "type": "Feature",
       "properties": {
         "name": "Kobe Bridge from Port Island Kita Park 2",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/fate/kobe-portpark-2.png",
+        "image": "https://en.nalsai.de/blog/seichi/fate/kobe-portpark-2.avif",
         "link": "https://en.nalsai.de/blog/seichi/fate#kobe-port-island-kita-park"
       },
       "geometry": {
@@ -159,7 +159,7 @@
       "type": "Feature",
       "properties": {
         "name": "Port Island Kita Park",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/fate/kobe-portpark-3.png",
+        "image": "https://en.nalsai.de/blog/seichi/fate/kobe-portpark-3.avif",
         "link": "https://en.nalsai.de/blog/seichi/fate#kobe-port-island-kita-park",
         "description": "In real life the bridge is in the background and the shrubs are behind the camera."
       },
@@ -175,7 +175,7 @@
       "type": "Feature",
       "properties": {
         "name": "Kobe Bridge Sidewalk (towards Kobe)",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/fate/kobe-bridge-1.png",
+        "image": "https://en.nalsai.de/blog/seichi/fate/kobe-bridge-1.avif",
         "link": "https://en.nalsai.de/blog/seichi/fate#kobe-bridge"
       },
       "geometry": {
@@ -190,7 +190,7 @@
       "type": "Feature",
       "properties": {
         "name": "Kobe Bridge Sidewalk (towards Port Island)",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/fate/kobe-bridge-2.png",
+        "image": "https://en.nalsai.de/blog/seichi/fate/kobe-bridge-2.avif",
         "link": "https://en.nalsai.de/blog/seichi/fate#kobe-bridge"
       },
       "geometry": {
@@ -282,7 +282,7 @@
       "type": "Feature",
       "properties": {
         "name": "Uroko House",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/fate/kobe-uroko.png",
+        "image": "https://en.nalsai.de/blog/seichi/fate/kobe-uroko.avif",
         "link": "https://en.nalsai.de/blog/seichi/fate#uroko-house",
         "description": "Matou Residence"
       },
