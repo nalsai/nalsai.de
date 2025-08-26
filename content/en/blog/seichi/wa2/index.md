@@ -54,7 +54,7 @@ I went there during exam preparation week on Thursday 2025-07-17, visited the lo
 {{< img "street.avif" "png" >}}
 {{< img "ZGH56351-crop.avif" "jpg" >}}
 
-{{< img "street.avif" "png" >}}
+{{< img "street-night.avif" "png" >}}
 {{< img "ZGH80344-crop.avif" "jpg" >}}
 
 ## Strasbourg Station
@@ -71,7 +71,7 @@ I took the tram from Kehl (the closest station in Germany) to Strasbourg, so I w
 
 While the other locations were pretty much exactly the same, this one is quite different but you can see the inspiration.
 
-{{< img "hotel.avif" "jpg" >}}
+{{< img "hotel.avif" "png" >}}
 {{< img "ZGH51250-crop.avif" "jpg" >}}
 
 ## Map
