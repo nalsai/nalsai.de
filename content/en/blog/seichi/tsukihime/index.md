@@ -3,6 +3,7 @@ title = "Visiting Places from Tsukihime"
 description = "OG Tsukihime locations in Tōkyō"
 tags = ["Visual Novel", "Anime Tourism"]
 date = 2023-11-25
+update = 2025-08-26
 +++
 
 {{< youtube-audio id="0sgQOBJrPnI" title="Track 08" channel="Tsukihime" >}}
@@ -22,6 +23,9 @@ date = 2023-11-25
   - [Side of School](#side-of-school)
   - [School Courtyard](#school-courtyard)
 - [Restaurant Shangri-La](#restaurant-shangri-la)
+- [Shinjuku Sumitomo Building](#shinjuku-sumitomo-building)
+- [Bic Camera Shibuya Hachiko Exit Store Sign](#bic-camera-shibuya-hachiko-exit-store-sign)
+- [Nakano Residential Street](#nakano-residential-street)
 - [Bonus 1: The Arc de Triomphe in Paris](#bonus-1-the-arc-de-triomphe-in-paris)
 - [Bonus 2: The Trevi Fountain in Rome](#bonus-2-the-trevi-fountain-in-rome)
 - [Bonus 3: Arcueid's Home](#bonus-3-arcueids-home)
@@ -56,8 +60,6 @@ The fountain jets have probably been replaced, so it looks a bit different.
 Due to the fountain jets being higher, I took the photo further upward than the one in Tsukihime.
 Maybe, with the right timing, it would be possible to get a photo more similar to the one in Tsukihime.  
 Also, I have no clue from which angle the photo was taken, as the trees obviously look different now.
-
-Here is a short video: <https://photos.google.com/share/AF1QipNmrFuproa0wQsEfc7w8rKn28urgPjKw22ODQvSwSBkQTR7vQBLFqiXcVZBPUKUfg/photo/AF1QipOrgg7LRwcx9fnnXLbOrzReKxqQn7XMgIoO4Qso?key=M0t3YUNoRTZsZkJkZ0RGY3piblZDZWd1ejdMYlZn>
 
 ## The path with the trees
 
@@ -104,6 +106,8 @@ With the cars and the people, it was hard to get the photo. Also, the rounded sh
 {{< img bg_25a2.avif jpg >}}
 {{< img XIM46856-crop.avif jpg >}}  
 Date: 2023-09-22
+
+When I took this photo, it was my first visit to the Shibuya Modi, but I have been there several times since then. The Shibuya Tokyo Anime Center in DNP PLAZA SHIBUYA on the 2nd floor hosts various anime and anime-related exhibitions, and the Maruino Anime on the 7th floor hosts pop-up shops for various franchises. Events I visited were the the Touhou Exhibition 大・東方Project展2024 and the Summer Pockets Pop-Up Shop.
 
 ## School
 
@@ -152,6 +156,31 @@ As it was late in the evening, nobody was there besides me.
 {{< img XL281354-crop.avif jpg >}}  
 Date: 2023-12-01
 
+## Shinjuku Sumitomo Building
+
+Since this building has been renovated, it is now very different from how it appeared in Tsukihime. Only the trees remain in their original positions, though thicker than before.
+With the building in the way, it was hard to get the photo from an angle that somewhat matched the original. I ended up entering the building and taking the photo through the glass wall.
+
+{{< img bg_29a.avif jpg >}}
+{{< img "ZE225137-crop.avif" "jpg" >}}  
+Date: 2025-05-01
+
+## Bic Camera Shibuya Hachiko Exit Store Sign
+
+Given that this is in Shinjuku, this place has also changed quite a bit.
+
+{{< img bg_86.avif jpg >}}
+{{< img "ZE228235-crop.avif" "jpg" >}}  
+Date: 2025-05-02
+
+## Nakano Residential Street
+
+It seems like the pole on the left has been replaced. On the manhole cover, you can still see the remains of the white paint.
+
+{{< img bg_23a.avif jpg >}}
+{{< img ZE644174-crop.avif jpg >}}  
+Date: 2025-05-06
+
 ## Bonus 1: The Arc de Triomphe in Paris
 
 These bonus images appear when Shiki dreams about the past of Roa's seventeenth incarnation.
@@ -164,7 +193,7 @@ Date: 2016-08-25
 
 ## Bonus 2: The Trevi Fountain in Rome
 
-In July 2019, I went to Rome as part of a school trip. It was very crowded around the fountain, so I couldn't get any closer.
+I went to Rome as part of a school trip in July 2019. As a famous tourist attraction, the Trevi Fountain is always crowded.
 
 {{< img cmo_09.avif jpg >}}
 {{< img TGE56518-crop.avif jpg >}}  
@@ -180,8 +209,8 @@ This is an large apartment complex in Komae, Tokyo. Since it is a private reside
 
 ## Bonus 4: More Locations
 
-The Tohno Mansion is quite clearly Château de Remaisnil in France. I wonder about the backstory of this picture.
-It is private property, but it seems like it was a hotel at some point between 1987 and 2000. I want to visit it someday but being far from any typical tourist spots, it is quite difficult to get to and you can only see it from the outside anyway.
+The Tohno Mansion is quite clearly Château de Remaisnil in France.
+It is private property, but it seems like it was a hotel between 1987 and 2000.
 
 {{< img bg_48a.avif jpg >}}
 
