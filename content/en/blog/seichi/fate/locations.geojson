@@ -4,9 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fate: Shoraitei Makuhari Seaside Park",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Emiya%20Household/Backyard/o%E5%BA%AD-%28%E6%98%BC%29.png",
-        "link": "https://torusu7.hatenablog.com/entry/2023/09/21/233212",
+        "name": "Shōraitei Makuhari Seaside Park",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/fate/chiba-shoraitai.png",
+        "link": "https://en.nalsai.de/blog/seichi/fate#emiya-residence-shōraitai",
         "description": "Emiya Residence"
       },
       "geometry": {
@@ -20,9 +20,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fate: Kaihimmakuhari Station South Exit",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Shinto/Central%20Shinto/o%E9%A7%85%E5%89%8D%E3%83%91%E3%83%BC%E3%82%AF-%28%E6%98%BC%29.png",
-        "link": "https://home.gamer.com.tw/artwork.php?sn=5718048"
+        "name": "Kaihimmakuhari Station South Exit",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/fate/chiba-kaihimmakuhari.png",
+        "link": "https://en.nalsai.de/blog/seichi/fate#kaihimmakuhari-station-south-exit"
       },
       "geometry": {
         "type": "Point",
@@ -35,9 +35,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fate: M Bay Point Makuhari Building",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Shinto/Building%20%28Outside%29/o%E3%83%93%E3%83%AB%E8%A1%97-%28%E6%98%BC%29.png",
-        "link": "https://home.gamer.com.tw/artwork.php?sn=5718048"
+        "name": "M Bay Point Makuhari Building",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/fate/chiba-mbaypoint.png",
+        "link": "https://en.nalsai.de/blog/seichi/fate#m-bay-point-makuhari-building"
       },
       "geometry": {
         "type": "Point",
@@ -50,9 +50,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fate: Sakuragaoka, Tama City, Tokyo",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Miyama/Intersection/o%E4%BA%A4%E5%B7%AE%E7%82%B9-%28%E6%98%BC%29.png",
-        "link": "https://kimamanidance.hatenablog.com/entry/2020/05/16/180000",
+        "name": "Sakuragaoka, Tama City, Tokyo",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/fate/tama-sakuragaoka.png",
+        "link": "https://en.nalsai.de/blog/seichi/fate#residential-street-in-sakuragaoka",
         "description": "At the other end of Iroha-zaka Street"
       },
       "geometry": {
@@ -66,8 +66,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fate: Japan Christian Junior College",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Homurahara%20Academy/Entrance/o%E5%AD%A6%E5%9C%92%E6%AD%A3%E9%96%80-%28%E6%98%BC%29.png",
+        "name": "Japan Christian Junior College",
+        "image": "https://en.nalsai.de/blog/seichi/fate/chiba-jcjc.avif",
         "description": "The college was demolished in 2009 and the site is now filled with rows of detached houses."
       },
       "geometry": {
@@ -81,9 +81,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fate: Plena Makuhari 2F",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Shinto/i%E6%96%B0%E9%83%BD_%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%83%A2%E3%83%BC%E3%83%AB.png",
-        "link": "https://www.google.com/maps/d/u/0/viewer?hl=ja&mid=1xFHW6NyXTLerfvGu_fP9b4qpXEWFBF5m&ll=35.647670449938026%2C140.04058998034674&z=20",
+        "name": "Plena Makuhari 2F",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/fate/chiba-plenamakuhari.png",
+        "link": "https://en.nalsai.de/blog/seichi/fate#plena-makuhari",
         "description": "mirrored"
       },
       "geometry": {
@@ -97,9 +97,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fate: Umeyashiki Street",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Miyama/Shopping%20District/o%E5%95%86%E5%BA%97%E8%A1%97-%28%E6%98%BC%29.png",
-        "link": "https://kimamanidance.hatenablog.com/entry/2021/02/21/180000"
+        "name": "Umeyashiki Street",
+        "image": "https://en.nalsai.de/blog/seichi/fate/umeyashiki.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fate#umeyashiki-street-ōta-tōkyō"
       },
       "geometry": {
         "type": "Point",
@@ -112,9 +112,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fate: Iroha-zaka Street",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Miyama/To%20Homurahara/o%E6%A0%A1%E8%88%8E%E3%81%AB%E7%B6%9A%E3%81%8F%E9%81%93-%28%E6%98%BC%29.png",
-        "link": "https://home.gamer.com.tw/artwork.php?sn=5718048",
+        "name": "Iroha-zaka Street",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/fate/tama-irohazaka.png",
+        "link": "https://en.nalsai.de/blog/seichi/fate#iroha-zaka",
         "description": "The same street is also a holy place for the Ghibli movie \"Whisper of the Heart\"."
       },
       "geometry": {
@@ -128,24 +128,24 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fate: Kobe Bridge from Port Island Kita Park",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Fuyuki%20Bridge/Riverside%20Park%20A/o%E5%86%AC%E6%9C%A8%E5%A4%A7%E6%A9%8B%E8%A2%82%E3%81%AE%E5%85%AC%E5%9C%921-%28%E6%98%BC%29.png",
-        "link": "https://torusu7.hatenablog.com/entry/2018/12/06/120157"
+        "name": "Kobe Bridge from Port Island Kita Park",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/fate/kobe-portpark-1.png",
+        "link": "https://en.nalsai.de/blog/seichi/fate#kobe-port-island-kita-park"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.2042098097839,
-          34.67666861549114
+          135.20461709003675,
+          34.67649541318225
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Fate: Kobe Bridge from Port Island Kita Park 2",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Fuyuki%20Bridge/o%E6%A9%8B%E3%81%8C%E8%A6%8B%E3%81%88%E3%82%8B%E5%B7%9D%E3%81%B9%E3%82%8A-%28%E6%98%BC%29.png",
-        "link": "https://torusu7.hatenablog.com/entry/2018/12/06/120157"
+        "name": "Kobe Bridge from Port Island Kita Park 2",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/fate/kobe-portpark-2.png",
+        "link": "https://en.nalsai.de/blog/seichi/fate#kobe-port-island-kita-park"
       },
       "geometry": {
         "type": "Point",
@@ -158,9 +158,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fate: Port Island Kita Park",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Fuyuki%20Bridge/Riverside%20Park%20B/o%E5%86%AC%E6%9C%A8%E5%A4%A7%E6%A9%8B%E8%A2%82%E3%81%AE%E5%85%AC%E5%9C%922-%28%E5%A4%9C%29.png",
-        "link": "https://torusu7.hatenablog.com/entry/2018/12/06/120157",
+        "name": "Port Island Kita Park",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/fate/kobe-portpark-3.png",
+        "link": "https://en.nalsai.de/blog/seichi/fate#kobe-port-island-kita-park",
         "description": "In real life the bridge is in the background and the shrubs are behind the camera."
       },
       "geometry": {
@@ -174,9 +174,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fate: Kobe Bridge Sidewalk (towards Kobe)",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Fuyuki%20Bridge/Towards%20Shinto/o%E6%AD%A9%E9%81%93%E6%A9%8B%28%E8%A1%8C%E3%81%8D%29-%28%E6%98%BC%29.png",
-        "link": "https://torusu7.hatenablog.com/entry/2018/12/06/120157"
+        "name": "Kobe Bridge Sidewalk (towards Kobe)",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/fate/kobe-bridge-1.png",
+        "link": "https://en.nalsai.de/blog/seichi/fate#kobe-bridge"
       },
       "geometry": {
         "type": "Point",
@@ -189,9 +189,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fate: Kobe Bridge Sidewalk (towards Port Island)",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Fuyuki%20Bridge/Towards%20Miyama/o%E6%AD%A9%E9%81%93%E6%A9%8B%28%E5%B8%B0%E3%82%8A%29-%28%E6%98%BC%29.png",
-        "link": "https://torusu7.hatenablog.com/entry/2018/12/06/120157"
+        "name": "Kobe Bridge Sidewalk (towards Port Island)",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/fate/kobe-bridge-2.png",
+        "link": "https://en.nalsai.de/blog/seichi/fate#kobe-bridge"
       },
       "geometry": {
         "type": "Point",
@@ -204,9 +204,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fate: Kitano Street",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Shinto/To%20Fuyuki%20Church/o%E6%95%99%E4%BC%9A%E4%BB%98%E8%BF%91%E3%81%AE%E8%A1%97%E4%B8%A6-%28%E6%9B%87%29.png",
-        "link": "https://torusu7.hatenablog.com/entry/2018/12/06/120157"
+        "name": "Kitano Street",
+        "image": "https://en.nalsai.de/blog/seichi/fate/kobe-kitano.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fate#kitano-street"
       },
       "geometry": {
         "type": "Point",
@@ -219,9 +219,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fate: Fudo-Zaka Street",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Miyama/Neighbourhood/o%E9%81%A0%E5%9D%82%E9%82%B8%E4%BB%98%E8%BF%91%E3%81%AE%E8%A1%97%E4%B8%A6-%28%E6%98%BC%29.png",
-        "link": "https://torusu7.hatenablog.com/entry/2023/09/21/233212"
+        "name": "Fudo-zaka Street",
+        "image": "https://en.nalsai.de/blog/seichi/fate/kobe-fudozaka.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fate#fudo-zaka-street"
       },
       "geometry": {
         "type": "Point",
@@ -234,8 +234,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fate: Oda Family Nagaya-mon Gate",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Emiya%20Household/Entrance%20%28Outside%29/o%E8%A1%9B%E5%AE%AE%E9%82%B8%E5%A4%96%E8%A6%B3-%28%E6%98%BC%29.png",
+        "name": "Oda Family Nagaya-mon Gate",
+        "image": "https://en.nalsai.de/blog/seichi/fate/akashi-kyudo-dojo.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fate#oda-family-nagaya-mon-gate",
         "description": "Emiya Residence Outer Wall"
       },
       "geometry": {
@@ -249,9 +250,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fate: Hyogo Prefectural Archery Dojo",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Homurahara%20Academy/Archery%20Dojo%20%28Outside%29/o%E5%BC%93%E9%81%93%E5%A0%B4%E5%89%8D-%28%E6%98%BC%29.png",
-        "link": "https://torusu7.hatenablog.com/entry/2023/09/21/233212"
+        "name": "Hyogo Prefectural Archery Dojo",
+        "image": "https://en.nalsai.de/blog/seichi/fate/akashi-kyudo-dojo.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fate#hyogo-prefectural-archery-dojo"
       },
       "geometry": {
         "type": "Point",
@@ -264,9 +265,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fate: Weathercock House",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Tohsaka%20Manor/Outside/o%E9%81%A0%E5%9D%82%E9%82%B8%E5%A4%96%E8%A6%B3-%28%E6%98%BC%29.png",
-        "link": "https://torusu7.hatenablog.com/entry/2023/09/21/233212",
+        "name": "Weathercock House",
+        "image": "https://en.nalsai.de/blog/seichi/fate/kobe-weathercock.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fate#weathercock-house",
         "description": "Tohsaka Residence"
       },
       "geometry": {
@@ -280,8 +281,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fate: Uroko House",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Tohsaka%20Manor/Outside/o%E9%81%A0%E5%9D%82%E9%82%B8%E5%A4%96%E8%A6%B3-%28%E6%98%BC%29.png",
+        "name": "Uroko House",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/fate/kobe-uroko.png",
+        "link": "https://en.nalsai.de/blog/seichi/fate#uroko-house",
         "description": "Matou Residence"
       },
       "geometry": {
@@ -295,8 +297,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fate: Uroko House (Interior)",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/Fatestay%20night%20REMASTERED/Tohsaka%20Manor/Living%20Room/i%E9%81%A0%E5%9D%82%E9%82%B8%E5%B1%85%E9%96%93.png",
+        "name": "Uroko House (Interior)",
+        "image": "https://en.nalsai.de/blog/seichi/fate/kobe-uroko-interior.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fate#uroko-house",
         "description": "Interior of the Tohsaka Residence"
       },
       "geometry": {
@@ -304,6 +307,21 @@
         "coordinates": [
           135.190571915089,
           34.70290064494094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yugyō-ji",
+        "image": "https://en.nalsai.de/blog/seichi/fate/yugyoji.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fate#yugyō-ji-fujisawa-kanagawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4883360811191,
+          35.34804540673058
         ]
       }
     }
