@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "name": "Fruits Basket: Former Den-en-chofu Station Building",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191103/20191103005814.jpg"
+        "image": "https://en.nalsai.de/img/blog/seichi/fruits-basket/fruitsbasket07.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fruits-basket/#former-den-en-chofu-station-building"
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +20,8 @@
       "type": "Feature",
       "properties": {
         "name": "Fruits Basket: Former Den-en-chofu Station Building - Side",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191103/20191103005830.jpg"
+        "image": "https://en.nalsai.de/img/blog/seichi/fruits-basket/fruitsbasket08.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fruits-basket/#former-den-en-chofu-station-building"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +35,8 @@
       "type": "Feature",
       "properties": {
         "name": "Fruits Basket: Fountain in Front of the Former Den-en-chofu Station Building",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191103/20191103005918.jpg"
+        "image": "https://en.nalsai.de/img/blog/seichi/fruits-basket/fruitsbasket09.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fruits-basket/#former-den-en-chofu-station-building"
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +50,8 @@
       "type": "Feature",
       "properties": {
         "name": "Fruits Basket: Maruko Bridge",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191211/20191211161247.jpg"
+        "image": "https://en.nalsai.de/img/blog/seichi/fruits-basket/fruitsbasket19.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fruits-basket/#maruko-bridge"
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +65,8 @@
       "type": "Feature",
       "properties": {
         "name": "Fruits Basket: Maruko Bridge 2",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191211/20191211161336.jpg"
+        "image": "https://en.nalsai.de/img/blog/seichi/fruits-basket/fruitsbasket20.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fruits-basket/#maruko-bridge"
       },
       "geometry": {
         "type": "Point",
@@ -75,8 +80,8 @@
       "type": "Feature",
       "properties": {
         "name": "Fruits Basket: Maruko Bridge 3",
-        "image": "https://livedoor.blogimg.jp/fly_ask/imgs/3/3/33d813d3.jpg",
-        "link": "https://furaba-animeseichi.blog.jp/archives/16624225.html"
+        "image": "https://en.nalsai.de/img/blog/seichi/fruits-basket/fruitsbasket03.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fruits-basket/#maruko-bridge"
       },
       "geometry": {
         "type": "Point",
@@ -90,8 +95,8 @@
       "type": "Feature",
       "properties": {
         "name": "Fruits Basket: Maruko Bridge 4",
-        "image": "https://livedoor.blogimg.jp/fly_ask/imgs/5/4/54482e73.jpg",
-        "link": "https://furaba-animeseichi.blog.jp/archives/16624225.html"
+        "image": "https://en.nalsai.de/img/blog/seichi/fruits-basket/fruitsbasket05.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fruits-basket/#maruko-bridge"
       },
       "geometry": {
         "type": "Point",
@@ -105,8 +110,8 @@
       "type": "Feature",
       "properties": {
         "name": "Fruits Basket: Gyokusendo Book Store",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191211/20191211160856.jpg",
-        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/19/180000"
+        "image": "https://en.nalsai.de/img/blog/seichi/fruits-basket/fruitsbasket17.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fruits-basket/#gyokusendo-book-store"
       },
       "geometry": {
         "type": "Point",
@@ -120,8 +125,8 @@
       "type": "Feature",
       "properties": {
         "name": "Fruits Basket: Road East of Gyokusendo Book Store",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191211/20191211160525.jpg",
-        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/19/180000"
+        "image": "https://en.nalsai.de/img/blog/seichi/fruits-basket/fruitsbasket16.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fruits-basket/#gyokusendo-book-store"
       },
       "geometry": {
         "type": "Point",
@@ -135,8 +140,8 @@
       "type": "Feature",
       "properties": {
         "name": "Fruits Basket: Gyokusendo Book Store 2",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191211/20191211160913.jpg",
-        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/19/180000"
+        "image": "https://en.nalsai.de/img/blog/seichi/fruits-basket/fruitsbasket18.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fruits-basket/#gyokusendo-book-store"
       },
       "geometry": {
         "type": "Point",
@@ -150,8 +155,8 @@
       "type": "Feature",
       "properties": {
         "name": "Fruits Basket: Akiba Black Pine",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191211/20191211153649.jpg",
-        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/19/180000"
+        "image": "https://en.nalsai.de/img/blog/seichi/fruits-basket/fruitsbasket15.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fruits-basket/#akiba-black-pine"
       },
       "geometry": {
         "type": "Point",
@@ -165,8 +170,8 @@
       "type": "Feature",
       "properties": {
         "name": "Fruits Basket: Hōrai Park Street",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191104/20191104153840.jpg",
-        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/18/180000"
+        "image": "https://en.nalsai.de/img/blog/seichi/fruits-basket/fruitsbasket14.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fruits-basket/#hōrai-park"
       },
       "geometry": {
         "type": "Point",
@@ -180,8 +185,8 @@
       "type": "Feature",
       "properties": {
         "name": "Fruits Basket: Hōrai Park South East Entrance",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191104/20191104153333.jpg",
-        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/18/180000"
+        "image": "https://en.nalsai.de/img/blog/seichi/fruits-basket/fruitsbasket13.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fruits-basket/#hōrai-park"
       },
       "geometry": {
         "type": "Point",
@@ -195,10 +200,10 @@
       "type": "Feature",
       "properties": {
         "name": "Fruits Basket: Street along the Train Tracks 1",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191104/20191104152403.jpg",
-        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/18/180000"
+        "image": "https://en.nalsai.de/img/blog/seichi/fruits-basket/fruitsbasket10.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fruits-basket/#street-along-the-train-tracks"
       },
-      "geometry": {
+      "geometry": { 
         "type": "Point",
         "coordinates": [
           139.6673469376963,
@@ -210,8 +215,8 @@
       "type": "Feature",
       "properties": {
         "name": "Fruits Basket: Street along the Train Tracks 2",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191104/20191104152436.jpg",
-        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/18/180000"
+        "image": "https://en.nalsai.de/img/blog/seichi/fruits-basket/fruitsbasket11.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fruits-basket/#street-along-the-train-tracks"
       },
       "geometry": {
         "type": "Point",
@@ -225,8 +230,8 @@
       "type": "Feature",
       "properties": {
         "name": "Fruits Basket: Street along the Train Tracks 3",
-        "image": "https://livedoor.blogimg.jp/fly_ask/imgs/6/7/67522ca3.jpg",
-        "link": "https://furaba-animeseichi.blog.jp/archives/16624225.html"
+        "image": "https://en.nalsai.de/img/blog/seichi/fruits-basket/fruitsbasket06.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fruits-basket/#street-along-the-train-tracks"
       },
       "geometry": {
         "type": "Point",
@@ -240,8 +245,8 @@
       "type": "Feature",
       "properties": {
         "name": "Fruits Basket: Street along the Train Tracks 3 - T-Junction",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kimamanidance/20191104/20191104152538.jpg",
-        "link": "https://kimamanidance.hatenablog.com/entry/2019/12/18/180000"
+        "image": "https://en.nalsai.de/img/blog/seichi/fruits-basket/fruitsbasket12.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fruits-basket/#street-along-the-train-tracks"
       },
       "geometry": {
         "type": "Point",
@@ -254,9 +259,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fruits Basket: 4-chome 1",
-        "image": "https://livedoor.blogimg.jp/fly_ask/imgs/e/5/e545e77f.jpg",
-        "link": "https://furaba-animeseichi.blog.jp/archives/16624225.html"
+        "name": "Fruits Basket: 4-chome (1)",
+        "image": "https://en.nalsai.de/img/blog/seichi/fruits-basket/fruitsbasket22.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fruits-basket/#den-en-chōfu-4-chome"
       },
       "geometry": {
         "type": "Point",
@@ -270,8 +275,8 @@
       "type": "Feature",
       "properties": {
         "name": "Fruits Basket: 4-chome Stairs",
-        "image": "https://livedoor.blogimg.jp/fly_ask/imgs/4/3/4386af5b.jpg",
-        "link": "https://furaba-animeseichi.blog.jp/archives/16624225.html"
+        "image": "https://en.nalsai.de/img/blog/seichi/fruits-basket/fruitsbasket04.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fruits-basket/#den-en-chōfu-4-chome"
       },
       "geometry": {
         "type": "Point",
@@ -285,8 +290,8 @@
       "type": "Feature",
       "properties": {
         "name": "Fruits Basket: 4-chome Corner",
-        "image": "https://livedoor.blogimg.jp/fly_ask/imgs/2/8/28ff77f0.jpg",
-        "link": "https://furaba-animeseichi.blog.jp/archives/16624225.html"
+        "image": "https://en.nalsai.de/img/blog/seichi/fruits-basket/fruitsbasket02.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fruits-basket/#den-en-chōfu-4-chome"
       },
       "geometry": {
         "type": "Point",
@@ -299,9 +304,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fruits Basket: 4-chome 2",
-        "image": "https://livedoor.blogimg.jp/fly_ask/imgs/d/f/dfd2834f.jpg",
-        "link": "https://furaba-animeseichi.blog.jp/archives/16624225.html"
+        "name": "Fruits Basket: 4-chome (2)",
+        "image": "https://en.nalsai.de/img/blog/seichi/fruits-basket/fruitsbasket21.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fruits-basket/#den-en-chōfu-4-chome"
       },
       "geometry": {
         "type": "Point",
@@ -314,9 +319,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fruits Basket: 4-chome 3",
-        "image": "https://livedoor.blogimg.jp/fly_ask/imgs/3/e/3ecd38e0.jpg",
-        "link": "https://furaba-animeseichi.blog.jp/archives/16624225.html"
+        "name": "Fruits Basket: 4-chome (3)",
+        "image": "https://en.nalsai.de/img/blog/seichi/fruits-basket/fruitsbasket01.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fruits-basket/#den-en-chōfu-4-chome"
       },
       "geometry": {
         "type": "Point",
