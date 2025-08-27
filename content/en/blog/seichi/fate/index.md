@@ -5,7 +5,7 @@ tags = [
   "Visual Novel",
   "Anime Tourism"
 ]
-date = 2025-05-30
+date = 2025-08-26
 +++
 
 ## Kōbe
