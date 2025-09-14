@@ -125,7 +125,6 @@ Sadly the weather was not very good while I was in Chiba so the photos are a bit
 {{< img "ZE236888-crop.avif" jpg >}}
 
 <!--
-
 ## (Chiba) Japan Christian Junior College
 
 {{< img "chiba-jcjc.avif" png >}}
@@ -133,6 +132,15 @@ Sadly the weather was not very good while I was in Chiba so the photos are a bit
 ## Yugyō-ji (Fujisawa, Kanagawa)
 
 {{< img "yugyoji.avif" png >}}
+
+## Engaku-ji (Kamakura, Kanagawa)
+{{< img "engakuji.avif" png >}}
+
+## Eihei-ji (Fukui)
+
+The interior of the temple in the visual novel is based on Eihei-ji, a famous Zen Buddhist temple in Fukui Prefecture.
+
+{{< img "eiheiji.avif" png >}}
 
 ## Umeyashiki Street (Ōta, Tōkyō)
 
