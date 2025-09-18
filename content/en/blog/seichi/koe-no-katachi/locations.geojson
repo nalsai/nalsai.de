@@ -1,0 +1,216 @@
+{
+    "type": "FeatureCollection",
+    "name": "聲の形 ~ A Silent Voice",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大垣公園",
+                "description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.6149876,
+                    35.3606974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新大橋",
+                "description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.6170099,
+                    35.3634492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大垣駅",
+                "description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.617113,
+                    35.366606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "四季の広場",
+                "description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.6118145,
+                    35.3577443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "揖斐川周辺",
+                "description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.657925799999987,
+                    35.3611404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OKB Street 大垣駅通り",
+                "description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.6173626,
+                    35.3621454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "総合福祉会館",
+                "description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.612259599999987,
+                    35.3574851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "神田町1丁目交差点",
+                "description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.6105873,
+                    35.3605016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "青柳橋",
+                "description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.596845,
+                    35.346653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "養老駅",
+                "description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.55692,
+                    35.286794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "養老の滝",
+                "description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.534833,
+                    35.280601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "養老鉄道",
+                "description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.556883,
+                    35.286465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "JR岐阜駅",
+                "description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.756438,
+                    35.409712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金町8丁目交差点",
+                "description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.756946,
+                    35.412627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "西田花店",
+                "description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.6173886,
+                    35.3618522
+                ]
+            }
+        }
+    ]
+}

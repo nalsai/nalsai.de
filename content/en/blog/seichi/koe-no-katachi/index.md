@@ -40,6 +40,10 @@ Considering it was Cherry Blossom season, I decided to visit Ōgaki to see the l
 The Ōgaki Tourism Association has created a special page for the anime movie A Silent Voice (Koe no Katachi) with information about the locations featured in the film. You can find the page here:
 <https://www.ogakikanko.jp/koenokatati/movie/english/>
 
+---
+
+{{< map >}}
+
 <style>
 .container img {
     max-width: 645px;
