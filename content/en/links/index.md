@@ -6,7 +6,7 @@ menu: "main"
 weight: 10
 displayheader: false
 categories:
-  - name: "Public Services"
+  - name: "Services"
     color: "#04724D"
     items:
       - name: Files
@@ -15,22 +15,12 @@ categories:
       - name: "Flatpaks"
         icon: "bi-box-seam"
         url: "https://github.com/Nalsai/MyFlatpaks/"
-      - name: "KMS"
-        icon: "bi-key"
-        url: "https://kms.nils.moe"
-      - name: "Status"
-        icon: "bi-heart-pulse"
-        url: "https://status.nils.moe"
-      - name: "Stirling PDF"
-        icon: "bi-file-earmark-pdf"
-        url: "https://pdf.nils.moe/"
-
-  - name: "Private Shared Services"
-    color: "#064663"
-    items:
       - name: "Jellyfin"
         logo: "img/jellyfin.avif"
         url: "https://jellyfin.hachiman.nils.moe"
+      - name: "Status"
+        icon: "bi-heart-pulse"
+        url: "https://status.nils.moe"
       - name: "Tandoor"
         logo: "img/tandoor.avif"
         url: "https://tandoor.nils.moe/"
@@ -49,7 +39,7 @@ categories:
         url: "https://dockge.alya.nils.moe"
       - name: "Filebrowser"
         logo: "img/filebrowser.avif"
-        url: "https://fb.alya.nils.moe/"
+        url: "https://filebrowser.alya.nils.moe/"
       - name: "Flatpak"
         logo: "img/flatpak.svg"
         url: "https://flatpak.nils.moe/status"
