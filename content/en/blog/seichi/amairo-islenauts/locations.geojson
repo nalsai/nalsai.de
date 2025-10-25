@@ -1,0 +1,143 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amairo*Islenauts: Plönlein",
+        "image": "https://imgsa.baidu.com/forum/pic/item/4ef6474a20a44623f37899469622720e0df3d7bc.jpg",
+        "link": "https://tieba.baidu.com/p/6051448222",
+        "description":"the original image from the VN was mirrored"
+      },
+      "geometry": {
+        "coordinates": [
+          10.18001087615658,
+          49.37465429354014
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amairo*Islenauts: T-Junction Untere Schmiedgasse and Wenggasse",
+        "image": "https://imgsa.baidu.com/forum/pic/item/054351ee3d6d55fb46744a0263224f4a21a4ddbc.jpg",
+        "link": "https://tieba.baidu.com/p/6051448222",
+        "description":"the original image from the VN was mirrored"
+      },
+      "geometry": {
+        "coordinates": [
+          10.179979332956233,
+          49.375112776680204
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amairo*Islenauts: St. Jakobskirche",
+        "image": "https://imgsa.baidu.com/forum/pic/item/95d432f33a87e950145ec3481e385343faf2b498.jpg",
+        "link": "https://tieba.baidu.com/p/6051448222"
+      },
+      "geometry": {
+        "coordinates": [
+          10.17827926075296,
+          49.37787930021757
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amairo*Islenauts: Goldenes Fass",
+        "image": "https://imgsa.baidu.com/forum/pic/item/fa2ddf2a6059252dd4b331203a9b033b5ab5b945.jpg",
+        "link": "https://tieba.baidu.com/p/6051448222"
+      },
+      "geometry": {
+        "coordinates": [
+          10.191366427959311,
+          49.37543130349832
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amairo*Islenauts: Weinstraße",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/amairo/2018042901231862c.jpg",
+        "link": "http://manchot11005kai.blog.fc2.com/blog-entry-132.html"
+      },
+      "geometry": {
+        "coordinates": [
+          11.575484028325004,
+          48.138798925909164
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amairo*Islenauts: Karlsplatz",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/amairo/20180429012312d22.jpg",
+        "link": "http://manchot11005kai.blog.fc2.com/blog-entry-132.html"
+      },
+      "geometry": {
+        "coordinates": [
+          11.56574333289011,
+          48.1391247701503
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amairo*Islenauts: Schloss Nymphenburg",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/amairo/2018042901231071d.jpg",
+        "link": "http://manchot11005kai.blog.fc2.com/blog-entry-132.html"
+      },
+      "geometry": {
+        "coordinates": [
+          11.505129065621055,
+          48.158311730650794
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amairo*Islenauts: Schloss Nymphenburg - Fountain",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/amairo/Dknh4rfWwAAjLCT.jpg",
+        "link": "http://manchot11005kai.blog.fc2.com/blog-entry-132.html"
+      },
+      "geometry": {
+        "coordinates": [
+          11.50128673586936,
+          48.1581795195023
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amairo*Islenauts: Schloss Nymphenburg - Bridge",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/amairo/Dknij01X4AAk1cd.jpg",
+        "link": "http://manchot11005kai.blog.fc2.com/blog-entry-132.html",
+        "description":"extimated location"
+      },
+      "geometry": {
+        "coordinates": [
+          11.50007849852936,
+          48.15683619255715
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
