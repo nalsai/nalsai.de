@@ -30,6 +30,10 @@ date = 2025-10-25
 {{< img "TODO.avif" "jpg" >}}
 {{< img "TODO-crop.avif" "jpg" >}}
 
+![alt text](ZIL56532-crop.avif)
+![alt text](ZIL58160-crop.avif)
+![alt text](ZIL58273-crop.avif)
+
 ## Munich
 
 ### Schloss Nymphenburg
@@ -42,6 +46,10 @@ date = 2025-10-25
 
 {{< img "TODO.avif" "jpg" >}}
 {{< img "TODO-crop.avif" "jpg" >}}
+
+![alt text](ZIM57767-crop.avif)
+![alt text](ZIM58471-crop.avif)
+![alt text](ZIM58525-crop.avif)
 
 ### Karlsplatz
 
