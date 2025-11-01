@@ -29,6 +29,12 @@ date = 2025-10-25
 
 ### Plönlein
 
+![alt text](ZIL56135-crop.avif)
+![alt text](ZIL56233-crop.avif)
+![alt text](ZIL57630-crop.avif)
+![alt text](ZIL58374-crop.avif)
+![alt text](ZIM36607-crop.avif)
+
 ## Heidelberg
 
 {{< img "TODO.avif" "jpg" >}}
