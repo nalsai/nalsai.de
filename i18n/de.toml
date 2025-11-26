@@ -64,3 +64,9 @@ other = "Neu"
 
 [website]
 other = "Webseite"
+
+[clear]
+other = "Suche löschen"
+
+[searchPosts]
+other = "Posts durchsuchen..."

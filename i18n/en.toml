@@ -64,3 +64,9 @@ other = "New"
 
 [website]
 other = "Website"
+
+[clear]
+other = "Clear"
+
+[searchPosts]
+other = "Search posts..."
