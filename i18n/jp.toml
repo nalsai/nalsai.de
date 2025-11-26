@@ -1,0 +1,75 @@
+[top]
+other = "トップへ戻る"
+
+[404]
+other = "404 ページが見つかりません"
+
+[back-home]
+other = "ホームページに戻る"
+
+[built]
+other = "サイトジェネレーター："
+
+[commit]
+other = "コミット："
+
+[on]
+other = "構築日時："
+
+[by]
+other = "by"
+
+[with]
+other = "with"
+
+[Pages]
+other = "ページ"
+
+[Language]
+other = "言語"
+
+[preview-image]
+other = "プレビュー画像"
+
+[professionalExperience]
+other = "職歴"
+
+[education]
+other = "学歴"
+
+[skills]
+other = "スキル"
+
+[interestsHobbies]
+other = "趣味"
+
+[comments]
+other = "コメント"
+
+[previous]
+other = "前へ"
+
+[next]
+other = "次へ"
+
+[about-me]
+other = "私について"
+
+[about-me-1]
+other = "ようこそ私のホームページへ。私はフューニス　ニルスです。だからこのページをニルスホームと名付けました。今"
+[about-me-2]
+other = "才でハイデルベルク大学の学生です。趣味は写真撮影とプログラミングで、ウェブサイトを作成するのも好きです。個人利用のためにサーバーを運営しています。"
+[about-me-3]
+other = "暇な時間に音ゲーをしたり、アニメを見たり、エロゲーを読んだりするのが好きです。また、東方プロジェクト、エルダースクロールズ、ニーアオートマタも好きです。"
+
+[new]
+other = "新しい"
+
+[website]
+other = "ウェブサイト"
+
+[clear]
+other = "クリア"
+
+[searchPosts]
+other = "投稿を検索…"

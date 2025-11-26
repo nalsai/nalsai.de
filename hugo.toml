@@ -18,6 +18,13 @@ DefaultContentLanguage = "en"
     languageName = "Deutsch"
     title = "Nils' Webseite"
     weight = 2
+  [languages.jp]
+    baseURL = "https://jp.nalsai.de"
+    contentDir = "content/jp"
+    languageCode = 'ja-JP'
+    languageName = "日本語"
+    title = "ニルスホーム"
+    weight = 3
 
 [markup]
   defaultMarkdownHandler = 'goldmark'
