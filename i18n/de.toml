@@ -37,6 +37,9 @@ other = "Berufserfahrung"
 [education]
 other = "Bildung"
 
+[skills]
+other = "Fähigkeiten"
+
 [interestsHobbies]
 other = "Interessen und Hobbies"
 
