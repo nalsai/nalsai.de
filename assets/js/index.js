@@ -63,14 +63,21 @@ document.addEventListener("DOMContentLoaded", () => {
   'use strict'
 
   const urlParams = new URLSearchParams(window.location.search);
-  const lang = urlParams.get("lang");
+  const lang = urlParams.get("hl");
   if (lang) {
     document.getElementById("lang-alert").classList.remove("d-none");
-    document.getElementById("target-lang").innerHTML = `: ${lang}`;
     switch (lang) {
       case "de":
-        document.getElementById("lang-not-available").innerHTML = "Diese Seite ist nicht verfügbar in der gewählten Sprache";
+        document.getElementById("lang-not-available").innerHTML = `Diese Seite ist nicht in der gewählten Sprache (${lang}) verfügbar.`;
         document.getElementById("back").innerHTML = "Zurück";
+        break;
+      case "en":
+        document.getElementById("lang-not-available").innerHTML = `This page is not available in your chosen language (${lang}).`;
+        document.getElementById("back").innerHTML = "Back";
+        break;
+      case "jp":
+        document.getElementById("lang-not-available").innerHTML = `このページは選択した言語（${lang}）では利用できません。`;
+        document.getElementById("back").innerHTML = "もどる";
         break;
     }
     document.getElementById("gtranslate-button").onclick = function () {
@@ -81,7 +88,7 @@ document.addEventListener("DOMContentLoaded", () => {
         expires.setTime(expires.getTime() + (expiry * 24 * 60 * 60 * 1000));
         document.cookie = key + '=' + value + ';expires=' + expires.toUTCString();
       };
-      setCookie('googtrans', '/' + document.documentElement.lang + '/' + urlParams.get("lang"), 1);
+      setCookie('googtrans', '/' + document.documentElement.lang + '/' + urlParams.get("hl"), 1);
 
       var googleTranslateScript = document.createElement('script');
       googleTranslateScript.src = 'https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';

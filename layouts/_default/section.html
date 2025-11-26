@@ -3,43 +3,176 @@
     <div class="row text-center">
         <div class="col-lg-8 mx-auto">
             {{ .Content }}
-            
+
+            <!-- Search box -->
+            <div class="my-3 pb-2" id="search-box-container">
+                <div class="input-group">
+                    <input id="search-input" type="search" class="form-control" placeholder="Search posts..." aria-label="Search">
+                    <button id="search-clear" class="btn btn-outline-secondary" type="button">Clear</button>
+                </div>
+            </div>
+
             {{ $lang := .Lang }}
 
-            {{ $pages := (union .Sections .Pages) }}
+            {{ $pages := union .Sections .Pages }}
+            {{ range .Translations }}{{ $pages = $pages | lang.Merge (union .Sections .Pages) }}{{ end }}
+            {{ $pages := where $pages "Params.unlisted" "!=" true }}
 
-            {{ range .Translations }}
-            {{ $pages = $pages | lang.Merge (union .Sections .Pages) }}
-            {{ end }}
+            <!-- Results area used by JS: show when searching -->
+            <div id="search-results" class="d-none"></div>
 
-            {{ range (where (.Paginate $pages).Pages ".Params.unlisted" "!=" "true") }}
+            <!-- Default listing (hidden when searching) -->
+            <div id="list-container">
+                {{ range (.Paginate $pages).Pages }}
 
-            {{ $link := .RelPermalink }}
-            {{ if ne .Lang $lang }}
-            {{ $link = printf "%s?lang=%s" .Permalink $lang }}
-            {{ end }}
-            <a href="{{ $link }}" class="text-decoration-none h-75">
-                <div class="d-flex p-3 hover-opacity card bg-body-tertiary px-3 py-4 m-0 rounded-4 my-4 text-start">
-                    <p class="m-0 text-body-secondary">
-                        <strong class="d-block text-body-emphasis mb-1">{{ .Title }}</strong>
-                        <small class=" text-body-secondary d-block mb-2">{{ .Description }}</small>
-                        {{ if .Date }}<i class="bi bi-calendar-event"></i> <time class=" text-body-secondary" datetime="{{ .Date.Format " 2006-01-02" }}">{{ dateFormat (default "2006-01-02" .Site.Params.dateFormat) .Date }}</time>&nbsp;{{ end }}
-                        {{ with .Params.tags }}<i class="bi bi-tags"></i> {{ delimit . ", " }}&nbsp;{{ end }}
+                {{ $link := .RelPermalink }}
+                {{ if ne .Lang $lang }}{{ $link = printf "%s?hl=%s" .Permalink $lang }}{{ end }}
+                <a href="{{ $link }}" class="text-decoration-none h-75">
+                    <div class="d-flex p-3 hover-opacity card bg-body-tertiary px-3 py-4 m-0 rounded-4 my-4 text-start">
+                        <p class="m-0 text-body-secondary">
+                            <strong class="d-block text-body-emphasis mb-1">{{ .Title }}</strong>
+                            <small class=" text-body-secondary d-block mb-2">{{ .Description }}</small>
+                            {{ if .Date }}<i class="bi bi-calendar-event"></i> <time class=" text-body-secondary" datetime="{{ .Date.Format " 2006-01-02" }}">{{ dateFormat (default "2006-01-02" .Site.Params.dateFormat) .Date }}</time>&nbsp;{{ end }}
+                            {{ with .Params.tags }}<i class="bi bi-tags"></i> {{ delimit . ", " }}&nbsp;{{ end }}
 
-                        {{ if ne .Lang $lang }}
-                        <i class="bi bi-globe"></i> {{ i18n "Language" }}: {{ .Lang }}&nbsp;
-                        {{ end }}
-                    </p>
-                </div>
-            </a>
-            {{ end }}
+                            {{ if ne .Lang $lang }}
+                            <i class="bi bi-globe"></i> {{ i18n "Language" }}: {{ .Lang }}&nbsp;
+                            {{ end }}
+                        </p>
+                    </div>
+                </a>
+                {{ end }}
 
-            <div class="mt-4 py-4 position-relative">
-                <div class="mt-1 position-absolute top-50 start-50 translate-middle">
-                    {{ template "_internal/pagination.html" . }}
-                </div>
+                <div class="mt-4 py-4 position-relative">
+                    <div class="mt-1 position-absolute top-50 start-50 translate-middle">
+                        {{ template "_internal/pagination.html" . }}
+                    </div>
+            </div>
             </div>
         </div>
     </div>
 </main>
+
+<script src="/js/fuse.min.js"></script>
+<script>
+(function () {
+    const input = document.getElementById('search-input');
+    const clearBtn = document.getElementById('search-clear');
+    const resultsEl = document.getElementById('search-results');
+    const listContainer = document.getElementById('list-container');
+    let fuse = null;
+    let index = [];
+
+    function field(o, keys){
+        for (const k of keys) if (o[k] !== undefined) return o[k];
+        return null;
+    }
+
+    function renderItem(it) {
+        const title = field(it, ['title','Title']) || 'Untitled';
+        const desc = field(it, ['description','summary','Summary']) || '';
+        let permalink = field(it, ['permalink','link','Permalink']) || '#';
+        if (it.lang && it.lang !== "{{ .Lang }}") {
+            permalink += (permalink.includes('?') ? '&' : '?') + 'hl={{ .Lang }}';
+        }
+        const date = field(it, ['date','Date']) || '';
+        const tags = field(it, ['tags','Tags','params.tags']) || [];
+        const lang = field(it, ['lang','Lang']) || '';
+
+        const tagsHtml = Array.isArray(tags) && tags.length ? '<i class="bi bi-tags"></i> ' + tags.join(', ') + '&nbsp;' : '';
+        const langHtml = (lang && lang !== "{{ .Lang }}") ? '<i class="bi bi-globe"></i> Language: ' + lang + '&nbsp;' : '';
+        const dateHtml = (date && date !== '0001-01-01') ? '<i class="bi bi-calendar-event"></i> <time class=" text-body-secondary">' + date + '</time>&nbsp;' : '';
+
+        return `
+            <a href="${permalink}" class="text-decoration-none h-75">
+                <div class="d-flex p-3 hover-opacity card bg-body-tertiary px-3 py-4 m-0 rounded-4 my-4 text-start">
+                    <p class="m-0 text-body-secondary">
+                        <strong class="d-block text-body-emphasis mb-1">${title}</strong>
+                        <small class=" text-body-secondary d-block mb-2">${desc}</small>
+                        ${dateHtml}
+                        ${tagsHtml}
+                        ${langHtml}
+                    </p>
+                </div>
+            </a>
+        `;
+    }
+
+    function showResults(items) {
+        if (!items || items.length === 0) {
+            resultsEl.innerHTML = '<div class="text-muted my-5">No results</div>';
+        } else {
+            resultsEl.innerHTML = items.map(r => {
+                const it = r.item || r;
+                return renderItem(it);
+            }).join('');
+        }
+        resultsEl.classList.remove('d-none');
+        listContainer.classList.add('d-none');
+    }
+
+    function hideResults() {
+        resultsEl.classList.add('d-none');
+        listContainer.classList.remove('d-none');
+    }
+
+    fetch('index.json').then(r => {
+        if (!r.ok) throw new Error('No index.json found');
+        return r.json();
+    }).then(data => {
+        index = data;
+        const prepared = index.map(item => {
+            return {
+                title: field(item,['title','Title']) || '',
+                description: (field(item,['description','summary','Summary']) || ''),
+                content: field(item,['content','plain','Plain']) || '',
+                tags: field(item,['tags','Tags']) || [],
+                permalink: field(item,['permalink','link','Permalink']) || '#',
+                date: field(item,['date','Date']) || '',
+                lang: field(item,['lang','Lang']) || '',
+                _raw: item
+            };
+        });
+
+        fuse = new Fuse(prepared, {
+            keys: [
+                { name: 'title', weight: 0.9 },
+                { name: 'description', weight: 0.6 },
+                { name: 'content', weight: 0.2 },
+                { name: 'tags', weight: 0.4 },
+                { name: 'date', weight: 0.3 }
+            ],
+            threshold: 0.4
+        });
+
+        input.addEventListener('input', onSearch);
+        if (input.value.trim()) onSearch();  // check for prefilled value
+        clearBtn.addEventListener('click', () => { input.value = ''; onSearch(); input.focus(); });
+    }).catch(() => {
+        console.log('Search index not availab1le');
+        document.querySelector('#search-box-container').style.display = 'none';
+    });
+
+
+    function onSearch() {
+        const q = input.value.trim();
+        if (!q) {
+            hideResults();
+            return;
+        }
+        const raw = fuse.search(q);
+
+        // map back to original raw objects for rendering
+        const mapped = raw.map(r => ({ item: {
+            title: r.item.title,
+            description: r.item.description,
+            permalink: r.item.permalink,
+            date: r.item.date,
+            tags: r.item.tags,
+            lang: r.item.lang
+        }}));
+        showResults(mapped);
+    }
+})();
+</script>
 {{ end }}

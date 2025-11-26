@@ -31,6 +31,14 @@ DefaultContentLanguage = "en"
 [taxonomies]
   tag = "tags"
 
+[outputs]
+  home = ['html', 'rss']
+  page = ['html']
+  rss = ['rss']
+  section = ['html', 'rss', 'json']
+  taxonomy = ['html', 'rss']
+  term = ['html', 'rss']
+
 [params]
   [params.umami]
     id = "b0d36943-ce3a-42e9-ae7e-c3c7209594db"
@@ -38,7 +46,6 @@ DefaultContentLanguage = "en"
   [params.remark42]
     host = "https://r42.nalsai.de"
     site = "nalsai"
-
 
 [module]
   [[module.imports]]
