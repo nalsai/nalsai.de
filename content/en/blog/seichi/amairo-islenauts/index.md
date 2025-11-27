@@ -12,53 +12,49 @@ date = 2025-10-25
 
 ### Hotel Goldenes Fass
 
-{{< img "TODO.avif" "jpg" >}}
+{{< img "bg09.avif" "jpg" >}}
 {{< img "ZIL54103-crop.avif" "jpg" >}}
 
 ### Plönlein
 
-{{< img "TODO.avif" "jpg" >}}
-{{< img "TODO-crop.avif" "jpg" >}}
+{{< img "bg01.avif" "jpg" >}}
+![alt text](ZIL58273-crop.avif)
 
 ### Street
 
-{{< img "TODO.avif" "jpg" >}}
-{{< img "TODO-crop.avif" "jpg" >}}
+{{< img "bg03.avif" "jpg" >}}
+![alt text](ZIL58160-crop.avif)
 
 ### St. Jakobskirche
 
-{{< img "TODO.avif" "jpg" >}}
-{{< img "TODO-crop.avif" "jpg" >}}
-
+{{< img "bg02.avif" "jpg" >}}
 ![alt text](ZIL56532-crop.avif)
-![alt text](ZIL58160-crop.avif)
-![alt text](ZIL58273-crop.avif)
 
 ## Munich
 
 ### Schloss Nymphenburg
 
-{{< img "TODO.avif" "jpg" >}}
+{{< img "bg08.avif" "jpg" >}}
 {{< img "ZIM57063-crop.avif" "jpg" >}}
 
-{{< img "TODO.avif" "jpg" >}}
-{{< img "TODO-crop.avif" "jpg" >}}
+{{< img "bg07.avif" "jpg" >}}
+{{< img "ZIM57767-crop.avif" "jpg" >}}
 
-{{< img "TODO.avif" "jpg" >}}
-{{< img "TODO-crop.avif" "jpg" >}}
+There's also a similar rock in front of the castle, but it doesn't have a fountain.
 
-![alt text](ZIM57767-crop.avif)
-![alt text](ZIM58471-crop.avif)
-![alt text](ZIM58525-crop.avif)
+{{< img "ZIM58525-crop.avif" "jpg" >}}
+
+{{< img "bg05.avif" "jpg" >}}
+{{< img "ZIM58471-crop.avif" "jpg" >}}
 
 ### Karlsplatz
 
-{{< img "TODO.avif" "jpg" >}}
+{{< img "bg04.avif" "jpg" >}}
 {{< img "ZIM60404-crop.avif" "jpg" >}}
 
 ### Weinstraße
 
-{{< img "TODO.avif" "jpg" >}}
+{{< img "bg06.avif" "jpg" >}}
 {{< img "ZIM61403-crop.avif" "jpg" >}}
 
 ## Map
