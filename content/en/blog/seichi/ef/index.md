@@ -61,9 +61,16 @@ date = 2025-10-25
 #### Inside
 
 {{< img "bg25.avif" "jpg" >}}
-{{< img "bg10.avif" "jpg" >}}
+{{< img "ZL461799-crop.avif" "jpg" >}}
+
 {{< img "bg11.avif" "jpg" >}}
+{{< img "ZL461930-crop.avif" "jpg" >}}
+
 {{< img "bg13.avif" "jpg" >}}
+{{< img "ZL461898-crop.avif" "jpg" >}}
+
+{{< img "bg10.avif" "jpg" >}}
+{{< img "ZL461858-crop.avif" "jpg" >}}
 
 ### Hauptstraße
 
