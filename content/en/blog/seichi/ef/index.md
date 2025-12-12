@@ -86,12 +86,18 @@ date = 2025-10-25
 ### Mönchgasse
 
 {{< img "bg26.avif" "jpg" >}}
+{{< img "ZJN61757-crop.avif" "jpg" >}}
+
 {{< img "bg27.avif" "jpg" >}}
+{{< img "ZJN61878-crop.avif" "jpg" >}}
+
 {{< img "bg20.avif" "jpg" >}}
+{{< img "ZJN61845-crop.avif" "jpg" >}}
 
 ### Plöck
 
 {{< img "bg28.avif" "jpg" >}}
+{{< img "ZJN58331-crop.avif" "jpg" >}}
 
 ### Königsstuhl
 
