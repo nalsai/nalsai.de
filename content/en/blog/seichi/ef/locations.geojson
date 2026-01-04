@@ -202,6 +202,21 @@
       "type": "Feature",
       "properties": {
         "name": "Rothenburg ob der Tauber Station",
+        "image": "https://en.nalsai.de/blog/seichi/ef/bg-rothenburg-station-1.avif",
+        "link": "https://en.nalsai.de/blog/seichi/ef/#station"
+      },
+      "geometry": {
+        "coordinates": [
+          10.190646689727712,
+          49.37671533895522
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rothenburg ob der Tauber Station (2)",
         "image": "https://en.nalsai.de/blog/seichi/ef/bg-rothenburg-station-2.avif",
         "link": "https://en.nalsai.de/blog/seichi/ef/#station"
       },
@@ -216,14 +231,14 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Rothenburg ob der Tauber Station (2)",
-        "image": "https://en.nalsai.de/blog/seichi/ef/bg-rothenburg-station-1.avif",
+        "name": "Rothenburg ob der Tauber Station (3)",
+        "image": "https://en.nalsai.de/blog/seichi/ef/bg-rothenburg-station-3.avif",
         "link": "https://en.nalsai.de/blog/seichi/ef/#station"
       },
       "geometry": {
         "coordinates": [
-          10.190646689727712,
-          49.37671533895522
+          10.19066423911499,
+          49.37675929619333
         ],
         "type": "Point"
       }
