@@ -12,39 +12,31 @@ date = 2025-10-25
 
 ### Station
 
-{{< img "bg07.avif" "jpg" >}}
-{{< img "ZIM36626-crop.avif" "jpg" >}}
-
-{{< img "bg01.avif" "jpg" >}}
-{{< img "ZIM36678-crop.avif" "jpg" >}}
-
-{{< img "bg06.avif" "jpg" >}}
+{{< img "bg-rothenburg-station-1.avif" "jpg" >}}
 {{< img "ZIM36607-crop.avif" "jpg" >}}
 
-### near Rödertor
+{{< img "bg-rothenburg-station-2.avif" "jpg" >}}
+{{< img "ZIM36678-crop.avif" "jpg" >}}
 
-{{< img "bg05.avif" "jpg" >}}
+### Near Rödertor
+
+{{< img "bg-rothenburg-rodertor.avif" "jpg" >}}
 {{< img "ZIL55649-crop.avif" "jpg" >}}
 
 ### Marktplatz
 
-{{< img "bg09.avif" "jpg" >}}
+{{< img "bg-rothenburg-marktplatz.avif" "jpg" >}}
 {{< img "ZIL56135-crop.avif" "jpg" >}}
 
 {{< img "bg08.avif" "jpg" >}}
 {{< img "ZIL56233-crop.avif" "jpg" >}}
 
-<!--{{< img "bg04.avif" "jpg" >}}-->
-
 ### St. Jakobskirche
 
-{{< img "bg03.avif" "jpg" >}}
+This is a shot from the anime.
+
+{{< img "bg-rothenburg-jakobskirche.avif" "jpg" >}}
 {{< img "ZIL57630-crop.avif" "jpg" >}}
-
-### Plönlein
-
-{{< img "bg02.avif" "jpg" >}}
-{{< img "ZIL58374-crop.avif" "jpg" >}}
 
 ## Heidelberg
 
@@ -52,56 +44,68 @@ date = 2025-10-25
 
 #### Outside
 
-{{< img "bg14.avif" "jpg" >}}
-{{< img "bg16.avif" "jpg" >}}
+{{< img "bg-hd-church-1.avif" "jpg" >}}
+{{< img "ZJN65646-crop.avif" "jpg" >}}
+
+{{< img "bg-hd-church-2.avif" "jpg" >}}
+{{< img "ZJN65616-crop.avif" "jpg" >}}
+
+<!--{{< img "bg14.avif" "jpg" >}}
 {{< img "bg19.avif" "jpg" >}}
-{{< img "bg23.avif" "jpg" >}}
-{{< img "bg24.avif" "jpg" >}}
+{{< img "bg24.avif" "jpg" >}}-->
 
-#### Inside
+While the model for the exterior of the church is clearly the Peterskirche (St. Peter's Church) in Heidelberg, the interior appear to be modeled after the Providenzkirche (Church of Providence).
 
-{{< img "bg25.avif" "jpg" >}}
+#### Inside Providenzkirche
+
+{{< img "bg-hd-church-inside-1.avif" "jpg" >}}
 {{< img "ZL461799-crop.avif" "jpg" >}}
 
-{{< img "bg11.avif" "jpg" >}}
-{{< img "ZL461930-crop.avif" "jpg" >}}
-
-{{< img "bg13.avif" "jpg" >}}
+{{< img "bg-hd-church-inside-2.avif" "jpg" >}}
 {{< img "ZL461898-crop.avif" "jpg" >}}
 
-{{< img "bg10.avif" "jpg" >}}
+{{< img "bg-hd-church-inside-3.avif" "jpg" >}}
 {{< img "ZL461858-crop.avif" "jpg" >}}
 
 ### Hauptstraße
 
-{{< img "bg21.avif" "jpg" >}}
-{{< img "bg17.avif" "jpg" >}}
+{{< img "bg-hd-hauptstr_day.avif" "jpg" >}}
+{{< img "ZJN58165-crop.avif" "jpg" >}}
 
-{{< img "bg15.avif" "jpg" >}}
+<!--{{< img "bg-hd-hauptstr_night.avif" "jpg" >}}-->
+<!--{{< img "bg-hd-calzedonia.avif" "jpg" >}}-->
 
-{{< img "bg22.avif" "jpg" >}}
+{{< img "bg-hd-hauptstr-middle.avif" "jpg" >}}
+{{< img "ZJN64873-crop.avif" "jpg" >}}
 
-{{< img "bg12.avif" "jpg" >}}
+You can clearly see that it is modeled after somewhere in the middle section of Hauptstraße, but there is no exact match.
+
+{{< img "bg-hd-hauptstr-236.avif" "jpg" >}}
+{{< img "ZJN62151-crop.avif" "jpg" >}}
 
 ### Mönchgasse
 
-{{< img "bg26.avif" "jpg" >}}
+{{< img "bg-hd-monchg-1.avif" "jpg" >}}
+{{< img "ZJN61845-crop.avif" "jpg" >}}
+
+{{< img "bg-hd-monchg-2.avif" "jpg" >}}
 {{< img "ZJN61757-crop.avif" "jpg" >}}
 
 {{< img "bg27.avif" "jpg" >}}
 {{< img "ZJN61878-crop.avif" "jpg" >}}
 
-{{< img "bg20.avif" "jpg" >}}
-{{< img "ZJN61845-crop.avif" "jpg" >}}
-
 ### Plöck
 
-{{< img "bg28.avif" "jpg" >}}
+This is another shot from the anime.  
+You can see the supermarket "Penny". Until 2012, it used to have an oval shape in the logo in real life too.
+
+{{< img "bg-hd-penny.avif" "jpg" >}}
 {{< img "ZJN58331-crop.avif" "jpg" >}}
 
 ### Königsstuhl
 
 {{< img "bg18.avif" "jpg" >}}
+{{< img "ZID67735-dev-crop.avif" "jpg" >}}
 
 ## Map
 
