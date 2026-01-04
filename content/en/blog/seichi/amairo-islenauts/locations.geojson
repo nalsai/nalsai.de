@@ -1,0 +1,142 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plönlein",
+        "image": "https://en.nalsai.de/blog/seichi/amairo-islenauts/bg01.avif",
+        "link": "https://en.nalsai.de/blog/seichi/amairo-islenauts#plönlein",
+        "description":"the original image from the VN was mirrored"
+      },
+      "geometry": {
+        "coordinates": [
+          10.18001087615658,
+          49.37465429354014
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "T-Junction Untere Schmiedgasse and Wenggasse",
+        "image": "https://en.nalsai.de/blog/seichi/amairo-islenauts/bg03.avif",
+        "link": "https://en.nalsai.de/blog/seichi/amairo-islenauts#street",
+        "description":"the original image from the VN was mirrored"
+      },
+      "geometry": {
+        "coordinates": [
+          10.179979332956233,
+          49.375112776680204
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Jakobskirche",
+        "image": "https://en.nalsai.de/blog/seichi/amairo-islenauts/bg02.avif",
+        "link": "https://en.nalsai.de/blog/seichi/amairo-islenauts#st-jakobskirche"
+      },
+      "geometry": {
+        "coordinates": [
+          10.17827926075296,
+          49.37787930021757
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel Goldenes Fass",
+        "image": "https://en.nalsai.de/blog/seichi/amairo-islenauts/bg09.avif",
+        "link": "https://en.nalsai.de/blog/seichi/amairo-islenauts#hotel-goldenes-fass"
+      },
+      "geometry": {
+        "coordinates": [
+          10.191366427959311,
+          49.37543130349832
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Weinstraße",
+        "image": "https://en.nalsai.de/blog/seichi/amairo-islenauts/bg06.avif",
+        "link": "https://en.nalsai.de/blog/seichi/amairo-islenauts#weinstraße"
+      },
+      "geometry": {
+        "coordinates": [
+          11.575484028325004,
+          48.138798925909164
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karlsplatz",
+        "image": "https://en.nalsai.de/blog/seichi/amairo-islenauts/bg04.avif",
+        "link": "https://en.nalsai.de/blog/seichi/amairo-islenauts#karlsplatz"
+      },
+      "geometry": {
+        "coordinates": [
+          11.56574333289011,
+          48.1391247701503
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schloss Nymphenburg",
+        "image": "https://en.nalsai.de/blog/seichi/amairo-islenauts/bg05.avif",
+        "link": "https://en.nalsai.de/blog/seichi/amairo-islenauts#schloss-nymphenburg"
+      },
+      "geometry": {
+        "coordinates": [
+          11.505129065621055,
+          48.158311730650794
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schloss Nymphenburg - Fountain",
+        "image": "https://en.nalsai.de/blog/seichi/amairo-islenauts/bg07.avif",
+        "link": "https://en.nalsai.de/blog/seichi/amairo-islenauts#schloss-nymphenburg"
+      },
+      "geometry": {
+        "coordinates": [
+          11.50128673586936,
+          48.1581795195023
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schloss Nymphenburg - Bridge",
+        "image": "https://en.nalsai.de/blog/seichi/amairo-islenauts/bg08.avif",
+        "link": "https://en.nalsai.de/blog/seichi/amairo-islenauts#schloss-nymphenburg"
+      },
+      "geometry": {
+        "coordinates": [
+          11.50007849852936,
+          48.15683619255715
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
