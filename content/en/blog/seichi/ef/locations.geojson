@@ -1,0 +1,292 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hauptstraße",
+        "image": "https://en.nalsai.de/blog/seichi/ef/bg-hd-hauptstr_day.avif",
+        "link": "https://en.nalsai.de/blog/seichi/ef/#hauptstraße"
+      },
+      "geometry": {
+        "coordinates": [
+          8.693838526465996,
+          49.40969667049433
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peterskirche",
+        "image": "https://en.nalsai.de/blog/seichi/ef/bg-hd-church-1.jpg",
+        "link": "https://en.nalsai.de/blog/seichi/ef/#church"
+      },
+      "geometry": {
+        "coordinates": [
+          8.705491696000587,
+          49.409572279388996
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Providenzkirche - inside (1)",
+        "image": "https://en.nalsai.de/blog/seichi/ef/bg-hd-church-inside-1.jpg",
+        "link": "https://en.nalsai.de/blog/seichi/ef/#inside-providenzkirche"
+      },
+      "geometry": {
+        "coordinates": [
+          8.701980307346135,
+          49.411010417863416
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Providenzkirche - inside (2)",
+        "image": "https://en.nalsai.de/blog/seichi/ef/bg-hd-church-inside-2.jpg",
+        "link": "https://en.nalsai.de/blog/seichi/ef/#inside-providenzkirche"
+      },
+      "geometry": {
+        "coordinates": [
+          8.702016674247208,
+          49.41086852972298
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Providenzkirche - inside (3)",
+        "image": "https://en.nalsai.de/blog/seichi/ef/bg-hd-church-inside-3.jpg",
+        "link": "https://en.nalsai.de/blog/seichi/ef/#inside-providenzkirche"
+      },
+      "geometry": {
+        "coordinates": [
+          8.702027067881884,
+          49.4108057197196
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calzedonia",
+        "image": "https://en.nalsai.de/blog/seichi/ef/bg-hd-calzedonia.avif",
+        "link": "https://en.nalsai.de/blog/seichi/ef/#hauptstraße"
+      },
+      "geometry": {
+        "coordinates": [
+          8.694006445243128,
+          49.40979854884351
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Penny",
+        "image": "https://en.nalsai.de/blog/seichi/ef/bg-hd-penny.avif",
+        "link": "https://en.nalsai.de/blog/seichi/ef/#plöck"
+      },
+      "geometry": {
+        "coordinates": [
+          8.695538485041157,
+          49.408906328414986
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hauptstraße (middle)",
+        "image": "https://en.nalsai.de/blog/seichi/ef/bg-hd-hauptstr-middle.avif",
+        "link": "https://en.nalsai.de/blog/seichi/ef/#hauptstraße",
+        "description":"Only roughly similar"
+      },
+      "geometry": {
+        "coordinates": [
+          8.703957153437049,
+          49.41141269950829
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Intersection of Mönchgasse and Heiliggeiststraße",
+        "image": "https://en.nalsai.de/blog/seichi/ef/bg-hd-monchg-1.avif",
+        "link": "https://en.nalsai.de/blog/seichi/ef/#mönchgasse"
+      },
+      "geometry": {
+        "coordinates": [
+          8.711877094751584,
+          49.4125331498025
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Intersection of Mönchgasse and Heiliggeiststraße - curb",
+        "image": "https://en.nalsai.de/blog/seichi/ef/bg27.avif",
+        "link": "https://en.nalsai.de/blog/seichi/ef/#mönchgasse"
+      },
+      "geometry": {
+        "coordinates": [
+          8.711845251792397,
+          49.41258858217357
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Intersection of Mönchgasse and Heiliggeiststraße (2)",
+        "image": "https://en.nalsai.de/blog/seichi/ef/bg-hd-monchg-2.avif",
+        "link": "https://en.nalsai.de/blog/seichi/ef/#mönchgasse"
+      },
+      "geometry": {
+        "coordinates": [
+          8.711922936789154,
+          49.41242669258783
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hauptstraße 236",
+        "image": "https://en.nalsai.de/blog/seichi/ef/bg-hd-hauptstr-236.avif",
+        "link": "https://en.nalsai.de/blog/seichi/ef/#hauptstraße"
+      },
+      "geometry": {
+        "coordinates": [
+          8.71532303107469,
+          49.41317760677965
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Königstuhl",
+        "image": "https://en.nalsai.de/blog/seichi/ef/bg18.avif",
+        "link": "https://en.nalsai.de/blog/seichi/ef/#königstuhl",
+        "description":"Not very similar"
+      },
+      "geometry": {
+        "coordinates": [
+          8.727239372495955,
+          49.403941873190675
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rothenburg ob der Tauber Station",
+        "image": "https://en.nalsai.de/blog/seichi/ef/bg-rothenburg-station-2.avif",
+        "link": "https://en.nalsai.de/blog/seichi/ef/#station"
+      },
+      "geometry": {
+        "coordinates": [
+          10.190723693779749,
+          49.37677688172771
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rothenburg ob der Tauber Station (2)",
+        "image": "https://en.nalsai.de/blog/seichi/ef/bg-rothenburg-station-1.avif",
+        "link": "https://en.nalsai.de/blog/seichi/ef/#station"
+      },
+      "geometry": {
+        "coordinates": [
+          10.190646689727712,
+          49.37671533895522
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marktplatz",
+        "image": "https://en.nalsai.de/blog/seichi/ef/bg-rothenburg-marktplatz.avif",
+        "link": "https://en.nalsai.de/blog/seichi/ef/#marktplatz"
+      },
+      "geometry": {
+        "coordinates": [
+          10.179274493814798,
+          49.37691650624317
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marktplatz (2)",
+        "image": "https://en.nalsai.de/blog/seichi/ef/bg08.avif",
+        "link": "https://en.nalsai.de/blog/seichi/ef/#marktplatz"
+      },
+      "geometry": {
+        "coordinates": [
+          10.179039503042494,
+          49.377145535412026
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Jakobskirche",
+        "image": "https://en.nalsai.de/blog/seichi/ef/bg-rothenburg-jakobskirche.avif",
+        "link": "https://en.nalsai.de/blog/seichi/ef/#st-jakobskirche"
+      },
+      "geometry": {
+        "coordinates": [
+          10.177589462350143,
+          49.37770979345495
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Near Rödertor",
+        "image": "https://en.nalsai.de/blog/seichi/ef/bg-rothenburg-rodertor.avif",
+        "link": "https://en.nalsai.de/blog/seichi/ef/#near-rödertor"
+      },
+      "geometry": {
+        "coordinates": [
+          10.184752905714223,
+          49.37631985712669
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
