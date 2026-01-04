@@ -41,7 +41,7 @@
 <script src="{{ $themeJs.RelPermalink }}" {{ if hugo.IsProduction }}integrity="{{ $themeJs.Data.Integrity }}"{{ end }}></script>
 
 {{ if hugo.IsProduction }}
-{{ with .Site.Params.umami }}<script async src="{{ .src }}" data-website-id="{{ .id }}"></script>{{ end }}
+{{ with .Site.Params.umami }}<script defer src="{{ .src }}" data-website-id="{{ .id }}"></script>{{ end }}
 {{ end }}
 
 <script>
