@@ -20,7 +20,7 @@
       "type": "Feature",
       "properties": {
         "name": "Peterskirche",
-        "image": "https://en.nalsai.de/blog/seichi/ef/bg-hd-church-1.jpg",
+        "image": "https://en.nalsai.de/blog/seichi/ef/bg-hd-church-1.avif",
         "link": "https://en.nalsai.de/blog/seichi/ef/#church"
       },
       "geometry": {
@@ -35,7 +35,7 @@
       "type": "Feature",
       "properties": {
         "name": "Providenzkirche - inside (1)",
-        "image": "https://en.nalsai.de/blog/seichi/ef/bg-hd-church-inside-1.jpg",
+        "image": "https://en.nalsai.de/blog/seichi/ef/bg-hd-church-inside-1.avif",
         "link": "https://en.nalsai.de/blog/seichi/ef/#inside-providenzkirche"
       },
       "geometry": {
@@ -50,7 +50,7 @@
       "type": "Feature",
       "properties": {
         "name": "Providenzkirche - inside (2)",
-        "image": "https://en.nalsai.de/blog/seichi/ef/bg-hd-church-inside-2.jpg",
+        "image": "https://en.nalsai.de/blog/seichi/ef/bg-hd-church-inside-2.avif",
         "link": "https://en.nalsai.de/blog/seichi/ef/#inside-providenzkirche"
       },
       "geometry": {
@@ -65,7 +65,7 @@
       "type": "Feature",
       "properties": {
         "name": "Providenzkirche - inside (3)",
-        "image": "https://en.nalsai.de/blog/seichi/ef/bg-hd-church-inside-3.jpg",
+        "image": "https://en.nalsai.de/blog/seichi/ef/bg-hd-church-inside-3.avif",
         "link": "https://en.nalsai.de/blog/seichi/ef/#inside-providenzkirche"
       },
       "geometry": {
