@@ -5,7 +5,7 @@ tags = [
   "Visual Novel",
   "Anime Tourism"
 ]
-date = 2025-10-25
+date = 2026-01-04
 +++
 
 ## Rothenburg ob der Tauber
