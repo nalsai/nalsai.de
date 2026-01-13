@@ -6,6 +6,7 @@ tags = [
   "Anime Tourism"
 ]
 date = 2026-01-04
+update = 2026-01-13
 +++
 
 ## Rothenburg ob der Tauber
@@ -72,8 +73,11 @@ While the model for the exterior of the church is clearly the Peterskirche (St. 
 {{< img "bg-hd-hauptstr_day.avif" "jpg" >}}
 {{< img "ZJN58165-crop.avif" "jpg" >}}
 
-<!--{{< img "bg-hd-hauptstr_night.avif" "jpg" >}}-->
-<!--{{< img "bg-hd-calzedonia.avif" "jpg" >}}-->
+{{< img "bg-hd-hauptstr_night.avif" "jpg" >}}
+{{< img "20260106_190748-crop.avif" "jpg" >}}
+
+{{< img "bg-hd-calzedonia.avif" "jpg" >}}
+{{< img "20260106_190549-crop.avif" "jpg" >}}
 
 {{< img "bg-hd-hauptstr-middle.avif" "jpg" >}}
 {{< img "ZJN64873-crop.avif" "jpg" >}}
@@ -82,6 +86,9 @@ You can clearly see that it is modeled after somewhere in the middle section of 
 
 {{< img "bg-hd-hauptstr-236.avif" "jpg" >}}
 {{< img "ZJN62151-crop.avif" "jpg" >}}
+
+{{< img "bg-hd-hauptstr-236_night.avif" "jpg" >}}
+{{< img "20260106_182644-crop.avif" "jpg" >}}
 
 ### Mönchgasse
 

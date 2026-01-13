@@ -7,6 +7,7 @@ tags = [
   "Violet Evergarden"
 ]
 date = 2025-07-22
+update = 2026-01-13
 +++
 
 {{< youtube-audio id="dJ0Xcu0vJNU" title="Sincerely" channel="Animenz Piano Sheets" >}}
@@ -18,6 +19,12 @@ One of its most famous landmarks is Heidelberg Castle, which served as the inspi
 {{< img "ZFQ61370-crop.avif" jpg >}}
 
 This spot can be visited for free. It is located on the west side of the castle. South of the "Thick Tower".
+
+And on 2026-01-08 I managed to take a picture with snow!  
+{{< img "Violet Evergarden - 13 - 04m12s836t.avif" jpg>}}
+{{< img "20260108_131727-crop.avif" jpg >}}
+
+---
 
 {{< img "Violet Evergarden - 13 - 04m15s088t.avif" jpg>}}
 {{< img "ZFQ60972-crop.avif" jpg >}}
