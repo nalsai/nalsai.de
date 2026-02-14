@@ -6,8 +6,7 @@
       "properties": {
         "name": "Shōraitei Makuhari Seaside Park",
         "image": "https://en.nalsai.de/blog/seichi/fate/chiba-shoraitai.avif",
-        "link": "https://en.nalsai.de/blog/seichi/fate#emiya-residence-shōraitai",
-        "description": "Emiya Residence"
+        "link": "https://en.nalsai.de/blog/seichi/fate#emiya-residence-shōraitai"
       },
       "geometry": {
         "type": "Point",
@@ -53,7 +52,7 @@
         "name": "Sakuragaoka, Tama City, Tokyo",
         "image": "https://en.nalsai.de/blog/seichi/fate/tama-sakuragaoka.avif",
         "link": "https://en.nalsai.de/blog/seichi/fate#residential-street-in-sakuragaoka",
-        "description": "At the other end of Iroha-zaka Street"
+        "description": "At the other end of Iroha-zaka"
       },
       "geometry": {
         "type": "Point",
@@ -115,7 +114,7 @@
         "name": "Iroha-zaka Street",
         "image": "https://en.nalsai.de/blog/seichi/fate/tama-irohazaka.avif",
         "link": "https://en.nalsai.de/blog/seichi/fate#iroha-zaka",
-        "description": "The same street is also a holy place for the Ghibli movie \"Whisper of the Heart\"."
+        "description": "This street also appears in \"Whisper of the Heart\"."
       },
       "geometry": {
         "type": "Point",
@@ -235,9 +234,9 @@
       "type": "Feature",
       "properties": {
         "name": "Oda Family Nagaya-mon Gate",
-        "image": "https://en.nalsai.de/blog/seichi/fate/akashi-kyudo-dojo.avif",
+        "image": "https://en.nalsai.de/blog/seichi/fate/akashi-nagayamon.avif",
         "link": "https://en.nalsai.de/blog/seichi/fate#oda-family-nagaya-mon-gate",
-        "description": "Emiya Residence Outer Wall"
+        "description": "Emiya Residence outer wall"
       },
       "geometry": {
         "type": "Point",
@@ -313,9 +312,24 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Yugyō-ji",
+        "name": "Oura Church",
+        "image": "https://en.nalsai.de/blog/seichi/fate/church.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fate#kitano-street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.87017410252307,
+          32.73473228924671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yugyōji",
         "image": "https://en.nalsai.de/blog/seichi/fate/yugyoji.avif",
-        "link": "https://en.nalsai.de/blog/seichi/fate#yugyō-ji-fujisawa-kanagawa"
+        "link": "https://en.nalsai.de/blog/seichi/fate#yugyōji"
       },
       "geometry": {
         "type": "Point",
@@ -328,15 +342,31 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Oura Church",
-        "image": "https://en.nalsai.de/blog/seichi/fate/church.avif",
-        "link": "https://en.nalsai.de/blog/seichi/fate#kitano-street"
+        "name": "Somon Gate of Engakuji",
+        "image": "https://en.nalsai.de/blog/seichi/fate/engakuji.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fate#engakuji",
+        "description": "Looks similar but the stairs are different."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.87017410252307,
-          32.73473228924671
+          139.54596673866536,
+          35.33696792890682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eihei-ji",
+        "image": "https://en.nalsai.de/blog/seichi/fate/eiheiji.avif",
+        "link": "https://en.nalsai.de/blog/seichi/fate#eiheiji"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.3568082195673,
+          36.05565634688583
         ]
       }
     }

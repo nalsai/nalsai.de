@@ -26,7 +26,12 @@
       },
       "properties": {
         "name": "Mannheim Baroque Palace - Staircase",
-        "image": "https://en.nalsai.de/blog/seichi/violet-evergarden-mannheim/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h26m44s978t.avif"
+        "images": [
+          "https://en.nalsai.de/blog/seichi/violet-evergarden-mannheim/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h11m01s995t.avif",
+          "https://en.nalsai.de/blog/seichi/violet-evergarden-mannheim/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h26m44s978t.avif",
+          "https://en.nalsai.de/blog/seichi/violet-evergarden-mannheim/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h11m14s716t.avif",
+          "https://en.nalsai.de/blog/seichi/violet-evergarden-mannheim/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h27m16s343t.avif"
+        ]
       }
     },
     {
@@ -40,7 +45,11 @@
       },
       "properties": {
         "name": "Mannheim Baroque Palace - Knights Hall",
-        "image": "https://en.nalsai.de/blog/seichi/violet-evergarden-mannheim/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h27m37s906t.avif"
+        "images": [
+          "https://en.nalsai.de/blog/seichi/violet-evergarden-mannheim/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h40m50s156t.avif",
+          "https://en.nalsai.de/blog/seichi/violet-evergarden-mannheim/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h39m57s770t.avif",
+          "https://en.nalsai.de/blog/seichi/violet-evergarden-mannheim/Violet%20Evergarden%20Gaiden%20-%20Eien%20to%20Jidou%20Shuki%20Ningyou%20-%2000h29m38s485t.avif"
+        ]
       }
     }
   ]

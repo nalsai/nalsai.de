@@ -1,52 +1,33 @@
-<div id="leafletmap" style="height: 500px;"></div>
+<div id="leafletmap" style="height: 600px;"></div>
 <div id="error"></div>
 <a class="btn btn-primary btn-sm my-3" href="locations.geojson" download><i class="bi bi-filetype-json"></i> Download GeoJSON</a>
 
-<link rel="stylesheet" href="/css/leaflet.css"/>
+<link rel="stylesheet" href="/css/leaflet.css" />
 <script src="/js/leaflet.js"></script>
 
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    const map = L.map('leafletmap').setView([35.6735, 139.7565], 16);
+<div class="modal fade" id="imageModal" tabindex="-1" aria-labelledby="imageModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5 m-0" id="imageModalLabel">Location Image</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body text-center">
+        <img id="fullscreen-image" src="" alt="Full-screen view" style="max-width: 100%; max-height: 90vh;">
+      </div>
+    </div>
+  </div>
+</div>
+</div>
 
-    L.tileLayer('https://tileproxy.nils.moe/{z}/{x}/{y}.png', {
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-    }).addTo(map);
 
-    function loadLocations() {
-      fetch('locations.geojson')
-        .then(response => response.json())
-        .then(data => {
-          const geoJSONLayer = L.geoJSON(data, {
-            pointToLayer: function(feature, latlng) {
-              return L.marker(latlng);
-            },
-            onEachFeature: function(feature, layer) {
-              const popupContent = `
-                <div class="popup-content text-center" style="width: 197px;">
-                  <div>${feature.properties.name}</div>
-                  <img src="${feature.properties.image}" alt="${feature.properties.name}" style="max-width: 200px; max-height: 200px;">
-                  ${feature.properties.description ? `<div class="text-start">${feature.properties.description}</div>` : ''}
-                </div>
-              `;
-              layer.bindPopup(popupContent);
-            }
-          }).addTo(map);
-          
-          const bounds = geoJSONLayer.getBounds();
-          if (bounds.isValid()) {
-            map.fitBounds(bounds, {
-              padding: [40, 40],
-              maxZoom: 16
-            });
-          }
-        })
-        .catch(error => {
-          console.error('Error loading GeoJSON:', error);
-          document.getElementById('error').innerHTML = '<div class="alert alert-danger mb-0 mt-3">Error loading locations data.</div>';
-        });
-    }
-
-    loadLocations();
-  });
-</script>
+{{/* Load map.js */}}
+{{ $js := resources.Get "js/map.js" }}
+{{ $params := dict }}
+{{ $sourceMap := cond hugo.IsProduction "" "inline" }}
+{{ $opts := dict "sourceMap" $sourceMap "minify" hugo.IsProduction "target" "es2019" "params" $params }}
+{{ $js = $js | js.Build $opts }}
+{{ if hugo.IsProduction }}
+{{ $js = $js | minify | fingerprint }}
+{{ end }}  
+<script src="{{ $js.RelPermalink }}" {{ if hugo.IsProduction }}integrity="{{ $js.Data.Integrity }}"{{ end }} defer></script>

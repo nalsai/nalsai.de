@@ -4,9 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Riddle Joker: Queen's Square (Yokohama)",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210221/20210221195948.jpg",
-        "link": "https://rinnow.hatenablog.com/entry/riddle/"
+        "name": "Queen's Square",
+        "image": "https://en.nalsai.de/blog/seichi/riddle-joker/2.avif",
+        "link": "https://en.nalsai.de/blog/seichi/riddle-joker/#queens-square"
       },
       "geometry": {
         "type": "Point",
@@ -19,9 +19,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Riddle Joker: Landmark Tower 2F (Yokohama)",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210221/20210221200139.jpg",
-        "link": "https://rinnow.hatenablog.com/entry/riddle/"
+        "name": "Landmark Tower 2F",
+        "image": "https://en.nalsai.de/blog/seichi/riddle-joker/3.avif",
+        "link": "https://en.nalsai.de/blog/seichi/riddle-joker/#landmark-tower"
       },
       "geometry": {
         "type": "Point",
@@ -34,10 +34,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Riddle Joker: Minatomirai Center Building (Yokohama)",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210221/20210221200008.jpg",
-        "link": "https://rinnow.hatenablog.com/entry/riddle/",
-        "description": "The building in the background of the station is the Minato Mirai Center Building, but the station itself is actually Genbaku Dome-Mae Station in Hiroshima."
+        "name": "Minatomirai Center Building",
+        "image": "https://en.nalsai.de/blog/seichi/riddle-joker/4.avif",
+        "link": "https://en.nalsai.de/blog/seichi/riddle-joker/#minatomirai-center-building",
+        "description": "In the background is the Minato Mirai Center Building, but the station itself is Genbaku Dome-Mae Station in Hiroshima."
       },
       "geometry": {
         "type": "Point",
@@ -50,9 +50,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Riddle Joker: Keyaki Avenue (Yokohama)",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210221/20210221195938.jpg",
-        "link": "https://rinnow.hatenablog.com/entry/riddle/"
+        "name": "Keyaki Avenue",
+        "image": "https://en.nalsai.de/blog/seichi/riddle-joker/5.avif",
+        "link": "https://en.nalsai.de/blog/seichi/riddle-joker/#keyaki-avenue"
       },
       "geometry": {
         "type": "Point",
@@ -65,9 +65,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Riddle Joker: Shinkyogoku Shopping Street (Kyoto)",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210816/20210816002243.jpg",
-        "link": "https://rinnow.hatenablog.com/entry/riddle/",
+        "name": "Shinkyogoku Shopping Street",
+        "image": "https://en.nalsai.de/blog/seichi/riddle-joker/1.avif",
+        "link": "https://en.nalsai.de/blog/seichi/riddle-joker/#shinkyogoku-shopping-street",
         "description": "The store has changed so it looks a little different now."
       },
       "geometry": {
@@ -81,9 +81,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Riddle Joker: Kyoto Botanical Garden (Kyoto) 1",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210816/20210816002223.jpg",
-        "link": "https://rinnow.hatenablog.com/entry/riddle/"
+        "name": "Kyoto Botanical Garden 1",
+        "image": "https://en.nalsai.de/blog/seichi/riddle-joker/11.avif",
+        "link": "https://en.nalsai.de/blog/seichi/riddle-joker/#kyoto-botanical-garden"
       },
       "geometry": {
         "type": "Point",
@@ -96,9 +96,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Riddle Joker: Kyoto Botanical Garden (Kyoto) 2",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210816/20210816002213.jpg",
-        "link": "https://rinnow.hatenablog.com/entry/riddle/"
+        "name": "Kyoto Botanical Garden 2",
+        "image": "https://en.nalsai.de/blog/seichi/riddle-joker/10.avif",
+        "link": "https://en.nalsai.de/blog/seichi/riddle-joker/#kyoto-botanical-garden"
       },
       "geometry": {
         "type": "Point",
@@ -111,9 +111,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Riddle Joker: Kyoto University Katsura Campus 1",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210816/20210816002154.jpg",
-        "link": "https://rinnow.hatenablog.com/entry/riddle/"
+        "name": "Kyoto University Katsura Campus 1",
+        "image": "https://en.nalsai.de/blog/seichi/riddle-joker/8.avif",
+        "link": "https://en.nalsai.de/blog/seichi/riddle-joker/#kyoto-university-katsura-campus"
       },
       "geometry": {
         "type": "Point",
@@ -126,9 +126,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Riddle Joker: Kyoto University Katsura Campus 2",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210816/20210816002144.jpg",
-        "link": "https://rinnow.hatenablog.com/entry/riddle/"
+        "name": "Kyoto University Katsura Campus 2",
+        "image": "https://en.nalsai.de/blog/seichi/riddle-joker/7.avif",
+        "link": "https://en.nalsai.de/blog/seichi/riddle-joker/#kyoto-university-katsura-campus"
       },
       "geometry": {
         "type": "Point",
@@ -141,9 +141,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Riddle Joker: Kyoto University Katsura Campus 3",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210816/20210816002204.jpg",
-        "link": "https://rinnow.hatenablog.com/entry/riddle/"
+        "name": "Kyoto University Katsura Campus 3",
+        "image": "https://en.nalsai.de/blog/seichi/riddle-joker/9.avif",
+        "link": "https://en.nalsai.de/blog/seichi/riddle-joker/#kyoto-university-katsura-campus"
       },
       "geometry": {
         "type": "Point",
@@ -156,9 +156,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Riddle Joker: Kyoto University Katsura Campus 4",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210816/20210816002233.jpg",
-        "link": "https://rinnow.hatenablog.com/entry/riddle/"
+        "name": "Kyoto University Katsura Campus 4",
+        "image": "https://en.nalsai.de/blog/seichi/riddle-joker/12.avif",
+        "link": "https://en.nalsai.de/blog/seichi/riddle-joker/#kyoto-university-katsura-campus"
       },
       "geometry": {
         "type": "Point",
@@ -171,9 +171,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Riddle Joker: Ōyodo Naka Park (Osaka)",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210816/20210816002133.jpg",
-        "link": "https://rinnow.hatenablog.com/entry/riddle/"
+        "name": "Ōyodo Naka Park",
+        "image": "https://en.nalsai.de/blog/seichi/riddle-joker/6.avif",
+        "link": "https://en.nalsai.de/blog/seichi/riddle-joker/#ōyodo-naka-park"
       },
       "geometry": {
         "type": "Point",
@@ -186,11 +186,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Riddle Joker: Genbaku Dome-Mae Station (Hiroshima)",
-        "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuiyu22/20210221/20210221200008.jpg",
-        "link": "https://rinnow.hatenablog.com/entry/riddle/",
-        "description": "The station is Genbaku Dome-Mae Station in Hiroshima, but the building in the background is the Minato Mirai Center Building in Yokohama.",
-        "hidden": "true"
+        "name": "Genbaku Dome-Mae Station",
+        "image": "https://en.nalsai.de/blog/seichi/riddle-joker/4.avif",
+        "link": "https://en.nalsai.de/blog/seichi/riddle-joker/",
+        "description": "The station is in Hiroshima, but the building in the background is the Minato Mirai Center Building in Yokohama."
       },
       "geometry": {
         "type": "Point",

@@ -20,7 +20,11 @@
       "type": "Feature",
       "properties": {
         "name": "Peterskirche",
-        "image": "https://en.nalsai.de/blog/seichi/ef/bg-hd-church-1.avif",
+        "images": [
+          "https://en.nalsai.de/blog/seichi/ef/bg-hd-church-1.avif",
+          "https://en.nalsai.de/blog/seichi/ef/bg-hd-church-2.avif",
+          "https://en.nalsai.de/blog/seichi/ef/bg19.avif"
+        ],
         "link": "https://en.nalsai.de/blog/seichi/ef/#church"
       },
       "geometry": {
@@ -34,38 +38,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Providenzkirche - inside (1)",
-        "image": "https://en.nalsai.de/blog/seichi/ef/bg-hd-church-inside-1.avif",
-        "link": "https://en.nalsai.de/blog/seichi/ef/#inside-providenzkirche"
-      },
-      "geometry": {
-        "coordinates": [
-          8.701980307346135,
-          49.411010417863416
+        "name": "Providenzkirche",
+        "images": [
+          "https://en.nalsai.de/blog/seichi/ef/bg-hd-church-inside-3.avif",
+          "https://en.nalsai.de/blog/seichi/ef/bg-hd-church-inside-1.avif",
+          "https://en.nalsai.de/blog/seichi/ef/bg-hd-church-inside-2.avif"
         ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Providenzkirche - inside (2)",
-        "image": "https://en.nalsai.de/blog/seichi/ef/bg-hd-church-inside-2.avif",
-        "link": "https://en.nalsai.de/blog/seichi/ef/#inside-providenzkirche"
-      },
-      "geometry": {
-        "coordinates": [
-          8.702016674247208,
-          49.41086852972298
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Providenzkirche - inside (3)",
-        "image": "https://en.nalsai.de/blog/seichi/ef/bg-hd-church-inside-3.avif",
         "link": "https://en.nalsai.de/blog/seichi/ef/#inside-providenzkirche"
       },
       "geometry": {
@@ -112,7 +90,7 @@
         "name": "Hauptstraße (middle)",
         "image": "https://en.nalsai.de/blog/seichi/ef/bg-hd-hauptstr-middle.avif",
         "link": "https://en.nalsai.de/blog/seichi/ef/#hauptstraße",
-        "description":"Only roughly similar"
+        "description": "Only roughly similar"
       },
       "geometry": {
         "coordinates": [
@@ -126,7 +104,11 @@
       "type": "Feature",
       "properties": {
         "name": "Intersection of Mönchgasse and Heiliggeiststraße",
-        "image": "https://en.nalsai.de/blog/seichi/ef/bg-hd-monchg-1.avif",
+        "images": [
+          "https://en.nalsai.de/blog/seichi/ef/bg-hd-monchg-1.avif",
+          "https://en.nalsai.de/blog/seichi/ef/bg-hd-monchg-2.avif",
+          "https://en.nalsai.de/blog/seichi/ef/bg27.avif"
+        ],
         "link": "https://en.nalsai.de/blog/seichi/ef/#mönchgasse"
       },
       "geometry": {
@@ -140,38 +122,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Intersection of Mönchgasse and Heiliggeiststraße - curb",
-        "image": "https://en.nalsai.de/blog/seichi/ef/bg27.avif",
-        "link": "https://en.nalsai.de/blog/seichi/ef/#mönchgasse"
-      },
-      "geometry": {
-        "coordinates": [
-          8.711845251792397,
-          49.41258858217357
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Intersection of Mönchgasse and Heiliggeiststraße (2)",
-        "image": "https://en.nalsai.de/blog/seichi/ef/bg-hd-monchg-2.avif",
-        "link": "https://en.nalsai.de/blog/seichi/ef/#mönchgasse"
-      },
-      "geometry": {
-        "coordinates": [
-          8.711922936789154,
-          49.41242669258783
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Hauptstraße 236",
-        "image": "https://en.nalsai.de/blog/seichi/ef/bg-hd-hauptstr-236.avif",
+        "image": "https://en.nalsai.de/blog/seichi/ef/bg-hd-hauptstr-236_night.avif",
         "link": "https://en.nalsai.de/blog/seichi/ef/#hauptstraße"
       },
       "geometry": {
@@ -188,7 +140,7 @@
         "name": "Königstuhl",
         "image": "https://en.nalsai.de/blog/seichi/ef/bg18.avif",
         "link": "https://en.nalsai.de/blog/seichi/ef/#königstuhl",
-        "description":"Not very similar"
+        "description": "Not very similar"
       },
       "geometry": {
         "coordinates": [
@@ -202,43 +154,17 @@
       "type": "Feature",
       "properties": {
         "name": "Rothenburg ob der Tauber Station",
-        "image": "https://en.nalsai.de/blog/seichi/ef/bg-rothenburg-station-1.avif",
+        "images": [
+          "https://en.nalsai.de/blog/seichi/ef/bg-rothenburg-station-1.avif",
+          "https://en.nalsai.de/blog/seichi/ef/bg-rothenburg-station-2.avif",
+          "https://en.nalsai.de/blog/seichi/ef/bg-rothenburg-station-3.avif"
+        ],
         "link": "https://en.nalsai.de/blog/seichi/ef/#station"
       },
       "geometry": {
         "coordinates": [
           10.190646689727712,
           49.37671533895522
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Rothenburg ob der Tauber Station (2)",
-        "image": "https://en.nalsai.de/blog/seichi/ef/bg-rothenburg-station-2.avif",
-        "link": "https://en.nalsai.de/blog/seichi/ef/#station"
-      },
-      "geometry": {
-        "coordinates": [
-          10.190723693779749,
-          49.37677688172771
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Rothenburg ob der Tauber Station (3)",
-        "image": "https://en.nalsai.de/blog/seichi/ef/bg-rothenburg-station-3.avif",
-        "link": "https://en.nalsai.de/blog/seichi/ef/#station"
-      },
-      "geometry": {
-        "coordinates": [
-          10.19066423911499,
-          49.37675929619333
         ],
         "type": "Point"
       }
