@@ -285,11 +285,11 @@
         },
         {
             "type": "shrine",
-            "image": "2023-12-26_himuro-jinja.jpg",
-            "prefecture": "Kyōto",
+            "image": "2023-12-25_himuro-jinja.jpg",
+            "prefecture": "Nara",
             "location": "Himuro Jinja",
             "locationJp": "氷室神社",
-            "date": "2023-12-26",
+            "date": "2023-12-25",
             "attachments": [
                 {
                     "name": "Blotter",
@@ -300,7 +300,7 @@
         {
             "type": "shrine",
             "image": "2023-12-26_hokoku-jinja.jpg",
-            "prefecture": "Kyōto",
+            "prefecture": "Ōsaka",
             "location": "Hōkoku Jinja",
             "locationJp": "豊國神社",
             "date": "2023-12-26"
@@ -1315,7 +1315,7 @@
             "attachments": [
                 {
                     "name": "Blotter",
-                    "file": "futami-okitama-jinja_blotter.jpg"
+                    "file": "futami-okitama-jinja_blotter.pdf"
                 },
                 {
                     "name": "Leaflet",
@@ -2092,6 +2092,199 @@
                     "file": "tamagawa-sengen-jinja_blotter.pdf"
                 }
             ]
+        },
+        {
+            "type": "shrine",
+            "image": "2026-02-22_kasama-inari-jinja.jpg",
+            "prefecture": "Ibaraki",
+            "location": "Kasama Inari Jinja",
+            "locationJp": "笠間稲荷神社",
+            "date": "2026-02-22",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "kasama-inari-jinja_blotter.pdf"
+                },
+                {
+                    "name": "Sticker",
+                    "file": "kasama-inari-jinja_sticker.jpg"
+                }
+            ]
+        },
+        {
+            "type": "shrine",
+            "image": "2026-02-26_nonomiya-jinja.jpg",
+            "prefecture": "Kyōto",
+            "location": "Nonomiya Jinja",
+            "locationJp": "野宮神社",
+            "date": "2026-02-26",
+            "attachments": [
+                {
+                    "name": "Leaflet",
+                    "file": "nonomiya-jinja_leaflet.pdf"
+                }
+            ]
+        },
+        {
+            "type": "shrine",
+            "image": "2026-02-26_kitano-tenman-gu_waka.jpg",
+            "prefecture": "Kyōto",
+            "location": "Kitano Tenman-gū",
+            "locationJp": "北野天滿宮",
+            "date": "2026-02-26",
+            "notes": "Sugawara no Michizane Waka Goshuin",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "kitano-tenman-gu_blotter.pdf"
+                }
+            ]
+        },
+        {
+            "type": "shrine",
+            "image": "2026-02-26_heian-jingu.jpg",
+            "prefecture": "Kyōto",
+            "location": "Heian Jingū",
+            "locationJp": "平安神宮",
+            "date": "2026-02-26",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "heian-jingu_blotter.jpg"
+                }
+            ]
+        },
+        {
+            "type": "shrine",
+            "image": "2026-02-26_heian-jingu_130-years.jpg",
+            "prefecture": "Kyōto",
+            "location": "Heian Jingū",
+            "locationJp": "平安神宮",
+            "notes": "130th Anniversary Goshuin",
+            "date": "2026-02-26",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "heian-jingu_blotter.jpg"
+                }
+            ]
+        },
+        {
+            "type": "shrine",
+            "image": "2026-02-27_okazaki-jinja.jpg",
+            "prefecture": "Kyōto",
+            "location": "Okazaki Jinja",
+            "locationJp": "岡崎神社",
+            "date": "2026-02-27"
+        },
+        {
+            "type": "shrine",
+            "image": "2026-03-01_yokkaichi-suwa-jinja.jpg",
+            "prefecture": "Mie",
+            "location": "Yokkaichi Suwa Jinja",
+            "locationJp": "諏訪神社（四日市）",
+            "date": "2026-03-01",
+            "attachments": [
+                {
+                    "name": "Leaflet",
+                    "file": "yokkaichi-suwa-jinja_leaflet.pdf"
+                }
+            ]
+        },
+        {
+            "type": "shrine",
+            "image": "2026-03-01_wakamiya-hachiman-sha_day.jpg",
+            "prefecture": "Aichi",
+            "location": "Wakamiya Hachiman-sha",
+            "locationJp": "若宮八幡社",
+            "date": "2026-03-01",
+            "notes": "Special March 1st 2026 Goshuin"
+        },
+        {
+            "type": "shrine",
+            "image": "2026-03-02_futami-okitama-jinja.jpg",
+            "prefecture": "Mie",
+            "location": "Futami Okitama Jinja",
+            "locationJp": "二見興玉神社",
+            "date": "2026-03-02",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "futami-okitama-jinja_blotter.pdf"
+                }
+            ]
+        },
+        {
+            "type": "shrine",
+            "image": "2026-03-02_futami-okitama-jinja_ryugusha.jpg",
+            "prefecture": "Mie",
+            "location": "Futami Okitama Jinja Ryūgūsha",
+            "locationJp": "二見興玉神社　龍宮社",
+            "date": "2026-03-02",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "futami-okitama-jinja-ryugusha_blotter.pdf"
+                }
+            ]
+        },
+        {
+            "type": "shrine",
+            "image": "2026-03-03_hiro-jinja.jpg",
+            "prefecture": "Wakayama",
+            "location": "Hirō Jinja",
+            "locationJp": "飛瀧神社",
+            "date": "2026-03-03",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "jinjahoncho_blotter.jpg"
+                }
+            ]
+        },
+        {
+            "type": "shrine",
+            "image": "2026-03-03_kumano-nachi-taisha.jpg",
+            "prefecture": "Wakayama",
+            "location": "Kumano Nachi Taisha",
+            "locationJp": "熊野那智大社",
+            "date": "2026-03-03",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "jinjahoncho_blotter.jpg"
+                }
+            ]
+        },
+        {
+            "type": "shrine",
+            "image": "2026-03-04_itsukushima-jinja.jpg",
+            "prefecture": "Hiroshima",
+            "location": "Itsukushima Jinja",
+            "locationJp": "嚴島神社",
+            "date": "2026-03-04",
+            "attachments": [
+                {
+                    "name": "Blotter",
+                    "file": "itsukushima-jinja_blotter.pdf"
+                }
+            ]
+        },
+        {
+            "type": "temple",
+            "image": "2026-03-04_daigan-ji.jpg",
+            "prefecture": "Hiroshima",
+            "location": "Daigan-ji",
+            "locationJp": "大願寺",
+            "date": "2026-03-04"
+        },
+        {
+            "type": "temple",
+            "image": "2026-03-06_chion-ji.jpg",
+            "prefecture": "Kyōto",
+            "location": "Chion-ji",
+            "locationJp": "智恩寺",
+            "date": "2026-03-06"
         }
     ]
 }
