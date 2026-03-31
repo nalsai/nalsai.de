@@ -248,7 +248,7 @@
             "type": "temple",
             "image": "2023-12-23_tenryu-ji.jpg",
             "prefecture": "Kyōto",
-            "location": "Tenryu-ji",
+            "location": "Tenryū-ji",
             "locationJp": "天龍寺",
             "date": "2023-12-23"
         },
@@ -359,14 +359,14 @@
             "prefecture": "Tōkyō",
             "location": "Asakusa Jinja",
             "locationJp": "浅草神社",
-            "notes": "Special New Year's Goshuin; Only written directly into your Goshuinchō",
+            "notes": "New Year's Goshuin; Only written directly into your Goshuinchō",
             "date": "2024-01-01"
         },
         {
             "type": "shrine",
             "image": "2024-01-01_tower-daijingu_normal.jpg",
             "prefecture": "Tōkyō",
-            "location": "Tōkyō Tower: Tower Daijingū",
+            "location": "Tower Daijingū",
             "locationJp": "タワー大神宮",
             "date": "2024-01-01"
         },
@@ -374,7 +374,7 @@
             "type": "shrine",
             "image": "2024-01-01_tower-daijingu_winter.jpg",
             "prefecture": "Tōkyō",
-            "location": "Tōkyō Tower: Tower Daijingū",
+            "location": "Tower Daijingū",
             "locationJp": "タワー大神宮",
             "notes": "Winter Goshuin",
             "date": "2024-01-01"
@@ -383,7 +383,7 @@
             "type": "shrine",
             "image": "2024-01-01_tower-daijingu_oshogatsu.jpg",
             "prefecture": "Tōkyō",
-            "location": "Tōkyō Tower: Tower Daijingū",
+            "location": "Tower Daijingū",
             "locationJp": "タワー大神宮",
             "notes": "New Year's Goshuin (cutout)",
             "date": "2024-01-01"
@@ -400,7 +400,7 @@
             "type": "temple",
             "image": "2024-01-03_shinobazunoike-benten-do_benzaiten.jpg",
             "prefecture": "Tōkyō",
-            "location": "Shinobazunoike Benten-dō",
+            "location": "Shinobazu no Ike Benten-dō",
             "locationJp": "不忍池辯天堂",
             "notes": "Benzaiten Goshuin",
             "date": "2024-01-03",
@@ -435,7 +435,7 @@
             "prefecture": "Tōkyō",
             "location": "Ueno Tōshōgū",
             "locationJp": "上野東照宮",
-            "notes": "New Year's Limited Vintage Letterpress Goshuin",
+            "notes": "New Year's Vintage Letterpress Goshuin",
             "date": "2024-01-03",
             "attachments": [
                 {
@@ -448,7 +448,7 @@
             "type": "shrine",
             "image": "2024-01-11_tokyo-daijingu.jpg",
             "prefecture": "Tōkyō",
-            "location": "Tōkyō Daijingu",
+            "location": "Tōkyō Daijingū",
             "locationJp": "東京大神宮",
             "date": "2024-01-11",
             "attachments": [
@@ -506,7 +506,7 @@
             "type": "temple",
             "image": "2024-01-11_narita-san-shinsho-ji.jpg",
             "prefecture": "Chiba",
-            "location": "Naritasan Shinshō-ji",
+            "location": "Narita-san Shinshō-ji",
             "locationJp": "成田山 新勝寺",
             "notes": "Gohonzon Fudō Myōō Goshuin",
             "date": "2024-01-11"
@@ -613,7 +613,7 @@
             "type": "shrine",
             "image": "2024-02-04_miekengokoku-jinja.jpg",
             "prefecture": "Mie",
-            "location": "Mieken Gokoku Jinja",
+            "location": "Mie-ken Gokoku Jinja",
             "locationJp": "三重縣護國神社",
             "date": "2024-02-04",
             "attachments": [
@@ -865,7 +865,7 @@
             "type": "shrine",
             "image": "2024-03-15_hinokuma-kunikakasu-jingu.jpg",
             "prefecture": "Wakayama",
-            "location": " Hinokuma Jingū & Kunikakasu Jingū",
+            "location": " Hinokuma & Kunikakasu Jingū",
             "locationJp": "日前神宮・國懸神宮",
             "date": "2024-03-15"
         },
@@ -1245,7 +1245,7 @@
             "type": "temple",
             "image": "2024-04-30_shinobazunoike-benten-do_ugajin.jpg",
             "prefecture": "Tōkyō",
-            "location": "Shinobazunoike Benten-dō",
+            "location": "Shinobazu no Ike Benten-dō",
             "locationJp": "不忍池辯天堂",
             "notes": "春季浴酒 Limited Ugajin Goshuin",
             "date": "2024-04-30",
@@ -1286,7 +1286,7 @@
             "type": "shrine",
             "image": "2024-05-16_mieken-gokoku-jinja_5gatsu.jpg",
             "prefecture": "Mie",
-            "location": "Mieken Gokoku Jinja",
+            "location": "Mie-ken Gokoku Jinja",
             "locationJp": "三重縣護國神社",
             "notes": "May Goshuin",
             "date": "2024-05-16",
@@ -1327,7 +1327,7 @@
             "type": "temple",
             "image": "2024-06-15_kanzanji.jpg",
             "prefecture": "Shizuoka",
-            "location": "Kanzanji",
+            "location": "Kanzan-ji",
             "locationJp": "観山寺",
             "date": "2024-06-15",
             "attachments": [
@@ -1464,15 +1464,15 @@
             "type": "shrine",
             "image": "2024-08-16_sakurayama-hachimangu.jpg",
             "prefecture": "Gifu",
-            "location": "Sakura-yama Hachiman-gū",
+            "location": "Sakurayama Hachimangū",
             "locationJp": "桜山八幡宮",
             "date": "2024-08-16"
         },
         {
             "type": "shrine",
-            "image": "2024-08-16_sakurayama-hachiman-gu_sakurayama-fuurin-matsuri.jpg",
+            "image": "2024-08-16_sakurayama-hachimangu_sakurayama-fuurin-matsuri.jpg",
             "prefecture": "Gifu",
-            "location": "Sakurayama Hachiman-gū",
+            "location": "Sakurayama Hachimangū",
             "locationJp": "桜山八幡宮",
             "date": "2024-08-16",
             "notes": "Sakurayama Fūrin Matsuri Goshuin"
@@ -1523,10 +1523,10 @@
             ]
         },
         {
-            "type": "shrine",
+            "type": "temple",
             "image": "2024-08-16_dairyuji.jpg",
             "prefecture": "Gifu",
-            "location": "Dairyūji",
+            "location": "Dairyū-ji",
             "locationJp": "大隆寺",
             "date": "2024-08-16"
         },
@@ -1614,7 +1614,7 @@
             "type": "shrine",
             "image": "2024-08-22_tsurugaoka-hachimangu.jpg",
             "prefecture": "Kanagawa",
-            "location": "Tsurugaoka Hachiman-gū",
+            "location": "Tsurugaoka Hachimangū",
             "locationJp": "鶴岡八幡宮",
             "date": "2024-08-22"
         },
@@ -1663,10 +1663,10 @@
             "date": "2024-09-03"
         },
         {
-            "type": "shrine",
+            "type": "temple",
             "image": "2024-09-05_shinobazunoike-benten-do_daikokuten.jpg",
             "prefecture": "Tōkyō",
-            "location": "Shinobazunoike Benten-dō",
+            "location": "Shinobazu no Ike Benten-dō",
             "locationJp": "不忍池辯天堂",
             "date": "2024-09-05",
             "notes": "Daikokuten Goshuin",
@@ -1809,7 +1809,7 @@
             "type": "shrine",
             "image": "2024-09-09_rinnoji-yakushido.jpg",
             "prefecture": "Tochigi",
-            "location": "Rin'nōji Yakushi-dō",
+            "location": "Rin'nō-ji Yakushi-dō",
             "locationJp": "日光山 輪王寺 薬師堂",
             "date": "2024-09-09",
             "attachments": [
@@ -1947,37 +1947,37 @@
         },
         {
             "type": "shrine",
-            "image": "2025-04-29_daishogun-hachiman-gu.jpg",
+            "image": "2025-04-29_daishogun-hachimangu.jpg",
             "prefecture": "Kyōto",
-            "location": "Daishōgun Hachiman-gū",
+            "location": "Daishōgun Hachimangū",
             "locationJp": "大将軍八幡宮",
             "date": "2025-04-29",
             "attachments": [
                 {
                     "name": "Leaflet",
-                    "file": "daishogun-hachiman-gu_leaflet.pdf"
+                    "file": "daishogun-hachimangu_leaflet.pdf"
                 },
                 {
                     "name": "Info Sheet (English)",
-                    "file": "daishogun-hachiman-gu_info-en.pdf"
+                    "file": "daishogun-hachimangu_info-en.pdf"
                 },
                 {
                     "name": "Goshuinchō Info Sheet (English)",
-                    "file": "daishogun-hachiman-gu_goshuincho-info-en.pdf"
+                    "file": "daishogun-hachimangu_goshuincho-info-en.pdf"
                 }
             ]
         },
         {
             "type": "shrine",
-            "image": "2025-04-29_kitano-tenman-gu.jpg",
+            "image": "2025-04-29_kitano-tenmangu.jpg",
             "prefecture": "Kyōto",
-            "location": "Kitano Tenman-gū",
+            "location": "Kitano Tenmangū",
             "locationJp": "北野天満宮",
             "date": "2025-04-29",
             "attachments": [
                 {
                     "name": "Blotter",
-                    "file": "kitano-tenman-gu_blotter.pdf"
+                    "file": "kitano-tenmangu_blotter.pdf"
                 }
             ]
         },
@@ -2127,16 +2127,16 @@
         },
         {
             "type": "shrine",
-            "image": "2026-02-26_kitano-tenman-gu_waka.jpg",
+            "image": "2026-02-26_kitano-tenmangu_waka.jpg",
             "prefecture": "Kyōto",
-            "location": "Kitano Tenman-gū",
+            "location": "Kitano Tenmangū",
             "locationJp": "北野天滿宮",
             "date": "2026-02-26",
             "notes": "Sugawara no Michizane Waka Goshuin",
             "attachments": [
                 {
                     "name": "Blotter",
-                    "file": "kitano-tenman-gu_blotter.pdf"
+                    "file": "kitano-tenmangu_blotter.pdf"
                 }
             ]
         },
@@ -2193,12 +2193,12 @@
         },
         {
             "type": "shrine",
-            "image": "2026-03-01_wakamiya-hachiman-sha_day.jpg",
+            "image": "2026-03-01_wakamiya-hachimansha_day.jpg",
             "prefecture": "Aichi",
-            "location": "Wakamiya Hachiman-sha",
+            "location": "Wakamiya Hachimansha",
             "locationJp": "若宮八幡社",
             "date": "2026-03-01",
-            "notes": "Special March 1st 2026 Goshuin"
+            "notes": "March 1st 2026 Goshuin"
         },
         {
             "type": "shrine",
