@@ -5,8 +5,17 @@
 
             <h1 class="my-5 print-mt-0">{{ .Title }}</h1>
 
-            {{ range (where .Paginator.Pages ".Params.unlisted" "!=" "true") }}
-            <a href="{{ .RelPermalink }}" class="text-decoration-none h-75">
+            {{ $lang := .Lang }}
+
+            {{ $pages := union .Sections .Pages }}
+            {{ range .Translations }}{{ $pages = $pages | lang.Merge (union .Sections .Pages) }}{{ end }}
+            {{ $pages := where $pages "Params.unlisted" "!=" true }}
+
+            {{ range (where (.Paginate $pages).Pages ".Params.unlisted" "!=" "true") }}
+
+            {{ $link := .RelPermalink }}
+            {{ if ne .Lang $lang }}{{ $link = printf "%s?hl=%s" .Permalink $lang }}{{ end }}
+            <a href="{{ $link }}" class="text-decoration-none h-75">
                 <div class="d-flex p-3 hover-opacity card bg-body-tertiary text-body px-3 py-4 m-0 rounded-4 my-4 text-start">
                     <p class="m-0">
                         <strong class="d-block mb-1">{{ .Title }}</strong>
