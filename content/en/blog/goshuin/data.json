@@ -2267,6 +2267,14 @@
                 {
                     "name": "Blotter",
                     "file": "itsukushima-jinja_blotter.pdf"
+                },
+                {
+                    "name": "Flyer",
+                    "file": "itsukushima-jinja_flyer.pdf"
+                },
+                {
+                    "name": "Flyer (English)",
+                    "file": "itsukushima-jinja_flyer-en.pdf"
                 }
             ]
         },
