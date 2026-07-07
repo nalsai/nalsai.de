@@ -50,3 +50,6 @@ DefaultContentLanguage = "en"
 [module]
   [[module.imports]]
     path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
+
+[security]
+  allowContent = ['.*']
