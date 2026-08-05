@@ -7,15 +7,15 @@ DefaultContentLanguage = "en"
   [languages.en]
     baseURL = "https://en.nalsai.de"
     contentDir = "content/en"
-    languageCode = 'en-US'
-    languageName = "English"
+    locale = 'en-US'
+    label = "English"
     title = "Nils' Website"
     weight = 1
   [languages.de]
     baseURL = "https://nalsai.de"
     contentDir = "content/de"
-    languageCode = 'de-DE'
-    languageName = "Deutsch"
+    locale = 'de-DE'
+    label = "Deutsch"
     title = "Nils' Webseite"
     weight = 2
 

@@ -57,11 +57,11 @@
             {{ if .IsTranslated }}
             <div class="dropdown w-fit-content">
                 <button class="btn btn-secondary dropdown-toggle mt-2 mt-lg-auto" type="button" id="languageDropdown" data-bs-toggle="dropdown" aria-expanded="false">
-                    <i class="bi bi-translate"></i>&nbsp;{{ .Language.LanguageName }}
+                    <i class="bi bi-translate"></i>&nbsp;{{ .Language.Label }}
                 </button>
                 <ul class="dropdown-menu dropdown-menu-start dropdown-menu-lg-end" aria-labelledby="languageDropdown">
                     {{ range .AllTranslations }}
-                    <li><a class="dropdown-item" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+                    <li><a class="dropdown-item" href="{{ .Permalink }}">{{ .Language.Label }}</a></li>
                     {{ end }}
                 </ul>
             </div>
