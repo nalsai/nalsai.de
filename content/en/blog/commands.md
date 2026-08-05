@@ -18,15 +18,10 @@ tags = ["Software", "Commands", "Linux"]
 ## Videos
 
 ```bash
-# encode videos with ffmpeg (av1 is very modern, h265 modern and h264+aac should be compatible with almost anything; add -map_metadata 0 to copy metadata)
+# encode videos with ffmpeg (av1 is very modern, h264+aac should be compatible with almost anything; add -map_metadata 0 to copy metadata)
 ffmpeg -i in.mov -pix_fmt yuv420p10le -c:v libsvtav1 -crf 32 -preset 8 -svtav1-params tune=0:enable-overlays=1:scm=0:mbr=20000 -c:a libopus -b:a 128k out.mkv
-ffmpeg -i in.mov -pix_fmt yuv420p10le -c:v libx265 -crf 20 -preset slow -c:a libopus -b:a 128k out.mkv
 ffmpeg -i in.mov -pix_fmt yuv420p -c:v libx264 -crf 18 -preset slow -c:a aac -b:a 192k out.mkv
 ffmpeg -i in.mov -pix_fmt yuv420p -c:v libx264 -crf 16 -preset slow -c:a flac out.mkv
-
-# encode zoom recordings with ffmpeg
-ffmpeg -i Timeline\ 1.mkv -pix_fmt yuv420p -c:v libx264 -crf 24 -maxrate 1600k -bufsize 4M -c:a aac -b:a 128k -ac 1 -ar 32000 enc.mkv
-ffmpeg -i enc.mkv -c copy -movflags +faststart enc.mp4
 
 # prores and pcm for editing (in resolve)
 ffmpeg -i in.mov -c:v prores_ks -profile:v 3 -qscale:v 9 -c:a pcm_s16le out.mov
@@ -45,22 +40,17 @@ ffmpeg -i enc.mkv -c copy -movflags +faststart enc.mp4
 # you need to specify the codec and encoding options if you want to re-encode - this is needed for cutting outside of keyframes
 ffmpeg -ss 3 -i in.mp4 -c copy -to 1:20 out.mp4
 
-# deinterlace with nnedi3, a high-quality (but slow) intra-field deinterlacer using neural networks
-# you need to download the file https://github.com/dubhater/vapoursynth-nnedi3/blob/v6/src/nnedi3_weights.bin
-# you may want to use QTGMC in VapourSynth instead; or yadif (-vf yadif=0) for a faster, simpler deinterlacer
-ffmpeg -i in.mp4 -vf "nnedi=weights='./nnedi3_weights.bin',format=yuv420p" -c:v libx265 -crf 20 -preset slow -c:a copy out.mp4
+# deinterlace using bwdif, a modern fast and high quality deinterlacer
+ffmpeg -i in.mp4 -filter:v bwdif=mode=send_field:parity=auto:deint=all -pix_fmt yuv420p -c:v libx264 -crf 18 -preset slow -c:a copy out.mp4
 
-# crop to 2/1
-ffmpeg -i in.mp4 -vf "crop=in_w:in_w/2" -c:v libx265 -crf 20 -preset slow -c:a copy out.mp4
 
 # MacroSilicon MS2109 Capture Card:
-#   60 fps at 1080p is just a firmware hack with every second frame being empty -> don't use it
-#   stereo audio on windows needs https://github.com/ToadKing/mono-to-stereo (on Linux it works oob)
-#   there's also this web player for chrome https://github.com/yume-chan/ms2109-player
+#   1080p60 is fake -> use either 1080p30 or 720p60
+#   stereo audio on windows needs https://github.com/ToadKing/mono-to-stereo (on Linux it just works)
 # display using ffplay
 ffplay /dev/video2 -framerate 30 -video_size 1920x1080 -input_format mjpeg -f v4l2
 ffplay /dev/video2 -framerate 60 -video_size 1280x720 -input_format mjpeg -f v4l2
-# loopback for usage with other programs (i.e. OBS)
+# loopback for usage with other programs
 sudo modprobe v4l2loopback devices=1 video_nr=10 card_label="LoopbackCam" exclusive_caps=1
 ffmpeg -f video4linux2 -framerate 30 -video_size 1920x1080 -input_format mjpeg -i /dev/video2 -f v4l2 -pix_fmt yuv420p /dev/video10
 ```
@@ -71,11 +61,8 @@ ffmpeg -f video4linux2 -framerate 30 -video_size 1920x1080 -input_format mjpeg -
 # resize and compress images
 magick img.jpg -auto-orient -quality 90% -resize 4096x4096\> -interlace Plane -sampling-factor 4:2:0 -define jpeg:dct-method=float -colorspace sRGB -strip img-out.jpg
 mkdir -p out && parallel -j 6 --eta "magick {} -auto-orient -quality 90% -resize 4096x4096\> -interlace Plane -sampling-factor 4:2:0 -define jpeg:dct-method=float -colorspace sRGB -strip out/{}" ::: *.jpg
-mkdir -p out && parallel -j 6 --eta "magick {} -auto-orient -quality 90% -resize 2048x2048\> -interlace Plane -sampling-factor 4:2:0 -define jpeg:dct-method=float -colorspace sRGB -strip out/{}" ::: *.jpg
-mkdir -p out && parallel -j 6 --eta "magick {} -auto-orient -quality 90% -resize 600x600\> -interlace Plane -sampling-factor 4:2:0 -define jpeg:dct-method=float -colorspace sRGB -strip out/{}" ::: *.jpg
-mkdir -p out && parallel -j 6 --eta "magick {} -auto-orient -quality 99% -colorspace sRGB -strip out/{}.jxl" ::: *.jpg
 
-# optimize png images (o goes from 0 to 6; use "--strip safe" or "--strip all" all to remove metadata; --alpha changes color values of fully transparent pixels)
+# optimize png images (o: 0-6 but anything above 4 takes forever, default=2; use "--strip safe" or "--strip all" all to remove metadata; --alpha changes color values of fully transparent pixels)
 oxipng -o 4 --alpha *.png
 
 # convert svg to png with perfect quality
@@ -84,11 +71,28 @@ inkscape -w 512 in.svg -o out.png
 # convert png/svg to ico using ImageMagick
 convert -density 256x256 -background transparent in.png -define icon:auto-resize -colors 256 out.ico
 
-# set exif date
-exiftool "-AllDates=2021:08:22 01:58" img.jpg
+# name by exif date
+exiftool -fileOrder CreateDate -api QuickTimeUTC '-FileName<${CreateDate#;
+    use POSIX qw(strftime);
+    our %used;
+    my $dir = $self->GetValue("Directory");
+    my $ext = lc($self->GetValue("FileTypeExtension"));
+    my $ts  = GetUnixTime($_);
+    my $new;
+    for (;;) {
+        $new = strftime("%Y%m%d_%H%M%S", gmtime($ts)) . "." . $ext;
+        last if !$used{$new} && !-e "$dir/$new";
+        $ts++;
+    }
+    $used{$new} = 1;
+    $_ = $new;
+}' .
 
 # set exif time zone
-exiftool -r -overwrite_original -OffsetTime\*=+02:00 -m .
+exiftool -overwrite_original -OffsetTime\*=+02:00 .
+
+# set exif date
+exiftool "-AllDates=2021:08:22 01:58" img.jpg
 
 # shift JPG image dates by 1 year, 12 month, 28 days, 14 hours, 54 minutes, 32 seconds
 exiftool -jpg "-AllDates+=1:12:28 14:54:32" .
