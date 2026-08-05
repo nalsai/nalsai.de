@@ -3,7 +3,7 @@ title = "Visiting Places from Tsukihime"
 description = "OG Tsukihime locations in Tōkyō"
 tags = ["Visual Novel", "Anime Tourism"]
 date = 2023-11-25
-update = 2025-08-26
+update = 2026-08-06
 +++
 
 {{< youtube-audio id="0sgQOBJrPnI" title="Track 08" channel="Tsukihime" >}}
@@ -60,6 +60,8 @@ The fountain jets have probably been replaced, so it looks a bit different.
 Due to the fountain jets being higher, I took the photo further upward than the one in Tsukihime.
 Maybe, with the right timing, it would be possible to get a photo more similar to the one in Tsukihime.  
 Also, I have no clue from which angle the photo was taken, as the trees obviously look different now.
+
+2026 Update: due to the Hibiya Park Renewal and Redevelopment Plan, there is currently ongoing construction and the fountain is completely gone. A new fountain is scheduled to be completed in fiscal year 2027.
 
 ## The path with the trees
 
@@ -121,6 +123,8 @@ Afterwards, I walked a little bit through Hikarigaoka, a quiet and beautiful res
 This is the entrance gate. It seems like the metal gate was completely opened when the picture in Tsukihime was taken, and it was probably taken from a slightly different position with a longer focal length.
 Despite this I got quite close to the original image.  
 It's crazy how it has stayed almost the same all these years.
+
+2026 Update: the school has been renovated and the old buildings are gone :(
 
 {{< img bg_01b.avif jpg >}}
 {{< img XL159141-crop.avif jpg >}}  
@@ -185,7 +189,8 @@ Date: 2025-05-06
 
 These bonus images appear when Shiki dreams about the past of Roa's seventeenth incarnation.
 
-I went to Paris in August 2016 with my family and, of course, visited the Arc de Triomphe too. I didn't take a photo from the same angle as the one in Tsukihime.
+I went to Paris in August 2016 with my family and, of course, visited the Arc de Triomphe too. I didn't take a photo from the same angle as the one in Tsukihime.  
+I went back in 2026 to take a photo from the same angle, but due to the traffic it was impossible.
 
 {{< img cmo_11.avif jpg >}}
 {{< img QHP40073-crop.avif jpg >}}  
@@ -212,21 +217,14 @@ This is an large apartment complex in Komae, Tokyo. Since it is a private reside
 The Tohno Mansion is quite clearly Château de Remaisnil in France.
 It is private property, but it seems like it was a hotel between 1987 and 2000.
 
+I'd like to visit it one day, even if I can only look at it from outside the fence
+
 {{< img bg_48a.avif jpg >}}
 
 These pictures appeared during the backstory of Ciel. The first one is the restaurant Maximiliaan van Oostenrijk in Brugge, Belgium and the second one seems to be in Quedlinburg, Germany, but I'm not 100% sure.
 
 {{< img cmo_12.avif jpg >}}
 {{< img cmo_13.avif jpg >}}
-
-## Afterword
-
-It was a lot of fun to visit these places.  
-Sadly, the Shinjuku Suitomo Building has been renovated, so the place where the battle with Nero took place is now completely different.
-Hibiya Park, where a lot of the images of the park in Tsukihime were taken, was pretty close to my hotel and has become one of my favorite parks in Tokyo.
-
-When I'm in Kyoto, I plan to visit some places from Senren*Banka next.  
-Look forward to another blog post about that!
 
 ## Acknowledgments
 
