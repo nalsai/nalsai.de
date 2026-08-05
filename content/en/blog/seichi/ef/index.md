@@ -6,7 +6,7 @@ tags = [
   "Anime Tourism"
 ]
 date = 2026-01-04
-update = 2026-01-13
+update = 2026-08-06
 +++
 
 ## Rothenburg ob der Tauber
@@ -46,14 +46,13 @@ This is a shot from the anime.
 #### Outside
 
 {{< img "bg-hd-church-1.avif" "jpg" >}}
-{{< img "ZJN65646-crop.avif" "jpg" >}}
+{{< img "20260710_135249_pano.avif" "jpg" >}}
 
 {{< img "bg-hd-church-2.avif" "jpg" >}}
-{{< img "ZJN65616-crop.avif" "jpg" >}}
+{{< img "20260710_135524-crop.avif" "jpg" >}}
 
-<!--{{< img "bg14.avif" "jpg" >}}
 {{< img "bg19.avif" "jpg" >}}
-{{< img "bg24.avif" "jpg" >}}-->
+{{< img "20260710_135612-crop.avif" "jpg" >}}
 
 While the model for the exterior of the church is clearly the Peterskirche (St. Peter's Church) in Heidelberg, the interior appear to be modeled after the Providenzkirche (Church of Providence).
 
