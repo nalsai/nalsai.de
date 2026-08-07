@@ -40,6 +40,16 @@ Date: 2025-05-02
 This was very hard to line up. When I was there, I thought it looked quite different from the image in Subahibi, but after lining them up in GIMP, I realized that it is actually quite similar.
 I think, the bridge behind the image makes it feel quite open while the harsh shadows in combination with the buildings in the Subahibi image give it a more back-alley like feel.
 
+## Buildings
+
+The buildings in the background of the rooftop image can be found southeast of the Shibuya Scramble Crossing, but a rooftop like the one in Subahibi does not exist there.  
+The ingame background is mirrored compared to real life.
+
+{{< img "roof.avif" "jpg" >}}
+{{< img "20260308_142222-crop.avif" "jpg" >}}
+
+Date: 2026-03-08
+
 ---
 
 ## Map

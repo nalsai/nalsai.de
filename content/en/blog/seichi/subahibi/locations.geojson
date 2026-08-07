@@ -30,6 +30,21 @@
           35.62154323630518
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7002269286329,
+          35.659382674131
+        ]
+      },
+      "properties": {
+        "name": "SubaHibi: Rooftop Background Buildings (Shibuya)",
+        "image": "https://en.nalsai.de/blog/seichi/subahibi/roof.avif",
+        "link": "https://en.nalsai.de/blog/seichi/subahibi/#buildings"
+      }
     }
   ]
 }
