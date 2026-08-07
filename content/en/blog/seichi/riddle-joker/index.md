@@ -83,14 +83,13 @@ Because the tree blocked the view I took another photo from in front of the tree
 
 In this CG, the foreground is from Genbaku Dome Station in Hiroshima and the background is the Minatomirai Center Building in Yokohama.
 
-<!--
 ## Hiroshima
 
 ### Genbaku Dome Station
 
 {{< img "4.avif" png >}}
-
--->
+{{< img "20260304_180059-crop.avif" jpg >}}
+{{< img "20260304_184130-crop.avif" jpg >}}
 
 ---
 
