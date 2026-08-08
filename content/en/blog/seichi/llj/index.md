@@ -3,7 +3,8 @@ title = "Visiting Places from LimeLight Lemonade Jam (Lalajam)"
 description = ""
 tags = [
   "Visual Novel",
-  "Anime Tourism"
+  "Anime Tourism",
+  "Yuzusoft"
 ]
 date = 2026-08-08
 +++
