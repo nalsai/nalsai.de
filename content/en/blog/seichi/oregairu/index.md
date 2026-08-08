@@ -118,10 +118,12 @@ In the elevator up the tower, I learned that the 125m tall tower, which opened i
 
 ### Chibashi Takasu Community Center
 
+<!-- 
+{{< img 14.avif jpg >}}
+-->
+
 {{< img 15.avif jpg >}}
 {{< img-immich immich="uyeYwSg-4GtsC0xesft6bWll3b6drpO5pyTPb3xFLkxEqPjOiIDgy6rSPUxozXiKzgk" img="e365b429-454f-4311-af30-569330b1e6bc" class="a645x363" >}}
-
-The rap battle scene that happened here is pretty memorable.
 
 ### Yui's Apartment Building
 
@@ -204,6 +206,9 @@ Inage Land Bridge is a overpass on Kaihin Koen-Dori that crosses Route 14/357. A
 
 {{< img "Yahari Ore no Seishun LoveCome wa Machigatte Iru. Kan - 11 - 22m10s329t.avif" jpg >}}
 {{< img-immich immich="uyeYwSg-4GtsC0xesft6bWll3b6drpO5pyTPb3xFLkxEqPjOiIDgy6rSPUxozXiKzgk" img="27b06dd7-2f92-4c1a-8718-3bed78361513" class="a645x363" >}}
+<!--
+{{< img "Yahari Ore no Seishun LoveCome wa Machigatte Iru. Kan - 11 - 15m47s989t.avif" jpg >}}
+-->
 
 ### Kaihin Makuhari Station
 
