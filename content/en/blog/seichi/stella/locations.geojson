@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe Stella: Nagoya Station",
+        "image": "https://en.nalsai.de/blog/seichi/stella/bg-1.avif",
+        "link": "https://en.nalsai.de/blog/seichi/stella/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.88399850293274,
+          35.17187041479474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe Stella: Hijiechō Street",
+        "image": "https://en.nalsai.de/blog/seichi/stella/bg-2.avif",
+        "link": "https://en.nalsai.de/blog/seichi/stella/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.88543058371985,
+          35.1694666035802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe Stella: Ōtsu Street",
+        "image": "https://en.nalsai.de/blog/seichi/stella/bg-3.avif",
+        "link": "https://en.nalsai.de/blog/seichi/stella/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.90697654169196,
+          35.16426480447924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe Stella: Nadya Park",
+        "image": "https://en.nalsai.de/blog/seichi/stella/bg-5.avif",
+        "link": "https://en.nalsai.de/blog/seichi/stella/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.90527824448566,
+          35.165374239836254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe Stella: Wakamiya Hachiman Shrine",
+        "image": "https://en.nalsai.de/blog/seichi/stella/bg-4.avif",
+        "link": "https://en.nalsai.de/blog/seichi/stella/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.90331380227164,
+          35.16303601685916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe Stella: Osaka University Toyonaka Campus",
+        "image": "https://en.nalsai.de/blog/seichi/stella/bg-6.avif",
+        "link": "https://en.nalsai.de/blog/seichi/stella/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.45359463229238,
+          34.80589270692499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe Stella: Universal City",
+        "image": "https://en.nalsai.de/blog/seichi/stella/bg-7.avif",
+        "link": "https://en.nalsai.de/blog/seichi/stella/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.437127635988,
+          34.66811311474616
+        ]
+      }
+    }
+  ]
+}
