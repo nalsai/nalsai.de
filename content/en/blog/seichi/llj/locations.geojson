@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1900342,
+          34.6967038
+        ]
+      },
+      "properties": {
+        "name": "LLJ: 路地裏",
+        "image": "https://en.nalsai.de/blog/seichi/llj/llj-alley.avif",
+        "link": "https://en.nalsai.de/blog/seichi/llj/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4875039,
+          34.7033005
+        ]
+      },
+      "properties": {
+        "name": "LLJ: ライブハウス周辺",
+        "image": "https://en.nalsai.de/blog/seichi/llj/llj-street.avif",
+        "link": "https://en.nalsai.de/blog/seichi/llj/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1934671,
+          34.6942843
+        ]
+      },
+      "properties": {
+        "name": "LLJ: 英山駅前",
+        "image": "https://en.nalsai.de/blog/seichi/llj/llj-station.avif",
+        "link": "https://en.nalsai.de/blog/seichi/llj/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1933806,
+          34.6942181
+        ]
+      },
+      "properties": {
+        "name": "LLJ: MV",
+        "image": "https://en.nalsai.de/blog/seichi/llj/llj-mv.avif",
+        "link": "https://en.nalsai.de/blog/seichi/llj/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.0497527,
+          34.3424757
+        ]
+      },
+      "properties": {
+        "name": "LLJ: 河鍋音楽祭",
+        "images": [
+          "https://en.nalsai.de/blog/seichi/llj/llj-takamatsu.avif",
+          "https://en.nalsai.de/blog/seichi/llj/llj-takamatsu-2.avif"
+        ],
+        "link": "https://en.nalsai.de/blog/seichi/llj/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3695582,
+          48.2027425
+        ]
+      },
+      "properties": {
+        "name": "LLJ: ケルントナー通り",
+        "images": [
+          "https://en.nalsai.de/blog/seichi/llj/llj-wien-1.avif",
+          "https://en.nalsai.de/blog/seichi/llj/llj-wien-2.avif"
+        ],
+        "link": "https://en.nalsai.de/blog/seichi/llj/"
+      }
+    }
+  ]
+}
