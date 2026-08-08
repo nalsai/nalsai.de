@@ -1,10 +1,10 @@
 +++
-title = "Visiting Places from Tenshi☆Souzou RE-BOOT!"
+title = "Places from Tenshi☆Souzou RE-BOOT!"
 description = ""
 tags = [
   "Visual Novel",
   "Anime Tourism",
-  "Yuzusoft",
+  "Yuzusoft"
 ]
 date = 2025-05-30
 +++
