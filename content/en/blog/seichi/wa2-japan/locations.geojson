@@ -1,0 +1,430 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70107001346756,
+          35.692141032100594
+        ]
+      },
+      "properties": {
+        "name": "WA2: JR新宿駅東口前",
+        "icon": "green",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/onjuku-station_night.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70113898739626,
+          35.692286007693816
+        ]
+      },
+      "properties": {
+        "name": "WA2: 新宿アルタビジョン",
+        "icon": "green",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/onjuku-screen.jpg",
+        "description": "doesn't exist anymore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7024236052739,
+          35.691886857852126
+        ]
+      },
+      "properties": {
+        "name": "WA2: 紀伊國屋書店 新宿本店前交差点",
+        "icon": "green",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/onjuku-books_night.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.75958586022523,
+          35.66550973909646
+        ]
+      },
+      "properties": {
+        "name": "WA2: 新橋駅",
+        "icon": "green",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/seaside-station.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70441323613488,
+          35.69114475939917
+        ]
+      },
+      "properties": {
+        "name": "WA2: 伊勢丹新宿店本館 入口",
+        "icon": "green",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/office.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.69648893988068,
+          35.690218520855105
+        ]
+      },
+      "properties": {
+        "name": "WA2: WA2: 新宿郵便局前",
+        "icon": "green",
+        "images": [
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/onjuku-street.webp",
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/onjuku-street-2.png"
+        ],
+        "description": "maybe further south"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6897785921876,
+          35.68691861468627
+        ]
+      },
+      "properties": {
+        "name": "WA2: 新宿中央公園ちびっ子広場",
+        "icon": "green",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/onjuku-park.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70050213924557,
+          35.69345746320011
+        ]
+      },
+      "properties": {
+        "name": "WA2: 公衆電話",
+        "icon": "purple",
+        "description": "not pictured in game; McDonald's in the background"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.57979112022937,
+          35.70347658657901
+        ]
+      },
+      "properties": {
+        "name": "WA2: 末次町駅",
+        "icon": "green",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/minamisuetsugu-station.webp",
+        "description": "has changed a lot"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5196273527617,
+          35.90319578540487
+        ]
+      },
+      "properties": {
+        "name": "WA2: 南古谷駅",
+        "icon": "green",
+        "images": [
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/suetsugucho-station.webp",
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/iwazucho-station-platform.webp"
+        ],
+        "description": "mirrored and replaced by a new station building in 2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9079534,
+          35.7294067
+        ]
+      },
+      "properties": {
+        "name": "WA2: 岩津町駅",
+        "icon": "purple",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/iwazucho-station.webp",
+        "description": "pretty different, mirrored"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.90922179465358,
+          35.72922287527118
+        ]
+      },
+      "properties": {
+        "name": "WA2: コートダジュール 市川駅前店（閉店）",
+        "icon": "purple",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/out/WA2 E08 05m24s282t.avif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9045179,
+          35.7289084
+        ]
+      },
+      "properties": {
+        "name": "WA2: 市川南第一公園",
+        "icon": "green",
+        "images": [
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/park.webp",
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/out/WA2 E02 06m58s001t.avif"
+        ],
+        "description": "first is from the VN, second anime"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.38356942144875,
+          35.76360604907407
+        ]
+      },
+      "properties": {
+        "name": "WA2: 成田空港第1ターミナル展望デッキ／成田空港第２ターミナル見学デッキ南",
+        "icon": "green",
+        "images": [
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/narita-airport-observation-deck.webp",
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/narita-airport-observation-deck-2.png"
+        ],
+        "description": "Terminal 1 deck is being renovated as of 2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.38869347737176,
+          35.77242848745243
+        ]
+      },
+      "properties": {
+        "name": "WA2: 成田空港 第2ターミナル",
+        "icon": "green",
+        "images": [
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/narita-airport.webp",
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/narita-airport-2.png"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.56795,
+          35.81379,
+          0
+        ]
+      },
+      "properties": {
+        "name": "WA2: 立教大学 新座キャンパス 1",
+        "icon": "green",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/hojodai.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5663828,
+          35.8131393,
+          0
+        ]
+      },
+      "properties": {
+        "name": "WA2: 立教大学2",
+        "icon": "green",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/hojodai-2.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5658428288228,
+          35.81425030525786
+        ]
+      },
+      "properties": {
+        "name": "WA2: 立教大学3 Building 4",
+        "icon": "green",
+        "images": [
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/hojodai-3.png",
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/hojodai-4.webp"
+        ],
+        "description": "approximate location"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70389378170822,
+          35.730944708564905
+        ]
+      },
+      "properties": {
+        "name": "WA2: 立教大学本館前",
+        "icon": "green",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/university.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.90221176584086,
+          35.738138954500535
+        ]
+      },
+      "properties": {
+        "name": "WA2: 江戸川河川敷東岸",
+        "icon": "purple",
+        "images": [
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/out/WA2 E01 11m42s535t.avif",
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/out/WA2 E09 14m56s521t.avif"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.90135008677893,
+          35.74212861162986
+        ]
+      },
+      "properties": {
+        "name": "WA2: 江戸川沿いの歩道",
+        "icon": "green",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/riverside.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6948650740748,
+          35.69014727550773
+        ]
+      },
+      "properties": {
+        "name": "WA2: 京王プラザホテル",
+        "icon": "green",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/integral-hotel.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.79290799928813,
+          35.628839801421904
+        ]
+      },
+      "properties": {
+        "name": "WA2: 有明西ふ頭公園",
+        "icon": "green",
+        "images": [
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/seaside_night.webp",
+          "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/seaside-2.png"
+        ],
+        "description": "mirrored"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.90351586765834,
+          35.73071298833504
+        ]
+      },
+      "properties": {
+        "name": "WA2: 山桜公園",
+        "icon": "purple",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/out/WA2 E12 17m02s813t.avif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.56493913587022,
+          35.728824554796276
+        ]
+      },
+      "properties": {
+        "name": "WA2: 東伏見駅（北口）",
+        "icon": "purple",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/out/WA2 E03 11m48s958t.avif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.56429881376005,
+          35.72836014185271
+        ]
+      },
+      "properties": {
+        "name": "WA2: 東伏見駅（南口）",
+        "icon": "purple",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/out/WA2 E03 11m39s073t.avif"
+      }
+    }
+  ]
+}

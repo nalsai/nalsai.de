@@ -76,7 +76,7 @@ While the other locations were pretty much exactly the same, this one is quite d
 
 ## Map
 
-Nocchi* on Pixiv created this [awesome map](https://www.pixiv.net/en/artworks/39680412):
+Nocchi* on Pixiv created [this awesome map](https://www.pixiv.net/en/artworks/39680412):
 
 {{< img "map.avif" "png" >}}
 
