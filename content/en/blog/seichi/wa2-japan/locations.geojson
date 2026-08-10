@@ -28,7 +28,7 @@
       "properties": {
         "name": "WA2: 新宿アルタビジョン",
         "icon": "green",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/onjuku-screen.jpg",
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/bg-onjuku-screen.jpg",
         "description": "doesn't exist anymore"
       }
     },
@@ -101,14 +101,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.6897785921876,
-          35.68691861468627
+          139.68973944362716,
+          35.686875396937914
         ]
       },
       "properties": {
         "name": "WA2: 新宿中央公園ちびっ子広場",
         "icon": "green",
-        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/onjuku-park.webp"
+        "image": "https://files.nils.moe/www/nalsai.de/blog/seichi/TODO/wa2/bg-onjuku-park.jpg"
       }
     },
     {
