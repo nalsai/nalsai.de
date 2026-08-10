@@ -45,6 +45,36 @@
         "image": "https://en.nalsai.de/blog/seichi/subahibi/roof.avif",
         "link": "https://en.nalsai.de/blog/seichi/subahibi/#buildings"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.726135,
+          35.699932
+        ]
+      },
+      "properties": {
+        "name": "SubaHibi: Street",
+        "image": "https://en.nalsai.de/blog/seichi/subahibi/street.avif",
+        "link": "https://en.nalsai.de/blog/seichi/subahibi/#street"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.727737,
+          35.696306
+        ]
+      },
+      "properties": {
+        "name": "SubaHibi: Park",
+        "image": "https://en.nalsai.de/blog/seichi/subahibi/park.avif",
+        "link": "https://en.nalsai.de/blog/seichi/subahibi/#park"
+      }
     }
   ]
 }
