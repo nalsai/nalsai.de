@@ -43,7 +43,7 @@
                         {{ if .description }}<p class="card-text text-body">{{ .description }}</p>{{ end }}
                     </div>
                     <div class="card-footer" style="background-color: {{ $category.color | default "#6c757d" }}; color: white;">
-                        <small>{{ strings.TrimSuffix "/" (strings.TrimPrefix "www." (strings.TrimPrefix "http://" (strings.TrimPrefix "https://" .url))) }}</small>
+                        <small>{{ if .footer }}{{ .footer }}{{ else }}{{ strings.TrimSuffix "/" (strings.TrimPrefix "www." (strings.TrimPrefix "http://" (strings.TrimPrefix "https://" .url))) }}{{ end }}</small>
                     </div>
                     </div>
                 </a>
