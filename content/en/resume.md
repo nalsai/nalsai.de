@@ -6,7 +6,7 @@ weight: 9
 name: Nils Fürniß
 email: contact@nalsai.de
 #phone: "(123) 456-7890"
-location: "Heidelberg, Germany"
+location: "Karlsruhe, Germany"
 linkedin: "https://linkedin.com/in/nalsai"
 github: "https://github.com/nalsai"
 website: "https://nalsai.de"
@@ -25,7 +25,7 @@ experience:
 education:
   - degree: Bachelor of Arts in East Asian Studies (focus on Japan)
     school: Heidelberg University
-    date: 2021 – Present
+    date: 2021 – 2026/27
   - degree: Special Auditing Student
     school: Mie University
     date: 2023 - 2024
@@ -58,7 +58,8 @@ skills:
       - "German (native)"
       - "English (fluent)"
       - "Japanese (upper-intermediate, JLPT N2)"
-      - "Latin (Latinum)"
+      - "Chinese (intermediate)"
+      - "Latin (Latinum - German High School Latin Certificate)"
 
 hobbies:
   - "Programming"
