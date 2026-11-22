@@ -18,17 +18,17 @@ date = 2025-10-25
 ### Plönlein
 
 {{< img "bg01.avif" "jpg" >}}
-![alt text](ZIL58273-crop.avif)
+{{< img "ZIL58273-crop.avif" "jpg" >}}
 
 ### Street
 
 {{< img "bg03.avif" "jpg" >}}
-![alt text](ZIL58160-crop.avif)
+{{< img "ZIL58160-crop.avif" "jpg" >}}
 
 ### St. Jakobskirche
 
 {{< img "bg02.avif" "jpg" >}}
-![alt text](ZIL56532-crop.avif)
+{{< img "ZIL56532-crop.avif" "jpg" >}}
 
 ## Munich
 
